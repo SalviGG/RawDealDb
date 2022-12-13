@@ -33,7 +33,11 @@ namespace RawDealDb.Infrastructure.Repositories
         {
             var setList = _setsRepository.GetAllSets<SetWithCardsModel>(contextPath);
             var cardModelList = new List<CardModel>();
-            setList.ToList().ForEach(x => cardModelList.Concat(x.Cards));
+            //setList.ToList().ForEach(x => cardModelList.Concat(x.Cards));
+            foreach (var set in setList)
+            {
+                cardModelList = cardModelList.Concat(set.Cards).ToList();
+            }
             return cardModelList;
         }
     }

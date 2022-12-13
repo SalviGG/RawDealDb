@@ -1,21 +1,50 @@
 ﻿@using RawDealDb.Core.DTO;
+@using RawDealDb.UI.Interfaces;
+@inject ICardService _cardService;
 
 
-<MudDataGrid T="CardDto" Items="@_cards" Filterable="true" >
+<MudDataGrid T="CardDto" Items="@_cards" Filterable="true" QuickFilter="@_quickFilter">
     <ToolBarContent>
-        <MudText Typo="Typo.h6">Cards</MudText>
+        <MudText Typo="Typo.h6">Raw Deal Cards</MudText>
         <MudSpacer/>
-        <MudTextField @bind-Value="_searchString" Placeholder="Search" Adornment="Adornment.Start" Immediate="true"
+        <MudTextField @bind-Value="_searchString" Placeholder="Search by name" Adornment="Adornment.Start" Immediate="true"
                         AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
     </ToolBarContent>
     <Columns>
+        <Column T="CardDto" Sortable="false" Filterable="false">
+            <CellTemplate>
+                @{
+                    var srcPath = "/img/Sets/01a02d3c-ba1c-4b94-9aa8-507f9cfb3b20/" + context.Item.Id + ".jpg";
+                }
+                <MudImage Src="@srcPath" ></MudImage>
+            </CellTemplate>
+        </Column>
         <Column T="CardDto" Field="Name"/>
+        <Column T="CardDto" Field="Format"/>
+        <Column T="CardDto" Field="Traits"/>
+        <Column T="CardDto" Field="CardText" Title="Card text"/>
     </Columns>
+    <PagerContent>
+        <MudDataGridPager T="CardDto"/>
+    </PagerContent>
 </MudDataGrid>
 
 @code {
     private IEnumerable<CardDto> _cards = new List<CardDto>();
     private string _searchString;
-    private List<string> _events = new();
 
+    protected override async Task OnInitializedAsync()
+    {
+        _cards = await _cardService.GetAllCards();
+    }
+
+    private Func<CardDto, bool> _quickFilter => x =>
+    {
+        if (string.IsNullOrWhiteSpace(_searchString))
+            return true;
+        if (x.Name.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+
+        return false;
+    };
 }

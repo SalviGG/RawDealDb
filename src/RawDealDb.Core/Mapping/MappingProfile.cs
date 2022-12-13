@@ -15,7 +15,10 @@ namespace RawDealDb.Core.Mapping
         {
             CreateMap<SetWithCardsModel, SetWithCardsDto>();
             CreateMap<SetWithoutCardsModel, SetWithoutCardsDto>();
-            CreateMap<CardModel,CardDto>();
+            CreateMap<CardModel,CardDto>()
+                .ForMember(dest => dest.Format, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "Format").Value))
+                .ForMember(dest => dest.Traits, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "Traits").Value))
+                .ForMember(dest => dest.CardText, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "Card Text").Value));
             CreateMap<CardPropertyModel, CardPropertyDto>();
         }
     }

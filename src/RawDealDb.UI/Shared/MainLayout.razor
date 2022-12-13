@@ -7,14 +7,15 @@
 <MudSnackbarProvider />
 
 <MudLayout>
-    <MudAppBar Elevation="0">
+    <MudAppBar Elevation="0" Fixed>
         <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+        <MudText Typo="Typo.h5" Class="m-lg-3">Raw Deal DB</MudText>
         <MudSpacer />
         <MudIconButton Icon="@_iconToggle" Color="Color.Inherit" OnClick="@((e) => DarkModeToggle())"/>
     </MudAppBar>
     <MudDrawer @bind-Open="_collapseNavBar" Elevation="1">
         <MudDrawerHeader>
-            <MudText Typo="Typo.h6">MudBlazor.Template</MudText>
+            <MudText Typo="Typo.h6">Options</MudText>
         </MudDrawerHeader>
         <NavMenu />
     </MudDrawer>
@@ -23,6 +24,9 @@
             @Body
         </MudContainer>
     </MudMainContent>
+    <MudScrollToTop>
+        <MudFab Color="Color.Inherit" Icon="@Icons.Filled.ArrowCircleUp" />
+    </MudScrollToTop>
 </MudLayout>
 
 @code {
