@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="16. Summerslam Tin" id="1602d3cc-504f-4fdb-bbd4-9289b1517049" 
+     gameId="dd9d1122-c855-40e6-a67f-21fd5bef2192" gameVersion="1.3" version="1.3">
+ <packaging>
+</packaging>
+<cards>
+<card id="83d8ee61-7aad-70bb-46a7-097b7ac13bfd" name="SummerSlam" size="Wide">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Pay-Per-View Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Permanent, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played when you have a Feud and a Stipulation card in your Ring area. You must immediately play a Stipulation card. Choose 1 Stipulation card in your opponent's Ring area and that card is blank."/>
+	</card>
+<card id="894a0507-09e8-566d-89c0-e02ba2b57dcd" name="The Fabulous Moolah">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="0"/>
+		<property name="SSV" value="0"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="The Fabulous Moolah"/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You cannot pack maneuvers of 3D or greater. Your Arsenal may only contain 45 cards. Once during each of your turns you may search your opponent's Arsenal for 1 card, remove it from the game, and your opponent shuffles his Arsenal."/>
+	</card>
+<card id="8f3e8453-75e1-3225-84b7-2421f50a9d1a" name="The Older the Berry...">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Mae Young, The Fabulous Moolah"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You may put 1 card from your Ringside pile into your hand, 1 Backlash deck card from your Ringside pile into your Backlash deck, and 1 Backlash deck card from your Ring area into your Backlash deck."/>
+	</card>
+<card id="b661ba89-5894-0c79-0334-abaf2de78307" name="That Won't Make the Cut!">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="1"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You must discard 1 card without a printed Survivor Series logo and then put up to 3 non-Superstar-specific cards with a printed Survivor Series logo from your Ringside pile into your hand."/>
+	</card>
+   </cards>
+</set>

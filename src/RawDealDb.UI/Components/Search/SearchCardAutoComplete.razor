@@ -1,0 +1,23 @@
+﻿@using RawDealDb.UI.Interfaces;
+@inject ICardService _cardService;
+
+<MudGrid Justify="Justify.Center">
+    <MudItem xs="12" sm="6" md="4">
+        <MudAutocomplete T="string" Label="Card name" @bind-Value="_cardSearchValue" SearchFunc="@SearchCardByName"
+                            ResetValueOnEmptyText="false"/>
+    </MudItem>
+</MudGrid>
+
+@code {
+    private string _cardSearchValue = "";
+
+    private async Task<IEnumerable<string>> SearchCardByName(string searchNameValue)
+    {
+        if (string.IsNullOrEmpty(searchNameValue))
+        {
+            return new string[0];
+        }
+
+        return await _cardService.SearchCardsByName(searchNameValue);
+    }
+}

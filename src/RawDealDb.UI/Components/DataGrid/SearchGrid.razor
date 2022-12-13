@@ -1,0 +1,21 @@
+﻿@using RawDealDb.Core.DTO;
+
+
+<MudDataGrid T="CardDto" Items="@_cards" Filterable="true" >
+    <ToolBarContent>
+        <MudText Typo="Typo.h6">Cards</MudText>
+        <MudSpacer/>
+        <MudTextField @bind-Value="_searchString" Placeholder="Search" Adornment="Adornment.Start" Immediate="true"
+                        AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+    </ToolBarContent>
+    <Columns>
+        <Column T="CardDto" Field="Name"/>
+    </Columns>
+</MudDataGrid>
+
+@code {
+    private IEnumerable<CardDto> _cards = new List<CardDto>();
+    private string _searchString;
+    private List<string> _events = new();
+
+}

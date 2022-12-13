@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="08. Ruthless Aggression" id="08a02d3c-fa60-4326-b9b7-9b72d591ca81" 
+     gameId="dd9d1122-c855-40e6-a67f-21fd5bef2192" gameVersion="1.3" version="1.3">
+ <packaging>
+</packaging>
+<cards>
+<card id="595abed2-1d77-7f01-30e0-e905bcca7332" name="The Dangerous Alliance">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="6"/>
+		<property name="SSV" value="8"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="The Dangerous Alliance"/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Whenever your opponent draws up to 3 cards for any reason other than his Superstar Ability or his Draw Segment, you may draw up to the same number of cards. You may play the card titled Handicap Match, even if your opponent cannot play any belt except the Tag Team Title Belts. You cannot play Title Belt cards. Your opponent cannot play the card titled Handicap Match."/>
+	</card>
+<card id="43776263-4d76-84ec-0938-01db1dc99387" name="You Can't Stop 'em">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="The Dangerous Alliance"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Shuffle up to 6 cards from your Ringside pile into your Arsenal, and then you may put 1 Action card from your Ringside pile into your hand."/>
+	</card>
+<card id="3a8f7fb4-3d55-15dc-7d0a-4695cf42088e" name="Bad to the Bone">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="The Dangerous Alliance, Undertaker, Deadman Inc, Kurt Angle, Brock Lesnar"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reverse any Maneuver or Action card played by your opponent and end your opponent's turn. You may put 1 non-unique Maneuver card from your Ringside pile into your hand."/>
+	</card>
+<card id="9d61256c-47d2-3cff-1aec-12c05f7d591b" name="Twelve Years of Terror" size="Wide">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action"/>
+		<property name="SS Logos" value="The Dangerous Alliance, Undertaker, Deadman Inc"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Look at your opponent's Backlash deck, choose 1 card, and he discards the chosen card."/>
+	</card>
+<card id="5553d499-7f82-92ae-6149-191390a3661b" name="Brock Lock">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Submission / Reversal: Special"/>
+		<property name="SS Logos" value="The Dangerous Alliance, Brock Lesnar"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a reversal, reverse any Grapple or High Risk maneuver and end your opponent's turn."/>
+	</card>
+<card id="22f83de6-603b-00a1-9640-c9e135c6a26f" name="I'll Make You Tap">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="The Dangerous Alliance, Kurt Angle, Chris Benoit"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal for 1 non-unique Submission maneuver, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. You may put 1 Mid-match card in your opponent's Ring area into his Ringside pile OR if your next card played this turn is a Submission maneuver, it cannot be reversed."/>
+	</card>
+<card id="8e732470-4d57-3a3b-a24d-e54445ef06e3" name="Managed by Paul Heyman" size="Wide">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Manager"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Heel, Universally Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When this card is in your Ring area, during your turn you may discard 1 card and put this card into your Ringside pile, and then put 1 non-Backlash-deck card from your opponent's Ring area into his Ringside pile."/>
+	</card>
+<card id="2faf984d-4d23-1c8f-46f7-ac6db3919924" name="Do You Know Who I Am?">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="9"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Heel, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be played if your opponent has 4 or fewer cards in his Arsenal. Can only be played if you have 3 or greater Stun Value in your Ring area. You must overturn 3 cards from your Arsenal into your Ringside pile. Your opponent must overturn cards from his Arsenal into his Ringside pile until he has either overturned a total of 4 Reversal cards OR until he has 4 cards left in his Arsenal. End your turn."/>
+	</card>
+<card id="a578501b-0d68-a038-27b8-1c6df66444f6" name="Settle Down, Son" size="Wide">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Look at your opponent's hand, choose up to 3 non-hybrid Maneuver cards, and your opponent discards the chosen card(s)."/>
+	</card>
+<card id="1dc842d1-7f8b-8c10-4952-9446f3fb2282" name="The People's Team">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="7"/>
+		<property name="SSV" value="9"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="The People's Team"/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you have 3 different Maneuver card types of 3D or greater in your Ring area, your maneuvers cannot be reversed from your opponent's hand. When you have 4 different Maneuver card types of 3D or greater in your Ring area, your maneuvers also cannot be reversed from your opponent's Backlash deck. You may play the card titled Handicap Match, even if your opponent cannot play any belt except the Tag Team Title Belts. You cannot play Title Belt cards. Your opponent cannot play the card titled Handicap Match."/>
+	</card>
+<card id="bf286c89-8295-6d29-2366-1890cf718c63" name="Mutual Respect">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="The People's Team"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You and your opponent each reveal your hand to each other. Draw up to 2 cards. If your next card played this turn is a maneuver of a type you do not have in your Ring area, it cannot be reversed."/>
+	</card>
+<card id="cab50e94-343f-3c80-1a31-4d7830508c45" name="Your Brush with Greatness is Over">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="The People's Team, The Rock, Hulk Hogan, Edge"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You must put 1 Maneuver card with printed 5D or greater from your Ring area into your Ringside pile, and then shuffle 5 cards from your Ringside pile into your Arsenal. Then look at the top 5 cards of your opponent's Arsenal and put them back in any order."/>
+	</card>
+<card id="ef0284bb-3cf3-371b-1282-449445e4888f" name="Rock's Spit Punch">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike"/>
+		<property name="SS Logos" value="The People's Team, The Rock"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played if you successfully played a maneuver this turn. Cannot be reversed from your opponent's hand or Backlash deck. When successfully played, your opponent overturns 5 cards from his Arsenal into his Ringside pile."/>
+	</card>
+<card id="db3feeec-43cd-8071-0bdc-6b9773c21057" name="Original WWE Icon">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="14"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Action"/>
+		<property name="SS Logos" value="The People's Team, Hulk Hogan"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reverse any Action card and end your opponent's turn. You may put 1 Maneuver card from your Ringside pile into your hand OR search your Arsenal for 1 non-unique Strike maneuver, reveal it to your opponent, put it into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="fb2024e3-99dc-95fd-7d4b-68f2bcda8189" name="Edge's Spear">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike + High Risk / Reversal: Special"/>
+		<property name="SS Logos" value="The People's Team, Edge"/>
+		<property name="Traits" value="Multi, Unique"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be reversed if played after the card titled From the Top Rope. As a maneuver, can only be played after a successfully played maneuver. As a reversal, reverse any card played after the card titled Irish Whip and end your opponent's turn."/>
+	</card>
+<card id="c52697cd-3295-0c57-9d0b-6d9be586a319" name="Managed by Vince McMahon" size="Wide">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Manager"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Universally Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="The maximum number of Pre-match cards you may have in your Ring area is reduced by 1. At the end of the Pre-match phase, your opponent must choose to do two of the following: blank the text on a Stipulation card in his Ring area, put a Title Belt card in his Ring area into his Ringside pile, allow you to put up to 1 card from your Ringside pile into your hand, increase the maximum number of Mid-match cards you may have in your Ring area by 1, or concede and lose the match."/>
+	</card>
+<card id="163d96e3-6674-5536-728a-96bf2403926e" name="Look Into My Eyes ... Do You Trust Me?">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Face, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When this card is in your Ring area, once per turn you may reveal your hand to your opponent, and then you must discard 3 cards, search your Arsenal for 1 card, put it into your hand, and shuffle your Arsenal. If this card is removed from your Ring area by an effect your opponent controls, you may search your Arsenal for 1 card, put it into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="0963361f-1018-105a-188a-d62aa5d85dbf" name="So Long ... Goodbye!">
+		<property name="Format" value="Classic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Action"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Face, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reverse any non-Superstar-specific Action card and end your opponent's turn. Overturn 3 cards from your Arsenal into your Ringside pile. If the reversed Action card was played from your opponent's hand, it is removed from the game."/>
+	</card>
+   </cards>
+</set>

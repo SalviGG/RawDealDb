@@ -1,0 +1,1568 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="33. V6: The Invasion Continues" id="3302d3cc-ecd8-4f07-b0cf-8a365586d1be" 
+     gameId="dd9d1122-c855-40e6-a67f-21fd5bef2192" gameVersion="1.3" version="1.3">
+ <packaging>
+</packaging>
+<cards>
+<card id="a7ddc0d8-3885-2c2e-1caa-b1d5a8b16e86" name="Chair Shot Block">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike: Foreign Object / Reversal: Special"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique, Permanent, Foreign Object"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may remove 1 Foreign Object in your hand or Backlash from the game; if you do, this card is -5F. As a maneuver, this card is +10D. As a reversal, reverse any Foreign Object and discard 1 card, when the reversed card has 'sink' in the title, any other Foreign Objects played this turn are considered not to be played. When you have Allegiance: ECW, draw 1 card. When this card is in your Ring, it is considered to be an ECW card, and when any player's Everything and the Kitchen Sink is reversed, that card is removed from the game."/>
+	</card>
+<card id="3516c8d7-1cd3-39c1-a2bb-2b3afeb062f4" name="Chaos and Pandemonium at Ringside!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="13"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Maneuver: Special"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you are a WCW Superstar, this card is Multi. When played, choose up to 5 cards in your hand, shuffle them into your Arsenal and draw the same number of cards +1. Your opponent shuffles # random cards from his hand into his Arsenal and draws up to # cards, where # is the number you chose; for each card he draws, this card is +1D and when successfully played, he removes 1 random card in his Ringside from the game."/>
+	</card>
+<card id="e0d5b54c-4579-85ee-79e8-cf3a145d3d41" name="Banned from Ringside" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique, Permanent, RMS, Throwback"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your Mid-match Capacity is +1. ACE: When your maneuver is unsuccessfully played, you may discard 1 card and then put it on the bottom of your Arsenal regardless of other effects; this effect cannot be reversed. ACE: During your turn you may put this card into your Ringside, and then put 1 non-Superstar-specific Corner, Manager, or Guest Ringside Announcer from your opponent's Ring into his Ringside. When that card is a Corner, he may search his hand and Arsenal for up to 4 Superstar-specific cards, remove them from the game, and draw half that many cards (rounded down)."/>
+	</card>
+<card id="8ce56b20-18b3-38b7-918b-f15923807e94" name="One of the Big Boys" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="This card cannot be blanked; cannot be packed when packing Pre-match cards with 'McMahon' in the title. Overturn 6 cards. At the end of the Pre-match phase, put up to 1 non-Unique card in your Ringside into your hand. When this card is in your Ring, your opponent's non-Unique non-Superstar-specific reversals deal no more than 1D, and when you are a WCW Superstar and you have greater Fortitude, once during each of your turns you may put 1 card from under a WCW card on the bottom of your Arsenal."/>
+	</card>
+<card id="1340e29b-31fe-8d4d-8012-4091910b7cde" name="Wrestling in the ECW Arena" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique, Permanent, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Allegiance: ECW. Cannot be blanked. Cannot be packed when packing Yo! Kill Da Beat!. When Philadelphia, Pennsylvania is in your Ring, ignore the 'skip your first turn of the game' text; your ECW Pre-match cards, or Pre-match cards with 'extreme' or 'hardcore' in the title, are considered to have 'taunt' in the title. When your opponent does not have an ECW card in his Ring, his Trademark Finishers are +5F."/>
+	</card>
+<card id="9a63333c-9888-0e5f-a105-58452deca444" name="Crucifix Roll-Up" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="40"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Trademark Finisher"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique, RMS, Throwback"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played as a Counter or after a successfully played 8D+ maneuver. Your opponent must overturn cards until he has overturned 3 reversals. When this card is in your Backlash and your non-Legend opponent uses a printed non-Superstar-specific card effect to prevent a Pinfall or shuffle cards into their Arsenal after a Pinfall, you may put this card into your Ring and then reverse that effect (even during your own turn). During your turn when this card is in your Backlash and his Fortitude Rating is 10+, you may discard it and draw 1 card."/>
+	</card>
+<card id="f81f9441-5312-91b4-7638-7c8a27f571df" name="nWo Hollywood">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="5"/>
+		<property name="SSV" value="6"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="nWo Hollywood"/>
+		<property name="Traits" value="nWo, Stable"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="During any player's turn when you successfully play an nWo card, draw up to 1 card. When packing All Together Now, you can also pack nWo cards and Managed by Eric Bischoff. You can pack 4 Life, nWo Black and White, nWo World Title Belt, Showstopper Chokeslam, Uncle Eric's Karate Kick, No Sell Maneuver, and Hollywood Hulk Hogan maneuvers. You cannot pack Corners. You are a Tag Team."/>
+	</card>
+<card id="2fbf81b8-88fc-77eb-597b-01fdde1e5c5c" name="Strength in Numbers">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="nWo Hollywood"/>
+		<property name="Traits" value="Unique, nWo, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When All Together Now is in your Ring, your Heat cards are not removed from the game when you move a card from your Ringside. Your Multi nWo Run-in cards are Chain and Volley: 4, and your Superstar-specific maneuvers are nWo cards. Your opponent's The Numbers Game is blank."/>
+	</card>
+<card id="71300400-9463-87a1-77a1-c313a53160b0" name="We Are In Control!" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action + Action"/>
+		<property name="SS Logos" value="nWo Hollywood"/>
+		<property name="Traits" value="Unique, nWo, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Choose 1: draw # cards, put up to # cards from your Ringside on the bottom of your Arsenal, or your opponent overturns # cards (where # is the number of nWo cards in your Ring)."/>
+	</card>
+<card id="6daf6f21-a33c-125e-93c3-98d949b403b1" name="Steiner Recliner">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="35"/>
+		<property name="Damage" value="20"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher"/>
+		<property name="SS Logos" value="nWo Hollywood, Big Poppa Pump"/>
+		<property name="Traits" value="Unique, nWo, Throwback"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played when you have an nWo card in your Ring. Shuffle up to 3 cards from your Ringside into your Arsenal, and when your next card played this turn is Maintain Hold, ignore the 'Can only be played...' text. During your turn when this card is in your Ringside, you may put it on the bottom of your Arsenal, and draw 1 card."/>
+	</card>
+<card id="8a70c9cf-314c-1dca-52e5-e7979b5b1c7c" name="Help From The Disciple">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="13"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="nWo Hollywood"/>
+		<property name="Traits" value="Unique, nWo, Run-in"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reverse any non-maneuver card; when that card is Superstar-specific, your opponent overturns 2 cards, and when it was Unique, he discards 2 cards."/>
+	</card>
+<card id="3d58170a-687f-7530-4087-b1429d896c0d" name="Buff Bagwell Interferes">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action: Heat / Reversal: Special: Heat"/>
+		<property name="SS Logos" value="nWo Hollywood"/>
+		<property name="Traits" value="Unique, nWo, Heat"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As an action, this card is -8F. Draw 1 card. As a reversal, ignore any reversal restrictions from a card, reverse any Activated Card Effect or any non-Superstar-specific card with Momentum or a reversal restriction. ACE: During your turn, you may discard 2 cards and then shuffle this card into your Arsenal."/>
+	</card>
+<card id="f2e155f4-053a-890a-2bf6-5fdc496c83f1" name="Kevin Nash">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="7"/>
+		<property name="SSV" value="5"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Kevin Nash"/>
+		<property name="Traits" value="nWo"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you successfully play a maneuver that is 10+D or Superstar-specific, after damage is applied, search your Arsenal and Ringside for Egomaniacal, reveal it, put it in your Ring, and shuffle. During your opponent's turn, he can either discard 3 cards or put 1 D:2+ card from his Ring into his Ringside, and then you put Egomaniacal from your Ring into your Ringside. You can pack Hall and Nash Arsenal cards (except Hall's Fall-Away Slam and Super Belly-to-Back Suplex), Too Sweet, and No Sell Maneuver; your Superstar-specific cards are nWo instead. You cannot pack High Risks or Revolution cards."/>
+	</card>
+<card id="f7b6ae61-0b6a-222f-5d9c-679b72079ac5" name="Nash's Backstage Power">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Kevin Nash"/>
+		<property name="Traits" value="Unique, nWo, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your Backstage Politics is now an Event; when that card is in your Ring, your Superstar-specific maneuvers are -5F and cannot be reversed from Backlash, and your Jack-knife cannot be reversed from hand. When your opponent moves Backstage Politics from your Ring, you may put Lethal nWo Poison from your Ringside into your Ring."/>
+	</card>
+<card id="26a90f0a-2341-7f81-0898-e08068bb41ca" name="Big Sexy" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Kevin Nash"/>
+		<property name="Traits" value="Unique, nWo, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. Your maneuvers are +2D. Ignore the 'Can only be played...' text on your cards with 'nWo' in the title. ACE: Once during each of your turns, you may reveal your hand and remove 2 cards in your hand from the game, and then search your Ringside or Arsenal for 1 non-Unique maneuver, reveal it, put it in your hand, and shuffle; when this effect is reversed, your turn does not end."/>
+	</card>
+<card id="a14e7cf0-9864-6ec9-6041-949d0dc62431" name="Big Elbow Smash">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike + Strike"/>
+		<property name="SS Logos" value="Kevin Nash, Diesel"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You may search for this card as if it was non-Unique. When played after a successfully played maneuver, cannot be reversed from hand by non-Unique reversals. When you are Kevin Nash and you have at least 10 lower Fortitude, can only be reversed from Arsenal."/>
+	</card>
+<card id="4e32de3f-7d6a-8b81-82d7-1c74cb453f3d" name="Big Snake Eyes">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Grapple + Grapple"/>
+		<property name="SS Logos" value="Kevin Nash, Diesel"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver or as a Counter. Cannot be reversed from Backlash or Ring. Draw 2 cards."/>
+	</card>
+<card id="a5e11496-8904-8bb2-931e-50940fa61068" name="Big Boot Choke">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike + Submission"/>
+		<property name="SS Logos" value="Kevin Nash, Diesel"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played after a successfully played maneuver or as a Counter, your opponent must remove 1 card in his hand from the game to reverse to this card from hand or Backlash. Shuffle cards from your Ringside into your Arsenal up to the total number of cards removed from the game (up to 10 maximum)."/>
+	</card>
+<card id="de65105b-9824-a40b-2a92-4b93ed9b3756" name="The Stinger">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="7"/>
+		<property name="SSV" value="5"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="The Stinger"/>
+		<property name="Traits" value="WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When your 3D- card reverses from Arsenal, you may put that card into your Ring. Once during each of your turns, you may remove 3 reversal cards in your Ring from the game and then shuffle up to 6 cards from your Ringside into your Arsenal. You can pack Classic Competitor, Once A Horseman, Always A Horseman, No Sell Maneuver, and Sting cards (except Scorpion Death Drop and Sting's Black Baseball Bat); you cannot pack Managers or Corners."/>
+	</card>
+<card id="4bb2a6b7-2190-65d5-4aa0-6c274b20696e" name="The Man Called Sting!" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Sting"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="This card and your It's Showtime! cannot be blanked. Your Superstar-specific Pre-match cards do not take up Pre-match slots in your Ring. When you are The Stinger, when you Activate Sting-specific cards, they cannot be reversed; your Superstar-specific maneuvers are Trademark Finishers instead, and when they would be removed from the game, put them on the bottom of your Arsenal instead. ACE: When your ability is not blank, once during each of your turns you may remove 1 card in your Ringside from the game and then draw 1 card."/>
+	</card>
+<card id="146bc17e-3afa-78a9-a364-0f4e77d98139" name="Sting's Press Slam">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Grapple + Grapple"/>
+		<property name="SS Logos" value="Sting"/>
+		<property name="Traits" value="Unique, WCW, Multi"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put up to 2 of your cards removed from the game that are not non-hybrid reversals on the bottom of your Arsenal, and your opponent discards 2 cards."/>
+	</card>
+<card id="93017c14-1b95-1c40-1964-70811d436b9a" name="Sting's Muscle Pose-Down">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="9"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Sting"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver; blank that maneuver's text and damage and end your opponent's turn. Shuffle up to 5 cards removed from the game into your Arsenal. When this card is in your Ring, do not discard for No Sell Maneuver."/>
+	</card>
+<card id="d948199c-3163-6273-5e75-e1d21dea3cd8" name="The Only Thing That's For Sure About Sting...">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Sting"/>
+		<property name="Traits" value="Unique, WCW, Multi, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal and Ringside for ...Is That Nothing's For Sure, reveal it, put it in your hand, and shuffle. ACE: Once during each of your turns, you may discard 1 card, and then look at the top 3 cards of your Arsenal; put up to 1 of those cards under a WCW card i your Ring with cards under it, up to 1 card into your hand, and remove the remaining cards from the game."/>
+	</card>
+<card id="40cfb6e3-a546-1394-23f7-a5412ba65b88" name="...Is That Nothing's For Sure">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action / Reversal: Special"/>
+		<property name="SS Logos" value="Sting"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As an action, reveal any number of cards in your hand, then shuffle the same number of cards from your hand into your Arsenal and draw the same number of cards. As a reversal, reverse any non-maneuver card. When this card is in your Ring, you may play cards from under WCW cards as if from hand."/>
+	</card>
+<card id="63c4ada6-6e7f-a755-8491-af5c3bf61778" name="The Lone Warrior">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="12"/>
+		<property name="SSV" value="5"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="The Lone Warrior"/>
+		<property name="Traits" value="WCW, Throwback"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="During your Draw Segment, draw 1 additional card. At the end of the Pre-match phase, put 1 card in your hand on the bottom of your Arsenal for each card in your Backlash. You can pack No Sell Maneuver and Goldberg cards, but you cannot pack Backlash cards (including Factions) unless they are Goldberg-specific, reversals, or Flanked by Arena Security; you cannot pack cards with 'interfere' in the title or Run-ins."/>
+	</card>
+<card id="28abe3a9-34b1-2efc-030a-6f55aeed2100" name="Trademark Steamrolling Offense">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="The Lone Warrior"/>
+		<property name="Traits" value="Unique, WCW, RMS, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="*After all Pre-match phases, put this card from your Backstage Area into your Ring. When this card is in your Ring, your Fortitude Rating is considered -5 for comparing Fortitude Ratings. ACE: Once during each of your turns, you may reveal 1 Superstar-specific card in hand and put it on the bottom of your Arsenal; when you do, either discard 1 card and put 1 non-hybrid non-Unique maneuver from your Ringside into your hand, or draw 1 card. This effect cannot be reversed."/>
+	</card>
+<card id="988db39b-1cec-6565-2a01-1bfb238d1835" name="He Can't Be Slowed Down!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="The Lone Warrior"/>
+		<property name="Traits" value="Unique, WCW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your maneuvers with 'spear' and 'jackhammer' in the title are Multi, ignore the 'Can only be played...' text, and ignore 'completely' on your opponent's reversals and effects to them. He cannot play reversals to your Goldberg-specific actions, and ignore his effects that would cause you to move cards from your Backlash."/>
+	</card>
+<card id="c6ffc248-6edd-813a-5216-4f041c9f5104" name="Goldberg's Awesome Pyro" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Goldberg"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When packing this card and you are Goldberg, you are a WCW superstar. Cannot be blanked and does not take up a Pre-match slot in your Ring. At the end of the Pre-match phase, put up to 5 cards from your hand on the bottom of your Arsenal and draw the same number of cards. ACE: When your opponent reverses your maneuver with a non-Unique card, you may overturn 3 cards and then put the maneuver in your hand instead of any other location."/>
+	</card>
+<card id="a793d2b8-624d-6099-3209-7645225d1a20" name="Overhead-Press Spinebuster">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Grapple + Grapple"/>
+		<property name="SS Logos" value="Goldberg"/>
+		<property name="Traits" value="Unique, WCW, Multi"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Overturn 1 card. Your opponent discards 2 cards."/>
+	</card>
+<card id="e9822314-2720-1304-82fd-05a847347f08" name="Fear the Spear!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Goldberg, Leader of the Edge Army"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you are Goldberg, cannot be reversed when played as a Counter or after a card with 'spear' in the title. When you are The Lone Warrior, your Spear cards now read as 'Reverse any non-Superstar-specific maneuver.' Your cards with 'spear' in the title gain the text 'As a maneuver, your opponent discards 1 random card; when this card is Unique, he discards 2 random cards instead.'"/>
+	</card>
+<card id="e04f0311-2011-5f30-66d7-4ab94bc7640a" name="Vader">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="9"/>
+		<property name="SSV" value="4"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When your maneuver is reversed from hand, or it is reversed after applying full damage, you may draw cards up to the reversed maneuver's Stun Value. You can pack As Big and Tough as Any Two Men, Legendary Defense, and No Sell Maneuver. You cannot pack Stun the Crowd, There Is No Escape, or Revolution cards (except non-hybrid reversals)."/>
+	</card>
+<card id="cc50cfd7-04fb-126c-49df-494c8fa97950" name="Vader's Smoking Helmet">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal for Great Power Brawl, put it into your Ring, and shuffle; you may put Sustained Damage from your Backlash into your Ring; those cards are Permanent and cannot be blanked. When your opponent successfully plays a 15D+ maneuver, you may hide this card and then put another card in his Ring with lower printed Damage than the maneuver played into his Ringside."/>
+	</card>
+<card id="9000d19f-2de8-99dc-6e0f-a745384957f9" name="Vader's Trademark Mask">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="At the end of the Pre-match phase or during your turn, you may put this card into your Ringside and put up to 1 non-unique non-reversal maneuver from your Ringside into your hand. When this card is in your Ringside, your maneuvers with 'power' in the title are -3F. When your opponent would move this card from your Ringside, he overturns 3 cards."/>
+	</card>
+<card id="61b43f88-6f1d-0c91-7156-bc5ca07b0c00" name="Managed by Harley Race" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Manager"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked and does not take up a Pre-match slot in your Ring. ACE: When your non-Multi card with 'power' in the title is reversed from Backlash, you may discard 1 card and then the reversed maneuver goes to your hand instead, regardless of other effects. ACE: When your reversal completely reverses a card, you may put this card into your Ringside and then shuffle up to 3 cards from your Ringside into your Arsenal and draw up to 1 card; when your reversal had 'interfere' in the title, double those numbers."/>
+	</card>
+<card id="affd8aa9-5e74-70e4-585d-f552a26b6cc9" name="It's Time! It's Time! It's Vader Time!" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. Can be played during any Pre-match Phase. Your Vader-specific maneuvers and your non-Multi maneuvers with 'clothesline', 'lariat', 'punch', or 'slam' in the title are also considered to have 'power' in the title, and your maneuvers with 'power' in the title are -2F for each maneuver with 'power' in the title in your Ringside. Once during each of your opponent's turns, when you discard 1 card with 'power' in the title for the effect of a reversal, it is considered to be 2 cards."/>
+	</card>
+<card id="43eb89ab-349f-2630-8420-0c60d35b9b68" name="Vader's Powerful Punch">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike + Strike / Reversal: Special"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW, Multi"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, when this card is reversed by any card or card effect with 'completely' in its text, put this card into your hand instead of your Ringside. As a reversal, reverse any Strike."/>
+	</card>
+<card id="10606173-792c-4076-1e08-b367d2085468" name="Big Vader Splash">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk: Chain / Action"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, this card is Multi until the end of the turn. As a maneuver, can only be played after a successfully played printed 4D+ maneuver. As an action, shuffle this card and any number of cards with 'power' in the title in your Ringside into your Arsenal; your opponent may shuffle 1 card from their Ringside into their Arsenal for every 4 cards you shuffled into your Arsenal."/>
+	</card>
+<card id="4eed3c7a-2481-480b-8c41-1e9c365131fd" name="Vader's Powerful Clothesline">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When your opponent is a Tag Team or Stable, this card is Multi and +1 Stun Value. Look at your opponent's hand and choose 1 card, he puts the chosen card on the bottom of his Arsenal; look at his Backlash and choose 1 card, and he removes it from the game."/>
+	</card>
+<card id="25124c93-4cc1-97b9-3115-4f6198a14a19" name="Vader's Avalanche Bomb">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike + Strike / Reversal: Special"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW, Multi"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, this card is -5F; when played after Irish Whip or Throw Into the Corner Turnbuckle, this card is a High Risk instead of a Strike. As a reversal, reverse any card played after a Set-Up, after Irish Whip, or after Throw Into The Corner Turnbuckle."/>
+	</card>
+<card id="a3012a54-9b9e-9266-30ee-1e18ff5a35f4" name="Vader Bomb">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="35"/>
+		<property name="Damage" value="25"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher + High Risk"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW, Multi"/>
+		<property name="Stun" value="3"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver or as a Counter. When the last card you played was 4D+, cannot be reversed from Backlash. During your turn when this card is in your Ringside, you may put 2 cards from your hand on the bottom of your Arsenal, put this card into your hand and end your turn."/>
+	</card>
+<card id="d3021846-1940-22e1-27b8-2dd28b0a1075" name="WHO'S THE MAN?!?">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reverse any non-Trademark-Finisher maneuver or card with Momentum, and shuffle up to 3 cards from your Ringside into your Arsenal. When your opponent is a Male Superstar, he discards 1 random card and overturns 2 cards."/>
+	</card>
+<card id="c1ad543e-32a0-a0ef-9aca-d0b76c792a11" name="Fear No Man, Feel No Pain!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action / Reversal: Special"/>
+		<property name="SS Logos" value="Vader"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As an action, put up to 1 card from your Ringside into your hand, then shuffle up to 3 cards from your Ringside into your Arsenal. As a reversal, reverse any non-maneuver card. When this card is in your Ring, your opponent's non-Superstar-specific reversals deal no damage."/>
+	</card>
+<card id="0d549097-9b5d-982f-0124-29ab5c8390fb" name="Scott Hall">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="5"/>
+		<property name="SSV" value="3"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Scott Hall"/>
+		<property name="Traits" value="nWo"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your Heel and Superstar-specific cards are -1F for each Heel or Superstar-Specific card in your Ring. Before each of your Draw Segments, overturn 1 card. You can pack non-Backstage Razor Ramon cards, 4 Life!, nWo Black and White, and Hall's Fall Away Slam; your Razor Ramon cards are now nWo cards. You cannot pack Corners, Factions, or Newcastle, England."/>
+	</card>
+<card id="7ca61b28-8c1a-236b-0e2f-4f4c15d48ab7" name="Pointing Out Other nWo Members">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Scott Hall, nWo Hollywood, Hall and Nash"/>
+		<property name="Traits" value="Unique, nWo, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your opponent's I'm Gonna Break You is blank. Before playing a printed nWo Run-in card, you may overturn 2 cards and discard 2 cards; the played card is now a Heel card until the end of the turn, can be played as if it is not a Run-in for his effects, and ignore the 'Can only be played...' text."/>
+	</card>
+<card id="db823b8f-9540-1abe-6d19-f2e6cdc391fe" name="Hey Yo!" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Scott Hall"/>
+		<property name="Traits" value="Unique, nWo, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. Your opponent cannot move cards from under your A No Show. ACE: Once during each of your turns, you may either: discard 2 cards and then look at his hand, choose 1 card, and he shuffles the chosen card into his Arsenal and draws 1 card at the end of your turn; or discard 1 Mid-match maneuver or reversal and then look at his Backlash, choose 1 non-unique reversal or non-unique maneuver, and he discards the chosen card."/>
+	</card>
+<card id="122a061a-076a-a4a5-0c64-96a219a74d36" name="Bad Guy's Running Bulldog">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Grapple + Grapple"/>
+		<property name="SS Logos" value="Razor Ramon"/>
+		<property name="Traits" value="Unique, WWF Classic, Multi"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played by Razor Ramon, this card is -4F. When played as a Counter or after a successfully played maneuver, cannot be reversed from hand or Backlash by non-Superstar-specific reversals. Your opponent discards 2 cards."/>
+	</card>
+<card id="525557d5-02fa-6dfc-4257-2a59bf876264" name="Outsider Edge">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="40"/>
+		<property name="Damage" value="20"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher + Trademark Finisher"/>
+		<property name="SS Logos" value="Scott Hall, nWo Hollywood, Hall and Nash"/>
+		<property name="Traits" value="Unique, nWo, Multi"/>
+		<property name="Stun" value="3"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be packed by Kevin Nash or nWo Wolfpack, or when packing Razor's Edge. The Fortitude of this card cannot be lowered. When you have 8 or more nWo non-Pre-match cards in your Ring, you win the game via Pinfall Victory."/>
+	</card>
+<card id="6789cee5-8b4c-a56c-3b84-79131e925e10" name="Feign Fear">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action / Reversal: Special"/>
+		<property name="SS Logos" value="Scott Hall, Razor Ramon"/>
+		<property name="Traits" value="Unique, nWo, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you are Razor Ramon, this card is WWF instead. As an action, draw 1 card, your next card played this turn is -4F and your opponent's reversals to it are +10F. As a reversal, reverse any Strike, non-Unique non-maneuver card, or any card with 'fear' in the title; overturn 1 card, and put up to 1 card from your Ringside in your hand."/>
+	</card>
+<card id="59cfb1f8-1758-4aa1-6815-8c053dd14520" name="Jeff Jarrett">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="5"/>
+		<property name="SSV" value="3"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="WCW. WWF"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Once during each of your turns, when you would draw a card (including your Draw Segment), you may instead cause your opponent to discard 1 card and overturn 1 card. You can pack 3rd Generation Superstar and Once a Horseman, Always a Horseman."/>
+	</card>
+<card id="b7441684-50ff-407e-372b-75f00e669174" name="The Chosen One">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You may play Where the Big Boys Play during any Pre-match phase, but you do not search when you play that card. You may discard 1 card to play 1 card under one of your WCW cards as if from hand. Your Jeff Jarrett-specific WCW cards are also WWF cards."/>
+	</card>
+<card id="8023395b-a4e4-815c-044a-6ed6f8b85552" name="Managed by Debra" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Manager"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, you may put up to 4 cards from hand under this card. Your Puppies! Puppies! cards are now Multi, -4F, and cannot be reversed by cards with 'completely' in the text; when you successfully play a card with that title, you may shuffle up to 8 cards into your Arsenal instead."/>
+	</card>
+<card id="4da8b242-4770-043a-9713-e9d51ba40408" name="That's J-E-Double-F J-A-Double-R-E-Double-T!" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. Your opponent's Starting Hand Size is -1. Once during each of your turns, when you successfully play a card that would move cards from your Ringside to your Arsenal, you may instead cause your opponent to overturn half that number of cards (rounded down)."/>
+	</card>
+<card id="2038d3c0-56a9-98f0-3a3f-17aa6039737a" name="Double J's Patented Guitar Shot" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="40"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Strike + Strike: Foreign Object / Reversal: Special"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW, Multi, Foreign Object"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, this card is -20F and can only be played after a successfully played Heel card or Puppies! Puppies!, or as a Counter. Cannot be reversed from Backlash. Search your Arsenal and Ringside for 1 Trademark Finisher, reveal it, put it in your hand, and shuffle. As a reversal, reverse any non-Superstar-specific card that would allow your opponent to draw cards. When successfully played, he discards 2 random cards."/>
+	</card>
+<card id="7f3635a6-3a2f-3bcd-68f5-cb3e8c254756" name="Jarrett's Classic Drop Kick">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played card, or as a Counter (non-Arsenal). You may draw up to 1 card, then search for 1 Jeff Jarrett-specific action card, reveal it, put it in your hand, and shuffle."/>
+	</card>
+<card id="bfec346f-7bd6-1460-3f37-e34e31a5779f" name="Jarrett's Figure Four Leglock">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="25"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher + Submission"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW, Multi"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="This card is considered to have 'classic' in the title. Draw up to 1 card, and when your next card played this turn is Maintain Hold, your opponent's reversals to it are +10F."/>
+	</card>
+<card id="6a9b2f4e-302b-1946-6e18-e62f3d7c74b5" name="The Stroke">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="30"/>
+		<property name="Damage" value="20"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, draw up to 2 cards and your opponent discards 1 card. As a reversal, reverse any non-Superstar-specific non-maneuver card."/>
+	</card>
+<card id="f99267ca-04e9-7e58-00d2-ba572fe86a4b" name="Don't Piss Me Off!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reverse any non-Trademark Finisher card and draw up to 2 cards."/>
+	</card>
+<card id="bd96c1c7-058c-67aa-a65d-6204cda32136" name="Ain't I Great?">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you have fewer cards in hand than your opponent, this card cannot be reversed by hybrid cards or non-reversal cards. Put up to 5 cards from your Ringside and 1 card removed from the game on the bottom of your Arsenal, draw up to 1 card and your opponent discards 1 random Backlash card."/>
+	</card>
+<card id="435d8fb8-8d49-2511-40d6-5a9647e0a690" name="Listen Up, Slapnutz!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Shuffle up to 7 cards from your Ringside into your Arsenal and draw 1 card. Look at your opponent's hand, choose 1 card, and he shuffles the chosen card into his Arsenal."/>
+	</card>
+<card id="76c2b02b-2594-8875-8a18-26fdcc9969f8" name="The Jarrett Strut">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Jeff Jarrett"/>
+		<property name="Traits" value="Unique, WCW, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played after a successfully played Superstar-specific maneuver, your opponent cannot play reversals to this card. He may discard 3 reversals; if he does, end your turn. If he does not, search your Arsenal for 1 card, put it under a WCW card in your Ring, and shuffle."/>
+	</card>
+<card id="6e4d9ad9-9262-9fbc-56e2-0b08d9463452" name="Sabu">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="10"/>
+		<property name="SSV" value="2"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="ECW, Extremist"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When your opponent successfully plays a maneuver, you may discard up to 3 reversal cards and his card is -3D for each card discarded. You can pack ECW One Night Stand in your Backstage Area (it is considered revealed), and you can pack High-Flying Style. Your Foreign Objects are not Heel. You cannot pack Everything and the Kitchen Sink."/>
+	</card>
+<card id="8eafebaf-44f5-71e8-8eac-16d28dbc6b50" name="Backed by Rob Van Dam">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="During your turn when you have at least 5 lower Fortitude and you play a maneuver, you may discard 1 Foreign Object and your played card is -#F, where # is the discarded card's Fortitude. During your turn, you may hide this card and then search your Arsenal for 1 non-hybrid maneuver, reveal it, put it in your hand, and shuffle."/>
+	</card>
+<card id="8f646f26-6d82-1190-535f-48340f134159" name="Sabu's Trademark Keffiyeh">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your High-Flying Style and ECW cards are considered Superstar-specific. When you are Sabu, your High Risks and Sabu-specific Trademark Finishers are considered Foreign Objects for your non-Venue non-Stipulation card effects. Your Extreme Rules Match can be played during any phase, and your opponent's effects cannot prevent you from playing it."/>
+	</card>
+<card id="51215ae7-2f5a-4786-506b-5f57adcb5707" name="Suicidal, Homicidal, Genocidal, Death-Defying" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. Can be played during any Pre-match Phase. You are considered to have Allegiance: ECW. Ignore 'completely' on your opponent's reversals and effects to your Sabu-specific Multi maneuvers. ACE: Once during each of your turns, you may discard 3 cards and then search your Arsenal for 1 card with 'chair' or 'table' in the title, reveal it, put it in your hand, and shuffle; do not discard to reversals to this effect."/>
+	</card>
+<card id="4a595b62-40ab-4ac3-9be4-93a83c5d6cae" name="Air Sabu">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="12"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver or Throw into the Corner Turnbuckle. Cannot be played after a card with 'From' in the title. When played, you may discard Chair Shot; if you do, or when this card is played after Throw Into the Corner Turnbuckle, this card is now Multi and +1 Stun Value."/>
+	</card>
+<card id="9115d084-4b8c-2219-7689-eb95d9af3258" name="Sabu's Guillotine Leg Drop">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="9"/>
+		<property name="Damage" value="11"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver. Cannot be reversed from Backlash. When played, you may discard Table! Table! Table!; if you do, this card is now Multi and when unsuccessfully played, put this card in your hand instead. Reversals to this card deal no damage. When reversed from hand, overturn 3 cards."/>
+	</card>
+<card id="09d439a6-4fc8-6586-2c56-526fad888f5d" name="Triple Jump Moonsault">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="3"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may discard up to 2 Foreign Objects; when you discard only 1 card, this card is Multi, and requires 3 reversals to be reversed instead of 2; when you discard 2 cards, this card is now a Trademark Finisher instead. Put up to 1 card from your Ringside into your hand, and when damage is applied, end your turn."/>
+	</card>
+<card id="55f86429-677d-8235-3ffa-e69d42fb4450" name="Sabu's Tornado DDT">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="17"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk / Reversal: Special"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, this card is -10F; when played, you may discard Table! Table! Table!; if you do, or when this card is played after Throw Into the Corner Turnbuckle, this card is now Multi and +1 Stun Value. As a reversal, reverse any action played from hand, any antic, or any card with Momentum or that 'cannot be reversed'."/>
+	</card>
+<card id="c8b9eefd-80ac-9e5b-6789-5259a3168585" name="Arabian Clutch">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, this card is -5F, and when your next card played this turn is Maintain Hold, ignore the 'Can only be played...' text. As a reversal, this card is -10D, reverse any non-Superstar-specific non-maneuver card. When successfully played, look at your opponent's Backlash, choose 1 card, and he discards the chosen card."/>
+	</card>
+<card id="955d714f-48cc-2fd3-a42d-e9b9d9bf3786" name="Arabian Facebuster">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="30"/>
+		<property name="Damage" value="30"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="3"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver. When played, you may discard 1 card with 'chair' in the title; if you do, or when played after Chair Shot, this card is now Multi."/>
+	</card>
+<card id="e02de80e-7f2d-11a4-97cc-1be0c56ea4d7" name="Chair Throw">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Before playing this card, you must either discard Chair Shot, put that card from your Ring into your Ringside, or remove that card in your Ringside from the game. When played from hand, reverse any maneuver, when that maneuver was a Strike or High Risk, he overturns 2 cards and discards 1 card."/>
+	</card>
+<card id="bce362b2-1510-2b96-1e9d-c3013516373a" name="Paying Tribute to The Sheik">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When this card is reversed, put it into your hand instead and your turn does not end; you cannot play this card for the rest of this turn. When played after a Sabu-specific maneuver, your opponent cannot respond to this card. Discard up to 2 cards, put the same number of cards from your Ringside into your hand, and put this card on the bottom of your Arsenal."/>
+	</card>
+<card id="5f14617f-15e7-5fe8-6c65-995a58843d42" name="Lance Storm">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="8"/>
+		<property name="SSV" value="2"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="ECW, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you have lower Fortitude, your non-Unique cards are -# Fortitude, where # is equal to half your opponent's Fortitude (rounded down). Your Lance Storm-specific cards are also ECW and WCW cards, your The Darkness Before The Dawn is Unique, and your cards with 'Dawn' in the title are not Smackdown."/>
+	</card>
+<card id="8883d006-469d-84e7-a17b-72626dcc5d2a" name="Dawn Marie: Dangerous Manipulator">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="At the end of the Pre-match phase, choose 1 card in your opponent's Ring; when Managed by Dawn Marie is in your Ring, that card is blank. Your cards with 'dawn' in the title are -5F, and he cannot reduce the number of cards discarded when they are played, or reverse their effects."/>
+	</card>
+<card id="489e7a9f-3e21-48b6-8c9c-842b30f6456a" name="I'm From Calgary... Alberta, Canada!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="At the end of the Pre-match phase, search your Arsenal for 1 reversal card, reveal it, put it in your hand, and shuffle. When you do not have a Venue in your Ring and your maneuver is unsuccessfully played, you may put up to 2 random cards in your Ringside on the bottom of your Arsenal."/>
+	</card>
+<card id="4252a188-3ce7-86c9-1941-577b744ea3aa" name="The Un-Americans" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Faction"/>
+		<property name="SS Logos" value="Lance Storm, Christian, Test, William Regal"/>
+		<property name="Traits" value="Unique, Active, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. When your opponent plays a card with 'American' or 'U.S.A.' in the title, he discards 1 card. During his turn when he draws cards, except for his Ability or his Draw Segment, he overturns 1 card, and when he moves cards from his Ringside to his Arsenal, except for his Ability, he discards 1 card (when you are Test, he overturns 1 card instead)."/>
+	</card>
+<card id="9283b33e-2bfb-44d2-1530-d0efc463147b" name="Storm's Great Technical Skill" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you have 15+ lower Fortitude, your opponent cannot respond to this card. ACE: During your turn, you may discard 2 cards and then you are considered to have lower Fortitude when you play your next card this turn; when it is a maneuver, it is -#F, where # is equal to half his Fortitude (rounded up)."/>
+	</card>
+<card id="0024ed12-077d-2dd3-1989-fd3f0ae33be1" name="Storm's Back Breaker">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Grapple + Grapple"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique, Multi"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="This card is -#F, where # is your opponent's Fortitude Rating. When this card is in your Ring, your maneuvers are +1 Stun Value."/>
+	</card>
+<card id="c0e2fcd5-9e52-a2b3-5e05-0e0a6c084164" name="Lance's Drop Kick">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike + High Risk"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique, Multi"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="This card is considered non-Unique for your effects. When played after a successfully played maneuver, this card is a High Risk instead of a Strike. During your turn when this card is in your Ringside, you may overturn 3 cards and then put this card into your hand."/>
+	</card>
+<card id="1f9a6243-4d8a-4517-4357-9a82faa289c8" name="Storm's Superkick">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="25"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, this card is -10F, shuffle up to # cards from your Ringside into your Arsenal, where # is equal to your opponent's Superstar Value. As a reversal, reverse any Strike or Grapple."/>
+	</card>
+<card id="8ca53530-7c1d-a17b-1930-6d4c3db6243f" name="Canadian Maple Leaf">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="30"/>
+		<property name="Damage" value="20"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, this card is -10F, and when your next card played this turn is Maintain Hold, ignore the 'Can only be played...' text. As a reversal, reverse any Submission."/>
+	</card>
+<card id="3f6f70d2-179e-1a18-72cf-f14b40c032b4" name="If I Could Be Serious For a Moment...">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action / Reversal: Special"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As an action, shuffle up to 7 cards from your Ringside into your Arsenal and draw up to 1 card. As a reversal, reverse any non-maneuver card. ACE: When you would move cards from your Ringside with I'm From Calgary... Alberta, Canada!, you may put this card into your Ringside and the cards are not random."/>
+	</card>
+<card id="65a8a8f5-611f-3e77-2b53-08eb5968833c" name="Don't Blame Canada - Blame Yourself!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put up to # cards from your Ringside into your hand, where # is equal to double the number of different non-Revolution maneuver types in your Ring. When this card is in your Ring and you move cards from your Ringside with I'm From Calgary... Alberta, Canada!, you may move 1 additional card."/>
+	</card>
+<card id="1ee2c274-2960-84c4-5122-07e37a208936" name="An Impact Player">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Lance Storm"/>
+		<property name="Traits" value="Unique, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your opponent may discard 2 Backlash reversal cards; if he does not, he puts 2 cards from hand on the bottom of his Arsenal. ACE: During your turn, you may remove this card from the game and then your Unique cards are -#F for the rest of your turn, where # is equal to half your opponent's Fortitude, rounded down."/>
+	</card>
+<card id="3d292476-1be9-1b83-0533-a5ae32638ebe" name="Sandman">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="7"/>
+		<property name="SSV" value="1"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="ECW, Extremist"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your Fortitude is +5F for each face-down card in your Ring. You cannot flip cards over. You can pack 1 Struck by a Kendo Stick hidden in your Backstage Area, and your Singapore Cane cards are not Heel or Raw; cards with those titles are F: 0 and cannot be reversed by hybrids. Your face-down cards are considered to have 'ECW' in the title for your card effects."/>
+	</card>
+<card id="cf30811c-0306-9247-7dc4-2ca1cfb41584" name="Sandman's Singapore Stash">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be packed by Sandman. Twice during each of your turns, you may discard 1 card and then play 1 card from your hand face-down; while played, it is considered to have the same card type, text, and Damage as a maneuver in your Backstage Area. Your face-down cards are considered to be titled Struck by a Kendo Stick instead and are Foreign Objects."/>
+	</card>
+<card id="8045c1d6-4a02-53d5-0d50-dcb1759a727b" name="Beer Can Smashing Entrance" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. Overturn 4 cards. At the end of the Pre-match phase, you may discard 2 cards and then put 1 card from your Ringside into your hand. Your Foreign Object maneuvers are +2D."/>
+	</card>
+<card id="7da2ed00-38d3-79f9-2d83-2555651a339b" name="The Original Beer-Swilling Foul-Mouthed Icon" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action / Reversal: Special"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When Can of Beer is in your Ring, this card is -3F. As an action, this card is -6F and -2D, draw up to 1 card. Your next maneuver played this turn is +6D and reversals to it are +18F. As a reversal, completely reverse any non-Trademark Finisher card, your opponent discards 3 cards and overturns 3 cards."/>
+	</card>
+<card id="b86bf697-19f2-9450-6120-2529cbaa4c0c" name="The Ambassadors of Extreme" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="14"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action"/>
+		<property name="SS Logos" value="Sandman, Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW, Permanent, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Discard up to 5 cards, shuffle up to triple that many cards from your Ringside into your Arsenal, and then draw up to double the number of cards discarded. When you are The Sandman, this card is -#F (where # is equal to your opponent's Fortitude), when this card is unsuccessfully played, put it in your Ring regardless of other effects; when this card is in your Ring, your cards played face-down are Multi, and +1 Stun Value."/>
+	</card>
+<card id="c6aba8b4-1781-03bd-5ff0-ac18948281a5" name="B!tchin' Leg Drop">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver or as a Counter. Put up to 1 card from your Ringside on the bottom of your Arsenal."/>
+	</card>
+<card id="af8ff1dc-1d3e-68de-2c6a-c60e4272188f" name="The Rolling Rock">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk + Trademark Finisher"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW, Multi"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver. Your opponent cannot modify the damage of this card."/>
+	</card>
+<card id="461ee79c-0df1-4da3-3c56-f5c5dd4587bc" name="White Russian Leg Sweep">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="35"/>
+		<property name="Damage" value="25"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="3"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may discard 1 card with 'cane' or 'kendo' in the title, or put 1 face-down card from your Ring into your Ringside; if you do, this card cannot be reversed by non-Unique cards. Shuffle up to 5 cards from your Ringside into your Arsenal, and draw up to 2 cards."/>
+	</card>
+<card id="e139b044-2451-31f4-3fd9-45ed0f969938" name="Sandman's Beer Spray">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may put 1 card with 'beer' in the title from your Ring into your Ringside; if you do, this card is -6F. Reverse any non-Superstar-specific non-maneuver card, discard 1 card, and your opponent discards 2 random cards."/>
+	</card>
+<card id="f4ffbe76-3972-5552-43f9-426e9ca36d89" name="Can of Beer">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="2"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Sandman, APA, Stone Cold Steve Austin"/>
+		<property name="Traits" value="Unique, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you are The Sandman, this card is ECW. You may overturn 2 cards and discard 2 cards to play this card from Ringside. Draw up to 2 cards and shuffle up to 2 cards from your Ringside into your Arsenal. ACE: During your turn, you may overturn 2 cards and then discard 2 cards and put this card on the bottom of your Arsenal."/>
+	</card>
+<card id="24f468fb-3fe1-00b4-7832-8e628acb544b" name="Five-Time ECW Champion">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may discard 1 Foreign Object; if you do, this card is F: 0 and your opponent cannot play non-Unique reversals to it. Draw up to 5 cards, shuffle up to 5 cards from your Ringside into your Arsenal, and he overturns 5 cards. When this card is in your Ring, your ECW cards are -5F."/>
+	</card>
+<card id="e62f3d2d-0db4-09ad-010e-1c72959e4fc3" name="Blood, Sweat, and Beers">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="9"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="Unique, ECW, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may put your hand on top of your Arsenal; if you do, or when Can of Beer is in your Ring, can only be reversed by Superstar-specific reversal cards. Search your Arsenal for 1 maneuver, 1 reversal, and 1 action card; you may not search for hybrid cards with this effect. Reveal them, put them in your hand, and shuffle."/>
+	</card>
+<card id="62ea9eea-8a7b-03ba-827a-de0b81b145b1" name="Norman Smiley">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="0"/>
+		<property name="SSV" value="0"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="At the end of each player's turn, put cards from your hand on the bottom of your Arsenal until you have no more than 4 cards in hand. During each of your Draw Segments, draw 1 additional card, then your opponent chooses action, reversal or maneuver. Randomly reveal 1 of the cards drawn, and when the card is the chosen type, put that card on the bottom of your Arsenal. You do not discard for the Chain trait, and your Ability cannot be blanked or switched."/>
+	</card>
+<card id="591db966-57a6-8ed3-6632-956d63e11354" name="Wrestling in Sports Equipment">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When your opponent chooses correctly for your Ability, and you have less than 8 cards under this card, you may put the top card of your Arsenal under this card. Cards under this card may be played as if from hand. Once during each of your turns, you may put 1 card under this card on the bottom of your Arsenal and then you may put the top card of your Arsenal under this card."/>
+	</card>
+<card id="b9f40c1e-42a8-2526-6a35-9ae25a5a2648" name="The First WCW Hardcore Champion">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal for up to 2 Foreign Objects, reveal them, put them under Wrestling in Sports Equipment, and shuffle; your opponent's non-F: 0 reversals to a Foreign Object played from under that card are +#F, where # is the Fortitude of your card. You may hide this card to blank the text and damage of his successfully played maneuver."/>
+	</card>
+<card id="acda6429-57bd-4b6e-4231-bac946d83400" name="Ralphus Protection Agency" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, draw 2 cards and put up to 1 card from hand under Wrestling in Sports Equipment. When your card is unsuccessfully played, you may put it on the bottom of your Arsenal (regardless of other effects). ACE: During your turn when you have no cards under Wrestling in Sports Equipment and less than 2 cards in hand, you may put this card in your Ringside to search your Arsenal for 2 cards, put them under Wrestling in Sports Equipment, and shuffle. This effect cannot be reversed."/>
+	</card>
+<card id="de118ef0-0603-1553-2a8a-5bac3168968c" name="The Big Wiggle" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When you have less than 2 cards in hand, your opponent may not respond to this card. Search your Arsenal for 1 card, put it in your hand, and shuffle; when your next card played this turn is a non-unique non-Multi maneuver, it is -5F. During your Draw Segment when this card is in your Ring, you may put it into your Backlash."/>
+	</card>
+<card id="3b51ace5-7b05-8dc9-9af8-0739eb05739d" name="Smiley's Twisting Slam">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Grapple + Grapple"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, Multi, WCW"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may put 1 card from under a Backstage card on the bottom of your Arsenal; if you do, this card is F: 0 and ignore 'completely' on your opponent's reversals and reversal effects to it. When this card is unsuccessfully played, your opponent puts 2 random cards from hand on the bottom of his Arsenal and draws 1 card."/>
+	</card>
+<card id="8ad25b83-80dd-84e0-1274-2ddbeb31271d" name="The Black Magic Beatdown">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="25"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When played, you may discard 3 cards from hand and this card is -15F. As a reversal, reverse any Extreme or Foreign Object."/>
+	</card>
+<card id="c534fbe6-240a-a0da-726f-e0e8f45300f3" name="The Norman Conquest">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="40"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, this card is -15F, and when your next card played this turn is Maintain Hold, ignore the 'Can only be played...' text. As a reversal, reverse any Grapple or Submission. When successfully played, your opponent discard 2 cards and overturns 2 cards; this effect cannot be reversed."/>
+	</card>
+<card id="ddc1b0c2-84a9-0dbf-a5f4-08ea8e63852c" name="A Spanking You'll Never Forget">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="16"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reverse any maneuver, and when The Big Wiggle is in your Ring, search your Arsenal for up to 1 Trademark Finisher, reveal it, put it in your hand, and shuffle."/>
+	</card>
+<card id="67e811c9-4523-65c5-29de-57ee2c901130" name="Let's Shimmy Things Up">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, Multi, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be reversed when you have at least 15 lower Fortitude. Draw up to 2 cards and shuffle up to 4 cards from your Ringside into your Arsenal. When your opponent does not choose correctly for your Ability, he cannot play Unique maneuvers during his next turn."/>
+	</card>
+<card id="0208d9a8-6369-27fa-4324-b46671fc111b" name="Experience a Bit of Foreign Culture">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action + Action"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, Multi, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Draw up to 3 cards, and put up to 2 cards from hand and up to 1 card from Ringside under Wrestling in Sports Equipment. Your opponent puts 2 random cards from hand on the bottom of his Arsenal, and draws 1 card."/>
+	</card>
+<card id="e549e0a6-55dd-241d-8590-4957dc258b42" name="Once More With Gusto!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Norman Smiley"/>
+		<property name="Traits" value="Unique, WCW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be reversed when played after a successfully played maneuver. Search your Arsenal or Ringside for 1 card with the same title as a card in your Ring, reveal it, put it in your hand, and shuffle. When your next card played this turn has the same title as a card in your Ring, it cannot be reversed."/>
+	</card>
+<card id="beb909c2-17ed-4d17-094b-086287815fa1" name="Tommy Dreamer">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="7"/>
+		<property name="SSV" value="0"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="ECW, Extremist"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When your opponent successfully plays a maneuver and damage has been applied, randomly choose 1 card from your Ringside and shuffle it into your Arsenal. When your chosen card is a non-hybrid reversal, he may choose to remove 1 card in his hand from the game instead. Your Foreign Objects are not Face or Heel. You cannot pack Everything and the Kitchen Sink."/>
+	</card>
+<card id="5a9b4e1c-04d7-3152-5a0a-8d1773b071c2" name="Most Extreme Champion">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="During your turn when you use the effect of Accompanied by Beulah McGillicutty, you may instead play 1 Foreign Object from Ringside as if from hand; if you do and it is successfully played, remove it from the game instead of putting it in any other location. You may ignore the 'Revolution' text on ECW Championship Belt and replace 'Raven' with 'Tommy Dreamer' on World Wrestling Federation Hardcore Title Belt."/>
+	</card>
+<card id="5f497dc7-352f-14cd-2a73-03626f127427" name="Accompanied by Beulah McGillicutty" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW, Permanent"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be blanked, and your opponent cannot prevent you from playing it. At the end of the Pre-match phase, you may put either Immune to Pain or Hardcore Style from your Backlash into your Ring. When you are Tommy Dreamer, once during each of your turns when you play a non-Multi non-Foreign Object non-Revolution maneuver without 'reversed' in the text, you may play 1 Foreign Object maneuver with it from hand; unless both cards are reversed when played, both are successful, however, put the Foreign Object in your Ringside instead of your Ring and it deals no damage."/>
+	</card>
+<card id="3b7b89da-645c-0523-8951-f98461ee6176" name="The Heart and Soul of ECW" size="Wide">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Action + Action"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW, Multi"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Cannot be reversed. This card is -#F, where # is your opponent's Fortitude. Shuffle up to 4 cards from your Ringside into your Arsenal and draw up to 2 cards. When you are Tommy Dreamer, this card is in your Ring, and you use your Ability, you may also put 1 non-hybrid non-Unique maneuver from your Ringside into your hand."/>
+	</card>
+<card id="c9034bd4-4af2-8b13-2439-4a4de30f15d4" name="Dreamer's Kendo Stick">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Strike + Strike"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW, Foreign Object, Multi"/>
+		<property name="Stun" value="2"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="This card cannot be reversed by D:2+ cards. When successfully played (even if it put in your Ringside), search your Arsenal for 1 non-Unique Foreign Object, reveal it, put it in your hand, and shuffle. When this card would be removed from the game, shuffle it into your Arsenal instead."/>
+	</card>
+<card id="6a7cea80-46aa-1f0d-1021-b2ff1bf63ced" name="Tree of Woe Dropkick">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="High Risk"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="1"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When playing this card, you may use Accompanied by Beulah McGuillicutty twice this turn. Can only be played after a successfully played card; when played after a Foreign Object, your opponent cannot play reversals to it from hand or Backlash."/>
+	</card>
+<card id="ab28f91d-6b23-92ea-69bd-814f7c5a6e96" name="Dreamer's DDT">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="3"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="As a maneuver, put up to 2 cards from your Ringside into your hand. As a reversal, reverse any Trademark Finisher."/>
+	</card>
+<card id="37c5f53a-2747-3c2b-2cc9-c8a274bb941b" name="Dreamer Driver">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="35"/>
+		<property name="Damage" value="20"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark Finisher"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value="3"/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You may discard up to 3 cards, your opponent overturns double that number of cards; this effect cannot be reversed. Draw 1 card."/>
+	</card>
+<card id="9029c902-10f5-2f0f-a6cb-a4d86e54091e" name="He's Hardcore! He's Hardcore!">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Can only be played after a successfully played maneuver, blank that maneuver's text and damage until the end of the turn. Search your Arsenal for up to 3 Foreign Objects and put them into your Ringside."/>
+	</card>
+<card id="84b46a76-7fa2-4299-3408-4095cac65816" name="Beulah Intervenes">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Special"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="This card is -1F for each Unique card in your Ring. Reverse any non-Superstar-specific maneuver, and put 1 female Manager or 1 card with a female's name in the title in your opponent's Ring into his Ringside."/>
+	</card>
+<card id="b48e28f7-60aa-84f2-638b-b84ec0ad731c" name="Innovating Violence">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="When your Fortitude Rating is 5 or less and you have lower Fortitude, this card cannot be reversed. Your next Foreign Object maneuver played this turn can only be reversed from Arsenal. ACE: During your turn, you may remove 2 Foreign Objects in your Ringside from the game, and then shuffle this card into your Arsenal."/>
+	</card>
+<card id="8fae949f-5a19-3e54-11d7-fa80bc2e2107" name="Dreamer's Trademark Yell">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Action"/>
+		<property name="SS Logos" value="Tommy Dreamer"/>
+		<property name="Traits" value="Unique, ECW"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="During your turn when this card is in your hand, you may put this card in your Ring; when you do, put 1 of your Foreign Objects removed from the game on the bottom of your Arsenal. When this card is in your Ring and your opponent completely reverses your maneuver, he puts 1 random card from his hand on the bottom of his Arsenal. When you successfully play a maneuver, put this card on the bottom of your Arsenal."/>
+	</card>
+   </cards>
+</set>

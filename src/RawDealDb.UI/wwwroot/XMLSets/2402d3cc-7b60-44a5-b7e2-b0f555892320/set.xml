@@ -1,0 +1,1813 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="24. Revolution" id="2402d3cc-7b60-44a5-b7e2-b0f555892320" 
+     gameId="dd9d1122-c855-40e6-a67f-21fd5bef2192" gameVersion="1.3" version="1.3">
+<cards>
+<card id="d40b23f1-0ae8-1d04-896f-efc3173a1b93" name="Revolution Slap">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core / Reversal: printed 1D∙7D Hold"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="438da261-3d2b-8032-3a43-8c063b373c8a" name="Revolution Chop">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="2"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core / Reversal: printed 2D∙7D Hold"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="d93b185e-3b17-1854-2a9b-e0801c562e75" name="Revolution Punch">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core / Reversal: printed 3D∙7D Hold"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="372a63f1-201d-14a0-44ad-b28f2647a327" name="Revolution Head Butt">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core / Reversal: printed 4D∙7D Hold"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="c3b60407-7dba-1864-8535-74e882738a74" name="Revolution Kick">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core / Reversal: printed 5D∙7D Hold"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="d061ecc2-3bb7-504d-17d0-02290c6847c5" name="Revolution Running Elbow">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core / Reversal: printed 6D∙7D Hold"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="d58d0ee8-669d-9df6-140a-db06b422594f" name="Revolution Big Boot">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core / Reversal: Hold: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Reversal: discard 2 cards and overturn 1 card."/>
+	</card>
+<card id="91b57413-352f-720f-66ee-2191acf888c1" name="Revolution Haymaker">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="1"/>
+		<property name="Damage" value="2"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Your opponent cannot play Antics during his next turn."/>
+	</card>
+<card id="ce1cee25-06b4-494b-9cc1-fccaf928238f" name="Revolution Roundhouse Punch">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="2"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Put up to 2 cards from your Ringside on top of your Arsenal."/>
+	</card>
+<card id="972cf694-9dd8-262b-7d14-02ac9c3b0b82" name="Revolution Shoulder Block">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="3"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value="Look at the top 6 cards of your Arsenal: put them on the top and/or bottom of your Arsenal"/>
+	</card>
+<card id="da86401a-380c-7dcc-0c17-039a762b5ddd" name="Revolution Spinning Heel Kick">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="4"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value="Your opponent draws up to 1 card. Put up to 1 card from your Ringside into your hand."/>
+	</card>
+<card id="db2348eb-14e5-7547-813a-cf01ab386d9e" name="Revolution Running Lariat">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Put up to 3 cards from your Ringside on the bottom of your Arsenal."/>
+	</card>
+<card id="da72808c-1234-6bf2-1705-b04f08127555" name="Revolution Drop Kick">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Look at your opponent's hand."/>
+	</card>
+<card id="84676d38-4c73-1a62-5060-e650d89e2e08" name="Revolution Knee Lift">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Your opponent discards 2 cards."/>
+	</card>
+<card id="e05ac0c2-0231-3e81-4b6d-eff428f36183" name="Revolution European Uppercut">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="11"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Draw up to 2 cards."/>
+	</card>
+<card id="006ff411-295e-3d80-2a70-267d881b71c6" name="Revolution Discus Punch">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="13"/>
+		<property name="Damage" value="14"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Overturn 3 cards. Put up to 2 Uniques from your Ringside into your hand."/>
+	</card>
+<card id="0b16b6ed-3fba-3788-42a4-de327be73f98" name="Revolution Clothesline">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="16"/>
+		<property name="Damage" value="17"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Assault: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Shuffle up to 2 Holds and up to 2 Throws from your Ringside into your Arsenal."/>
+	</card>
+<card id="547fb5ff-4685-801e-6274-b2fcf673537c" name="Revolution Collar and Elbow Lockup">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: printed 1D∙7D Throw"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="e65290f4-2a9d-2d55-172a-bfb08be0402a" name="Revolution Wrist Lock">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="2"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: printed 2D∙7D Throw"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="arm"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="22502a06-552c-0148-14f4-1f4a160a6c0f" name="Revolution Arm Bar">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: printed 3D∙7D Throw"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="arm"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="6ea37101-9861-59f5-907e-54f6344e8c76" name="Revolution Standing Side Headlock">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: printed 4D∙7D Throw"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="d4abebfc-4864-0ce5-60b7-c1ef70cb0e09" name="Revolution Front Face Lock">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: printed 5D∙7D Throw"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="9fa5c6d0-431a-2e3d-8b52-89d2ac8409f5" name="Revolution Full Nelson">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: printed 6D∙7D Throw"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="eb30b834-1e72-3e92-9307-94c0affe1800" name="Revolution Chicken Wing">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: Throw: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="arm"/>
+		<property name="Card Text" value="Reversal: discard 2 cards and overturn 1 card."/>
+	</card>
+<card id="81d7c179-3bcd-a705-3738-5820069d8b1e" name="Revolution Chin Lock">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="1"/>
+		<property name="Damage" value="2"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Your opponent puts 1 random card from his hand on the bottom of his Arsenal."/>
+	</card>
+<card id="9ba6930c-26f7-2e0e-a5fe-fd280f7a0403" name="Revolution Bear Hug">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="2"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value="Put 1 card from your hand on the top or bottom of your Arsenal. Your opponent discards 1 random card."/>
+	</card>
+<card id="28e022de-2fe3-9078-0ed5-5c96cdcb68c6" name="Revolution Head Vise">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="3"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Draw up to 2 cards. Discard 1 card."/>
+	</card>
+<card id="8ea6dde9-5b85-2bbb-4afd-46e718f80956" name="Revolution Sleeper">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="4"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Put up to 1 Maneuver from your Ringside into your hand."/>
+	</card>
+<card id="70bdcc4b-6ce6-7ca4-14b8-3011ea423cf7" name="Revolution Bow and Arrow">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="arm"/>
+		<property name="Card Text" value="Shuffle up to 4 cards from your Ringside into your Arsenal."/>
+	</card>
+<card id="2a342127-7a70-67a2-3156-d28a1f7f4894" name="Revolution Abdominal Stretch">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Look at the top 5 cards of your opponent's Arsenal: put 1 into his Ringside and the rest on the bottom of his Arsenal."/>
+	</card>
+<card id="05773e28-4971-22ac-8710-98e74e006c10" name="Revolution Dragon Sleeper">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="9"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Put up to 5 cards from your Ringside on the bottom of your Arsenal."/>
+	</card>
+<card id="dfd6eb64-1263-5e8d-3f8c-1868aecc964d" name="Revolution Ankle Lock">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="11"/>
+		<property name="Damage" value="12"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="leg"/>
+		<property name="Card Text" value="Put up to 1 Assault and up to 1 Throw from your Ringside into your hand."/>
+	</card>
+<card id="58d1e088-288c-41e7-0628-bdda91331482" name="Revolution STF">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="14"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Shuffle up to 4 Uniques from your Ringside into your Arsenal."/>
+	</card>
+<card id="d64d1324-3ac5-5cf4-6501-10a3069c69f0" name="Revolution Figure Four Leg Lock">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="17"/>
+		<property name="Damage" value="18"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="leg"/>
+		<property name="Card Text" value="Put 1 card from your hand on the bottom of your Arsenal. Put up to 1 card from your opponent's Ring into his Ringside."/>
+	</card>
+<card id="8b003e66-2f28-5e0f-21e2-2d0170060349" name="Revolution Headlock Takedown">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core / Reversal: printed 1D∙7D Assault"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="a5a0fffb-1151-97ad-056e-7545937e5397" name="Revolution Double Leg Takedown">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="2"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core / Reversal: printed 2D∙7D Assault"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="fbd00d25-2c41-a5be-94b3-2753504f2ec8" name="Revolution Belly to Belly Suplex">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core / Reversal: printed 3D∙7D Assault"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="96ceef19-6b08-29fd-3df8-0b79089279c8" name="Revolution Fireman's Carry">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core / Reversal: printed 4D∙7D Assault"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="f187b7e5-9047-3685-420e-68e1bf8e7777" name="Revolution Hip Toss">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core / Reversal: printed 5D∙7D Assault"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="0bae8bf8-7673-99dd-7a14-be40fd1f7b26" name="Revolution Body Slam">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core / Reversal: printed 6D∙7D Assault"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="b69d775f-9a09-42ac-9a16-ac3fd5503f78" name="Revolution Inverted Atomic Drop">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core / Reversal: Assault: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Reversal: discard 2 cards and overturn 1 card."/>
+	</card>
+<card id="a1270479-2fa3-9f0e-709d-04d2673e50a2" name="Revolution Arm Bar Takedown">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="1"/>
+		<property name="Damage" value="2"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Put up to 3 cards from your hand on the bottom of your Arsenal: draw the same number of cards."/>
+	</card>
+<card id="820bacca-34e9-8bae-45ca-ba64abd74349" name="Revolution Snap Mare">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="2"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Your opponent discards 2 cards."/>
+	</card>
+<card id="4cd67d19-509d-05ec-858d-92c0e6da3bdb" name="Revolution Russian Leg Sweep">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="3"/>
+		<property name="Damage" value="4"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Put up to 1 Mid-match from your Ringside into your Backlash."/>
+	</card>
+<card id="fdef9e34-0a13-6744-68b1-6a7f798c6fe8" name="Revolution Atomic Drop">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="4"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Put up to 1 Antic or 1 Reversal from your Ringside into your hand"/>
+	</card>
+<card id="52263d65-9a8f-3ca9-53a3-575ca7bb2d35" name="Revolution Gut Buster">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value="You may put all cards in your hand on the bottom of your Arsenal: draw the same number of cards."/>
+	</card>
+<card id="c64ddf60-1b0e-a2f6-07b6-f53ccad92ded" name="Revolution Bulldog">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="7"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Shuffle up to 5 Antics from your Ringside into your Arsenal."/>
+	</card>
+<card id="e323e1a7-984f-9c95-7511-87eab1c49a5f" name="Revolution Back Breaker">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="9"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Look at the top 7 cards of your Arsenal: put 1 of those into your hand and the rest on the bottom of your Arsenal."/>
+	</card>
+<card id="f03b9635-7a12-7d5b-65d1-8210fea66294" name="Revolution Power Slam">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="13"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Put up to 1 card from your Ringside into your hand."/>
+	</card>
+<card id="caf9c78f-90f9-49af-3f94-bc4e65234283" name="Revolution DDT">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="16"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Put up to 1 Assault and up to 1 Hold from your opponent's Ring into his Ringside."/>
+	</card>
+<card id="c73844cd-9582-5399-2575-59f1c9c78853" name="Revolution Press Slam">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="18"/>
+		<property name="Damage" value="19"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Throw: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Search your Arsenal for up to 1 card, put it into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="5c599807-2956-05bd-5d05-4606d45993e5" name="Revolution You Telegraphed It">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="4"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Momentum"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Overturned"/>
+	</card>
+<card id="0073ac81-8921-677d-2d4d-81d76d4a0364" name="Revolution Masochist at Heart">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Overturned"/>
+	</card>
+<card id="33fa9174-3105-9af4-8324-29e16fe24ec8" name="Revolution Try To Get Away">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="4"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Discard 2 cards. If the reversed card is Unique, instead discard 2 random cards."/>
+	</card>
+<card id="01334be6-a185-02e3-5e15-4784907d1b27" name="Revolution I Won't Be Beat Tonight">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put cards of D:1 or greater from your Ring into your Ringside until you have removed at least D:4."/>
+	</card>
+<card id="372e3ca0-0ea3-7c4f-9800-bcbf92cf86fc" name="Revolution Why Don't You Kiss My Ass?">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="3d719c29-7580-07da-5fa3-91b521a58855" name="Revolution Inertia">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Momentum"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="62522e47-30db-8336-a2dd-11d1f9bc57e6" name="Revolution Snatch and Lift">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic: Follow-up: Maneuver / Reversal: non-unique Follow-up"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Antic: if your next card this turn is a Throw, it has Momentum. Reversal: discard 1 card and if your first card on your next turn is a Throw, it has Momentum."/>
+	</card>
+<card id="10cc8a93-78cf-8681-8352-397eb8703aed" name="Revolution Cinch It In">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic: Follow-up: Maneuver / Reversal: non-unique Follow-up"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Antic: if your next card this turn is a Hold, it has Momentum. Reversal: discard 1 card and if your first card on your next turn is a Hold, it has Momentum."/>
+	</card>
+<card id="ce15da73-131d-68a1-3f86-06d1ae4b89e8" name="Revolution Throw into the Ring Ropes">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic: Follow-up: Maneuver / Reversal: non-unique Follow-up"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Antic: if your next card this turn is an Assault, it has Momentum. Reversal: discard 1 card and if your first card on your next turn is an Assault, it has Momentum."/>
+	</card>
+<card id="82f0f3db-9c03-75be-a2db-42168d482b86" name="Revolution Muster Some Moves">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal for up to 2 non-F:0 Cores, reveal them, put them into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="42681936-7641-0c60-2587-db0e0f135bf7" name="Revolution Run-Don't Hide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="1"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal for up to 2 non-F:0 Cores, reveal them, put them into your hand, and shuffle your Arsenal"/>
+	</card>
+<card id="50a79f8f-54ed-5de6-6ed3-55bdcd343025" name="Revolution Look Under the Ring">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put up to 2 cards from your Ringside into your hand."/>
+	</card>
+<card id="8220598f-2a68-4b41-1979-a48131ec7950" name="Revolution Shock the World">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Less Fortitude. If your next card this turn is a Maneuver, it has Momentum."/>
+	</card>
+<card id="5f3a1c9f-4685-6124-2482-d2caecb45fef" name="Revolution Pacing My Match">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="1"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="At the end of this turn, if you overturn 6 cards for not playing a Maneuver: put up to 3 Maneuvers from your Ringside into your hand."/>
+	</card>
+<card id="58b19c62-92d1-7ce8-5664-27b218833a59" name="Revolution All I Got Left is My Pride">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Fewer Cards in Hand Draw up to 3 cards."/>
+	</card>
+<card id="d45a52ad-0b6a-6eb9-838d-ee9bbf0265c8" name="Revolution My Way or the Highway">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Discard up to 4 Cores: put up to that many Means and up to that many Colossals from your Ringside into your hand"/>
+	</card>
+<card id="06a3e2d9-6514-48b3-2750-c7406c778451" name="Revolution Forget the History">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="9"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Fewer Cards in Hand Your opponent discards 5 cards."/>
+	</card>
+<card id="9e24427a-77b8-9dc1-1ef0-ae851d5ca562" name="Revolution A Spirited Turn of Events">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put up to 9 cards from your Ringside on the bottom of your Arsenal. Your opponent overturns 6 cards."/>
+	</card>
+<card id="17fedc71-8818-6b08-6799-a8cc5f531231" name="Revolution A New Plan" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put all cards in your hand on the bottom of your Arsenal: draw the same number of cards."/>
+	</card>
+<card id="2337b9da-5320-6260-57f2-861951cd2fcb" name="Revolution Previously Unannounced Match" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="The maximum number of Mid-match your opponent may have in his Ring is equal to the number of Pre-match you have in your Ring."/>
+	</card>
+<card id="9071f27d-3a4f-0b52-4700-99bd82868a7d" name="Revolution Ring Psychology: Assault" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Successfully play an Assault: put up to 1 Hold or 1 Throw from your Ringside into your hand."/>
+	</card>
+<card id="7390e3af-33f0-043d-6b72-caef42767bc8" name="Revolution Ring Psychology: Hold" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Successfully play a Hold: put up to 1 Assault and up to 1 Throw from your Ringside on the bottom of your Arsenal"/>
+	</card>
+<card id="42b4bd64-10c5-1757-39ae-20e777686566" name="Revolution Ring Psychology: Throw" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Successfully play a Throw and you have an Assault and a Hold in your Ring: draw up to 1 card."/>
+	</card>
+<card id="5cca9061-249f-3560-7b1c-98c502800f2e" name="Revolution Hardcore Hell" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="If your Fortitude is less than your opponent: your first non-F:0 Core of this turn cannot be reversed from his hand."/>
+	</card>
+<card id="81c1acba-9a1b-30ab-205b-32fd51394d7e" name="Revolution Gone-Not Forgotten" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="A card from your hand is not successfully played: put that card on the bottom of your Arsenal instead of your Ringside"/>
+	</card>
+<card id="e008b877-9ab3-a74b-880b-a74b5ac31e50" name="Revolution Climbing the Ladder" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Lower Superstar Value Successfully play a Mean: draw up to 2 cards. Successfully play a Colossal: draw up to 1 card."/>
+	</card>
+<card id="8b20d32f-7bd9-9c58-70c4-b72ea0b0a1f1" name="Revolution Underestimate the Competition" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Overturn 8 cards. Your opponent's non-unique Reversals deal no damage."/>
+	</card>
+<card id="710cbabc-651a-9b7d-4814-14820d2e03e8" name="Revolution Your Chance in the Limelight" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Higher Superstar Value Your opponent discards 1 random card. He starts the match."/>
+	</card>
+<card id="0d2752fd-3781-9759-2089-0db1414d556f" name="Revolution Before This Gets Out of Hand" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Reversal: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Overturn 3 cards. If the reversed card was played from your opponent's hand, it goes into his hand instead of his Ringside."/>
+	</card>
+<card id="aff73102-2b34-764c-3163-e4e07be39881" name="Revolution Wreckless Intent" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="1"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Reveal the top 2 cards of your Arsenal: put up to 1 Maneuver into your hand and put the rest into your Ringside."/>
+	</card>
+<card id="591d09a9-4a43-6eb2-5c20-1568cd4c351d" name="Revolution Knife-Edge Chop" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Assault: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value="Discard 1 card."/>
+	</card>
+<card id="4de85daa-80a0-05bc-0cd6-b96540264a9d" name="Revolution Boston Crab" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="11"/>
+		<property name="Damage" value="9"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Hold: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Your opponent draws up to 1 card."/>
+	</card>
+<card id="ffddcd3a-46ed-8b22-6f52-6f0dded04dd5" name="Revolution Fall-away Suplex" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Throw: Mean"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Your opponent shuffles up to 2 cards from his Ringside into his Arsenal."/>
+	</card>
+<card id="f7bad386-8a44-7075-3a79-275fec0b5638" name="Revolution Talk is Cheap" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Reversal: Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Not Your Opponent's First Card This Turn If your Fortitude is greater than your opponent's: you cannot play Antics."/>
+	</card>
+<card id="846f5ba3-2e62-7335-3b27-6f6b49ef3129" name="Revolution Layla: WWE Diva to the Core" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Less Fortitude Discard up to 3 Means and/or Colossals: search your Arsenal for up to that many Cores, reveal them, put them into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="222b86fc-a57c-422e-5eb7-48768b0032e1" name="Revolution Keep Your Eyes Open or It's Game Over" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="3"/>
+		<property name="Damage" value="2"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Reversal: Mean or Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Requirement: Not Your Opponent's First Card This Turn Discard 2 random cards."/>
+	</card>
+<card id="97dc8ca4-9540-0797-1b45-89148225218b" name="Revolution I Can Do Anything I Want" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Reversal: Colossal"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Discard 3 cards. Put cards of D:1 or greater from your Ring into your Ringside until you have removed at least D:8."/>
+	</card>
+<card id="43ae3f9f-22a5-503d-5069-1cf089de07fe" name="Revolution It's All Led to This" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Antic"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="If you have 4 or more cards in your Ring with the same Target: if your next card this turn is a Maneuver, it has Momentum and is +10D."/>
+	</card>
+<card id="c0736751-9ee3-3deb-1f30-61361d298b89" name="Revolution Batista" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="9"/>
+		<property name="SSV" value="5"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Successfully play a Throw: your opponent puts 1 random card from his hand on the bottom of his Arsenal."/>
+	</card>
+<card id="ccfc88c6-6927-9600-2d28-5be3c98462bd" name="Revolution The Animalistic Clothesline">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Discard 2 cards. Put up to 2 cards from your opponent's Ring into his Ringside."/>
+	</card>
+<card id="589d5648-6529-8952-3dbc-250948fb07e0" name="Revolution The Hanging Tree">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="16"/>
+		<property name="Damage" value="14"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Put up to 3 Throws from your Ringside into your hand."/>
+	</card>
+<card id="2c6ef55d-0f44-4503-20c0-5c14755c74bc" name="Revolution The Guardian Powerslam">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="30"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean / Reversal: Hold"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="If played as a Trademark: -20F"/>
+	</card>
+<card id="de6ab2b6-68ee-494b-3202-546c7b05707c" name="Revolution Inside This Pit of Danger">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="2"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Antic"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your opponent discards 1 random card."/>
+	</card>
+<card id="adc009b1-62c2-23f4-9785-b765ef9926d6" name="Revolution I'll Chew Them Up and Spit Them Out">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Draw up to 8 cards. Discard 2 cards."/>
+	</card>
+<card id="9d8b45c9-6e57-67f2-6b4d-94c73317a569" name="Revolution I Walk Alone" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Storyline"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Discard 2 cards. Superstar Value: +4 New Superstar Ability: Your Colossals are -6F. Successfully play a Colossal: draw up to 1 card."/>
+	</card>
+<card id="bcf7d87b-061a-a330-940a-f8043bf418c7" name="Revolution A Thousand Years of Anger" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="3"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Reversal: Mean or Colossal"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put 1 random card from your hand on the bottom of your Arsenal."/>
+	</card>
+<card id="74462ae8-9658-5179-7ed7-5ae757a67d85" name="Revolution The Evolved Spinebuster">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal / Reversal Assault or Throw"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Reversal: your opponent discards 5 cards."/>
+	</card>
+<card id="8a8c62e9-179d-0873-22b4-bc1e72526c5f" name="Revolution The Demon Bomb">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="35"/>
+		<property name="Damage" value="35"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal"/>
+		<property name="SS Logos" value="Batista"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Shuffle up to 5 cards from your Ringside into your Arsenal."/>
+	</card>
+<card id="a4510828-9892-78fe-3f20-e790b5bda6b5" name="Revolution John Cena" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="6"/>
+		<property name="SSV" value="6"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Once during each of your turns, you may discard 1 Hold: draw up to 2 cards."/>
+	</card>
+<card id="8d803ace-1a46-6f25-7902-29611b428dd4" name="Revolution Freestyle Shoulder Block">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value="All players discard 1 random card."/>
+	</card>
+<card id="eb8d7114-88a9-24b5-8066-40f6cf1689bb" name="Revolution Chain Gang Headlock">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="7"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Search your Arsenal for up to 1 Unique, reveal it, put it into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="a44f390a-5898-a706-13df-e791a1809803" name="Revolution The Marine Slam">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="13"/>
+		<property name="Damage" value="17"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal: Follow-up: Card"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="9246ecc1-2400-055e-042a-97d242bc6770" name="Revolution You Hear Those Horns? You're Finished!">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Antic"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put up to 1 card from your Ringside into your hand."/>
+	</card>
+<card id="2b4402fb-a298-2e11-641b-51a7c08b8815" name="Revolution I'm Tougher Than Nails">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put all cards from your Ringside into your hand: shuffle all cards from your hand into your Arsenal except for 2."/>
+	</card>
+<card id="366ed0ac-11c3-8964-29b9-486dd11e1319" name="Revolution Doctor of Thuganomics" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Storyline"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Superstar Value: +2 New Superstar Ability: Successfully play a Core: put up to 1 Mean from your Ringside into your hand. Your opponent reverses a Core or a Mean from his hand: draw up to 1 card."/>
+	</card>
+<card id="f0f8b2cc-887b-3dba-2f1b-a1009cce13c1" name="Revolution Knock Your Shell Off" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="9"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Trademark: Mean"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Put up to 1 card from your opponent's Ring into his Ringside."/>
+	</card>
+<card id="b1fe098c-5bf0-7622-0b72-d53bb80c942d" name="Revolution The STFU">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="15"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Discard up to 5 cards: your opponent discards the same number of cards."/>
+	</card>
+<card id="2dc59e16-70ba-75d8-0468-91e0577b75ea" name="Revolution The Untouchable FU">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="30"/>
+		<property name="Damage" value="30"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal / Reversal: Momentum"/>
+		<property name="SS Logos" value="John Cena"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="Shuffle any number of Holds from your Ringside into your Arsenal."/>
+	</card>
+<card id="c34803f2-7a8e-8edf-76c8-7c545825771e" name="Revolution Rey Mysterio" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="8"/>
+		<property name="SSV" value="4"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Once during each of your turns, you may discard 1 card: search your Arsenal for up to 1 Assault, reveal it, put it into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="90f6e0aa-0b57-6ef5-6c3f-14dfe89d66af" name="Revolution The Original 619">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="6"/>
+		<property name="Damage" value="9"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean: Follow-up: Card"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Your opponent discards 1 random card."/>
+	</card>
+<card id="a7d1215a-6635-6a57-1f11-269905fd5ad1" name="Revolution The 1904">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="12"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean: Follow-up: Maneuver"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value="Your opponent discards cards equal to the number of Uniques in your Ring."/>
+	</card>
+<card id="8729f0f1-485c-153d-96c3-c38796c661fb" name="Revolution Rey-Rey's Wheelbarrow Bulldog">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="12"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean / Reversal: Throw"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="If played as a Trademark: -10F"/>
+	</card>
+<card id="d2405eb0-6911-0ae3-14eb-231b1c5e7111" name="Revolution Think Nothing of It... But Love It">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="15"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Mean or Colossal"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Shuffle up to 11 cards from your Ringside into your Arsenal."/>
+	</card>
+<card id="e3d95dd8-388f-407c-46c5-54d355db7566" name="Revolution Too Much Damage for One to Manage" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="If your next card this turn is a Maneuver, it has Momentum."/>
+	</card>
+<card id="6c2946d7-9a72-844a-06bf-9486ad6114c8" name="Revolution From Cruiserweight to Heavyweight Champ" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Storyline"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Draw 1 card. Superstar Value: +2 New Superstar Ability: Your non-F:0 Cores read as F:0. Successfully play a printed non-F:0 Core: put up to 1 Core from your Ringside into your hand."/>
+	</card>
+<card id="731cafcb-28ac-3766-6134-103de48e1127" name="Revolution Do It For My People" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Antic"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal for up to 1 card, put it into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="58fa8711-8d57-a00b-4544-c4714a26346f" name="Revolution Droppin' Da Dime">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="10"/>
+		<property name="Damage" value="10"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="All players discard 10 cards."/>
+	</card>
+<card id="c807a947-1006-52f4-257e-44e6d5247f87" name="Revolution Mysterio's West Coast Pop">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="20"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal: Follow-up: Card"/>
+		<property name="SS Logos" value="Rey Mysterio"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="chest"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="09e83b3f-32b6-8efb-5373-f136302b17e3" name="Revolution Triple H" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="7"/>
+		<property name="SSV" value="7"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Once during each of your turns, you may discard 1 Maneuver: put up to 1 non-unique Maneuver from your Ringside into your hand."/>
+	</card>
+<card id="97f8294c-86bc-6fa2-1c17-f90f0fbe6019" name="Revolution The Triple H High Knee">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="5"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put up to 1 card from your Ringside on the bottom of your Arsenal."/>
+	</card>
+<card id="50b1dd7c-7b9a-2679-991e-5070e40b7a06" name="Revolution The Cerebral Sleeper">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="11"/>
+		<property name="Damage" value="9"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Put up to 2 cards from your opponent's Ring into his Ringside."/>
+	</card>
+<card id="2539dee8-6367-8a3d-657b-73690a3588a4" name="Revolution Smacked with the Sledgehammer">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="20"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal / Reversal: Mean or Colossal"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Search your Arsenal for up to 1 card, put it into your hand, and shuffle your Arsenal."/>
+	</card>
+<card id="1adf80c0-0a87-731a-08c5-7098ea193d33" name="Revolution Behold the King">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="13"/>
+		<property name="Damage" value="0"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Antic"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your opponent overturns 7 cards. Put up to 3 cards from your Ringside into your hand."/>
+	</card>
+<card id="4d770b91-7cd9-9a8e-344a-4467cfbd7e3b" name="Revolution Bow Before the Throne">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="3"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Hold"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Draw up to 2 cards."/>
+	</card>
+<card id="eb2da09b-679c-4a53-57bc-42649c3248b9" name="Revolution Ten Time World Champion" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Storyline"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Superstar Value: +3 New Superstar Ability: If a Maneuver has dealt 10 Damage to you: draw up to 2 cards and it is reversed."/>
+	</card>
+<card id="27c8ca26-a064-378f-16c1-52c649648bc2" name="Revolution Feel Your Fear" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="18"/>
+		<property name="Damage" value="12"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Mid-match Trademark: Mean"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="neck"/>
+		<property name="Card Text" value="Shuffle any number of Uniques from your Ringside into your Arsenal."/>
+	</card>
+<card id="87a9a973-6690-4b0a-981a-7bcac50890dc" name="Revolution The Game Spinebuster">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="20"/>
+		<property name="Damage" value="8"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Mean / Reversal: Assault or Throw"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="back"/>
+		<property name="Card Text" value="If played as a Trademark: -15F"/>
+	</card>
+<card id="c4430701-1598-8d51-9c0d-08cd840a9b0d" name="Revolution The King of Kings Pedigree">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="40"/>
+		<property name="Damage" value="30"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal"/>
+		<property name="SS Logos" value="Triple H"/>
+		<property name="Traits" value="Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Your opponent discards 7 cards."/>
+	</card>
+<card id="a031e553-07a6-091d-698c-10ae0b5c3fdb" name="Revolution A New Breed Unleashed">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="0"/>
+		<property name="Damage" value="6"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Extreme: Core"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="ECW, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="Requirement: Extremist"/>
+	</card>
+<card id="aa8ce86e-0114-66f3-4692-92e4394c4e82" name="Revolution Only One Solution: Revolution">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="4"/>
+		<property name="Damage" value="1"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Hold: Core / Reversal: printed 1D∙7D Assault, Hold or Throw"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value=""/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="arm"/>
+		<property name="Card Text" value=""/>
+	</card>
+<card id="19963428-0d1c-3cd6-241f-cb2d7f3270fa" name="Revolution CM Punk" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="7"/>
+		<property name="SSV" value="0"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="CM Punk"/>
+		<property name="Traits" value="ECW, Extremist"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Successfully play a Maneuver: put up to 1 Hold from your Ringside into your hand."/>
+	</card>
+<card id="0145895d-9cb5-7a00-49ee-60950276401f" name="Revolution Straight Edge">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="8"/>
+		<property name="Damage" value="5"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Reversal: Mean or Colossal"/>
+		<property name="SS Logos" value="CM Punk"/>
+		<property name="Traits" value="ECW, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Overturn 1 card. Shuffle up to 9 cards from your Ringside into your Arsenal."/>
+	</card>
+<card id="2f4f7f88-6821-988d-1f0e-7e8e8206271e" name="Revolution Sabu" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="9"/>
+		<property name="SSV" value="3"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="ECW, Extremist"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="You may put 1 card from your hand on the bottom of your Arsenal after you successfully play an Assault: your opponent discards 1 random card."/>
+	</card>
+<card id="b0767f85-3905-626d-6dfc-de2b35f24eba" name="Revolution Suicidal-Homicidal-Genocidal" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Sabu"/>
+		<property name="Traits" value="ECW, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Once during each of your turns, before your Draw: put up to 1 Assault from your Ringside on top of your Arsenal."/>
+	</card>
+<card id="bbc15d75-831f-53b4-8345-11552dcf8a6c" name="Revolution Sandman" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="8"/>
+		<property name="SSV" value="1"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="ECW, Extremist"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Successfully play a Maneuver: put up to 2 cards from your Ringside on the bottom of your Arsenal."/>
+	</card>
+<card id="1decedae-188d-632f-1c59-fb81712f1653" name="Revolution The Extreme Icon" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Pre-match Event"/>
+		<property name="SS Logos" value="Sandman"/>
+		<property name="Traits" value="ECW, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your Means are -1F times the Superstar Value of your opponent."/>
+	</card>
+<card id="6bec4f30-9ac3-0878-2246-e437cca9a70c" name="Revolution Test" size="Wide">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value="8"/>
+		<property name="SSV" value="2"/>
+		<property name="CardType" value="Superstar"/>
+		<property name="SS Logos" value="Test"/>
+		<property name="Traits" value="ECW, Extremist"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="Your Colossals are -1F times the Fortitude in your opponent's Ring."/>
+	</card>
+<card id="bf732e48-809e-859e-10c3-3330881c2644" name="Revolution Test's TKO">
+		<property name="Format" value="Revolution"/>
+		<property name="Fortitude" value="30"/>
+		<property name="Damage" value="30"/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Trademark: Colossal"/>
+		<property name="SS Logos" value="Test"/>
+		<property name="Traits" value="ECW, Unique"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value="head"/>
+		<property name="Card Text" value="During your turn, if this card is in your Ringside, you may discard 1 Assault and 1 Throw: put this card into your hand."/>
+	</card>
+   </cards>
+</set>
