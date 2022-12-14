@@ -20,8 +20,22 @@
         <NavMenu />
     </MudDrawer>
     <MudMainContent>
-        <MudContainer Fixed="true" MaxWidth="MaxWidth.Large" Class="my-16 pt-16">
+        <MudContainer MaxWidth="MaxWidth.Large" Class="my-16 pt-16">
             @Body
+        </MudContainer>
+        <MudDivider DividerType="DividerType.Middle"/>
+        <MudContainer MaxWidth="MaxWidth.Large" Class="my-16 pt-16">
+            <MudText Typo="Typo.caption">
+                <MudIcon Size="Size.Small" Icon="@Icons.Filled.Copyright" />
+                <MudSpacer/>
+                All rights belong to their respective owners. All images were provided under fair use guidelines.
+                <MudSpacer/>
+                Raw Deal | By Comic Images.
+                <MudSpacer/>
+                Raw Deal Virtual Classic | Developed and distributed for free by <MudLink Typo="Typo.inherit" href="https://teamcanadaonline.net">Team Canada Online (TCO)</MudLink>.
+                <MudSpacer/>
+                Raw Deal DB V0.1Beta  | Developed by SGG.
+            </MudText>
         </MudContainer>
     </MudMainContent>
     <MudScrollToTop>
