@@ -7,22 +7,40 @@
 <MudSnackbarProvider />
 
 <MudLayout>
-    <MudAppBar Elevation="0">
+    <MudAppBar Elevation="0" Fixed>
         <MudIconButton Icon="@Icons.Material.Filled.Menu" Color="Color.Inherit" Edge="Edge.Start" OnClick="@((e) => DrawerToggle())" />
+        <MudText Typo="Typo.h5" Class="m-lg-3">Raw Deal DB</MudText>
         <MudSpacer />
         <MudIconButton Icon="@_iconToggle" Color="Color.Inherit" OnClick="@((e) => DarkModeToggle())"/>
     </MudAppBar>
     <MudDrawer @bind-Open="_collapseNavBar" Elevation="1">
         <MudDrawerHeader>
-            <MudText Typo="Typo.h6">MudBlazor.Template</MudText>
+            <MudText Typo="Typo.h6">Options</MudText>
         </MudDrawerHeader>
         <NavMenu />
     </MudDrawer>
     <MudMainContent>
-        <MudContainer Fixed="true" MaxWidth="MaxWidth.Large" Class="my-16 pt-16">
+        <MudContainer MaxWidth="MaxWidth.Large" Class="my-16 pt-16">
             @Body
         </MudContainer>
+        <MudDivider DividerType="DividerType.Middle"/>
+        <MudContainer MaxWidth="MaxWidth.Large" Class="my-16 pt-16">
+            <MudText Typo="Typo.caption">
+                <MudIcon Size="Size.Small" Icon="@Icons.Filled.Copyright" />
+                <MudSpacer/>
+                All rights belong to their respective owners. All images were provided under fair use guidelines.
+                <MudSpacer/>
+                Raw Deal | By Comic Images.
+                <MudSpacer/>
+                Raw Deal Virtual Classic | Developed and distributed for free by <MudLink Typo="Typo.inherit" href="https://teamcanadaonline.net">Team Canada Online (TCO)</MudLink>.
+                <MudSpacer/>
+                Raw Deal DB V0.1Beta  | Developed by SGG.
+            </MudText>
+        </MudContainer>
     </MudMainContent>
+    <MudScrollToTop>
+        <MudFab Color="Color.Inherit" Icon="@Icons.Filled.ArrowCircleUp" />
+    </MudScrollToTop>
 </MudLayout>
 
 @code {

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using RawDealDb.Core.DTO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,5 +10,6 @@ namespace RawDealDb.Core.Interfaces.Service
     public interface ICardServiceCore
     {
         Task<IEnumerable<string>> SearchCardsByName(string searchName, string contextPath);
+        Task<IEnumerable<CardDto>> GetAllCards(string contextPath);
     }
 }
