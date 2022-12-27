@@ -17,7 +17,9 @@ namespace RawDealDb.Core.DTO
         public string Damage { get; set; }
         public string HandSize { get; set; }
         public string SuperStarValue { get; set; }
+        public string SuperStarLogo { get; set; }
         public Guid SetId { get; set; }
-        //public List<CardPropertyDto> Properties { get; set; }
+        public string SetName { get; set; }
+
     }
 }

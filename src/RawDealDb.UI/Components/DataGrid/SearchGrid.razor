@@ -1,20 +1,21 @@
 ﻿@using RawDealDb.Core.DTO;
+@using RawDealDb.Core.Enums;
 @using RawDealDb.UI.Interfaces;
 @inject ICardService _cardService;
 
 
 <MudDataGrid T="CardDto" Items="@_cards" Filterable="true" QuickFilter="@_quickFilter" Bordered="true">
     <ToolBarContent>
-        <MudText Typo="Typo.h6">Cards</MudText>
-        <MudSpacer/>
-        <MudTextField @bind-Value="_searchString" Placeholder="Search by name" Adornment="Adornment.Start" Immediate="true"
+        <MudSelect T="int" Label="Search by" AnchorOrigin="Origin.BottomCenter" @bind-Value="_selectValue">
+            @foreach (var searchByItem in _searchByDto.SearchByValues)
+            {
+                <MudSelectItem Value="searchByItem.Key">@searchByItem.Value</MudSelectItem>
+            }
+        </MudSelect>
+        <MudSpacer />
+        <MudTextField @bind-Value="_searchString" Placeholder="Search value" Adornment="Adornment.Start" Immediate="true"
                         AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
         <MudSpacer/>
-        <MudCard>
-            <MudCardMedia Image="">
-
-            </MudCardMedia>
-        </MudCard>
     </ToolBarContent>
     <Columns>
         <HierarchyColumn T="CardDto"/>
@@ -45,6 +46,8 @@
 
 @code {
     private IEnumerable<CardDto> _cards = new List<CardDto>();
+    private SearchByDto _searchByDto = new SearchByDto();
+    private int _selectValue;
     private string _searchString;
     private string _displayCard;
 
@@ -57,14 +60,25 @@
     {
         if (string.IsNullOrWhiteSpace(_searchString))
             return true;
-        if (x.Name.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+        if (_selectValue == (int)SearchByEnum.CardName && x.Name.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (_selectValue == (int)SearchByEnum.Set && x.SetName.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (_selectValue == (int)SearchByEnum.Fortitude && x.Fortitude.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (_selectValue == (int)SearchByEnum.Damage && x.Damage.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (_selectValue == (int)SearchByEnum.SuperStarLogo && x.SuperStarLogo.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (_selectValue == (int)SearchByEnum.SuperStarValue && x.SuperStarValue.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
             return true;
 
         return false;
     };
 
-    private void DisplayCard(CardDto selectedCard)
+    private void Search(string searchString)
     {
         
     }
+
 }

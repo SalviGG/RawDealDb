@@ -15,12 +15,12 @@
     <ProjectReference Include="..\RawDealDb.Infrastructure\RawDealDb.Infrastructure.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\wwwroot\XMLSets\**">
+    <None Include="..\wwwroot\**">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="..\wwwroot\img\**">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\js\" />
   </ItemGroup>
 
 </Project>

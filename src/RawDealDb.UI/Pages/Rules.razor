@@ -1,0 +1,23 @@
+﻿@page "/Rules"
+@using RawDealDb.UI.Components.Rules
+@using RawDealDb.UI.Interfaces;
+@inject IFileService _fileService;
+
+<PageTitle>Rules & FAQ's</PageTitle>
+@*<OmniFaq/>*@
+<MudPaper>
+    <MudContainer>
+        <MudText Typo="Typo.h6">OmniFaq</MudText>
+        <objec data="@GetFile()" type="application/pdf"/>
+    </MudContainer>
+</MudPaper>
+
+@code {
+
+    private byte[] GetFile()
+    {
+        var file = _fileService.GetFile("omnifaq.pdf");
+        return Convert.FromBase64String(file);
+    }
+
+}
