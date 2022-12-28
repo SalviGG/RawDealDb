@@ -1,7 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using RawDealDb.Core.Interfaces.DAL;
 using RawDealDb.Core.Interfaces.Service;
-using RawDealDb.Infrastructure.Files;
 using RawDealDb.Infrastructure.Repositories;
 using System;
 using System.Collections.Generic;
@@ -17,7 +16,6 @@ namespace RawDealDb.Infrastructure.IoC
         {
             services.AddScoped<ISetsRepository, SetsRepository>();
             services.AddScoped<ICardRepository, CardRepository>();
-            services.AddScoped<IInfrastructureFileService, InfrasctructureFileService>();
 
             return services;
         }

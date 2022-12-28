@@ -9,7 +9,6 @@ namespace RawDealDb.UI.IoC
         {
             services.AddScoped<ISetService, SetService>();
             services.AddScoped<ICardService, CardService>();
-            services.AddScoped<IFileService, FileService>();
             return services;
         }
     }
