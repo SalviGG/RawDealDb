@@ -20,11 +20,14 @@
         <NavMenu />
     </MudDrawer>
     <MudMainContent>
-        <MudContainer MaxWidth="MaxWidth.Large" Class="my-16 pt-16" Style="height: 60vh;">
+        <MudContainer>
+            <MudAlert Severity="Severity.Info">Raw Deal DB is now out on Beta v0.2.1! Check what's new in the <MudLink Href="changelog" Typo="Typo.inherit">Changelog</MudLink></MudAlert>
+        </MudContainer>
+        <MudContainer MaxWidth="MaxWidth.Large" Class="my-4 pt-4 mb-4 pb-4">
             @Body
         </MudContainer>
         <MudDivider DividerType="DividerType.Middle"/>
-        <MudContainer MaxWidth="MaxWidth.Large" Class="my-16 pt-16">
+        <MudContainer MaxWidth="MaxWidth.Large" Style="position:relative; bottom:0;">
             <MudText Typo="Typo.caption">
                 <MudIcon Size="Size.Small" Icon="@Icons.Filled.Copyright" />
                 <MudSpacer/>

@@ -1,0 +1,89 @@
+﻿@page "/changelog"
+@using RawDealDb.Core.DTO;
+@using RawDealDb.UI.Interfaces;
+@inject IChangelogService _changelogService;
+
+<MudPaper Class="ma-2">
+    <MudContainer>
+        <MudText Typo="Typo.h4">
+            Changelog
+        </MudText>
+    </MudContainer>
+</MudPaper>
+<MudSpacer />
+<MudPaper Class="ma-2">
+    @if (_changelogList != null)
+    {
+        <MudContainer>
+            @foreach (var changelog in _changelogList)
+            {
+                <MudText Typo="Typo.h5">
+                    [@changelog.Version] - @changelog.Date
+                </MudText>
+                <MudSpacer />
+                if (changelog.Added.Any())
+                {
+
+                    <MudText Typo="Typo.h6">
+                        Added:
+                    </MudText>
+                    <MudSpacer />
+                    <MudList>
+                        @foreach (var added in changelog.Added)
+                        {
+                            <MudListItem>
+                                - @added
+                            </MudListItem>
+                        }
+                    </MudList>
+                }
+                <MudSpacer />
+                if (changelog.Changed.Any())
+                {
+                    <MudText Typo="Typo.h6">
+                        Changed:
+                    </MudText>
+                    <MudSpacer />
+                    <MudList>
+                        @foreach (var changed in changelog.Changed)
+                        {
+                            <MudListItem>
+                                - @changed
+                            </MudListItem>
+                        }
+                    </MudList>
+                }
+                <MudSpacer />
+                if (changelog.Fixed.Any())
+                {
+                    <MudText Typo="Typo.h6">
+                        Fixed:
+                    </MudText>
+                    <MudSpacer />
+                    <MudList>
+                        @foreach (var fix in changelog.Fixed)
+                        {
+                            <MudListItem>
+                                - @fix
+                            </MudListItem>
+                        }
+                    </MudList>
+                }
+            }
+        </MudContainer>
+    }else
+    {
+        <MudContainer>
+            <MudText>Error loading changelog.</MudText>
+        </MudContainer>
+    }
+</MudPaper>
+
+@code {
+    private List<ChangeLogDto>? _changelogList;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _changelogList = await _changelogService.GetChangelogs();
+    }
+}

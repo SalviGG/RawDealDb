@@ -2,10 +2,14 @@
 @using RawDealDb.UI.Components.Rules
 @using RawDealDb.UI.Interfaces;
 
-<PageTitle>Rules & FAQ's</PageTitle>
-<MudText Typo="Typo.h6">Rules & FAQ's</MudText>
+<PageTitle>Rules & FAQ</PageTitle>
+<MudPaper Class="ma-2">
+    <MudContainer>
+        <MudText Typo="Typo.h4">Rules & FAQ</MudText>
+    </MudContainer>
+</MudPaper>
 <MudSpacer/>
-<MudPaper Height="100%" Width="100%">
+<MudPaper Height="100%" Width="100%" Class="ma-2">
     <MudContainer>
         <MudRadioGroup T="bool" SelectedOption="@_rulesRadio" SelectedOptionChanged="OnSelectedOptionChanged"> 
             <MudRadio Option="true" Color="Color.Primary" Dense="true">OmniFaq</MudRadio>
