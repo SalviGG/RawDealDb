@@ -1,14 +1,27 @@
 [
   {
+    "Version": "v0.2.2-beta",
+    "Date": "2023-01-05",
+    "Added": [
+    ],
+    "Changed": [
+      "Modified card image visualization for clarity and ease of use.",
+      "Made the quick search option to be \"by card name\" by default."
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
     "Version": "v0.2.1-beta",
     "Date": "2022-12-29",
     "Added": [
       "Change log section. All new features, changes, updates and fixes will be listed there.",
-      "Change log service. To retrieve json containing change logs.",
-      "Modified padding and some visual positioning."
+      "Change log service. To retrieve json containing change logs."
+      
     ],
     "Changed": [
-
+      "Modified padding and some visual positioning."
     ],
     "Fixed": [
 

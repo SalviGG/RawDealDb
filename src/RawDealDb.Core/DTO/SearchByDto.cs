@@ -11,8 +11,8 @@ namespace RawDealDb.Core.DTO
     {
         public Dictionary<int, string> SearchByValues { get; } = new Dictionary<int, string>
         {
-            { (int)SearchByEnum.Set, "Set" },
             { (int)SearchByEnum.CardName, "Card name" },
+            { (int)SearchByEnum.Set, "Set" },
             { (int)SearchByEnum.Fortitude, "Fortitude" },
             { (int)SearchByEnum.Damage, "Damage" },
             { (int)SearchByEnum.SuperStarValue, "Super star value" },

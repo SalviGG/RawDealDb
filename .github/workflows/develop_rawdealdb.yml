@@ -6,7 +6,10 @@ name: Build and deploy ASP.Net Core app to Azure Web App - RawDealDb
 on:
   push:
     branches:
-      - develop
+      - main
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:

@@ -8,8 +8,8 @@ namespace RawDealDb.Core.Enums
 {
     public enum SearchByEnum
     {
-        Set,
         CardName,
+        Set,
         Format,
         Fortitude,
         Damage,
