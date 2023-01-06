@@ -15,6 +15,7 @@ namespace RawDealDb.Core.Models
         [XmlAttribute("name")]
         public string Name { get; set; }
         public Guid SetId { get; set; }
+        public string SetName { get; set; }
         [XmlElement("property")]
         public List<CardPropertyModel> Properties { get; set; }
     }

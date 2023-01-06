@@ -39,7 +39,10 @@
 		<property name="Traits" value="nWo, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When your Fortitude Rating is 0 and your opponent's Fortitude Rating is 5 or more, he cannot play reversals to this card. Your Mid-match Capacity is +2. Search your Arsenal and Ringside for Konnan's Rolling Clothesline, reveal it, put it in your hand, and shuffle your Arsenal; when that card is your next card played this turn and it is reversed completely, you may put it on the bottom of your Arsenal and put this card into your Backlash."/>
+		<property name="Card Text" value="When you have no Ring maneuvers and your opponent's Fortitude is 5+, he cannot play reversals to this card.
+Your Mid-match Capacity is +2.
+Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your next card played this turn and it is reversed completely, you may Bury it and put this card into your Backlash.
+"/>
 	</card>
 <card id="fb3da6e5-817b-9da2-42fd-2fe32c485a12" name="You Might Wind Up in a Body Bag" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -270,10 +273,10 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Lex Luger"/>
-		<property name="Traits" value="WCW, Throwback, Universally Unique"/>
+		<property name="Traits" value="WCW, Throwback, Universally Unique, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be blanked. When you successfully play a maneuver with 'dynamic' in the title, you may search for 1 card with 'dynamic' in the title, reveal it, put it in your hand, and shuffle. ACE: When your opponent successfully plays a maneuver and damage is applied, you may put this card into your Ringside and his turn ends."/>
+		<property name="Card Text" value="Cannot be blanked. When you successfully play a maneuver with 'dynamic' in the title, you may search for 1 card with 'dynamic' in the title, reveal it, put it in your hand, and shuffle. ACE: When your opponent successfully plays a maneuver and damage is applied, you may frd into your Ringside and his turn ends."/>
 	</card>
 	<card id="4bd6913c-503a-33a8-5f49-9da4ab4127f9" name="Sculpted Like a Statue" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -569,7 +572,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Harlem Heat"/>
-		<property name="Traits" value="WCW, Throwback, Universally Unique"/>
+		<property name="Traits" value="WCW, Throwback, Universally Unique, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent successfully plays a maneuver card, draw up to 1 card. ACE: During your turn, you may remove this card from the game and then shuffle 5 cards from your Ringside into your Arsenal and draw cards equal to the number of maneuvers in your Ring."/>
@@ -582,10 +585,13 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Harlem Heat"/>
-		<property name="Traits" value="WCW, Unique"/>
+		<property name="Traits" value="WCW, Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="After all players' Pre-match phases before the first turn of the game, when your Fortitude Rating is 0, search your Arsenal for Booker's Thrust Kick, put it in your Ring, and shuffle your Arsenal. During your opponent's first turn of the game, they may search their Arsenal for a non-unique maneuver of printed 5D or less, put it in their Ring, and shuffle their Arsenal."/>
+		<property name="Card Text" value="Cannot be blanked.
+After all players' Pre-match phases before the first turn of the game, Arsenal Search Booker's Thrust Kick and when your Fortitude is 0, put it in your Ring.
+When you have lower Fortitude, your Strikes cannot be reversed by hybrid cards and ignore ‘completely’ on reversals to them.
+"/>
 	</card>
 <card id="abcfed15-8451-4ca9-2fcf-d960b01f3901" name="The Harlem Sidekick">
 		<property name="Format" value="VirtualClassic"/>

@@ -36,6 +36,7 @@ namespace RawDealDb.Infrastructure.Repositories
             foreach (var set in setList)
             {
                 set.Cards.ToList().ForEach(x => x.SetId = set.Id);
+                set.Cards.ToList().ForEach(x => x.SetName = set.Name);
                 cardModelList = cardModelList.Concat(set.Cards).ToList();
             }
             return cardModelList;

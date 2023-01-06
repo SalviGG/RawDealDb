@@ -30,7 +30,10 @@
 		<property name="Traits" value="Unique, NXT, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When NXT Championship Title Belt is in your Ring, your opponent's Starting Hand Size is -2. When you have a Title Belt in your Ring and you use your Ability, put up to 1 non-reversal maneuver in your Ringside on the bottom of your Arsenal. When you do not have a Title Belt in your Ring, he has a Title Belt in his Ring, and you have lower Fortitude, add 1 to the numbers in your Ability."/>
+		<property name="Card Text" value="You are considered to have Roll Out of the Ring in your Ring for Apron Bomb.
+When you have a Title Belt in your Ring and you use your Ability, put up to 1 non-reversal maneuver in your Ringside on the bottom of your Arsenal.
+When you do not have a Title Belt in your Ring, he has a Title Belt in his Ring, and you have lower Fortitude, add 1 to the numbers in your Ability.
+"/>
 	</card>
 <card id="5802942c-119c-60be-124a-3bf0b37a0b08" name="Fight Owens Fight" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -69,7 +72,9 @@
 		<property name="Traits" value="Unique, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="During your opponent's turn, before his Draw Segment, you may put this card from your Backlash into your Ring and end his turn; when it was not the first turn of the game, draw up to 2 cards. ACE: During your turn when this card is in your Ring, you may overturn 2 cards, and then discard up to 2 cards, put the same number of cards +1 from your Ringside into your hand, and remove this card from the game."/>
+		<property name="Card Text" value="Cannot be packed when packing Backstage Shenanigans. During your opponent's turn, when it is not his first turn of the game, before his Draw Segment you may put this card from your Backlash into your Ring, draw 2- cards, and end his turn.
+ACE: During your turn when this card is in your Ring, you may overturn 2 cards, and then discard up to 2 cards, put the same number of cards +1 from your Ringside into your hand, and remove this card from the game.
+"/>
 	</card>
 <card id="d5570f1a-1275-37df-9a38-b98d8b2996dc" name="Kevin's Cannonball">
 		<property name="Format" value="VirtualClassic"/>
@@ -147,7 +152,9 @@
 		<property name="Traits" value="Unique, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Reverse any non-maneuver card; look at your opponent's hand, choose up to 3 cards; he shuffles them into his Arsenal, overturns 3 cards, and draws 1 card. When this card is in your Ring, replace 'hand' and 'Arsenal' with 'hand or Arsenal' in your Ability."/>
+		<property name="Card Text" value="Reverse any non-maneuver card. Look at your opponent's hand, choose 3- cards, he shuffles them into his Arsenal and draws that many.
+When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘hand or Arsenal’ in your Ability.
+"/>
 	</card>
 <card id="ad3afd5e-5959-3c2d-6463-943f306458d7" name="Making a Mockery of the Competition">
 		<property name="Format" value="VirtualClassic"/>

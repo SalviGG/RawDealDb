@@ -1,0 +1,73 @@
+[
+  {
+    "Version": "v0.2.3-beta",
+    "Date": "2023-01-05",
+    "Added": [
+      "Added new virtual release \"Then, Now, Forever 4\""
+    ],
+    "Changed": [
+
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
+    "Version": "v0.2.2-beta",
+    "Date": "2023-01-05",
+    "Added": [
+    ],
+    "Changed": [
+      "Modified card image visualization for clarity and ease of use.",
+      "Made the quick search option to be \"by card name\" by default."
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
+    "Version": "v0.2.1-beta",
+    "Date": "2022-12-29",
+    "Added": [
+      "Change log section. All new features, changes, updates and fixes will be listed there.",
+      "Change log service. To retrieve json containing change logs."
+
+    ],
+    "Changed": [
+      "Modified padding and some visual positioning."
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
+    "Version": "v0.2.0-beta",
+    "Date": "2022-12-29",
+    "Added": [
+      "\"Search by\" function for quick search text input.",
+      "Rules and FAQ section. Visualization with PDF format."
+    ],
+    "Changed": [
+
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
+    "Version": "v0.1.0-beta",
+    "Date": "2022-12-14",
+    "Added": [
+      "First beta release",
+      "Quick search. Filters data immediately.",
+      "DataGrid for cards",
+      "Image visualization by clicking the > symbol in the first column"
+    ],
+    "Changed": [
+
+    ],
+    "Fixed": [
+
+    ]
+  }
+]

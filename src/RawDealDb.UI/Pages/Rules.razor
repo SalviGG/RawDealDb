@@ -1,0 +1,36 @@
+﻿@page "/Rules"
+@using RawDealDb.UI.Components.Rules
+@using RawDealDb.UI.Interfaces;
+
+<PageTitle>Rules & FAQ</PageTitle>
+<MudPaper Class="ma-2">
+    <MudContainer>
+        <MudText Typo="Typo.h4">Rules & FAQ</MudText>
+    </MudContainer>
+</MudPaper>
+<MudSpacer/>
+<MudPaper Height="100%" Width="100%" Class="ma-2">
+    <MudContainer>
+        <MudRadioGroup T="bool" SelectedOption="@_rulesRadio" SelectedOptionChanged="OnSelectedOptionChanged"> 
+            <MudRadio Option="true" Color="Color.Primary" Dense="true">OmniFaq</MudRadio>
+            <MudRadio Option="false" Color="Color.Secondary" Dense="true">Raw Deal Classic Rules</MudRadio>
+        </MudRadioGroup>
+    </MudContainer>
+    <MudContainer Fixed="true">
+        <MudPaper>
+            <iframe src="@_fileName" style="height: 50vh;" frameborder="0" />
+        </MudPaper>
+    </MudContainer>
+</MudPaper>
+
+@code {
+
+    private string _fileName = "docs/omnifaq.pdf";
+    public bool _rulesRadio { get; set; } = true;
+
+    private void OnSelectedOptionChanged(bool selectedValue)
+    {
+        _rulesRadio = selectedValue;
+        _fileName = _rulesRadio ? "docs/omnifaq.pdf" : "docs/rulebookv1.7a.pdf";
+    }
+}
