@@ -66,7 +66,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event: Heat"/>
 		<property name="SS Logos" value="Elias"/>
-		<property name="Traits" value="Unique, Heat, Permanent"/>
+		<property name="Traits" value="Unique, Heat, Permanent, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent successfully plays an Action, subtract 1 from all numbers in its text, to a minimum of 1. ACE: When your opponent successfully plays a non-Superstar specific Action, you may remove this card from the game and choose one: either resolve a copy of the card's effects after your opponent does or blank the card's text and damage until the end of the turn."/>
@@ -157,7 +157,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action: Heat"/>
 		<property name="SS Logos" value="Elias"/>
-		<property name="Traits" value="Unique, Heat"/>
+		<property name="Traits" value="Unique, Heat, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Choose 1: Draw 3 cards or your opponent discards 3 cards. ACE: You may skip your Draw Segment. If you do, your cards are considered Unique for your opponent's reversals this turn. This effect cannot be reversed."/>
@@ -386,7 +386,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Andrade"/>
-		<property name="Traits" value="Unique"/>
+		<property name="Traits" value="Unique, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Your opponent cannot prevent you from playing this card. Your Pre-match Capacity is +2. When your maneuver is unsuccessful he cannot Activate non-Superstar-specific cards during his next turn. ACE: You may remove Hurricanrana in your hand from the game to reverse a non-Unique maneuver."/>
@@ -449,12 +449,12 @@
 		<property name="Damage" value="10"/>
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
-		<property name="CardType" value="High Risk + High Risk"/>
+		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value="Andrade, Alberto Del Rio"/>
-		<property name="Traits" value="Unique, Multi"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be played after a 5D+ maneuver. Can only be reversed by D:0 cards. When this card is unsuccessful, remove 1 random card in your Ringside from the game."/>
+		<property name="Card Text" value="Can only be played after a successful card. Cannot be reversed when played after a Set-up; when it is not, can only be reversed by D:0 reversal cards."/>
 	</card>
 <card id="2739e6d6-861f-4f58-9e8c-606d0934a7d8" name="Top Rope Arm Triangle">
 		<property name="Format" value="VirtualClassic"/>
@@ -635,7 +635,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action / Reversal: Special"/>
 		<property name="SS Logos" value="Nia Jax"/>
-		<property name="Traits" value="Unique, Multi, Permanent"/>
+		<property name="Traits" value="Unique, Multi, Permanent, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, shuffle 5 cards from your Ringside into your Arsenal and Ringside Search 1. As a reversal, reverse any non-Trademark Finisher maneuver or non-damage card effect; when overturned, put this card into your Ring. ACE: Once during each of your turns, you may reveal a Nia Jax-specific card from your hand and then shuffle it into your Arsenal and draw two cards; when your opponent is Female, this effect cannot be reversed."/>
@@ -822,7 +822,7 @@
 		<property name="Traits" value="Unique, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be played from Ringside. When the first card played on your turn is a maneuver from Ringside or has the Tag logo, it is Multi and can only be reversed by 2 reversals."/>
+		<property name="Card Text" value="Can only be played from Ringside. When your first card played each turn is a maneuver from Ringside or has the Tag logo, it is Multi and can only be reversed by 2 reversals."/>
 	</card>
 <card id="4b384ef0-af19-4210-93c0-c0da14ab9eda" name="Johnny Gargano">
 		<property name="Format" value="VirtualClassic"/>
@@ -850,7 +850,8 @@
 		<property name="Traits" value="Unique, RMS, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your maneuvers with ‘technical’ or 'dynamic' in the title are considered to have both 'dynamic' and 'technical' in the title. You may pack up to 1 Chain Reaction, 1 Spontaneous Combustion, 1 The Opening Volley and, 1 Technically Sound and Brutal in your Backstage. They are Unique and Superstar-specific. At the end of the Pre-match phase you may put those cards into your Ring."/>
+		<property name="Card Text" value="When packing this card, you may pack up to 1 Chain Reaction, 1 Spontaneous Combustion, 1 The Opening Volley and, 1 Technically Sound and Brutal in your Backstage. They are Unique and Superstar-specific. At the end of the Pre-match phase you may put those cards into your Ring.
+Your ’Technical’ and ‘Dynamic’ maneuvers are considered to have both ‘Dynamic’ and ‘Technical’ in the title."/>
 	</card>
 <card id="42475419-fdef-43a0-8760-50730f6a7044" name="Johnny Wrestling" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -873,7 +874,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Johnny Gargano"/>
-		<property name="Traits" value="Unique, Permanent, NXT"/>
+		<property name="Traits" value="Unique, Permanent, NXT, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent has 3+ reversals in his Ring and your maneuver is unsuccessful put this card into your Ring and then draw 2 cards. You may choose up to 2 effects for your Ability. ACE: Once during each of your turns, you make remove 1 card with 'technical' in your Ring from the game and then your opponent removes 2 random non-Heat cards in his Ringside from the game."/>
@@ -966,7 +967,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Tommaso Ciampa"/>
-		<property name="Traits" value="Unique, Permanent, NXT"/>
+		<property name="Traits" value="Unique, Permanent, NXT, ACE"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Before the Draw Segment of your first turn of the game look at the top 6 cards of your Arsenal, put them on the top and/or bottom in any order and overturn 1 card. ACE: Once during each of your turns, you may look at the top 5 cards of your Arsenal and then put them at the top and/or bottom in any order, and then overturn 1 card."/>

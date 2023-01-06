@@ -29,10 +29,11 @@ You can pack non-'Echo' non-'Shield' non-Backstage Roman Reigns cards (ignore 'B
         <property name="Traits" value="Unique, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When playing a card (even during the Pre-match phase), you may choose 1: you are considered to have greater Superstar Value or greater Fortitude than your opponent.
+        <property name="Card Text" value="When you would play a card (even during the Pre-match phase), you may first choose 1: you are considered to have greater Superstar Value or greater Fortitude than your opponent.
 Your Superstar-specific maneuvers are Trademark Finishers instead.
 During your turn, you may hide this card to Bury 1 RFG Superstar-specific card.
-When your Superstar-specific card is successful, you may reveal this card and draw 1- cards."/>
+When your Superstar-specific card is successful, you may reveal this card and draw 1- cards.
+"/>
 </card>
 <card id="92be5092-0ac2-4e9a-8b46-04cde0505209" name="The Head of the Table" size="Wide">
         <property name="Format" value="VirtualClassic"/>

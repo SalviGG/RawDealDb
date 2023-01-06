@@ -179,7 +179,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Raw, Universally Unique"/>
+		<property name="Traits" value="Raw, Universally Unique, Run-in"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played by Shawn Michaels or if your opponent is Shawn Michaels. When this card is in your Ring area, your Strike maneuvers are +1D and you may put this card into your Ringside pile to reverse the cards titled Iron Will, Clutch onto Opponent, Commission-er Rules!, Little She Devil, Simply The Best or I;ve Got Two Words for Ya! and end your opponent's turn."/>
@@ -192,7 +192,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Raw, Universally Unique, Heel"/>
+		<property name="Traits" value="Raw, Universally Unique, Heel, Run-in"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played by Chris Nowinski or if your opponent is Chris Nowinski. When this card is in your Ring area, as a Mid-match Action: Run-in, you may put this card and the card titled Trash Talkin Interview into your Ringside pile to shuffle up to 12 cards from your Ringside pile into your Arsenal and draw up to 3 cards."/>
@@ -205,7 +205,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Smackdown, Universally Unique"/>
+		<property name="Traits" value="Smackdown, Universally Unique, Run-in"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played by Big Show or if your opponent is Big Show. At the end of the Pre-match phase, you may put this card into your Ringside pile to put the card titled It's Showtime from your opponent's Ring area into his Ringside pile. When this card is in your Ring ares you may put this card into your Ringside pile to reverse the cards titled Beating the Odds, Turn the Tide, Roll Out of the Ring, J.R.Style Slobberknocker, or Ring Steps and end your opponent's turn"/>
@@ -218,7 +218,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Smackdown, Universally Unique, Face"/>
+		<property name="Traits" value="Smackdown, Universally Unique, Face, Run-in"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played by Rey Mysterio or if your opponent is Rey Mysterio. When this card is in your Ring area, as a Mid-match Action: Run-in, you may put this card and the card titled Fans Love An Underdog into your Ringside pile to draw 2 cards, put 1 Face card from your Ringside pile into your hand, and your opponent's Reversal card to your next card played this turn is +16F."/>
@@ -257,7 +257,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Raw, Universally Unique"/>
+		<property name="Traits" value="Raw, Universally Unique, Run-in"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Al Snow. Cannot be played when your opponent is Al Snow. At the end of the Pre-match phase, you may put 1 Smackdown card with an Activated Card Effect from your opponent's Ring area into his Ringside pile. When this card is in your Ring area, you may put it into your Ringside pile to reverse any non-unique Smackdown card and end your opponent's turn."/>
@@ -270,7 +270,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Smackdown, Universally Unique"/>
+		<property name="Traits" value="Smackdown, Universally Unique, Run-in"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Hardcore Holly. Cannot be played when your opponent is Hardcore Holly. At the end of the Pre-match phase, name a non-unique card. When this card is in your Ring Area you may put it into your Ringside pile to reverse the named card and end your opponent's turn."/>

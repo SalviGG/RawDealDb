@@ -28,10 +28,11 @@ At the end of the Pre-match phase, Arsenal Search 6- non-Superstar specific prin
         <property name="Traits" value="Unique, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Cannot be packed by Doink or when packing Dynamic cards.
-Before starting hands are drawn, Arsenal / Ringside Search 10 non-Unique printed Technical maneuvers, put them under this card, and shuffle;  if you do not, hide this card.  At the end of the Pre-match Phase, choose 1 card under this card, put it into your hand, and shuffle the other cards into your Arsenal.
+        <property name="Card Text" value="Cannot be packed by Doink, or when packing Back to Basics or ’Dynamic’ cards.
+Arsenal / Ringside Search 10 non-Unique printed ‘Technical’ maneuvers and put them under this card;  if you do not, hide this card. At the end of the Pre-match Phase, put 1 card under this card into your hand, and shuffle the other cards into your Arsenal.
 Your Technically Sound and Brutal is Active, Unique, Permanent, and double the numbers in the text.
-When you have equal or lower Fortitude and your printed Technical maneuver is unsuccessful, Arsenal Search 1 printed Technical maneuver."/>
+When you have equal or lower Fortitude and your printed ‘Technical’ maneuver is unsuccessful, Arsenal Search 1 printed ‘Technical’ maneuver.
+"/>
 </card>
 <card id="7e57628a-a443-47cf-97d5-c25d8c1d54bf" name="Fans Love Shenanigans">
         <property name="Format" value="VirtualClassic"/>
@@ -123,7 +124,8 @@ When your maneuver is successful, put all cards under this card into your Ringsi
         <property name="Target" value=""/>
         <property name="Card Text" value="Can only be packed by an NXT Superstar.
 Your non-Multi Strikes without reversed in the text are -2F and +1D.
-When you are Tyler Bate, Pete Dunne, or WALTER, and your opponent activates Sustained Damage, draw 1- card.
+When you are Tyler Bate, Pete Dunne, or W
+, and your opponent activates Sustained Damage, draw 1- card.
 SSV: +1"/>
 </card>
 <card id="66cbfdd7-3a9e-403c-abb5-4e685baefa7c" name="NXT UK Tag Team Titles" size="Wide">
@@ -213,9 +215,10 @@ ACE: During your turn you may Bury 3 Hand cards and then RFG this card and your 
         <property name="Traits" value="Unique, RMS, Classic WWF, Cheater"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When Classic Competitor is revealed, this card is considered to have Classic in the title.
+        <property name="Card Text" value="When packing Classic Competitor, this card is considered to have ‘Classic’ in the title.
 Can only be reversed from Arsenal when you have no Ring non-Superstar-specific D: 1+ Pre-match cards or maneuvers.
-Ignore the Can only be played after text on your next non-High Risk, non-Illegal maneuver this turn, and you are considered to have +5F when playing it."/>
+Ignore the ‘Can only be played after’ text on your next non-High Risk, non-’Illegal’ maneuver this turn, and you are considered to have +5F when playing it.
+"/>
 </card>
 <card id="27499745-da7f-4f0b-a0de-bcb9397522fd" name="Sink Your Teeth In">
         <property name="Format" value="VirtualClassic"/>
@@ -299,7 +302,7 @@ Blank all non-Superstar-specific cards in your opponent's Ring until the end of 
         <property name="SSV" value=""/>
         <property name="CardType" value="Grapple + Grapple"/>
         <property name="SS Logos" value=""/>
-        <property name="Traits" value="Unique, Multi, Cheater"/>
+        <property name="Traits" value="Unique, Multi, Raw, Cheater"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="When played after Irish Whip or Throw Into the Corner Turnbuckle, can only be reversed by cards with Whip, Corner, or Set-up in the title or text.
@@ -1132,7 +1135,8 @@ When this card is successful and it is not reversed from Arsenal, your opponent 
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Completely reverse any card of printed D: # or less, where # is equal to the number of your Ring cards.
-When this card is in your Ring and your High Risk is unsuccessful, you may put it under Montez Ford's Solo Cup."/>
+When your High Risk is unsuccessful, you may put it under Montez Ford's Solo Cup.
+"/>
 </card>
 <card id="dafdd63d-6528-4026-ba67-7c88de4752ef" name="Bring The Swag">
         <property name="Format" value="VirtualClassic"/>
@@ -1178,8 +1182,9 @@ You are a Tag Team."/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Reveal all Backlash cards in your Backstage, put any Superstar-specific cards into your Backlash, and shuffle the others into your Arsenal.
-Your Mid-match and printed Superstar-specific Pre-match cards do not take up slots in your Ring. Your opponent cannnot prevent you from playing Superstar-specific Pre-match cards, they cannot be blanked, and he cannot move them or face-down cards from your Ring.
-Once during each of your turns, you may discard 1 Backlash card from hand, and your opponent RFG 1 random Hand card."/>
+Your Mid-match and printed Superstar-specific Pre-match cards do not take up slots in your Ring. Your opponent cannot prevent you from playing Superstar-specific Pre-match cards, they cannot be blanked or made Permanent, and he cannot move them or face-down cards from your Ring.
+Once during each of your turns, you may discard 1 Backlash card from hand, and your opponent RFG 1 random Hand card.
+"/>
 </card>
 <card id="7951b0fd-1a1c-467d-805c-d48cf408cd0f" name="Day of RECKONING">
         <property name="Format" value="VirtualClassic"/>
@@ -1373,9 +1378,10 @@ Once during each of your turns, when you have 2- cards under your Superstar, you
         <property name="Traits" value="Unique, RMS, NXT UK"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Your opponent cannot prevent you from playing Pre-match cards or reduce your Starting Hand Size.
+        <property name="Card Text" value="Your opponent cannot prevent you from playing Pre-match cards (except by ‘Shenanigans’ cards) or reduce your Starting Hand Size.
 During your turn, you may hide this card and shuffle 2- Ringside cards into your Arsenal.
-When this card is hidden and you successfully play an IMPERIUM-specific or WALTER-specific card, you may reveal this card."/>
+When this card is hidden and you successfully play an Imperium-specific or WALTER-specific card, you may reveal this card.
+"/>
 </card>
 <card id="6b51c767-c9ac-4f87-9c35-904218750b40" name="Symphony of Destruction" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -1675,7 +1681,8 @@ When this card is in your Ring and your maneuver is successful you may Promo: 2 
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="This card is +#F, where # = half the damage of the reversed card, rounded up, and cannot be less than 5.
-When this card is in your Ring or Ringside and your maneuver played from under your Superstar is unsuccessful, you may Bury it."/>
+When this card is in your Ring or Ringside and your maneuver played from under your Superstar card is unsuccessful, you may Bury 1 RFG action.
+"/>
 </card>
 <card id="f94d41a6-3681-4667-9d8d-62c74319b5ff" name="Rhea Ripley">
         <property name="Format" value="VirtualClassic"/>
@@ -1704,9 +1711,10 @@ You can pack No Sell Maneuver and non-Unique Multi maneuvers but you cannot pack
         <property name="Traits" value="Unique, RMS, NXT UK"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Replace a superstar on your NXT Women's Championship Title Belt with Rhea Ripley.
+        <property name="Card Text" value="Replace a superstar on your [/i]NXT Women's Championship Title Belt[/i] with ‘Rhea Ripley’.
 When This Is My Brutality! would be put into your Ringside, put it into your Ring instead.
-During your turn you may hide this card, put 1 F:0 non-maneuver card in your opponent's Ring into his Ringside, and end your turn."/>
+During your turn you may hide this card, put 1 F: 0 non-Superstar-specific non-maneuver card in your opponent's Ring into his Ringside, and end your turn.
+"/>
 </card>
 <card id="df41328d-fd08-4261-b961-211f7c915e2c" name="The Nightmare">
         <property name="Format" value="VirtualClassic"/>
@@ -1793,8 +1801,9 @@ As a maneuver this card is -8F, and when you have lower Fortitude, can only be r
         <property name="Stun" value="1"/>
         <property name="Target" value=""/>
         <property name="Card Text" value="When you have F: 25+, this card is +10D and a Trademark Finisher instead.
-Arsenal / Ringside Search Maintain Hold. If it is your next card played, ignore the Can only be played... text.
-When this card is reversed from Arsenal you may discard 2 cards to continue your turn but you can only play Maintain Hold for the rest of the turn."/>
+Arsenal / Ringside Search Maintain Hold. If it is your next card played, ignore the ‘Can only be played...’ text.
+When this card is reversed from Arsenal and has not been maintained this turn you may discard 2 cards to continue your turn but you can only play Maintain Hold for the rest of the turn.
+"/>
 </card>
 <card id="b078d4cb-c7d0-41ec-91e3-a05cd5efc23d" name="Riptide">
         <property name="Format" value="VirtualClassic"/>
@@ -2085,8 +2094,11 @@ As a reversal, reverse any card of #D-."/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Throwback Superstar Ability: When your opponent plays a card, you may RFG 1 Hand action, and his card is -4D.
-You may pack The Fiend-specific cards. When packing The Fiend-specific cards, you may not pack non-maneuver Bray Wyatt cards.
-You cannot pack Ring Psychology: Arm or Beg for Mercy. You cannot play more than 1 Superstar-specific action each turn."/>
+You may pack The Fiend-specific cards. When packing The Fiend-specific cards, you may not pack non-maneuver Bray Wyatt cards (except Do the Muscle Man Dance!).
+You cannot pack Ring Psychology: Arm or Beg for Mercy. You cannot play more than 1 Superstar-specific action each turn.
+"/>
+		<alternate name="Bray Wyatt - Throwback" type="alt">
+			</alternate>
 </card>
 <card id="d2bb7653-cdc9-4677-8bcd-f6d6fe2bc64e" name="Casket Match" size="Wide">
         <property name="Format" value="VirtualClassic"/>

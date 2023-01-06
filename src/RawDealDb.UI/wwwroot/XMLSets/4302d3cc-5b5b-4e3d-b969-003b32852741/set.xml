@@ -274,7 +274,10 @@ When your non-Chain, non-Volley, non-RMS 'Punch', 'Fist', 'Hook', 'Uppercut', 'H
         <property name="Traits" value="Unique, Permanent, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-		<property name="Card Text" value="When you have not continued your turn, you may play 1 additional printed Heat maneuver from your Ringside each turn for every 4 printed Heat cards in your Ringside. Your Feel the Fire and Sparks of Glory are Active and Permanent. Your opponent cannot RFG your Heat or 'Blindside' cards with non-Superstar-specific cards or effects."/>
+		<property name="Card Text" value="When you have played a Heat card this turn and not continued your turn, you may play 1 additional printed Heat Ringside maneuver for every 4 printed Heat Ringside cards.
+Your Feel the Fire and Sparks of Glory are Active and Permanent.
+No player may RFG your Ringside Heat or ‘Blindside’ cards with an effect from your opponent's cards, and your maneuvers played from Ringside are considered played from hand for the Volley trait.
+"/>
      </card>
 <card id="710fd5df-1f95-4aa7-adae-8ba8b90f1ca2" name="And the Crowd goes Wild!" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -1817,7 +1820,11 @@ ACE: When he plays a non-Unique maneuver you may put up to 3 IICONICS! from your
         <property name="Traits" value="Unique, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Your cards with with 'Legend' or 'Era of the Superstar' in the text are considered Superstar-specific. When your Superstar-specific card is successful, draw 1 card; when it is not, your opponent RFGs 1 card in his hand. When you would lose the game, hide this card and then put up to 5 cards from your Ring into your Ringside, put any Backlash cards in your Ringside or RFG into your Backlash, shuffle your Ringside and RFG into your Arsenal, and draw up to 3 cards. This effect cannot be reversed or prevented."/>
+        <property name="Card Text" value="You cannot RFG F: 0 or Superstar-specific maneuvers with your Ability.
+Your cards with ‘Legend’ or ‘Era of the Superstar’ in the text are considered Superstar-specific. When your Superstar-specific card is successful, draw 1 card; when it is not, your opponent RFG 1 Hand card.
+His maneuvers are -1D for every 3 of his Hand cards.
+Increase the number of cards moved from your Ringside or RFG into your Arsenal by 1, and he decreases the number of cards moved from his Ringside or RFG into his Arsenal by 1 (min. 1).
+"/>
      </card>
 <card id="5845a76a-48f7-4fea-8bbe-4d043ff7f265" name="I'm Back, and I'm Better Than Ever" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -2025,7 +2032,10 @@ ACE: When he plays a non-Unique maneuver you may put up to 3 IICONICS! from your
         <property name="Traits" value="Unique, RMS, WCW"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When packing this card, you may pack any number of The Four Horseman-specific Backlash cards in your Backstage, they can be played during any phase, and when you reveal this card, put them into your Backlash. Your Pre-match Capacity is +4. Your opponent cannot prevent you from playing Title Belts. Ignore 'non-maneuver' on your non-hybrid Superstar-specific cards. During the Pre-match phase, or when you have 4- cards in hand or 4+ lower Fortitude: you are also considered the Brain Busters for your effects, draw 1 additional card for your Ability, your Superstar-specific maneuvers are Trademark Finishers instead, and when your maneuver is unsuccessful, he overturns 4 cards."/>
+        <property name="Card Text" value="When packing this card, you may pack any number of The Four Horseman-specific Backlash cards in your Backstage, they can be played during any phase, and when you reveal this card, put them into your Backlash. Your Pre-match Capacity is +4, and your opponent cannot prevent you from playing Title Belts.
+Ignore ‘non-maneuver’ on your non-hybrid Superstar-specific cards.
+You are also considered the Brain Busters for your effects during the Pre-match phase. When you have 4- cards in hand or 4+ lower Fortitude: draw 1 additional card for your Ability, your Superstar-specific maneuvers are Trademark Finishers instead, and when your maneuver is unsuccessful, he overturns 4 cards.
+"/>
      </card>
 <card id="60918849-b6e8-4129-8563-e5c39a14b773" name="A Legendary Legion">
         <property name="Format" value="VirtualClassic"/>
@@ -2688,7 +2698,10 @@ ACE: When he plays a non-Unique maneuver you may put up to 3 IICONICS! from your
         <property name="Traits" value="Unique, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When packing this card, your 'Blindside' maneuvers are not Fan Favorite, and they are considered Chain for your effects; you can pack 3 Ready to Fight in your Backstage, and they can be played from Backstage. During your first Draw Segment, draw up to 2 additional cards. Ignore the 'played from hand and' text on your Tag Team reversals. When you would RFG cards for playing a 'Blindside' maneuver, you may instead put 1 Tag Team card or 1 card with 'tag team' in the text from your Ring under this card. Your maneuvers are +2D and +1 Stun Value for every 3 cards under this card."/>
+        <property name="Card Text" value="When packing this card, your ‘Blindside’ maneuvers are not Fan Favorite, and they are considered Chain for your effects; you can pack 3 Ready to Fight in your Backstage, and they can be played from Backstage.
+During your first Draw Segment, draw 2- additional cards. Ignore the ’When...partner’ text on your Tag reversals.
+When you would RFG cards for playing a ‘Blindside’ maneuver, you may instead put 1 Tag card or 1 card with 'tag team' in the text from your Ring under this card. Your maneuvers are +2D and +1 Stun Value for every 3 cards under this card.
+"/>
      </card>
 <card id="2ff36994-d593-4bb7-a5d7-3be5d046e909" name="Wilder's Blindside Punch">
         <property name="Format" value="VirtualClassic"/>
@@ -3013,7 +3026,9 @@ ACE: When he plays a non-Unique maneuver you may put up to 3 IICONICS! from your
         <property name="Traits" value="Unique"/>
         <property name="Stun" value="3"/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When played after a successful maneuver, this card is -5F and +5D. When this card is in your Ringside and your maneuver is unsuccessful, you may put it on the bottom of your Arsenal."/>
+        <property name="Card Text" value="When played after a successful maneuver, this card is -5F and +5D.
+When this card is in your Ringside and your maneuver is unsuccessful, you may Bury this card.
+"/>
      </card>
 <card id="2f30534d-0e12-4619-8328-242a73b5099c" name="A Triple Threat">
         <property name="Format" value="VirtualClassic"/>
