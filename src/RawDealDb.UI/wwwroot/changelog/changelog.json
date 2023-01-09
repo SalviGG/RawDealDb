@@ -1,9 +1,21 @@
 [
   {
+    "Version": "v0.2.4-beta",
+    "Date": "2023-01-09",
+    "Added": [
+    ],
+    "Changed": [
+      "Adjusted max width for images to keep them all fairly the same size."
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
     "Version": "v0.2.3-beta",
     "Date": "2023-01-05",
     "Added": [
-      "Added new virtual release \"Then, Now, Forever 4\""
+      "Added new virtual release \"Then, Now, Forever 4.\""
     ],
     "Changed": [
 

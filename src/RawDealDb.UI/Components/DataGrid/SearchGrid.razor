@@ -24,7 +24,7 @@
                 @{
                     var srcPath = "img/Sets/" + context.Item.SetId + "/Cards/" + context.Item.Id + ".jpg";
                 }
-                <MudImage Src="@srcPath"></MudImage>
+                <MudImage Src="@srcPath" Style="width: 250px;"></MudImage>
             </CellTemplate>
         </Column>
         <Column T="CardDto" Field="Name"/>
