@@ -65,6 +65,10 @@
             return true;
         if (_selectValue == (int)SearchByEnum.SuperStarValue && x.SuperStarValue.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
             return true;
+        if (_selectValue == (int)SearchByEnum.CardText && x.CardText.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (_selectValue == (int)SearchByEnum.Traits && x.Traits.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
 
         return false;
     };

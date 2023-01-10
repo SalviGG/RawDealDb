@@ -1,5 +1,17 @@
 [
   {
+    "Version": "v0.2.5-beta",
+    "Date": "2023-01-10",
+    "Added": [
+    ],
+    "Changed": [
+      
+    ],
+    "Fixed": [
+      "Quick search for card text and traits was unimplemented."
+    ]
+  },
+  {
     "Version": "v0.2.4-beta",
     "Date": "2023-01-09",
     "Added": [
