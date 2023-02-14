@@ -21,16 +21,19 @@
     <Columns>
         <Column T="CardDto" Filterable="false" Style="text-align: right;">
             <CellTemplate>
-                @{
-                    var srcPath = "img/Sets/" + context.Item.SetId + "/Cards/" + context.Item.Id + ".jpg";
-                }
-                <MudImage Src="@srcPath" Style="width: 250px;"></MudImage>
+                <MudCard Outlined="true">
+                    @{
+                        var srcPath = "img/Sets/" + context.Item.SetId + "/Cards/" + context.Item.Id + ".jpg";
+                    }
+                    <MudCardContent>
+                        <MudImage Src="@srcPath" Style="width: 250px;"></MudImage>
+                        <MudSpacer />
+                        <MudText>Card text: @context.Item.CardText</MudText>
+                    </MudCardContent>
+                </MudCard>
+                
             </CellTemplate>
         </Column>
-        <Column T="CardDto" Field="Name"/>
-        <Column T="CardDto" Field="Format"/>
-        <Column T="CardDto" Field="Traits"/>
-        <Column T="CardDto" Field="CardText" Title="Card text"/>
     </Columns>
     <PagerContent>
         <MudDataGridPager T="CardDto"/>
