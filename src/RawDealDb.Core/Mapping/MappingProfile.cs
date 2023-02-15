@@ -23,7 +23,8 @@ namespace RawDealDb.Core.Mapping
                 .ForMember(dest => dest.Damage, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "Damage").Value))
                 .ForMember(dest => dest.HandSize, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "Hand Size").Value))
                 .ForMember(dest => dest.SuperStarValue, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "SSV").Value))
-                .ForMember(dest => dest.SuperStarLogo, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "SS Logos").Value));
+                .ForMember(dest => dest.SuperStarLogo, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "SS Logos").Value))
+                .ForMember(dest => dest.CardType, opt => opt.MapFrom(src => src.Properties.FirstOrDefault(x => x.Property == "CardType").Value));
             CreateMap<CardPropertyModel, CardPropertyDto>();
         }
     }

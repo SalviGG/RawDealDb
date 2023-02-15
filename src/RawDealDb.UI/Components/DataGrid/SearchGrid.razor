@@ -19,16 +19,39 @@
         <MudSpacer/>
     </ToolBarContent>
     <Columns>
-        <Column T="CardDto" Filterable="false" Style="text-align: right;">
+        <Column T="CardDto" Filterable="false" >
             <CellTemplate>
                 <MudCard Outlined="true">
                     @{
                         var srcPath = "img/Sets/" + context.Item.SetId + "/Cards/" + context.Item.Id + ".jpg";
                     }
                     <MudCardContent>
-                        <MudImage Src="@srcPath" Style="width: 250px;"></MudImage>
-                        <MudSpacer />
-                        <MudText>Card text: @context.Item.CardText</MudText>
+                        <MudGrid>
+                            <MudItem xs="9" Class="d-flex align-center justify-center mud-width-full">
+                                <MudText Style="text-decoration: underline;">@context.Item.Name</MudText>
+                            </MudItem>
+                            <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full">
+                                <MudText><b>F</b> @context.Item.Fortitude</MudText>
+                            </MudItem>
+                            <MudItem xs="12" Class="d-flex mud-width-full">
+                                <MudText><b>Type:</b> @context.Item.CardType</MudText>
+                            </MudItem>
+                            <MudItem xs="12" Class="d-flex mud-width-full">
+                                <MudText><b>Card text:</b> @context.Item.CardText</MudText>
+                            </MudItem>
+                            <MudItem xs="12" Class="d-flex mud-width-full">
+                                <MudText><b>Traits:</b> @context.Item.Traits</MudText>
+                            </MudItem>
+                            <MudItem xs="12" Class="d-flex mud-width-full">
+                                <MudText><b>Set:</b> @context.Item.SetName</MudText>
+                            </MudItem>
+                            <MudItem xs="9" Class="d-flex align-right justify-center mud-width-full">
+                            </MudItem>
+                            <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full">
+                                <MudText><b>D</b> @context.Item.Damage</MudText>
+                            </MudItem>
+                        </MudGrid>
+
                     </MudCardContent>
                 </MudCard>
                 

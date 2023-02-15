@@ -12,6 +12,7 @@ namespace RawDealDb.Core.DTO
         public string Name { get; set; }
         public string Format { get; set; }
         public string Traits { get; set; }
+        public string CardType { get; set; }
         public string CardText { get; set; }
         public string Fortitude { get; set; }
         public string Damage { get; set; }
