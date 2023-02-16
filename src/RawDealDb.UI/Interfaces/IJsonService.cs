@@ -2,7 +2,7 @@
 
 namespace RawDealDb.UI.Interfaces
 {
-    public interface IChangelogService
+    public interface IJsonService
     {
         Task<List<ChangeLogDto>> GetChangelogs();
     }

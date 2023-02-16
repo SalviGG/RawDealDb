@@ -9,13 +9,13 @@ using System.Threading.Tasks;
 
 namespace RawDealDb.Core.Service
 {
-    public class ChangelogServiceCore : IChangelogServiceCore
+    public class JsonMappingServiceCore : IJsonMappingServiceCore
     {
-        public async Task<List<ChangeLogDto>> GetChangelogAsync(string contextPath)
+        public async Task<T> GetJsonMappedAsync<T>(string contextPath) where T : class
         {
             using (var stream = File.OpenRead(contextPath))
             {
-                return await JsonSerializer.DeserializeAsync<List<ChangeLogDto>>(stream);
+                return await JsonSerializer.DeserializeAsync<T>(stream);
             }
         }
     }

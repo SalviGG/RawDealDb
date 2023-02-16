@@ -7,8 +7,8 @@ using System.Threading.Tasks;
 
 namespace RawDealDb.Core.Interfaces.Service
 {
-    public interface IChangelogServiceCore
+    public interface IJsonMappingServiceCore
     {
-        Task<List<ChangeLogDto>> GetChangelogAsync(string contextPath);
+        Task<T> GetJsonMappedAsync<T>(string contextPath) where T : class;
     }
 }

@@ -17,7 +17,7 @@ namespace RawDealDb.Core.IoC
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
             services.AddScoped<ISetServiceCore, SetServiceCore>();
             services.AddScoped<ICardServiceCore, CardServiceCore>();
-            services.AddScoped<IChangelogServiceCore, ChangelogServiceCore>();
+            services.AddScoped<IJsonMappingServiceCore, JsonMappingServiceCore>();
 
             return services;
         }
