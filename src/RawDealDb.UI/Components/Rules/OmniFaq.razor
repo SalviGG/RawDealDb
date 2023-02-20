@@ -3,7 +3,7 @@
 @inject IJsonService _jsonService;
 
 
-@*<MudDataGrid T="ContentDto" Items="@_omniFaqDto.Content" Filterable="false" Bordered="true">
+<MudDataGrid T="ContentDto" Items="@_omniFaqDto.Content" Filterable="false" QuickFilter="@_quifilter" Bordered="true" Class="ma-2">
     <ToolBarContent>
         <MudTextField @bind-Value="_searchString" Placeholder="Search value" Adornment="Adornment.Start" Immediate="true"
                       AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
@@ -12,13 +12,18 @@
     <Columns>
         <Column T="ContentDto" Filterable="false">
             <CellTemplate>
-                <MudText>
-                    @context
-                </MudText>
+                <MudCard>
+                    <MudCardHeader>
+                        @context.Item.Name
+                    </MudCardHeader>
+                    <MudCardContent>
+                        @context.Item.Value
+                    </MudCardContent>
+                </MudCard>
             </CellTemplate>
         </Column>
     </Columns>
-</MudDataGrid>*@
+</MudDataGrid>
 
 
 @code {
@@ -27,7 +32,19 @@
 
     protected override async Task OnInitializedAsync()
     {
-         _omniFaqDto = await _jsonService.GetOmniFaq();
+        _omniFaqDto = await _jsonService.GetOmniFaq();
     }
 
+    private Func<ContentDto, bool> _quifilter => x =>
+    {
+        if (string.IsNullOrWhiteSpace(_searchString))
+            return true;
+        if (x.Name.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+        if (x.Value.Contains(_searchString, StringComparison.OrdinalIgnoreCase))
+            return true;
+
+        return false;
+
+    };
 }

@@ -1,99 +1,98 @@
 {
-    "OmniFaq":{
-        "name" : "WWE RAW DEAL OmniFAQ",
-        "version": "v4.0",
-        "lastUpdate": "January 1st, 2021",
-        "content": [
-                {
-                    "type":"SuperStar",
-                    "name": "Gail Kim and Molly Holly",
-                    "value": "They cannot pack cards with a restriction for one member, such as \"Cannot be packed by Gail Kim.\""
-                },
-                {
-                    "type":"SuperStar",
-                    "name": "Shane O' Mac",
-                    "value": "ERRATA: This Superstar is now a Throwback card, since a card already existed in Raw Deal with the same name."
-                },
-                {
-                    "type":"SuperStar",
-                    "name": "The Largest Athlete In Sports Entertainment",
-                    "value": "ERRATA: The Ability now begins with: \"You cannot pack High Risk maneuvers. Your non-Multi Strike, Grapple, and Submission maneuvers played from your hand are F:0.\""
-                },
-                {
-                    "type":"SuperStar",
-                    "name": "Revolution Tommy Dreamer",
-                    "value": "ERRATA: The Ability now begins with: \"Once during each of your turns...\""
-                },
-                {
-                    "type":"Card",
-                    "name": "Back Body Drop (Throwback)",
-                    "value":"The previous errata for this card has been removed, it now functions as printed."
-                },
-                {
-                    "type":"Card",
-                    "name": "Booby Trap (Throwback)",
-                    "value": "ERRATA: Fixing a printing error, this card is now F: 0."
-                },
-                {
-                    "type":"Card",
-                    "name": "Collegiate Champions",
-                    "value": "ERRATA: The second paragraph of this card now reads: \"ACE: When this card is in your Ring area, once during each of your turns you may discard 3 cards, and then look at your opponent's hand, choose 1 card, and he discards the chosen card.\""
-                },
-                {
-                    "type":"Card",
-                    "name": "It's Great to Be Back Here In",
-                    "value": "If a card has a situational reversal restriction, such as German Suplex (TB), this card will only be an applicable reversal if that restriction is in effect, based on the Potentiality Rule."
-                },
-                {
-                    "type":"Card",
-                    "name": "JYD's Chain",
-                    "value": "When JYD's Chain is in the Ringside, the player is required to pick up a Grapple maneuver to pick up Chain. NOTE: This is a reversal of a previous ruling."
-                },
-                {
-                    "type":"Card",
-                    "name": "Mental Acumen",
-                    "value": "If this card and Backstage Politics are in the same Ring area, the ACE of Acumen can still be reversed. Only the card being played gains protection. NOTE: This is a reversal of a previous ruling."
-                },
-                {
-                    "type": "Card",
-                    "name":"Pay-Per-View Main Event",
-                    "value": "The played activating this card must choose exactly 8 cards. NOTE: This is a reversal of a previous ruling."
-                },
-                {
-                    "type":"Card",
-                    "name":"Sustained Damage",
-                    "value": "You cannot Activate Sustained Damage in response to cards that deal no damage, whether due to a modification, because they resolve to a zone other than the Ring, or because their text states that they deal no damage."
-                },   
-                {
-                    "type":"Card",
-                    "name":"Technical Drop Kick",
-                    "value": "ERRATA: The following text is added to the card: \"When successfully played, you cannot play Technical Drop Kick as an Action for the rest of this turn.\""
-                },
-                {
-                    "type":"Card",
-                    "name":"Revolution Death-Defying Maniac",
-                    "value": "ERRATA: After the Requirement text, this card now reads: \"If this card reverses from Arsenal: put this card into your Ring and if you have 3 or more Superstar-specifics from \"ECW Originals\" Faction Members and/or cards with \"ECW Originals\" in the text in your Ring, you may discard 1 Reversal: put up to 1 Pre-match Event from his Ring into his Ringside and end his turn.\""
-                },
-                {
-                    "type":"Card",
-                    "name":"Revolution Full Nelson Slam",
-                    "value": "ERRATA: The card text now reads: \"During your turn, if this card is in your Ringside, you may overturn 4 cards: play this card from your Ringside.\""
-                },
-                {
-                    "type":"Card",
-                    "name":"Revolution John Cena Is In My Corner!",
-                    "value":"ERRATA: Fixing a printing error, this card is a Pre-match: Corner instead."
-                },
-                {
-                    "type":"Card",
-                    "name":"Revolution Live Fast - Fight Hard",
-                    "value":"ERRATA: This card is now F: 5 and the first paragraph (after the Requirement text) now instead reads: \"At least 5 Less Fortitude: -5F.Your next card this turn is -15F.\""
-                },
-                {
-                    "type":"Glossary",
-                    "name":"Activated Card Effect:",
-                    "value":""
-                }
-            ]
+
+  "name": "WWE RAW DEAL OmniFAQ",
+  "version": "v4.0",
+  "lastUpdate": "January 1st, 2021",
+  "content": [
+    {
+      "type": "SuperStar",
+      "name": "Gail Kim and Molly Holly",
+      "value": "They cannot pack cards with a restriction for one member, such as \"Cannot be packed by Gail Kim.\""
+    },
+    {
+      "type": "SuperStar",
+      "name": "Shane O' Mac",
+      "value": "ERRATA: This Superstar is now a Throwback card, since a card already existed in Raw Deal with the same name."
+    },
+    {
+      "type": "SuperStar",
+      "name": "The Largest Athlete In Sports Entertainment",
+      "value": "ERRATA: The Ability now begins with: \"You cannot pack High Risk maneuvers. Your non-Multi Strike, Grapple, and Submission maneuvers played from your hand are F:0.\""
+    },
+    {
+      "type": "SuperStar",
+      "name": "Revolution Tommy Dreamer",
+      "value": "ERRATA: The Ability now begins with: \"Once during each of your turns...\""
+    },
+    {
+      "type": "Card",
+      "name": "Back Body Drop (Throwback)",
+      "value": "The previous errata for this card has been removed, it now functions as printed."
+    },
+    {
+      "type": "Card",
+      "name": "Booby Trap (Throwback)",
+      "value": "ERRATA: Fixing a printing error, this card is now F: 0."
+    },
+    {
+      "type": "Card",
+      "name": "Collegiate Champions",
+      "value": "ERRATA: The second paragraph of this card now reads: \"ACE: When this card is in your Ring area, once during each of your turns you may discard 3 cards, and then look at your opponent's hand, choose 1 card, and he discards the chosen card.\""
+    },
+    {
+      "type": "Card",
+      "name": "It's Great to Be Back Here In",
+      "value": "If a card has a situational reversal restriction, such as German Suplex (TB), this card will only be an applicable reversal if that restriction is in effect, based on the Potentiality Rule."
+    },
+    {
+      "type": "Card",
+      "name": "JYD's Chain",
+      "value": "When JYD's Chain is in the Ringside, the player is required to pick up a Grapple maneuver to pick up Chain. NOTE: This is a reversal of a previous ruling."
+    },
+    {
+      "type": "Card",
+      "name": "Mental Acumen",
+      "value": "If this card and Backstage Politics are in the same Ring area, the ACE of Acumen can still be reversed. Only the card being played gains protection. NOTE: This is a reversal of a previous ruling."
+    },
+    {
+      "type": "Card",
+      "name": "Pay-Per-View Main Event",
+      "value": "The played activating this card must choose exactly 8 cards. NOTE: This is a reversal of a previous ruling."
+    },
+    {
+      "type": "Card",
+      "name": "Sustained Damage",
+      "value": "You cannot Activate Sustained Damage in response to cards that deal no damage, whether due to a modification, because they resolve to a zone other than the Ring, or because their text states that they deal no damage."
+    },
+    {
+      "type": "Card",
+      "name": "Technical Drop Kick",
+      "value": "ERRATA: The following text is added to the card: \"When successfully played, you cannot play Technical Drop Kick as an Action for the rest of this turn.\""
+    },
+    {
+      "type": "Card",
+      "name": "Revolution Death-Defying Maniac",
+      "value": "ERRATA: After the Requirement text, this card now reads: \"If this card reverses from Arsenal: put this card into your Ring and if you have 3 or more Superstar-specifics from \"ECW Originals\" Faction Members and/or cards with \"ECW Originals\" in the text in your Ring, you may discard 1 Reversal: put up to 1 Pre-match Event from his Ring into his Ringside and end his turn.\""
+    },
+    {
+      "type": "Card",
+      "name": "Revolution Full Nelson Slam",
+      "value": "ERRATA: The card text now reads: \"During your turn, if this card is in your Ringside, you may overturn 4 cards: play this card from your Ringside.\""
+    },
+    {
+      "type": "Card",
+      "name": "Revolution John Cena Is In My Corner!",
+      "value": "ERRATA: Fixing a printing error, this card is a Pre-match: Corner instead."
+    },
+    {
+      "type": "Card",
+      "name": "Revolution Live Fast - Fight Hard",
+      "value": "ERRATA: This card is now F: 5 and the first paragraph (after the Requirement text) now instead reads: \"At least 5 Less Fortitude: -5F.Your next card this turn is -15F.\""
+    },
+    {
+      "type": "Glossary",
+      "name": "Activated Card Effect:",
+      "value": ""
     }
+  ]
 }
