@@ -1,12 +1,33 @@
-﻿@inject IJSRuntime _jsRuntime
+﻿@using RawDealDb.Core.DTO.OmniFaqDTO;
+@using RawDealDb.UI.Interfaces;
+@inject IJsonService _jsonService;
 
-<MudPaper>
-    <MudContainer>
-        <MudText Typo="Typo.h6">OmniFaq</MudText>
-        <div id='viewer' style='width: 1024px; height: 600px; margin: 0 auto;'></div>
-    </MudContainer>
-</MudPaper>
+
+@*<MudDataGrid T="ContentDto" Items="@_omniFaqDto.Content" Filterable="false" Bordered="true">
+    <ToolBarContent>
+        <MudTextField @bind-Value="_searchString" Placeholder="Search value" Adornment="Adornment.Start" Immediate="true"
+                      AdornmentIcon="@Icons.Material.Filled.Search" IconSize="Size.Medium" Class="mt-0"></MudTextField>
+        <MudSpacer />
+    </ToolBarContent>
+    <Columns>
+        <Column T="ContentDto" Filterable="false">
+            <CellTemplate>
+                <MudText>
+                    @context
+                </MudText>
+            </CellTemplate>
+        </Column>
+    </Columns>
+</MudDataGrid>*@
+
 
 @code {
+    private string _searchString = string.Empty;
+    private OmniFaqDto _omniFaqDto = new OmniFaqDto();
+
+    protected override async Task OnInitializedAsync()
+    {
+         _omniFaqDto = await _jsonService.GetOmniFaq();
+    }
 
 }

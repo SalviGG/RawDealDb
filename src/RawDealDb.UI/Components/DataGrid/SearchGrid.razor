@@ -4,8 +4,7 @@
 @inject ICardService _cardService;
 
 
-<MudDataGrid T="CardDto" Items="@_cards" Filterable="true" QuickFilter="@_quickFilter" 
-                Bordered="true">
+<MudDataGrid T="CardDto" Items="@_cards" Filterable="false" QuickFilter="@_quickFilter" Bordered="true">
     <ToolBarContent>
         <MudSelect T="int" Label="Search by" AnchorOrigin="Origin.BottomCenter" @bind-Value="_selectValue">
             @foreach (var searchByItem in _searchByDto.SearchByValues)
@@ -67,8 +66,8 @@
     private IEnumerable<CardDto> _cards = new List<CardDto>();
     private SearchByDto _searchByDto = new SearchByDto();
     private int _selectValue;
-    private string _searchString;
-    private string _displayCard;
+    private string _searchString = string.Empty;
+    private string _displayCard = string.Empty;
 
     protected override async Task OnInitializedAsync()
     {
