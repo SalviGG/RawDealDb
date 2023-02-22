@@ -28,13 +28,13 @@
                 <MudCard Outlined="true" Style="@_backgroundColor">
                     <MudCardContent>
                         <MudGrid>
-                            <MudItem xs="9" Class="d-flex align-center justify-center mud-width-full">
-                                <MudText Style="text-decoration: underline;">@context.Item.Name</MudText>
+                            <MudItem xs="9" Class="d-flex align-center justify-center mud-width-full ">
+                                <MudText Style="text-decoration: underline;" Class="fonCardTitleTypeText">@context.Item.Name</MudText>
                             </MudItem>
                             <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full">
-                                <MudText><b>F</b> @context.Item.Fortitude</MudText>
+                                <MudText Class="fontDamageFortitude">F @context.Item.Fortitude</MudText>
                             </MudItem>
-                            <MudItem xs="12" Class="d-flex mud-width-full">
+                            <MudItem xs="12" Class="d-flex mud-width-full ">
                                 <MudText><b>Type:</b> @context.Item.CardType</MudText>
                             </MudItem>
                             <MudItem xs="12" Class="d-flex mud-width-full">
@@ -48,8 +48,8 @@
                             </MudItem>
                             <MudItem xs="9" Class="d-flex align-right justify-center mud-width-full">
                             </MudItem>
-                            <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full">
-                                <MudText><b>D</b> @context.Item.Damage</MudText>
+                            <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full ">
+                                <MudText Class="fontDamageFortitude">D @context.Item.Damage</MudText>
                             </MudItem>
                         </MudGrid>
 
@@ -117,7 +117,7 @@
         }
         else if (type.Contains("Maneuver Reversal"))
         {
-            _backgroundColor = "background-image: linear-gradient(#" + TypeConstants.ManeuverColor + ", #" + TypeConstants.ReversalColor+ ");";
+            _backgroundColor = "background-image: linear-gradient(#" + TypeConstants.ManeuverColor + ", #" + TypeConstants.ReversalColor + ");";
         }
         else if (type.Contains("Pre-match"))
         {
