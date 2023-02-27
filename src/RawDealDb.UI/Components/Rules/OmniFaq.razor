@@ -17,7 +17,7 @@
                         @context.Item.Name
                     </MudCardHeader>
                     <MudCardContent>
-                        @context.Item.Value
+                        <MudText>@((MarkupString)context.Item.Value)</MudText>
                     </MudCardContent>
                 </MudCard>
             </CellTemplate>
