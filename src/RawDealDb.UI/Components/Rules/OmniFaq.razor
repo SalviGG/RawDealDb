@@ -13,8 +13,8 @@
         <Column T="ContentDto" Filterable="false">
             <CellTemplate>
                 <MudCard>
-                    <MudCardHeader>
-                        @context.Item.Name
+                    <MudCardHeader Style="text-decoration: underline; font-weight: bold;">
+                        @((MarkupString)context.Item.Name)
                     </MudCardHeader>
                     <MudCardContent>
                         <MudText>@((MarkupString)context.Item.Value)</MudText>
