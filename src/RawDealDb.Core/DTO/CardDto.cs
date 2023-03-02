@@ -53,9 +53,17 @@ namespace RawDealDb.Core.DTO
             {
                 cardTypeParsed = "Maneuver Reversal";
             }
-            else if (CardType.Contains("Pre-match"))
+            else if (CardType.Contains("Pre-match") && typesQty == 1)
             {
                 cardTypeParsed = "Pre-match";
+            }
+            else if (CardType.Contains("Pre-match") && CardType.Contains("Mid-match Action"))
+            {
+                cardTypeParsed = "pre-mid-action-match";
+            }
+            else if (CardType.Contains("Mid-match Action") && CardType.Contains("Reversal"))
+            {
+                cardTypeParsed = "mid-action-reversal";
             }
 
             return cardTypeParsed;

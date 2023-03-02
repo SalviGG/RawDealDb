@@ -16,9 +16,9 @@ namespace RawDealDb.Core.Constants
             "Trademark Finisher"
         };
 
-        public const string ManeuverColor = "#bfa80a";
-        public const string ActionColor = "#7d9cd2";
-        public const string ReversalColor = "#ba2018";
+        public const string ManeuverColor = "#dbaa1f";
+        public const string ActionColor = "#4b65a2";
+        public const string ReversalColor = "#a73326";
         public const string Prematch = "#4d325d";
 
     }

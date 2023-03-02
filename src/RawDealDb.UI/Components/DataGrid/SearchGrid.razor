@@ -123,6 +123,14 @@
         {
             _backgroundColor = "background-color:" + TypeConstants.Prematch + ";";
         }
+        else if (type.Contains("pre-mid-action-match"))
+        {
+            _backgroundColor = "background-image: linear-gradient(" + TypeConstants.Prematch + "," + TypeConstants.ActionColor + ");";
+        }
+        else if (type.Contains("mid-action-reversal"))
+        {
+            _backgroundColor = "background-image: linear-gradient(" + TypeConstants.ActionColor + " 48%," + TypeConstants.ReversalColor + " 61%);";
+        }
         else
         {
             _backgroundColor = "";
