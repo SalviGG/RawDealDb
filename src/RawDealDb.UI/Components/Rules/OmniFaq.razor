@@ -10,7 +10,7 @@
         <MudSpacer />
     </ToolBarContent>
     <Columns>
-        <Column T="ContentDto" Filterable="false">
+        <TemplateColumn>
             <CellTemplate>
                 <MudCard>
                     <MudCardHeader Style="text-decoration: underline; font-weight: bold;">
@@ -18,15 +18,15 @@
                     </MudCardHeader>
                     <MudCardContent>
                         <MudText>@((MarkupString)context.Item.Value)</MudText>
-                    </MudCardContent>
-                </MudCard>
-            </CellTemplate>
-        </Column>
-    </Columns>
-</MudDataGrid>
+                        </MudCardContent>
+                    </MudCard>
+                </CellTemplate>
+            </TemplateColumn>
+        </Columns>
+    </MudDataGrid>
 
 
-@code {
+    @code {
     private string _searchString = string.Empty;
     private OmniFaqDto _omniFaqDto = new OmniFaqDto();
 

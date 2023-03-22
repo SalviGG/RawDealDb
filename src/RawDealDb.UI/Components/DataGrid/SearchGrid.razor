@@ -19,7 +19,7 @@
         <MudSpacer />
     </ToolBarContent>
     <Columns>
-        <Column T="CardDto" Filterable="false">
+        <TemplateColumn>
             <CellTemplate>
                 @{
                     SetBackgroundColor(context.Item.ParseType(), context.Item.GetTypesQty());
@@ -32,10 +32,15 @@
                                 <MudText Style="text-decoration: underline;" Class="fonCardTitleTypeText">@context.Item.Name</MudText>
                             </MudItem>
                             <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full">
-                                <MudText Class="fontDamageFortitude">F @context.Item.Fortitude</MudText>
+                                <MudText Class="fonCardTitleTypeText">Fortitude</MudText>
+                            </MudItem>
+                            <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full">
+                                <MudText Class="fontDamageFortitude">@context.Item.Fortitude</MudText>
                             </MudItem>
                             <MudItem xs="12" Class="d-flex mud-width-full ">
-                                <MudText><b>Type:</b> @context.Item.CardType</MudText>
+                                <MudCard Class="mud-width-full" Square="true" Style="@($"background:{Colors.Grey.Darken3}")">
+                                    <MudText><b>Type:</b> @context.Item.CardType</MudText>
+                                </MudCard>
                             </MudItem>
                             <MudItem xs="12" Class="d-flex mud-width-full">
                                 <MudText><b>Card text:</b> @context.Item.CardText</MudText>
@@ -49,7 +54,10 @@
                             <MudItem xs="9" Class="d-flex align-right justify-center mud-width-full">
                             </MudItem>
                             <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full ">
-                                <MudText Class="fontDamageFortitude">D @context.Item.Damage</MudText>
+                                <MudText Class="fonCardTitleTypeText" Style="@($"color:{Colors.Red.Accent4}")">Damage</MudText>
+                            </MudItem>
+                            <MudItem xs="3" Class="d-flex align-right justify-center mud-width-full ">
+                                <MudText Class="fontDamageFortitude">@context.Item.Damage</MudText>
                             </MudItem>
                         </MudGrid>
 
@@ -57,7 +65,7 @@
                 </MudCard>
 
             </CellTemplate>
-        </Column>
+        </TemplateColumn>
     </Columns>
     <PagerContent>
         <MudDataGridPager T="CardDto" />
