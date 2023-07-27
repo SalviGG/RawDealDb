@@ -70,7 +70,7 @@ During your turn when this card is in your Hand or Ringside, you may reveal this
         <property name="Fortitude" value=""/>
         <property name="Damage" value=""/>
         <property name="Hand Size" value="10"/>
-        <property name="SSV" value="3"/>
+        <property name="SSV" value="2"/>
         <property name="CardType" value="Superstar"/>
         <property name="SS Logos" value="Kamala"/>
         <property name="Traits" value="WWF"/>

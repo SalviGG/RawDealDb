@@ -212,7 +212,7 @@ ACE: During your turn you may Bury 3 Hand cards and then RFG this card and your 
         <property name="SSV" value=""/>
         <property name="CardType" value="Strike: Face"/>
         <property name="SS Logos" value=""/>
-        <property name="Traits" value="Unique, RMS, Classic WWF, Cheater"/>
+        <property name="Traits" value="Unique, RMS, Classic WWF, Cheater, Face"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="When packing Classic Competitor, this card is considered to have ‘Classic’ in the title.
@@ -2384,7 +2384,7 @@ When you are Highlight of the Night, your opponent cannot play more than 1 actio
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Backstage card"/>
-        <property name="SS Logos" value="A-Train, Tensei"/>
+        <property name="SS Logos" value="A-Train, Tensai"/>
         <property name="Traits" value="Unique, RMS, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>

@@ -31,7 +31,7 @@
 <card id="8c87bddf-06d7-5061-20ff-b1dcadf03ff3" name="Flying Lariat">
 		<property name="Format" value="Classic"/>
 		<property name="Fortitude" value="6"/>
-		<property name="Damage" value="8"/>
+		<property name="Damage" value="9"/>
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + High Risk"/>

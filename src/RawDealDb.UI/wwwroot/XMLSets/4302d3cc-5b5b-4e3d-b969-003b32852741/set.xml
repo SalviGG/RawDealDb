@@ -3219,7 +3219,7 @@ When this card is in your Ringside and your maneuver is unsuccessful, you may Bu
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Backstage Card"/>
-        <property name="SS Logos" value="Tommasso Ciampa, Johnny Gargano "/>
+        <property name="SS Logos" value="Tommaso Ciampa, Johnny Gargano "/>
         <property name="Traits" value="Unique, RMS, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
@@ -3232,7 +3232,7 @@ When this card is in your Ringside and your maneuver is unsuccessful, you may Bu
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Pre-match Faction"/>
-        <property name="SS Logos" value="Tommasso Ciampa, Johnny Gargano"/>
+        <property name="SS Logos" value="Tommaso Ciampa, Johnny Gargano"/>
         <property name="Traits" value="Unique, Permanent, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
@@ -3245,7 +3245,7 @@ When this card is in your Ringside and your maneuver is unsuccessful, you may Bu
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Strike + High Risk"/>
-        <property name="SS Logos" value="Tommasso Ciampa, Johnny Gargano"/>
+        <property name="SS Logos" value="Tommaso Ciampa, Johnny Gargano"/>
         <property name="Traits" value="Unique, Multi, NXT"/>
         <property name="Stun" value="1"/>
         <property name="Target" value=""/>
@@ -3258,7 +3258,7 @@ When this card is in your Ringside and your maneuver is unsuccessful, you may Bu
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Trademark Finisher"/>
-        <property name="SS Logos" value="Tommasso Ciampa, Johnny Gargano"/>
+        <property name="SS Logos" value="Tommaso Ciampa, Johnny Gargano"/>
         <property name="Traits" value="Unique, RMS, NXT"/>
         <property name="Stun" value="2"/>
         <property name="Target" value=""/>
@@ -3271,7 +3271,7 @@ When this card is in your Ringside and your maneuver is unsuccessful, you may Bu
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Reversal: Special"/>
-        <property name="SS Logos" value="Tommasso Ciampa, Johnny Gargano"/>
+        <property name="SS Logos" value="Tommaso Ciampa, Johnny Gargano"/>
         <property name="Traits" value="Unique, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
@@ -3284,7 +3284,7 @@ When this card is in your Ringside and your maneuver is unsuccessful, you may Bu
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Action + Action"/>
-        <property name="SS Logos" value="Tommasso Ciampa, Johnny Gargano"/>
+        <property name="SS Logos" value="Tommaso Ciampa, Johnny Gargano"/>
         <property name="Traits" value="Unique, Multi, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
@@ -3310,7 +3310,7 @@ When this card is in your Ringside and your maneuver is unsuccessful, you may Bu
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
         <property name="CardType" value="Grapple + Grapple / Reversal: Special"/>
-        <property name="SS Logos" value="Tommasso Ciampa"/>
+        <property name="SS Logos" value="Tommaso Ciampa"/>
         <property name="Traits" value="Unique, Multi, NXT"/>
         <property name="Stun" value="2"/>
         <property name="Target" value=""/>

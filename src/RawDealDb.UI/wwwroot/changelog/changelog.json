@@ -1,11 +1,24 @@
 [
   {
+    "Version": "v0.2.5.1-beta",
+    "Date": "2023-07-27",
+    "Added": [
+      "Added new Virtual release V14: \"War Games\""
+    ],
+    "Changed": [
+
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
     "Version": "v0.2.5-beta",
     "Date": "2023-01-10",
     "Added": [
     ],
     "Changed": [
-      
+
     ],
     "Fixed": [
       "Quick search for card text and traits was unimplemented."

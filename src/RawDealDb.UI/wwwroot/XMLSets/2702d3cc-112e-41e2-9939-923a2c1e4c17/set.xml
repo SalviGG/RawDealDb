@@ -507,10 +507,7 @@
 		<property name="Traits" value="Throwback, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Huge Rock Star Ability: You can pack I Have a Major Announcement in your Backstage, but you cannot pack it in your Backlash. It is not Fan Favorite, and it cannot be blanked; at the end of the Pre-match phase, put that card in your Ring, and ignore the ‘You cannot play...’ text.
-Your opponent resolves first at the end of the Pre-match phase, regardless of Superstar Value.
-You can pack Chris Jericho cards; ignore ‘Superstar’ on your Chris Jericho-specific Backlash cards.
-"/>
+		<property name="Card Text" value="This card is considered to be Superstar-specific. Can only be packed by Stone Cold Steve Austin, The Rattlesnake, Undertaker, Dead Man Inc, The Phenom, Mankind, Cactus Jack, Dude Love, The Mystery Wrestler, Triple H, The Game, Chris Jericho, Highlight Of The Night, The Sexy Beast, Kane, Big Freak'n Machine, Two-Man Power Trip, Brothers of Destruction, or Revolution superstars with the same title. Your Pre-match Capacity is +3, and your opponent cannot play I'm Gonna Break You."/>
 	</card>
 <card id="f7548022-84aa-2052-9b75-299469774b1c" name="Ruthless Aggression" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
