@@ -809,6 +809,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Overturn 3 cards. This card is not affected by the card titled Hell in a Cell Match. Once during each player's turn, that player may discard 1 card and then put 1 Foreign Object from his Ringside pile into his hand. When the card titled Dem Damn Dudleyz! is in your Ring area, once during each of your turns, you may also discard 1 card and then put 1 Foreign Object from your Ring area into your hand."/>
+		<alternate name="Chicago Street Fight" type="alt">
+	</alternate>	
 	</card>
 <card id="318bd947-6a15-48be-7c4a-7b5af1d59822" name="Four Corners Match" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -900,6 +902,10 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played when your opponent is modifying your Reversal cards. When this card is in your Ring area, you may put this card into your Ringside pile and your Reversal cards are unaffected by Fortitude modification for the rest of the turn."/>
+		<alternate name="Fortitude Surge" type="alt">
+	</alternate>
+		<alternate name="Fortitude Surge" type="alt2">
+	</alternate>	
 	</card>
 <card id="157ea398-7324-76e4-2d9c-4e2657e51408" name="Fan Appreciation Day!" size="Wide">
 		<property name="Format" value="Classic"/>

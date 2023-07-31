@@ -822,6 +822,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="All players' maneuvers cannot be reversed by non-Superstar-specific hybrid Reversal cards. Your maneuvers also cannot be reversed from your opponent's Backlash deck. Your maneuvers are +2 Stun Value. You cannot play non-unique maneuvers not titled Arm Bar, Arm Bar Takedown, Arm Drag, Atomic Drop, Belly to Back Suplex, Belly to Belly Suplex, Body Slam, Chop, Clothesline, Collar and Elbow Lockup, Drop Kick, Haymaker, Head Butt, Hip Toss, Press Slam, Punch, Roundhouse Punch, Russian Leg Sweep, Snap Mare, Vertical Suplex, Wrist Lock, Backhand Slap, Drop Toe Hold, Elbow Drop, Foot Stomp, or Hammerlock."/>
+		<alternate name="There Is No Escape" type="alt">
+	</alternate>	
 	</card>
 <card id="1850cf3f-170e-8a6c-0670-bbfd0d145dd3" name="Denville, New Jersey" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1802,6 +1804,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent draws 3 cards and randomly discards 2 of them. When this card is in your Ring area, your opponent overturns 1 card whenever he draws any number of cards."/>
+		<alternate name="Journey Into Darkness" type="alt">
+	</alternate>	
 	</card>
 <card id="e20b4de3-54fd-a27b-107f-217ad9714023" name="American By Birth-Angry By Choice">
 		<property name="Format" value="Classic"/>
@@ -2220,6 +2224,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played, you may overturn 3 cards. If you do, this card is -10F. When your next card played this turn is a maneuver, it is +10D. When your next card played this turn is an Action card, it is -10F. When this card is in your Ring area, during your turn you may put this card on the bottom of your Arsenal and then shuffle up to 10 cards from your Ringside pile into your Arsenal."/>
+		<alternate name="The Intensity of Ten Cities" type="alt">
+	</alternate>	
 	</card>
 <card id="0bde4215-6a87-7c37-04fd-e7d9596630cb" name="Should've Seen This Coming">
 		<property name="Format" value="Classic"/>

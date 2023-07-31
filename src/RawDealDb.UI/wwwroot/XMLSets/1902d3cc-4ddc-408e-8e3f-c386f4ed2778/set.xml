@@ -1381,6 +1381,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During any turn: when you successfully play a common card, discard 2 cards; when you successfully play an uncommon card, discard 1 card; and when you successfully play a Unique card, you may draw 1 card. You do not count as Bradshaw."/>
+		<alternate name="JBL" type="alt">
+	</alternate>	
 	</card>
 <card id="644ff5b1-a4f9-12c3-54f2-705ce8f064c3" name="Ten Gallon Hat">
 		<property name="Format" value="Classic"/>
@@ -1777,6 +1779,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You can pack any Superstar-specific Maneuver cards in your Arsenal. You cannot play more than 1 Unique card during each turn. Your Superstar Value is equal to your opponent's Superstar Value -1."/>
+		<alternate name="Eugene" type="alt">
+	</alternate>		
 	</card>
 <card id="b9bc03fb-0235-4c94-4bd0-3c3161de6f31" name="I'm Special">
 		<property name="Format" value="Classic"/>

@@ -1133,6 +1133,18 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by a Legend. When packing this card, you cannot pack In My Day, a Maneuver Was a Maneuver. As an action, choose up to 3 non-hybrid non-multi Maneuver cards in your Ringside, randomly shuffle 1 into your Arsenal, and put the rest into your hand. As a reversal, completely reverse any hybrid maneuver or Multi maneuver."/>
 	</card>
-
+<card id="ce3f6379-91fb-4948-8ece-f214bb6299ab" name="Vintage Shenanigans">
+		<property name="Format" value="VirtualClassic"/>
+		<property name="Fortitude" value=""/>
+		<property name="Damage" value=""/>
+		<property name="Hand Size" value=""/>
+		<property name="SSV" value=""/>
+		<property name="CardType" value="Backstage Card"/>
+		<property name="SS Logos" value=""/>
+		<property name="Traits" value="Unique, RMS"/>
+		<property name="Stun" value=""/>
+		<property name="Target" value=""/>
+		<property name="Card Text" value="All players' Calling You Out, First of All, Throwback Inferno Match, It's All About the Game, Piper's Pit, non-Throwback Premiere WWF Superstar, Run the Gauntlet, and Yo! Kill da Beat! are blank. When any player has 4- Hand cards, they may overturn instead of discarding to reverse a Chain card. When a player would discard their Hand or Backlash for their opponent's effects, they can instead randomly discard # (# = half their Hand cards, rounded down). No player can continue their turn more than 3 times or continue the game more than once."/>
+	</card>	
    </cards>
 </set>

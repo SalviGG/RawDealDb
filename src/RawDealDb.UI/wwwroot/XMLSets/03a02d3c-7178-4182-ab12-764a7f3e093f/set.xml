@@ -1825,6 +1825,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring area, your opponent's maneuvers of 4F or less played from his hand are blanked text and 1D until the damage is resolved."/>
+		<alternate name="The Brahma Bull" type="alt">
+	</alternate>	
 	</card>
 <card id="bc2dba2f-91bb-956d-0615-ba7e91273a05" name="Sledge Hammer Shot" size="Wide">
 		<property name="Format" value="Classic"/>

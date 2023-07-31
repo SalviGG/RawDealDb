@@ -131,6 +131,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your hand, if your opponent successfully plays an Action card and it is not his first Action card played this turn, you may immediately put this card into your Ring area. When this card is in your Ring area, once during each of your turns your opponent overturns 1 card."/>
+		<alternate name="Judo Choke" type="alt">
+	</alternate>	
 	</card>
 <card id="85b2ff89-8e76-9aea-5258-5c583e6408d9" name="Strangle Hold">
 		<property name="Format" value="Classic"/>

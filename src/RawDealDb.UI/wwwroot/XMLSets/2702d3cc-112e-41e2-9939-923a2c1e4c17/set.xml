@@ -1941,7 +1941,7 @@ ACE: During your turn, you may put this card into your Ringside, and if your nex
 	</card>
 <card id="f8eb9e48-6351-0545-3d96-c80dd6a79f11" name="I'll Show You - You'll See!">
 		<property name="Format" value="VirtualClassic"/>
-		<property name="Fortitude" value="16"/>
+		<property name="Fortitude" value="12"/>
 		<property name="Damage" value="0"/>
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>

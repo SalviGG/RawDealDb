@@ -783,6 +783,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Put 1 card with a different card title than this card from your Ring area into your Ringside pile, put 2 cards from your opponent's Ring area into his Ringside pile, look at his hand and he discards 3 cards, and then remove 4 cards in his Ringside pile from the game."/>
+		<alternate name="Break It Out, Break You Down, Breakin' Rules, Breakin' Ground" type="alt">
+	</alternate>	
 	</card>
 <card id="3a45901a-4fed-69a6-0abc-e8e0f0a1876e" name="Hollywood Hulk Hogan">
 		<property name="Format" value="Classic"/>

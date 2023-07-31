@@ -1028,6 +1028,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent discards cards from his Backlash deck equal to the number of cards titled Who's Cooler than Michelle McCool? in your Ring area. When this card is in your Ring area, during your turn you may put this card into your Ringside pile and then draw 1 card and discard 1 card."/>
+		<alternate name="Who's Cooler than Michelle McCool?" type="alt">
+	</alternate>	
 	</card>
 <card id="ecdd1b73-0e99-1890-20d5-bb3b11c78c58" name="Blindsided Precision" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1054,6 +1056,10 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card counts as either a Pre-match Event or a Mid-match Action in your Backlash deck for the purposes of deck construction. Your opponent skips his first turn of the game if he has 2 or more non-Enforcer non-Superstar cards revealed in his Backstage area. As an action, draw 2 cards."/>
+		<alternate name="Backstage Shenanigans" type="alt">
+	</alternate>
+		<alternate name="Backstage Shenanigans" type="alt2">
+	</alternate>	
 	</card>
 <card id="2992c71a-0835-a211-928c-8eda530c6cd5" name="Pyrotechnic Volley" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1615,6 +1621,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent's cards with the Restricted Modification Symbol do not have it. During his turn, his Action cards and Maneuver cards with the word 'reverse' in the text have blank text."/>
+		<alternate name="Rowdy Roddy Piper" type="alt">
+	</alternate>	
 	</card>
 <card id="1c2b4f61-0297-8987-7aeb-95459eff9e16" name="Bagpipe Introduction" size="Wide">
 		<property name="Format" value="Classic"/>

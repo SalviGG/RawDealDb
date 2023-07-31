@@ -1647,6 +1647,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. ≥ Starting Hand Size: +4 Superstar Value: +0 Superstar Ability: + Once during each of your turns you may discard 1 card and then your opponent names a card and then you name a card. The named cards cannot be played for the rest of the turn. ≥ Starting Hand Size: +5 Superstar Value: +0 Superstar Ability: + Once during each of your turns you may discard 2 cards and then name a card, look at your opponent's hand, choose 1 card you named, and he discards the chosen card. ≥ Starting Hand Size: +6 Superstar Value: +0 Superstar Ability: + Once during each of your turns you may discard 2 cards and then your opponent names a card. Reveal the top card of his Arsenal. If it is the card he named, he puts it into his hand. If it is not, put it into his Ringside pile and he overturns 2 cards."/>
+		<alternate name="Coach, Cole, or Finkel?" type="alt">
+	</alternate>	
 	</card>
 <card id="b5cfb924-59cf-5c13-570a-b0f04ff419b6" name="Big Boys Club">
 		<property name="Format" value="Classic"/>

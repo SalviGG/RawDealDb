@@ -573,6 +573,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by a Female Superstar. Cannot be played when there is a Title Belt card in your Ring area nor can you play another Title Belt card. When this card is in your Ring area, if you successfully play a card with the text 'Can only be packed by a Female Superstar'or 'Can only be packed by a Diva Superstar,'your opponent discards 1 card. Your Superstar Value is +1."/>
+		<alternate name="WWE Women's Championship Belt" type="alt">
+	</alternate>		
 	</card>
 <card id="1d3cf913-44e5-2b38-6c90-fdb3b2075327" name="WWE Raw Deal Championship Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -625,6 +627,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns you may put 1 card from your Ringside pile into your Backstage area. During any turn, you may put any number of non-Superstar cards from your Backstage area into your Ringside pile and your next card played this turn is -2F for every card put into your Ringside pile this way. Your opponent's non-F:0 cards are +1F for every card in your Backstage area."/>
+		<alternate name="Doink" type="alt">
+	</alternate>	
 	</card>
 <card id="b207100b-24a6-706e-288d-a86256d84eae" name="ECW One Night Stand" size="Wide">
 		<property name="Format" value="Classic"/>

@@ -235,6 +235,8 @@
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played, name a number 5 or less. Your opponent draws that many cards. This card is -2F for each number named. Cannot be reversed from your opponent's hand by non-hybrid cards."/>
+		<alternate name="Precision Haymaker" type="alt">
+	</alternate>		
 	</card>
 <card id="92657869-2ece-a194-47c7-332eb17207e0" name="BASH Suplex">
 		<property name="Format" value="Classic"/>
@@ -744,6 +746,10 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring area, if you successfully play a maneuver with the word 'shoot' in the title, remove the top card of your Arsenal from the game and remove the top 2 cards of your opponent's Arsenal from the game. During your turn, you may put this card into your Ringside pile and then he overturns cards equal to the number of maneuvers in your Ring area with the word 'shoot' in the title."/>
+		<alternate name="Straight-Shootin' Interview" type="alt">
+	</alternate>		
+		<alternate name="Straight-Shootin' Interview" type="alt2">
+	</alternate>
 	</card>
 <card id="4a74ac7e-8954-7647-5c39-c1c30b985b28" name="The Luck of the Draw" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -926,6 +932,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed from your opponent's hand if you have Heat cards in your Ring area. Look at your opponent's hand. He overturns cards equal to the number of Reversal cards in his hand and in his Ring area."/>
+		<alternate name="Backfire" type="alt">
+	</alternate>		
 	</card>
 <card id="cd18fc70-26d5-6d48-31f6-4b53382c5600" name="A Phoenix Rising" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -992,6 +1000,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You cannot pack Pre-match cards, Mid-match cards, or High Risk maneuvers. You may pack up to an additional 40 cards in your Arsenal. During each of your turns, you cannot play more than 1 Set-up card. During your opponent's turn, when he ends his turn before playing a second card or successfully plays a second card and damage has been applied, you may put 1 card from your hand on the bottom of your Arsenal, draw 1 card, he randomly discards 2 cards, and end his turn."/>
+		<alternate name="Andre the Giant" type="alt">
+	</alternate>		
 	</card>
 <card id="1124cf9e-435c-43db-395f-3159311b5944" name="We Face Each Other As God Intended">
 		<property name="Format" value="Classic"/>
@@ -1005,6 +1015,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be revealed from your Backstage Area when you reveal your Superstar card. Your opponent's Starting Hand Size is -1 for each Pre-match card in his Ring area. No player may play a card with the words 'You win the game via Pinfall victory' in the text. During your turn you may hide this card and then all players put all cards in their hand on top of their Arsenal. Your opponent searches his Arsenal for 1 card, reveals it to you, puts it into his hand, and shuffles his Arsenal. Search your Arsenal for 2 cards, put them into your hand, and shuffle your Arsenal."/>
+		<alternate name="We Face Each Other As God Intended" type="alt">
+	</alternate>		
 	</card>
 <card id="b53a50ed-28e2-894c-525c-47cf3ceb98aa" name="Giant Head Butt">
 		<property name="Format" value="Classic"/>
@@ -1148,6 +1160,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You cannot pack Pre-match cards with the word 'old' in the title that are Active or Unique. Your cards titled Argue With Tony Chimel are not Heel cards. Your opponent can only play Pre-match cards that are Feuds or Superstar-specific."/>
+		<alternate name="Ken Kennedy" type="alt">
+	</alternate>		
 	</card>
 <card id="c89da841-2e61-495f-06d3-9ddc59f65703" name="Mr. Kennedy's Mic" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1460,6 +1474,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You cannot pack non-Reversal cards in your Arsenal or Mid-match unless they are cards with 'BASH' in the title. Your opponent cannot play Pre-match cards with the word 'reversal' or 'reverse' in the text. Once during each of your turns you may remove 1 Reversal card in his Ringside pile from the game."/>
+		<alternate name="The Boogeyman" type="alt">
+	</alternate>		
 	</card>
 <card id="20287cbf-249b-5d21-410f-b22b3a684c2e" name="The Tick Tock of the Clock" size="Wide">
 		<property name="Format" value="Classic"/>

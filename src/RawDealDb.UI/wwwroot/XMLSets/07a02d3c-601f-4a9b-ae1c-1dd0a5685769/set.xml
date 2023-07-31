@@ -1173,6 +1173,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You cannot pack the card titled I Can't Be Reading This Right... or You're as Graceful as a Cow on Ice. Once during each of your turns, you may discard 1 card and then put 1 card from your opponent's Ring area into his Ringside pile. If the card moved is a maneuver of F:0, your opponent may shuffle it into his Arsenal. He cannot play the card titled Ric Flair Interferes. If you have 4 or more Superstar-specific cards in your Ring area, your cards titled Figure Four Leglock are considered Trademark Finishers instead of Submission maneuvers."/>
+		<alternate name="Ric Flair" type="alt">
+	</alternate>		
 	</card>
 <card id="1e2569b9-6768-17c3-975a-1d53aa8c69a2" name="Stylin', Profilin', Limousine Ridin', Lear Jet Flyin', Wheelin', Dealin' Son of a Gun!" size="Wide">
 		<property name="Format" value="Classic"/>

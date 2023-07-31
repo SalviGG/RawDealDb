@@ -820,6 +820,10 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring area, your opponent cannot play the card titled Old School Wrestling Match and when he plays a Backlash deck card, he discards 1 card."/>
+		<alternate name="Old School Psychology" type="alt">
+	</alternate>
+		<alternate name="Old School Psychology" type="alt2">
+	</alternate>		
 	</card>
 <card id="936bf0ed-7949-0963-1b21-32b7ff3933c0" name="Back to Basics" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1002,6 +1006,10 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by a Diva Superstar. Reverse any unique card and end your opponent's turn."/>
+		<alternate name="Skirt the Issue" type="alt">
+	</alternate>
+		<alternate name="Skirt the Issue" type="alt2">
+	</alternate>	
 	</card>
 <card id="5307791e-369d-04e4-13b0-244ce0b43696" name="Get the Tables!" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1301,6 +1309,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +2 Superstar Value: +2 Superstar Ability: + Before your Draw Segment, your opponent discards # cards, where # is equal to the number of cards he has in his hand greater than the number of cards in your hand +2. ≥ Starting Hand Size: +8 Superstar Value: +4 Superstar Ability: + Once during each of your turns, you may discard 2 cards and your next Maneuver card played this turn is -8F. You cannot play more than 2 maneuvers per turn."/>
+		<alternate name="Test or Freakzilla?" type="alt">
+	</alternate>		
 	</card>
 <card id="bd20fe0b-1dd5-422b-9f99-9aa7172f0dc4" name="Pump Me Up">
 		<property name="Format" value="Classic"/>

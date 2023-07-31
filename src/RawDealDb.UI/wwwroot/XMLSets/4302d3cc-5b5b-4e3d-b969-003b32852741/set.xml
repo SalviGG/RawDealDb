@@ -2654,7 +2654,7 @@ You are also considered the Brain Busters for your effects during the Pre-match 
         <property name="Damage" value="0"/>
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
-        <property name="CardType" value="Pre-match Storyline"/>
+        <property name="CardType" value="Pre-match Event"/>
         <property name="SS Logos" value="Braun Strowman"/>
         <property name="Traits" value="Unique, Permanent"/>
         <property name="Stun" value=""/>
