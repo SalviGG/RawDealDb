@@ -8,16 +8,18 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Charlotte"/>
 		<property name="Traits" value="Diva, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, you may put 1 maneuver with 'chop', 'clothesline', or 'figure four' from Ringside in your hand; when that card is Unique, put 1 card from your hand on the bottom of your Arsenal. You can pack The Flair Flop, it is not Raw, and ignore its '4D or greater' text. You cannot pack Corners."/>
 		<alternate name="Charlotte" type="alt">
-	</alternate>
+		</alternate>
 		<alternate name="Charlotte" type="alt2">
-	</alternate>
+		</alternate>
+		<alternate name="Charlotte" type="alt3" size="Wide">
+		</alternate>
 	</card>
 <card id="09cc62ad-7809-35b2-2d02-0f8f55fc6b31" name="Genetically Superior">
 		<property name="Format" value="VirtualClassic"/>
@@ -168,14 +170,18 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sasha Banks"/>
 		<property name="Traits" value="Diva, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Set-up actions played from hand are F: 0, and your opponent's Set-up actions are not affected by Boston, Massachusetts. You can pack up to 10 non-Backlash Set-up cards hidden in your Backstage Area."/>
 		<alternate name="Sasha Banks" type="alt">
-	</alternate>
+		</alternate>
+		<alternate name="Sasha Banks" type="alt2" size="Wide">
+		</alternate>
+		<alternate name="Sasha Banks" type="alt3">
+		</alternate>
 	</card>
 <card id="ed549af1-1492-8382-5c22-7247a833991f" name="The Baddest Diva in NXT">
 		<property name="Format" value="VirtualClassic"/>
@@ -326,14 +332,16 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Becky Lynch"/>
 		<property name="Traits" value="Diva, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you successfully play a card with 'precision' in the title, put up to 2 non-reversal cards from your Ringside on the bottom of your Arsenal. When you have equal or lower Fortitude, your maneuvers with 'precision' in the title are considered Unique for your opponent's cards and effects. You cannot pack Dynamically Inclined."/>
 		<alternate name="Becky Lynch" type="alt">
-	</alternate>	
+		</alternate>
+		<alternate name="Becky Lynch" type="alt2" size="Wide">
+		</alternate>
 	</card>
 <card id="e971156b-9f00-312d-0646-28b2f9f241e3" name="Becky's Steampunk Goggles">
 		<property name="Format" value="VirtualClassic"/>
@@ -484,7 +492,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Brie Bella"/>
 		<property name="Traits" value="Diva, Throwback"/>
 		<property name="Stun" value=""/>
@@ -554,7 +562,7 @@
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed by a Throwback Superstar. Search your Arsenal for Maintain Hold, reveal it, put it in your hand, and shuffle; when that card is your next card played this turn, it cannot be reversed. During your turn when this card is in your hand or Ringside, you may reveal it, overturn 1 card, draw 1 card, and put this card on the bottom of your Arsenal."/>
+		<property name="Card Text" value="Can only be packed by a Throwback Superstar. Arsenal Search Maintain Hold, and when it is your next card played this turn, ignore 'Can only be played...' and it cannot be reversed. In Hand/Ringside: during your turn you may reveal and Bury this card, overturn 1, and draw 1."/>
 	</card>
 <card id="3fbeef95-5f0c-8c02-8ac0-12cd843c06ca" name="Backed by Daniel Bryan">
 		<property name="Format" value="VirtualClassic"/>
@@ -575,7 +583,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Nikki Bella"/>
 		<property name="Traits" value="Diva, Throwback"/>
 		<property name="Stun" value=""/>
@@ -724,6 +732,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed when you have a Bella Twins card in your Ring. Shuffle up to # cards from your Ringside into your Arsenal, and your opponent overturns # cards, where # is equal to the number of cards in your Ring with 'diva' in the title or text and cannot be greater than 5. Draw up to 2 cards."/>
+		<alternate name="Total Divas" type="alt">
+		</alternate>
 	</card>
 <card id="6f0d8471-0444-64c5-60f7-f471e9a904be" name="The Four Horsewomen of NXT" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -737,6 +747,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. After all Pre-match are resolved, when your opponent is not an NXT Superstar, put up to 4 cards from your hand on the bottom of your Arsenal; he puts the same number of random cards from his hand on the bottom of his Arsenal, and all players draw the same number of cards -1. ACE: When your Fortitude Rating is 10+ and you have lower Fortitude, you may put this card into your Ringside to reverse a non-Unique D: 4+ maneuver."/>
+		<alternate name="The Four Horsewomen of NXT" type="alt" size="Wide">
+		</alternate>
 	</card>
    </cards>
 </set>

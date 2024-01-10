@@ -13,9 +13,9 @@
 		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be played when there is a Feud card in any Ring area. The maximum number of Pre-match cards you may have in your Ring area is increased by 1. If you are about to lose the game via Pinfall victory, you may instead put this card into your Ringside pile and then all players put their hand on top of their Arsenal and then shuffle # cards from their Ringside pile into their Arsenal, where # is equal to double their Superstar Value. (This is not affected by the card titled Hell in a Cell Match.) End the current turn. When this card is in your Ringside pile, before your Draw Segment, remove the top card of your Arsenal from the game."/>
-		<alternate name="Wrestlemania" type="alt">
-	</alternate>	
+		<property name="Card Text" value="Can only be played when there is a Feud card in any Ring. Your Pre-match Capacity is +1. This card is Superstar-specific for your opponent's effects. When this card is in your Ringside, before each of your Draw Segments, RFG your top Arsenal card. ACE: When you are about to lose the game via Pinfall Victory, you may put this card from your Ring into your Ringside, and then continue the game, all players Stack their Hand and Recover # Ringside cards, regardless of Hell in a Cell Match (# = double their Superstar Value, max. 14), and end the current turn."/>
+		<alternate name="Wrestlemania" type="alt" size="Wide">
+		</alternate>	
 	</card>
 <card id="5b6d332e-0c0b-2636-4b97-60305ca94a54" name="Jerry Lawler">
 		<property name="Format" value="Classic"/>
@@ -23,7 +23,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="#"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jerry Lawler"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>

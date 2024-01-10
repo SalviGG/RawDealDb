@@ -10,7 +10,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Vince McMahon"/>
 		<property name="Traits" value="Chairman"/>
 		<property name="Stun" value=""/>
@@ -95,7 +95,7 @@
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. During your turn, you may allow your opponent to draw 2 cards. If you do, switch to 1 of these Enforcers. ≥ Starting Hand Size: +6 Superstar Value: +3 Superstar Ability: +Replace the 'Can only be played after...' text on your High Risk maneuvers with 'Can only be played after a successfully played card.' You cannot play Grapple or Submission maneuvers. The non-F:0 maneuvers you play can only be Foreign Object or High Risk maneuvers. ≥ Starting Hand Size: +7 Superstar Value: +2 Superstar Ability: +When your opponent's Superstar Ability does not have the word 'Enforcer' in its text, your Superstar Ability reads the same as his."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. During your turn, you may allow your opponent to draw 2 cards. If you do, switch to 1 of these Enforcers. ≥ Hand Size: +6 Superstar Value: +3 Superstar Ability: +Replace the 'Can only be played after...' text on your High Risk maneuvers with 'Can only be played after a successfully played card.' You cannot play Grapple or Submission maneuvers. The non-F:0 maneuvers you play can only be Foreign Object or High Risk maneuvers. ≥ Hand Size: +7 Superstar Value: +2 Superstar Ability: +When your opponent's Superstar Ability does not have the word 'Enforcer' in its text, your Superstar Ability reads the same as his."/>
 	</card>
 <card id="48e71445-39a0-659f-474b-a8c1538c36af" name="King's Crown">
 		<property name="Format" value="Classic"/>

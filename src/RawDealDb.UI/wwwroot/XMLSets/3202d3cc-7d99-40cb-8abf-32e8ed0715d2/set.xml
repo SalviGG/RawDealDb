@@ -398,7 +398,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="8"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Rock"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -528,7 +528,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Brock Lesnar"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -658,7 +658,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Chris Jericho"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -788,7 +788,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="King Booker"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -918,7 +918,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sheamus"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1048,7 +1048,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Daniel Bryan"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1178,7 +1178,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Dolph Ziggler"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1308,7 +1308,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Mark Henry"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1438,7 +1438,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jack Swagger"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1568,7 +1568,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Carlito"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1698,7 +1698,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kofi Kingston"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1828,7 +1828,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Santino Marella"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1958,7 +1958,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rob Van Dam"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -2036,7 +2036,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="John Laurinaitis"/>
 		<property name="Traits" value="GM"/>
 		<property name="Stun" value=""/>

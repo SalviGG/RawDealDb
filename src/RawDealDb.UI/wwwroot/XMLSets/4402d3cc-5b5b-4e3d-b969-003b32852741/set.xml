@@ -8,14 +8,14 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="7"/>
         <property name="SSV" value="2"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Kairi Sane"/>
         <property name="Traits" value="Unique"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Superstar Ability: When your maneuver is reversed you may RFG Backlash 1 card; if you do, do not draw for Stun Value, and then continue your turn. Your Ax Kick is F: 0, +2D, and Unique. You can pack High-Flying Style and Tree of Woe Double Stomp, and Unique Multi maneuvers, but you cannot pack maneuvers that are Chain, Heat, or Volley."/>
+        <property name="Card Text" value="When your maneuver is reversed you may RFG 1 Backlash card; if you do, do not draw for Stun Value, and then continue your turn. Your Ax Kick is F: 0, +2D, and Unique. You can pack High-Flying Style and Tree of Woe Double Stomp, and Unique Multi maneuvers, but you cannot pack maneuvers that are Chain, Heat, or Volley."/>
 		<alternate name="Kairi Sane" type="alt">
-	</alternate>
+		</alternate>
 </card>
 <card id="c31f139c-0f6d-452b-90a2-87dfed5ef43f" name="Sane's Spyglass">
         <property name="Format" value="VirtualClassic"/>
@@ -38,7 +38,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Pre-match Object"/>
         <property name="SS Logos" value="Kairi Sane"/>
-        <property name="Traits" value="Unique, Permanent, RMS, ACE"/>
+        <property name="Traits" value="Unique, Permanent, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="When you end your turn without playing a maneuver, put all cards under this card into your opponent's hand. He must discard 1 card to play a card with the same title as a card under this card. Once during each of his turns, he may swap 1 Hand card with 1 card under this card. Once during any turn, you may play 1 of his cards from under this card as if from hand; if you do, discard 1 card and then after damage is applied, or when it is reversed, put the played card into his hand."/>
@@ -62,12 +62,14 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="6"/>
         <property name="SSV" value="2"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Hardcore Holly"/>
         <property name="Traits" value="Unique"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Once during each of your turns, you may RFG any number of Hand cards and then draw the same number of cards. You can pack No Sell Maneuver and Good Golly, Miss Molly Holly, but you cannot pack Denville, New Jersey or Dallas, Texas."/>
+		<alternate name="Hardcore Holly" type="alt">
+		</alternate>
 </card>
 <card id="e411035d-387c-49d1-8765-b9d2da585d1d" name="The Big Shot">
         <property name="Format" value="VirtualClassic"/>
@@ -82,7 +84,7 @@
         <property name="Target" value=""/>
         <property name="Card Text" value="Your maneuvers without a reversal restriction from a card are +#D, where # is equal to the number of your RFG cards; when you have lower Fortitude, they are also +2 Stun Value. Your opponent's maneuvers are -1D. When you RFG cards for your Ability, put up to 3 of those cards on the bottom of your Arsenal instead. When you overturn damage from your opponent's non-Superstar-specific reversal, you may put the same number of your RFG cards on the bottom of your Arsenal."/>
 </card>
-<card id="88ecf813-4415-410b-8834-d2a2aa13a5e6" name="How Do Ya Like Me Now? - Throwback" size="Wide">
+<card id="88ecf813-4415-410b-8834-d2a2aa13a5e6" name="How Do Ya Like Me Now?" size="Wide">
         <property name="Format" value="VirtualClassic"/>
         <property name="Fortitude" value="0"/>
         <property name="Damage" value="0"/>
@@ -90,10 +92,10 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Pre-match Event"/>
         <property name="SS Logos" value="Hardcore Holly"/>
-        <property name="Traits" value="Unique, Permanent"/>
+        <property name="Traits" value="Unique, Permanent, Throwback"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Cannot be blanked. When your Fortitude Rating is 5- and you have 10+ RFG cards, your opponent cannot play D: 0 reversals (except Restricted Use in this Area and Sustained Damage) to your non-Run-in F: 0 maneuvers, and when they are unsuccessful, put them in your hand instead. When your Fortitude Rating is 10+ and you have 5+ RFG cards, and your maneuver is unsuccessful, you may RFG that card and then put up to 2 RFG cards into your hand. When you have 5- Hand cards and you use your Ability, double the number of cards drawn."/>
+        <property name="Card Text" value="Cannot be blanked. When you have 5- Hand cards and you use your Ability, double the number of cards drawn. When you have F: 5- and 10+ RFG cards, your opponent cannot play D: 0 reversals (except Restricted Use in this Area and Sustained Damage) to your non-Run-in F: 0 maneuver, and when it is unsuccessful, put it in your hand instead. ACE: When you have F: 10+ and 5+ RFG cards, and your maneuver is unsuccessful, you may RFG that card and then put 2- other RFG cards into your hand."/>
 </card>
 <card id="09323316-606e-43cf-afb0-f65f6fd62bd7" name="Alabama Slam">
         <property name="Format" value="VirtualClassic"/>
@@ -114,12 +116,14 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="8"/>
         <property name="SSV" value="5"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Harley Race"/>
-        <property name="Traits" value="Unique, WWF, WCW, Legend"/>
+        <property name="Traits" value="Unique, Legend, WCW, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="WWF/WCW Legend Superstar Ability: Your 'Suplex', 'Knee', 'Breaker', and 'Driver' maneuvers are considered to have 'Classic' in the title. Your Managed by Bobby 'The Brain' Heenan is Superstar-specific, and when you look at your opponent's Arsenal for that card, you may arrange his cards in any order and then he overturns 1 card. You can pack No Sell Maneuver and Classic Leaping Knee. Your printed Superstar-specific cards are also WCW."/>
+        <property name="Card Text" value="Your 'Suplex', 'Knee', 'Breaker', and 'Driver' maneuvers are considered to have 'Classic' in the title. Your Managed by Bobby 'The Brain' Heenan is Superstar-specific, and when you look at your opponent's Arsenal for that card, you may arrange his cards in any order and then he overturns 1 card. You can pack No Sell Maneuver and Classic Leaping Knee. Your printed Superstar-specific cards are also WCW."/>
+		<alternate name="Harley Race" type="alt">
+		</alternate>
 </card>
 <card id="d95ecf32-98c5-4cc0-b7ae-950a58a5fc06" name="The King of Wrestling">
         <property name="Format" value="VirtualClassic"/>
@@ -129,7 +133,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Backstage Card"/>
         <property name="SS Logos" value="Harley Race, Jerry Lawler"/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Your 'Piledriver' maneuvers are Trademark Finishers instead, and their Fortitude and Damage cannot be reduced. When you are Harley Race, once during each of your turns you may reveal 1 Hand 'Classic' maneuver, put it on the bottom of your Arsenal, and then play 1 Ringside 'Classic' maneuver as if from hand."/>
@@ -142,7 +146,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Pre-match Event"/>
         <property name="SS Logos" value="Harley Race"/>
-        <property name="Traits" value="Unique, Permanent, WWF, ACE"/>
+        <property name="Traits" value="Unique, Permanent, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Cannot be packed when packing There Is No Escape. Cannot be blanked. Your 'Classic' maneuvers are Superstar-specific, and -2F and +1D for each of your Ringside 'Classic' maneuvers; when unsuccessful, you may draw 1 card. ACE: When your opponent successfully plays a maneuver, you may RFG this card from your Ring, and then his played card is D: 0 and blank until the end of the turn."/>
@@ -155,7 +159,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="High Risk"/>
         <property name="SS Logos" value="Harley Race"/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value="1"/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Can only be played after a successfully played maneuver or as a Counter. When you have 5+ lower Fortitude and this card is F: 0, or when played after a 5D+ maneuver, can only be reversed from Arsenal."/>
@@ -166,12 +170,14 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="6"/>
         <property name="SSV" value="2"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Ember Moon"/>
         <property name="Traits" value="NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="NXT Superstar Ability: When your first maneuver played each turn does not have a printed reversal restriction, your opponent chooses # random Hand cards, and your card cannot be reversed by the chosen cards, where # is the number of cards under Moonrise. The number of cards he discards for your effects is reduced to 1. You can pack High-Flying Style. Replace a Superstar listed on NXT Women's Championship Title Belt with 'Ember Moon'."/>
+        <property name="Card Text" value="When your first maneuver played each turn does not have a printed reversal restriction, your opponent chooses # random Hand cards, and your card cannot be reversed by the chosen cards, where # is the number of cards under Moonrise. The number of cards he discards for your effects is reduced to 1. You can pack High-Flying Style. Replace a Superstar listed on NXT Women's Championship Title Belt with 'Ember Moon'."/>
+		<alternate name="Ember Moon" type="alt">
+		</alternate>
 </card>
 <card id="21f9439d-7dee-4b6e-a645-1d2388b5979e" name="Moonrise">
         <property name="Format" value="VirtualClassic"/>
@@ -218,12 +224,14 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="6"/>
         <property name="SSV" value="1"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Steve Blackman"/>
         <property name="Traits" value=""/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Superstar Ability: Your 'Chop', 'Kick', and 'Kendo' maneuvers are considered to have 'Dynamic' in the title for your effects. Your 'Dynamic' maneuvers are considered to have 'Chop' and 'Kick' in the title for your effects. You can pack His Hands and Feet Are Lethal Weapons, Educated Hands (it is Unique), and Series of Kicks as if they are not Smackdown. You cannot pack The House That Hardcore Built."/>
+        <property name="Card Text" value="Your 'Chop', 'Kick', and 'Kendo' maneuvers are considered to have 'Dynamic' in the title for your effects. Your 'Dynamic' maneuvers are considered to have 'Chop' and 'Kick' in the title for your effects. You can pack His Hands and Feet Are Lethal Weapons, Educated Hands (it is Unique), and Series of Kicks as if they are not Smackdown. You cannot pack The House That Hardcore Built."/>
+		<alternate name="Steve Blackman" type="alt">
+		</alternate>
 </card>
 <card id="9c97a945-1a08-4f02-92a4-8502964f0f7f" name="The Lethal Weapon">
         <property name="Format" value="VirtualClassic"/>
@@ -270,12 +278,14 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="4"/>
         <property name="SSV" value="2"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Brian Pillman"/>
         <property name="Traits" value="WCW"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="WCW Superstar Ability: Before your Draw Segment, your opponent reveals up to 3 Hand cards (min. 1); during your Draw Segment, draw up to 3 additional cards, minus 1 for each revealed card. When he reveals 3 cards, he randomly discards 1 of those cards. You can pack Cheater and Fan Favorite cards, Once a Horseman, Always a Horseman and High-Flying Style. You are a Hart Family member."/>
+        <property name="Card Text" value="Before your Draw Segment, your opponent reveals up to 3 Hand cards (min. 1); during your Draw Segment, draw up to 3 additional cards, minus 1 for each revealed card. When he reveals 3 cards, he randomly discards 1 of those cards. You can pack Cheater and Fan Favorite cards, Once a Horseman, Always a Horseman and High-Flying Style. You are a Hart Family member."/>
+		<alternate name="Brian Pillman" type="alt">
+		</alternate>
 </card>
 <card id="7112932e-dc72-4182-bf97-51614ec5b925" name="The Loose Cannon">
         <property name="Format" value="VirtualClassic"/>
@@ -311,7 +321,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Pre-match Event"/>
         <property name="SS Logos" value="Brian Pillman"/>
-        <property name="Traits" value="Unique, Permanent, ACE, WCW"/>
+        <property name="Traits" value="Unique, Permanent, WCW"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Cannot be blanked. 'From' Set-up cards can be played from Ringside. ACE: Once during each of your turns, you may put 1 Hand card under The Loose Cannon, and then when your next card played this turn is a High Risk, ignore the 'Can only be played after...' text, and your opponent must RFG 1 Hand card to play reversals to it. When you have equal or lower Fortitude, this effect cannot be reversed."/>

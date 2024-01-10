@@ -8,7 +8,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Dude Love"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>

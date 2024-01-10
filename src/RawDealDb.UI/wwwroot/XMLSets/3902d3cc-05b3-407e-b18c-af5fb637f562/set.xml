@@ -8,12 +8,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="AJ Styles"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your maneuver is unsuccessful, you may search your Arsenal for 1 non-Unique non-hybrid maneuver with a different title than the reversed maneuver, reveal it, put it in your hand, and shuffle; when you do, you cannot continue your turn. Reversals to your Superstar-specific Activated Card Effects do not end your turn. You can pack High-Flying Style."/>
+		<alternate name="AJ Styles" type="alt">
+		</alternate>
 	</card>
 <card id="b34017ce-9bdf-8875-8fa2-9fb381f77d3e" name="The Phenomenal One">
 		<property name="Format" value="VirtualClassic"/>
@@ -164,7 +166,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Best Wrestler In The World"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -294,12 +296,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="12"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Braun Strowman"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent╞s effects cannot reduce or blank the damage of your maneuvers, and he does not draw or search his Arsenal for the effects of his non-Superstar-specific reversals. You can pack As Big and Tough as Any Two Men (replace 'Kane' with 'Braun Strowman' in its text), No Sell Maneuver, Follow the Buzzards, and We're Here. Ignore the 'When you are packing...' text on A Revolution of the Mind. You cannot pack Face, Heel, or BASH cards, or Corners."/>
+		<alternate name="Braun Strowman" type="alt">
+		</alternate>
 	</card>
 <card id="6f6a7cbf-a205-3f2b-48d0-fd44733090d6" name="The Black Sheep Mask">
 		<property name="Format" value="VirtualClassic"/>
@@ -450,14 +454,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Drew McIntyre"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns when you have 5+ cards in hand, you may shuffle your hand into your Arsenal, draw 4 cards, your opponent puts 1 random card from his hand on the bottom of his Arsenal and overturns 1 card; your next maneuver played this turn is -#F, where # is equal to the number of cards you shuffled into your Arsenal."/>
 		<alternate name="Drew McIntyre" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="cac17eb4-849c-9eac-90b2-55e6308a4335" name="The Chosen One">
 		<property name="Format" value="VirtualClassic"/>
@@ -582,12 +586,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jinder Mahal"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, you may remove 1 card in your Ringside from the game and put 1 of your Arsenal cards removed from the game into your Ringside; this effect and the Volley Trait do not cause your Heat cards to be removed from the game. Your Underrated Superstar and Drawing a Blank are now Jinder Mahal-specific, and your Jinder Mahal-specific cards are Heat."/>
+		<alternate name="Jinder Mahal" type="alt">
+		</alternate>
 	</card>
 <card id="5943671f-5061-1f89-a21e-c7fa7db21c57" name="The Maharaja of Metal">
 		<property name="Format" value="VirtualClassic"/>
@@ -712,14 +718,16 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Bayley"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent's non-reversal D: 1+ card is successful and damage is applied, put up to 1 non-reversal maneuver or 1 Set-up card from your Ringside into your hand. When you play From the Top Rope as a Counter, it cannot be reversed."/>
 		<alternate name="Bayley" type="alt">
-	</alternate>	
+		</alternate>
+		<alternate name="Bayley" type="alt2" size="Wide">
+		</alternate>	
 	</card>
 <card id="494f1cc8-4325-4fb2-3ce9-df4e9bfe5ad1" name="Bayley's Headband">
 		<property name="Format" value="VirtualClassic"/>
@@ -870,7 +878,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Natalya"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1000,7 +1008,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Gallows and Anderson"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>

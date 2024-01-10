@@ -819,11 +819,11 @@
 		<property name="Traits" value="Face"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When this card is in your Ring area, your opponent cannot play the card titled Old School Wrestling Match and when he plays a Backlash deck card, he discards 1 card."/>
-		<alternate name="Old School Psychology" type="alt">
-	</alternate>
-		<alternate name="Old School Psychology" type="alt2">
-	</alternate>		
+		<property name="Card Text" value="When Back to Basics is not in your Ring, this card is Active. When this card is in your Ring, your opponent cannot play Old School Wrestling Match, and when they play a Backlash card, they discard 1 card."/>
+		<alternate name="Old School Psychology" type="alt" size="Wide">
+		</alternate>
+		<alternate name="Old School Psychology" type="alt2" size="Wide">
+		</alternate>		
 	</card>
 <card id="936bf0ed-7949-0963-1b21-32b7ff3933c0" name="Back to Basics" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -885,7 +885,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo"/>
+		<property name="Traits" value="Face, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed if your Superstar card says you cannot play any title belt except the Tag Team Title Belts or if this is a Tag Team format match. When this card is in your Ring area, during your turn you may put this card into your Ringside pile and shuffle up to 6 cards from your Ringside pile into your Arsenal and put 1 Face card from your Ringside pile into your hand."/>
@@ -1000,16 +1000,16 @@
 		<property name="Damage" value="0"/>
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
-		<property name="CardType" value="Mid-match Reversal: Special"/>
+		<property name="CardType" value="Mid-match Reversal: Unique"/>
 		<property name="SS Logos" value=""/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed by a Diva Superstar. Reverse any unique card and end your opponent's turn."/>
-		<alternate name="Skirt the Issue" type="alt">
-	</alternate>
-		<alternate name="Skirt the Issue" type="alt2">
-	</alternate>	
+		<property name="Card Text" value="Can only be packed by a Diva. Cannot be packed when packing BASH D: 1+ cards."/>
+		<alternate name="Skirt the Issue" type="alt" size="Wide">
+		</alternate>
+		<alternate name="Skirt the Issue" type="alt2" size="Wide">
+		</alternate>	
 	</card>
 <card id="5307791e-369d-04e4-13b0-244ce0b43696" name="Get the Tables!" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1022,7 +1022,7 @@
 		<property name="Traits" value="Raw"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed by a Male Superstar. Cannot be reversed when played by The Dudley Boyz, Buh Buh Ray Dudley, or D-Von Dudley. Search your Arsenal for up to 3 cards titled Table! Table! Table!, reveal them to your opponent, put 1 into your hand, put the rest into your Ringside pile, and shuffle your Arsenal. When this card is in your Ring area, the maximum number of Mid-match cards you may have in your Ring area is increased by 1."/>
+		<property name="Card Text" value="Can only be packed by a Male Superstar. Cannot be reversed when played by The Dudley Boyz, Buh-Buh Ray Dudley, or D-Von Dudley. Search your Arsenal for up to 3 cards titled Table! Table! Table!, reveal them to your opponent, put 1 into your hand, put the rest into your Ringside pile, and shuffle your Arsenal. When this card is in your Ring area, the maximum number of Mid-match cards you may have in your Ring area is increased by 1."/>
 	</card>
 <card id="99466510-271d-8c76-6b64-e04db93e1beb" name="Teaser Mode" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1186,7 +1186,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Goldberg"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1264,7 +1264,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0+"/>
 		<property name="SSV" value="3+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Stacy Keibler"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1308,9 +1308,9 @@
 		<property name="Traits" value="Raw"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +2 Superstar Value: +2 Superstar Ability: + Before your Draw Segment, your opponent discards # cards, where # is equal to the number of cards he has in his hand greater than the number of cards in your hand +2. ≥ Starting Hand Size: +8 Superstar Value: +4 Superstar Ability: + Once during each of your turns, you may discard 2 cards and your next Maneuver card played this turn is -8F. You cannot play more than 2 maneuvers per turn."/>
+		<property name="Card Text" value="Can only be packed by Superstars that can pack Enforcers. ≥ Hand Size: +2 Superstar Value: +2 Superstar Ability: +Before your Draw Segment, your opponent discards # cards (# = number of their Hand cards greater than the total of 2 + number of your Hand cards, max 2). ≥ Hand Size: +8 Superstar Value: +4 Superstar Ability: +Once during each of your turns, you may discard 2 cards and your next maneuver played this turn is -8F. You cannot play 3+ maneuvers per turn."/>
 		<alternate name="Test or Freakzilla?" type="alt">
-	</alternate>		
+		</alternate>		
 	</card>
 <card id="bd20fe0b-1dd5-422b-9f99-9aa7172f0dc4" name="Pump Me Up">
 		<property name="Format" value="Classic"/>
@@ -1344,7 +1344,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Gail Kim and Molly Holly"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1422,7 +1422,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="John Cena"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1500,7 +1500,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0+"/>
 		<property name="SSV" value="2+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sable"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1544,7 +1544,7 @@
 		<property name="Traits" value="Smackdown"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +12 Superstar Value: +3 Superstar Ability: + Your maneuvers played from your hand are +1D. You cannot play non-unique Action cards from your hand. ≥ Starting Hand Size: +6 Superstar Value: +1 Superstar Ability: + Once during each of your turns, you may discard 1 card and then search your Arsenal for 1 non-unique card with the word 'power,''bomb,'or 'slam'in the title, reveal it to your opponent, put it in your hand and shuffle your Arsenal. Your cards played with the word 'power,''bomb'or 'slam' in the title are -4F."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Hand Size: +12 Superstar Value: +3 Superstar Ability: +Your maneuvers played from your hand are +1D. You cannot play non-unique Action cards from your hand. ≥ Hand Size: +6 Superstar Value: +1 Superstar Ability: +Once during each of your turns, you may discard 1 card and then search your Arsenal for 1 non-unique card with the word 'power,''bomb,'or 'slam'in the title, reveal it to your opponent, put it in your hand and shuffle your Arsenal. Your cards played with the word 'power,''bomb' or 'slam' in the title are -4F."/>
 	</card>
 <card id="f17726f2-1921-a0b3-78e4-ee667ee65451" name="For the Women that Want to Be Me...">
 		<property name="Format" value="Classic"/>
@@ -1578,7 +1578,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Torrie Wilson"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1656,7 +1656,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Victoria"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1734,7 +1734,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Nidia"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1943,7 +1943,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Maneuver: Special"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Smackdown, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1956,7 +1956,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
 		<property name="Traits" value="Raw, Run-in, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -2233,7 +2233,7 @@
 		<property name="Traits" value="Raw"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. When this card is revealed, the Maximum number of Mid-match cards you may have in your Ring area is increased by 2. ≥ Starting Hand Size: +6 Superstar Value: +3 Superstar Ability: +Once during your turn, you may discard 1 Strike or High Risk Maneuver card and if your next card played this turn is a Strike or High Risk Maneuver, it is -#F, where # is equal to the discarded maneuver's Fortitude. ≥ Starting Hand Size: +8 Superstar Value: +4 Superstar Ability: +Before your Draw Segment, if your Fortitude Rating is greater than your opponent's Fortitude Rating, put up to 2 cards from your Ringside pile at the bottom of your Arsenal."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. When this card is revealed, the Maximum number of Mid-match cards you may have in your Ring area is increased by 2. ≥ Hand Size: +6 Superstar Value: +3 Superstar Ability: +Once during your turn, you may discard 1 Strike or High Risk Maneuver card and if your next card played this turn is a Strike or High Risk Maneuver, it is -#F, where # is equal to the discarded maneuver's Fortitude. ≥ Hand Size: +8 Superstar Value: +4 Superstar Ability: +Before your Draw Segment, if your Fortitude Rating is greater than your opponent's Fortitude Rating, put up to 2 cards from your Ringside pile at the bottom of your Arsenal."/>
 	</card>
 <card id="02458a03-22c4-27ec-81f9-52794e174ffb" name="Edge or Big Show?">
 		<property name="Format" value="Classic"/>
@@ -2246,7 +2246,7 @@
 		<property name="Traits" value="Smackdown"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. When this card is revealed, you cannot play cards that would increase your opponent's Superstar Value. ≥ Starting Hand Size: +# Superstar Value: +3 Superstar Ability: +# is equal to twice your opponent's Superstar Value. You start the game after the Pre-match phase. ≥ Starting Hand Size: +9 Superstar Value: +3 Superstar Ability: +You must discard 2 cards in order to play a maneuver, unless it is your first maneuver played of the turn. You cannot play High Risk maneuvers. Your opponent's Grapple maneuvers played do no more than a maximum of 3D."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. When this card is revealed, you cannot play cards that would increase your opponent's Superstar Value. ≥ Hand Size: +# Superstar Value: +3 Superstar Ability: +# is equal to twice your opponent's Superstar Value. You start the game after the Pre-match phase. ≥ Hand Size: +9 Superstar Value: +3 Superstar Ability: +You must discard 2 cards in order to play a maneuver, unless it is your first maneuver played of the turn. You cannot play High Risk maneuvers. Your opponent's Grapple maneuvers played do no more than a maximum of 3D."/>
 	</card>
    </cards>
 </set>

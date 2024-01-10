@@ -909,7 +909,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As the 'active'legal player of your team, can only be played if your team's combined Fortitude Rating is greater than your opponent's team's combined Fortitude Rating. You may 'tag'in a partner and he is now the 'active'legal player and may begin his turn."/>
@@ -922,7 +922,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played if you are the 'inactive'player of your team. Search your Arsenal for any card with a Tag Team Symbol, reveal it to your opponents, put it in your hand, and then shuffle your Arsenal"/>
@@ -1089,7 +1089,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hulk Hogan"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1167,14 +1167,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Ric Flair"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="You cannot pack the card titled I Can't Be Reading This Right... or You're as Graceful as a Cow on Ice. Once during each of your turns, you may discard 1 card and then put 1 card from your opponent's Ring area into his Ringside pile. If the card moved is a maneuver of F:0, your opponent may shuffle it into his Arsenal. He cannot play the card titled Ric Flair Interferes. If you have 4 or more Superstar-specific cards in your Ring area, your cards titled Figure Four Leglock are considered Trademark Finishers instead of Submission maneuvers."/>
+		<property name="Card Text" value="Once during each of your turns, you may discard 1 card and put 1 Opponent's Ring card into their Ringside; when their card is a maneuver, Bury 2 random Hand cards and overturn 2 cards; and when their card is an F: 0 maneuver, they may Recover it. When you have 4+ Superstar-specific Ring cards, your Figure Four Leglock cards are TMF instead. They cannot play Ric Flair Interferes. You cannot pack 'Reading' or 'Graceful' cards."/>
 		<alternate name="Ric Flair" type="alt">
-	</alternate>		
+		</alternate>		
 	</card>
 <card id="1e2569b9-6768-17c3-975a-1d53aa8c69a2" name="Stylin', Profilin', Limousine Ridin', Lear Jet Flyin', Wheelin', Dealin' Son of a Gun!" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1247,7 +1247,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hall and Nash"/>
 		<property name="Traits" value="nWo"/>
 		<property name="Stun" value=""/>
@@ -1329,7 +1329,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Trish Stratus"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1407,7 +1407,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Billy and Chuck"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1421,7 +1421,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
-		<property name="SS Logos" value="Billy and Chuck, B.A.Billy Gunn, 3 Minute Warning"/>
+		<property name="SS Logos" value="Billy and Chuck, Billy Gunn, 3 Minute Warning"/>
 		<property name="Traits" value="Run-in, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1485,7 +1485,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Al Snow"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1563,7 +1563,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tajiri"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1641,7 +1641,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hurricane"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1811,7 +1811,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
 		<property name="Traits" value="Unique, Run-in"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>

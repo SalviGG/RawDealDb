@@ -10,7 +10,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Strike"/>
         <property name="SS Logos" value=""/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Can be reversed as if it was non-Unique. When successfully played, overturn up to 2 cards and your opponent overturns the same number of cards. When played by a Female Superstar, he overturns 1 additional card."/>
@@ -23,7 +23,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Submission"/>
         <property name="SS Logos" value=""/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Can be reversed as if it was non-Unique. When successfully played, put up to 3 cards from your hand on the bottom of your Arsenal and draw the same number of cards. Your opponent chooses the same number of cards in his hand, puts them on the bottom of his Arsenal, and draws that many."/>
@@ -36,7 +36,7 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Reversal: non-Unique Maneuver"/>
         <property name="SS Logos" value=""/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Can only be played by a Tag Team, Stable, when you have an Enforcer revealed, or when you have a WWF Manager in your Ring or Ringside."/>
@@ -60,9 +60,9 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="2+"/>
         <property name="SSV" value="1+"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Jim Cornette"/>
-        <property name="Traits" value="WCW, WWF"/>
+        <property name="Traits" value="WCW, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Your first action played each turn, and actions in your Arsenal and Ringside, are Chain. During your turn, when your opponent has 4- cards in hand and he would discard for the Chain trait, he may overturn that many cards instead. You may pack 1 Jim Cornette-specific Enforcer in your Backstage Area, but you may not pack non-Jim Cornette-specific Enforcers. Reveal 1 Enforcer card and choose 1 Enforcer."/>
@@ -75,16 +75,10 @@
         <property name="SSV" value=""/>
         <property name="CardType" value="Enforcer"/>
         <property name="SS Logos" value="Jim Cornette"/>
-        <property name="Traits" value=""/>
+        <property name="Traits" value="WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When packing this card, you are a Tag Team, and you may pack High Flying Style and Classic Teamwork.
-• Starting Hand Size: +7
-Superstar Value: +2
-Superstar Ability: + When your first maneuver played each turn is a printed non-Backlash 2D+ Grapple maneuver, you may also immediately play a printed 9D- High Risk from your Ringside; it is blank and ignore the 'Can only be played...' text. Unless both maneuvers are reversed when played, both are successfully played, and after damage is applied, end your turn.
-• Starting Hand Size: +7
-Superstar Value: +3
-Superstar Ability: + Your first maneuver played each turn without 'reversed' in the text is considered Chain and your Fortitude rating is considered +3 when playing it."/>
+        <property name="Card Text" value="When packing this card, you are a Tag Team, and you may pack High Flying Style and Classic Teamwork. ≥ Hand Size: +7 Superstar Value: +2 Superstar Ability: + When your first maneuver played each turn is a printed non-Backlash 2D+ Grapple maneuver, you may also immediately play a printed 9D- High Risk from your Ringside; it is blank and ignore the 'Can only be played...' text. Unless both maneuvers are reversed when played, both are successfully played, and after damage is applied, end your turn. ≥ Hand Size: +7 Superstar Value: +3 Superstar Ability: +Your first maneuver played each turn without 'reversed' in the text is considered Chain and your Fortitude rating is considered +3 when playing it."/>
     </card>
 <card id="5b50952c-f23b-49c0-91d2-c3d17aa765a2" name="The Louisville Lip" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -94,7 +88,7 @@ Superstar Ability: + Your first maneuver played each turn without 'reversed' in 
         <property name="SSV" value=""/>
         <property name="CardType" value="Pre-match Event"/>
         <property name="SS Logos" value="Jim Cornette"/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Your cards with 'old school' in the title do not take up a slot in your Ring. ACE: When your action is unsuccessful, you may discard 2 cards and Ringside Search 1 Chain action. This effect cannot be reversed."/>
@@ -107,7 +101,7 @@ Superstar Ability: + Your first maneuver played each turn without 'reversed' in 
         <property name="SSV" value=""/>
         <property name="CardType" value="Action / Reversal: Special"/>
         <property name="SS Logos" value="Jim Cornette"/>
-        <property name="Traits" value="Unique, RMS, WWF"/>
+        <property name="Traits" value="Unique, RMS, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="As an action, can only be played as the first card of your turn. Shuffle this card into your Arsenal and if your next card played this turn is a maneuver, it can only be reversed by Unique reversals. As a reversal, reverse any maneuver. If the reversed maneuver was Volley, this counts as 2 reversals, and ignore the Volley trait during your next turn."/>
@@ -118,7 +112,7 @@ Superstar Ability: + Your first maneuver played each turn without 'reversed' in 
         <property name="Damage" value=""/>
         <property name="Hand Size" value="5"/>
         <property name="SSV" value="1"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Lacey Evans"/>
         <property name="Traits" value=""/>
         <property name="Stun" value=""/>
@@ -170,7 +164,7 @@ Superstar Ability: + Your first maneuver played each turn without 'reversed' in 
         <property name="Damage" value=""/>
         <property name="Hand Size" value="6"/>
         <property name="SSV" value="2"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Pete Dunne"/>
         <property name="Traits" value="NXT"/>
         <property name="Stun" value=""/>

@@ -13,7 +13,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="SSV +3"/>
+		<property name="Card Text" value="Superstar Value +3"/>
 	</card>
 <card id="1a86d6d4-2825-7133-141f-44f7904e3b0c" name="World Wrestling Federation Intercontinental Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -26,7 +26,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="SSV +2"/>
+		<property name="Card Text" value="Superstar Value +2"/>
 	</card>
 <card id="7a1490ef-2ff2-9e58-7443-2c2fe5b0888a" name="World Wrestling Federation European Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -39,7 +39,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="SSV +1"/>
+		<property name="Card Text" value="Superstar Value +1"/>
 	</card>
 <card id="fc646274-7ea5-8486-8d2d-b053ae5e7ab8" name="World Wrestling Federation Tag Team Title Belts" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -49,10 +49,10 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Object"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Universally Unique"/>
+		<property name="Traits" value="Universally Unique, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Unless your Superstar starter card lists that you may play this card; this card may only be played in a multiplayer Tag Team match. Superstar Value +2 Hand Size +1"/>
+		<property name="Card Text" value="Your Hand Size is +1. *Unless your Superstar starter card lists that you may play this card; this card may only be played in a multiplayer Tag Team match. Superstar Value +2"/>
 	</card>
 <card id="9796f510-7e3a-522b-4272-1cdc9570a59e" name="World Wrestling Federation Hardcore Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -65,7 +65,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="All players' maneuvers are +1D SSV +1."/>
+		<property name="Card Text" value="All players' maneuvers are +1D. Superstar Value +1"/>
 	</card>
 <card id="4e55402d-57d1-2577-4f8d-4a6042fa21d5" name="WCW Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -78,7 +78,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="You may play 1 Mid-match card to your Ring area over the maximum allowed. SSV +2"/>
+		<property name="Card Text" value="You may play 1 Mid-match card to your Ring area over the maximum allowed. Superstar Value +2"/>
 	</card>
 <card id="32dcec0f-8af8-88aa-3868-b5bc1d1153dd" name="World Wrestling Federation Lt. Heavyweight Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -91,7 +91,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When this card is in your Ring area, any High risk card with the text, 'Can only be played after a maneuver of #D or greater...'; # is now considered to be 1D less than the printed #D on the card. SSV +0"/>
+		<property name="Card Text" value="When this card is in your Ring area, any High risk card with the text, 'Can only be played after a maneuver of #D or greater...'; # is now considered to be 1D less than the printed #D on the card. Superstar Value +0"/>
 	</card>
 <card id="93a3309d-7257-58c4-58b5-1c68cbef4724" name="WWE Undisputed Heavyweight Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -104,7 +104,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be played if the cards titled World Wrestling Federation Heavyweight Belt or WCW Title Belt are in your Ring area; nor can you play either of those cards. SSV +4."/>
+		<property name="Card Text" value="Cannot be played if the cards titled World Wrestling Federation Heavyweight Belt or WCW Title Belt are in your Ring area; nor can you play either of those cards. Superstar Value +4"/>
 	</card>
 <card id="e6b3317f-954b-9fbd-14b9-3d3157eb01d7" name="World Wrestling Federation Women's Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -117,7 +117,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be played by a Female Superstar. Cannot be played if you have a Title Belt card in your Ring area; nor can you play another Title Belt card. The maximum number of Pre-match cards you may play is increased by 1. Your Hand Size is +1. SSV +2"/>
+		<property name="Card Text" value="Can only be played by a Female Superstar. Cannot be played if you have a Title Belt card in your Ring area; nor can you play another Title Belt card. The maximum number of Pre-match cards you may play is increased by 1. Your Hand Size is +1. Superstar Value +2"/>
 	</card>
 <card id="c854ee43-4d5b-8c62-8255-f24dfd6f4123" name="World Heavyweight Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -130,7 +130,7 @@
 		<property name="Traits" value="Raw, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be played if the WCW Title Belt is in your Ring area, nor can you play that card. At the end of your Pre-match phase, search your Arsenal for 1 non-unique card with the Raw logo, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. . SSV +2"/>
+		<property name="Card Text" value="Cannot be played if the WCW Title Belt is in your Ring area, nor can you play that card. At the end of your Pre-match phase, search your Arsenal for 1 non-unique card with the Raw logo, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. Superstar Value +2"/>
 	</card>
 <card id="9cbafa02-909f-630e-351b-da81fe21a21b" name="Cruiserweight Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -143,7 +143,7 @@
 		<property name="Traits" value="Smackdown, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="At the end of your Pre-match phase, search your Arsenal for 1 non-unique card with the Smackdown logo, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. SSV +1"/>
+		<property name="Card Text" value="At the end of your Pre-match phase, search your Arsenal for 1 non-unique card with the Smackdown logo, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. Superstar Value +1"/>
 	</card>
 <card id="238661cb-8d98-794f-9754-43802f0609db" name="Raw Tag Team Title Belts" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -156,7 +156,7 @@
 		<property name="Traits" value="Raw, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be played if the card titled Tag Team Title Belts is in your Ring Area, nor can you play that card. Can only be played if you cannot play any Title Belt expect the Tag Team Title Belts or if this is a Tag Team format match. At the end of the Pre-match phase, draw 1 card or put 1 card with the RAW logo from your Ringside pile into your hand. +1 SSV."/>
+		<property name="Card Text" value="Cannot be played if the card titled Tag Team Title Belts is in your Ring Area, nor can you play that card. Can only be played if you cannot play any Title Belt expect the Tag Team Title Belts or if this is a Tag Team format match. At the end of the Pre-match phase, draw 1 card or put 1 card with the RAW logo from your Ringside pile into your hand. Superstar Value +1."/>
 	</card>
 <card id="d4fc05e0-71c6-3cef-5b62-ab269db01bdb" name="SmackDown! Tag Team Title Belts" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -169,7 +169,7 @@
 		<property name="Traits" value="Smackdown, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be played if the card titled Tag Team Title Belts is in your Ring Area, nor can you play that card. Can only be played if you cannot play any Title Belt expect the Tag Team Title Belts or if this is a Tag Team format match. At the end of the Pre-match phase, draw 1 card or put 1 card with the Smackdown logo from your Ringside pile into your hand. +1 SSV. Smackdown logo."/>
+		<property name="Card Text" value="Cannot be played if the card titled Tag Team Title Belts is in your Ring Area, nor can you play that card. Can only be played if you cannot play any Title Belt expect the Tag Team Title Belts or if this is a Tag Team format match. At the end of the Pre-match phase, draw 1 card or put 1 card with the Smackdown logo from your Ringside pile into your hand. Superstar Value +1"/>
 	</card>
 <card id="76d90d4e-63fd-6b95-94cf-d2762b29a2db" name="Shawn Michaels, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -234,7 +234,7 @@
 		<property name="Traits" value="Raw, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="The maximum number of Pre-match cards you may have in your Ring area is increased by +1. +1 SSV"/>
+		<property name="Card Text" value="The maximum number of Pre-match cards you may have in your Ring area is increased by +1. Superstar Value +1"/>
 	</card>
 <card id="612424da-015e-4194-2dba-74bb7cd83435" name="United States Title Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -247,7 +247,7 @@
 		<property name="Traits" value="Smackdown, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="The maximun number of Pre-match cards your opponent may have in his Ring area is reduced by 1. +1 SSV"/>
+		<property name="Card Text" value="The maximun number of Pre-match cards your opponent may have in his Ring area is reduced by 1. Superstar Value +1"/>
 	</card>
 <card id="b3036ff7-0955-0831-4c6b-83676af65714" name="Al Snow, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -377,7 +377,7 @@
 		<property name="Traits" value="Smackdown, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="At the end of the Pre-match phase, discard 1 card and then search your Arsenal for 1 Chain card or 1 Volley card, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. Your Superstar Value is +2."/>
+		<property name="Card Text" value="At the end of the Pre-match phase, discard 1 card and then search your Arsenal for 1 Chain card or 1 Volley card, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. Superstar Value +2"/>
 	</card>
 <card id="d8c52c0a-a666-987c-73d8-345b312422ad" name="That's ... Something?">
 		<property name="Format" value="Classic"/>
@@ -390,7 +390,7 @@
 		<property name="Traits" value="Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Put 1 card with the word 'that's'in the title from your Ringside pile on the bottom of your Arsenal or put 1 card with the word 'that's'in the title from your opponent's Ring area into his Ringside pile. When this card is in your Ring area, once during each of your turns you may discard 1 card and then search your Arsenal for 1 card with the word 'that's'in the title, reveal it to your opponent, put it into your hand, and shuffle your Arsenal."/>
+		<property name="Card Text" value="Put 1 card with the word 'that's'in the title from your Ringside pile on the bottom of your Arsenal or put 1 card with the word 'that's'in the title from your opponent's Ring area into his Ringside pile. When this card is in your Ring area, once during each of your turns you may discard 1 card and then search your Arsenal for 1 card with the word 'that's' in the title, reveal it to your opponent, put it into your hand, and shuffle your Arsenal."/>
 	</card>
 <card id="914465af-720b-00c6-8e88-b696cdfb7856" name="When Kurt Met Christy">
 		<property name="Format" value="Classic"/>
@@ -502,7 +502,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0+"/>
 		<property name="SSV" value="3+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Bobby Heenan"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -515,7 +515,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Junkyard Dog"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -556,7 +556,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple + Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Multi, Unique"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Female Superstars."/>
@@ -572,9 +572,9 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed by a Female Superstar. Cannot be played when there is a Title Belt card in your Ring area nor can you play another Title Belt card. When this card is in your Ring area, if you successfully play a card with the text 'Can only be packed by a Female Superstar'or 'Can only be packed by a Diva Superstar,'your opponent discards 1 card. Your Superstar Value is +1."/>
-		<alternate name="WWE Women's Championship Belt" type="alt">
-	</alternate>		
+		<property name="Card Text" value="Can only be packed by Female Superstars. Cannot be played when you have a Ring Title Belt. You cannot play a Title Belt. When this card is in your Ring and your card with 'Can only be packed by a Female' or 'Can only be packed by a Diva' in the text is successful, your opponent chooses one: discard 1 card or overturn 1 card. Superstar Value +1."/>
+		<alternate name="WWE Women's Championship Belt" type="alt" size="Wide">
+		</alternate>		
 	</card>
 <card id="1d3cf913-44e5-2b38-6c90-fdb3b2075327" name="WWE Raw Deal Championship Belt" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -587,7 +587,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your Starting Hand Size is +1. Your Superstar Value is +3."/>
+		<property name="Card Text" value="Your Starting Hand Size is +1. Superstar Value +3"/>
 	</card>
 <card id="c9b51fde-36a1-6cfe-1089-4d3810d7267e" name="WWE Signing Appearance">
 		<property name="Format" value="Classic"/>
@@ -621,14 +621,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Doink"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Once during each of your turns you may put 1 card from your Ringside pile into your Backstage area. During any turn, you may put any number of non-Superstar cards from your Backstage area into your Ringside pile and your next card played this turn is -2F for every card put into your Ringside pile this way. Your opponent's non-F:0 cards are +1F for every card in your Backstage area."/>
+		<property name="Card Text" value="Once during each of your turns, you may put 1 Ringside card into your Backstage. During any turn, you may put any number of non-Superstar cards from your Backstage into your Ringside, and then your next card played this turn is -2F for each card moved. Your opponent's non-F:0 cards are +1F for every non-'Shenanigans' card in your Backstage."/>
 		<alternate name="Doink" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="b207100b-24a6-706e-288d-a86256d84eae" name="ECW One Night Stand" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -667,7 +667,7 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your Starting Hand Size is +1 when the card titled ECW One Night Stand is in your Ring area. Your Superstar Value is +0. Your maneuvers are +2D."/>
+		<property name="Card Text" value="Your Starting Hand Size is +1 when the card titled ECW One Night Stand is in your Ring area. Your maneuvers are +2D. Superstar Value +0"/>
 	</card>
 <card id="d9580914-5581-5550-9d97-635893bc4aa6" name="The Champ Is Here!" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -703,7 +703,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Grapple + High Risk"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Fan Favorite, Multi, Run-in, Unique"/>
+		<property name="Traits" value="Unique, Multi, Run-in, Fan Favorite"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Female Superstars. Can only be played when your Fortitude Rating is at least 10 less than your opponent's Fortitude Rating."/>
@@ -716,7 +716,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Cheater, Unique"/>
+		<property name="Traits" value="Unique, Cheater"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When successfully played, search your Arsenal and Ringside pile for 1 Trademark Finisher, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. When this card is in your Ring area, your Trademark Finishers are F:20 and you may ignore the 'Can only be played after...'text."/>
@@ -729,7 +729,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Grapple + Submission + High Risk"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Chain, Heat, Volley: 10, Multi, Unique"/>
+		<property name="Traits" value="Unique, Multi, Chain, Heat, Volley: 10"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Female Superstars. When successfully played, shuffle cards from your Ringside pile into your Arsenal equal to the number of Unique cards in your Ring area."/>
@@ -755,7 +755,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher + Trademark Finisher"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Multi, Unique"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Female Superstars. When this card is in your Ring area, cards removed from the game cannot be moved to another location."/>
@@ -849,9 +849,9 @@
 		<property name="Traits" value="Universally Unique, Smackdown, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be played when you have a Title Belt with µintercontinental' in the title in your Ring, nor can you play that card. ßYour Starting Hand Size is +1 and your Pre-match Capacity is +1. Superstar Value +1"/>
+		<property name="Card Text" value="Cannot be played when you have a Title Belt with µintercontinental' in the title in your Ring, nor can you play that card. Your Starting Hand Size is +1 and your Pre-match Capacity is +1. Superstar Value +1"/>
 		<alternate name="Intercontinental Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="aa9be874-6710-9e63-78f6-ba01199527c6" name="United States Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -866,7 +866,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Starting Hand Size is +1 and your opponent's Starting Hand Size is -1. Superstar Value +1"/>
 		<alternate name="United States Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="645449d4-3d51-1772-959b-262a935208db" name="Raw Tag Team Title Belts" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -879,9 +879,9 @@
 		<property name="Traits" value="Universally Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed when you can pack the Tag Team Title Belts. ßCannot be played when you have non-Throwback Title Belts in your Ring, nor can you play those cards. ßYour Starting Hand Size is +1, and when you have Smackdown Tag Team Title Belts in your Ring, this card does not take up a Pre-match slot in your Ring. Superstar Value +1"/>
+		<property name="Card Text" value="Can only be packed when you can pack the Tag Team Title Belts. Cannot be played when you have non-Throwback Title Belts in your Ring, nor can you play those cards. Your Starting Hand Size is +1, and when you have Smackdown Tag Team Title Belts in your Ring, this card does not take up a Pre-match slot in your Ring. Superstar Value +1"/>
 		<alternate name="Raw Tag Team Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="b0189358-1c43-5bbc-37fb-e83ca7338eb8" name="Smackdown Tag Team Title Belts" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -894,9 +894,9 @@
 		<property name="Traits" value="Universally Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed when you can pack the Tag Team Title Belts. ßCannot be played when you have non-Throwback Title Belts in your Ring, nor can you play those cards. ßYour Starting Hand Size is +1, and when you have Raw Tag Team Title Belts in your Ring, your opponent chooses 1 less card for I'm Gonna Break You or Fans Love an Underdog. Superstar Value +1"/>
+		<property name="Card Text" value="Can only be packed when you can pack the Tag Team Title Belts. Cannot be played when you have non-Throwback Title Belts in your Ring, nor can you play those cards. Your Starting Hand Size is +1, and when you have Raw Tag Team Title Belts in your Ring, your opponent chooses 1 less card for I'm Gonna Break You or Fans Love an Underdog. Superstar Value +1"/>
 		<alternate name="SmackDown! Tag Team Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="10b9c25f-1635-352e-14b2-c57dabde2b8e" name="Smoking Skull Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -909,9 +909,9 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be packed when packing First of All. ßAt the end of the Pre-match phase, search your Arsenal for 2 different non-Unique maneuvers and reveal them, your opponent chooses 1, put the chosen card into your Ringside and the remaining card into your hand. ßWhen you are Stone Cold Steve Austin, The Rattlesnake, or Revolution Stone Cold Steve Austin you start the game regardless of Superstar Value or card effects. Superstar Value +2"/>
+		<property name="Card Text" value="Cannot be packed when packing First of All. ßAt the end of the Pre-match phase, search your Arsenal for 2 different non-Unique maneuvers and reveal them, your opponent chooses 1, put the chosen card into your Ringside and the remaining card into your hand. When you are Stone Cold Steve Austin, The Rattlesnake, or Revolution Stone Cold Steve Austin you start the game regardless of Superstar Value or card effects. Superstar Value +2"/>
 		<alternate name="Smoking Skull Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="74c8cf1b-0a58-3bdd-6846-2d34ec0670c5" name="WWE Divas Championship Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -924,9 +924,9 @@
 		<property name="Traits" value="Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed by a Diva. ßWhen you successfully play a card with µdiva' in the text, put 1 card from your Ringside on the bottom of your Arsenal. ßYour non-Run-in Action cards with µdiva' in the text are F: 0 and when successfully played draw 1 card. Superstar Value +1"/>
+		<property name="Card Text" value="Can only be packed by a Diva. When you successfully play a card with 'diva' in the text, put 1 card from your Ringside on the bottom of your Arsenal. Your non-Run-in Action cards with 'diva' in the text are F: 0 and when successfully played draw 1 card. Superstar Value +1"/>
 		<alternate name="WWE Divas Championship Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="d26734b4-0781-8cc2-45e3-507e7be25a88" name="WCW Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -941,7 +941,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring, once during each of your turns when your opponent reverses a maneuver from his hand, ACE: you may reveal a non-unique Action in your hand. If you do, remove the reversed maneuver from the game (or, if you have a non-Faction card in your Ring with a Ric Flair, Booker T, Goldberg, or Sting logo, put the reversed maneuver on the bottom of your Arsenal), your turn does not end, and your next card played this turn may only be the revealed Action. After you play that card, end your turn. Superstar Value +2"/>
 		<alternate name="WCW Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="a6ea3a17-a1a6-2d3b-6761-2483d87387aa" name="WCW Tag Team Title Belts" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -954,9 +954,9 @@
 		<property name="Traits" value="Universally Unique, WCW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed when you can pack the Tag Team Title Belts. Cannot be played when you have a Title Belt in your Ring. ßUnless you are Hall and Nash, The Brain Busters, Harlem Heat, or the Dudley Boyz, you cannot play Title Belts. ßYour maneuvers are +1D. ß Draw 1 card. Superstar Value +1"/>
+		<property name="Card Text" value="Can only be packed when you can pack the Tag Team Title Belts. Cannot be played when you have a Title Belt in your Ring. Unless you are Hall and Nash, The Brain Busters, Harlem Heat, or the Dudley Boyz, you cannot play Title Belts. Your maneuvers are +1D. Draw 1 card. Superstar Value +1"/>
 		<alternate name="WCW Tag Team Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="e78e0378-9235-8e22-6e08-f0aa7ddf2195" name="World Wrestling Federation Heavyweight Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -970,6 +970,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when you can pack Tag Team Title Belts. This card is considered to have 'old school' in the title. When Back to Basics is in your Ring, your Starting Hand Size is +2; when your Fortitude Rating is 0 and you play a maneuver from under that card 'as if from hand', your opponent cannot play non-Unique reversals to it. Superstar Value +3"/>
+		<alternate name="World Wrestling Federation Heavyweight Title Belt" type="alt" size="Wide">
+		</alternate>
 	</card>
 <card id="86886d96-0517-3768-36d9-28fdfe9b4e9d" name="World Heavyweight Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -982,9 +984,9 @@
 		<property name="Traits" value="Universally Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be packed when packing First of All. ßYour opponent resolves first at the end of Pre-match phase, regardless of Superstar Value. ßYour Don't Mess With the Champ! cards cannot be blanked or reversed by hybrid reversals. ßWhen you have a non-Faction Pre-match card with a HHH, CM Punk, or Batista logo in your Ring, your Don't Mess With the Champ! cannot be reversed when you do not have a copy in your Ring. Superstar Value +3"/>
+		<property name="Card Text" value="Cannot be packed when packing First of All. Your opponent resolves first at the end of Pre-match phase, regardless of Superstar Value. Your Don't Mess With the Champ! cards cannot be blanked or reversed by hybrid reversals. When you have a non-Faction Pre-match card with a HHH, CM Punk, or Batista logo in your Ring, your Don't Mess With the Champ! cannot be reversed when you do not have a copy in your Ring. Superstar Value +3"/>
 		<alternate name="World Heavyweight Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="eeda73af-61b4-2ac4-79af-075da0fd3a0d" name="WWE Spinner Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -997,9 +999,9 @@
 		<property name="Traits" value="Universally Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be packed when packing First of All. ßAfter all players' Pre-match phases are resolved, reveal cards from the top of your Arsenal equal to your Superstar Value, put 1 revealed card into your hand, and put the rest on the bottom of your Arsenal. ßWhen you are John Cena, The Champ, Randy Orton, or a Revolution Superstar of the same name, put 1 additional card into your hand. Superstar Value +3"/>	
+		<property name="Card Text" value="Cannot be packed when packing First of All. After all players' Pre-match phases are resolved, reveal cards from the top of your Arsenal equal to your Superstar Value, put 1 revealed card into your hand, and put the rest on the bottom of your Arsenal. When you are John Cena, The Champ, Randy Orton, or a Revolution Superstar of the same name, put 1 additional card into your hand. Superstar Value +3"/>	
 		<alternate name="WWE Spinner Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="4ba772ef-7ce9-264a-a06b-6e653f7104c6" name="Cruiserweight Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1012,9 +1014,9 @@
 		<property name="Traits" value="Universally Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="At the end of the Pre-match phase, search your Arsenal for a non-Unique High Risk maneuver without 'reversed' in the text or a non-Unique card with 'technical' or µprecision' in the title, reveal it, put it in your hand, and shuffle your Arsenal. ßWhen you are the Hurricane, Matt Hardy, Jamie Noble, or X-Pac, your non-unique maneuvers without 'reversed' in the text are -3F. Superstar Value +1"/>
+		<property name="Card Text" value="At the end of the Pre-match phase, search your Arsenal for a non-Unique High Risk maneuver without 'reversed' in the text or a non-Unique card with 'technical' or 'precision' in the title, reveal it, put it in your hand, and shuffle your Arsenal. When you are the Hurricane, Matt Hardy, Jamie Noble, or X-Pac, your non-unique maneuvers without 'reversed' in the text are -3F. Superstar Value +1"/>
 		<alternate name="Cruiserweight Title Belt" type="alt" size="Wide">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="e12b3c2a-7b86-9946-5262-104173614c0f" name="WWE Undisputed Heavyweight Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1027,9 +1029,9 @@
 		<property name="Traits" value="Universally Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be played when First Of All or a Title Belt with 'Heavyweight' or 'WWE' in the title is in your Ring, nor can you play those cards. ßYour Superstar-specific cards do not take up a Pre-match or Mid-match slot in your Ring, and your opponent cannot play I'm Gonna Break You. Superstar Value +4"/>
+		<property name="Card Text" value="Cannot be played when First Of All or a Title Belt with 'Heavyweight' or 'WWE' in the title is in your Ring, nor can you play those cards. Your Superstar-specific cards do not take up a Pre-match or Mid-match slot in your Ring, and your opponent cannot play I'm Gonna Break You. Superstar Value +4"/>
 		<alternate name="WWE Undisputed Heavyweight Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="4117be0e-93e2-758d-0d3e-9cfb0353507b" name="World Wrestling Federation Hardcore Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1044,7 +1046,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring, your maneuvers are -2F and +1D and when your opponent successfully plays a Foreign Object maneuver or Trademark Finisher, put this card into his Ring. When you are Al Snow, Raven, or Stevie Richards, your Foreign Object cards are +1D. Superstar Value +1"/>
 		<alternate name="World Wrestling Federation Hardcore Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="cd810c26-334e-1ce5-641e-864063382f61" name="ECW Championship Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1059,7 +1061,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Choose one: Your maneuvers are +1D, or your opponent's maneuvers are -1D. When you are Rob Van Dam, Lashley, Revolution Tommy Dreamer, Jack Swagger or Christian, draw 1 card. Superstar Value +1"/>
 		<alternate name="ECW Championship Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="248ea592-0cb1-1e27-20bc-c74bc9c5835f" name="Backstage Autograph Session">
 		<property name="Format" value="VirtualClassic"/>
@@ -1082,12 +1084,12 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Universally Unique, Run-in, WWF Classic logo"/>
+		<property name="Traits" value="Universally Unique, Run-in, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be packed when packing All Together Now. All players' Starting Hand Sizes are -1.ACE: During your turn, you may put this card into your Ringside and then search your Arsenal or Ringside for up to 2 non-Volley non-Unique Cheater cards, reveal them, put them in your hand, and shuffle your Arsenal; when this effect is reversed, your turn does not end."/>
+		<property name="Card Text" value="Cannot be packed when packing All Together Now. All players' Starting Hand Sizes are -1. ACE: During your turn, you may put this card into your Ringside and then search your Arsenal or Ringside for up to 2 non-Volley non-Unique Cheater cards, reveal them, put them in your hand, and shuffle your Arsenal; when this effect is reversed, your turn does not end."/>
 		<alternate name="Jesse 'The Body' Ventura, Guest Ringside Announcer" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="54f868ae-71bc-6d35-1f50-824b14389abf" name="Vince McMahon, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1097,12 +1099,12 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Universally Unique, Run-in, Throwback, WWF Classic logo"/>
+		<property name="Traits" value="Universally Unique, Run-in, Throwback, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played when any player is Vince McMahon, The Genetic Jackhammer, or The McMahon Dynasty. When your opponent plays an Action, he overturns 2 cards. ACE: During your turn, you may put this card into your Ringside and then search your Arsenal for What A Maneuver!, reveal it, put it in your hand, and shuffle your Arsenal; when this effect is reversed, your turn does not end."/>
 		<alternate name="Vince McMahon, Guest Ringside Announcer" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="55e6605b-9d51-2289-0a12-02acfd577c19" name="Candice Michelle, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1116,6 +1118,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="At the end of the Pre-match phase, search your Arsenal for 1 non-Superstar-specific card with 'diva' in the text, reveal it, put it in your hand, and shuffle. ACE: You may put this card in your Ringside to reverse a non-maneuver D: 1+ card."/>
+		<alternate name="Candice Michelle, Guest Ringside Announcer" type="alt" size="Wide">
+		</alternate>
 	</card>
 <card id="53584ce9-938d-11ed-91c9-69a3c581a728" name="JBL, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1130,7 +1134,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played when any player is JBL. Your Starting Hand Size is +1. ACE: During your turn, you may put this card into your Ringside and then your opponent may discard 3 cards; when he does not, draw up to 1 card each time you successfully play a Unique card for the rest of the turn (up to 5 cards total)."/>
 		<alternate name="JBL, Guest Ringside Announcer" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="4bfceb70-6ae4-65bc-4620-43c4728939a3" name="Mr. Kennedy, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1145,7 +1149,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played when any player is Ken Kennedy or The Future Of Sports Entertainment. Your opponent's Starting Hand Size is -1. ACE: During your turn, you may put this card in your Ringside and then search your Arsenal for 1 card with the same title as a card with only 1 copy in your Ring, reveal it, put it in your hand, and shuffle your Arsenal; when it is your next card played, you may ignore the 'Can only be played...' text on it."/>
 		<alternate name="Mr. Kennedy, Guest Ringside Announcer" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="82a0c1b7-949b-91fc-2e58-928bebc583cd" name="Triple H, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1160,7 +1164,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played when any player is Triple H, The Game, DX, The King of Kings, or Revolution Triple H. At the end of the Pre-match phase, your opponent randomly reveals 2 cards from his hand, then you may shuffle up to 4 cards from your hand into your Arsenal and draw the same number of cards. ACE: During your turn you may put this card into your Ringside and then his Superstar Ability is blank for the rest of the turn."/>
 		<alternate name="Triple H, Guest Ringside Announcer" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="adb2cbdd-8984-4bb0-574b-ee30150d934d" name="Zack Ryder, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1174,6 +1178,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played when any player is Zack Ryder. At the end of the Pre-match phase, draw 3 cards and then put 3 cards from hand on the bottom of your Arsenal. ACE: When your opponent reverses an Activated Card Effect from a non-Venue card, you may remove this card from the game and continue your turn; this effect cannot be reversed."/>
+		<alternate name="Zack Ryder, Guest Ringside Announcer" type="alt" size="Wide">
+		</alternate>
 	</card>
 <card id="80b26562-56a9-704a-655a-e5006f3753ac" name="Raw Deal Tenth Anniversary">
 		<property name="Format" value="VirtualClassic"/>
@@ -1201,7 +1207,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when packing other Title Belts. Other card effects cannot alter your Superstar Value. Before the Draw Segment of the first turn of the game, put up to # cards from your hand on the bottom of your Arsenal and draw the same number of cards, where # is your Superstar Value. Superstar Value +4"/>
 		<alternate name="WWE World Heavyweight Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="8e323016-2478-59e0-3153-3c1149a78974" name="WWE Tag Team Title Belts" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1216,7 +1222,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed when you can pack the Tag Team Title Belts. Cannot be packed when packing other Title Belts with 'tag team' in the title. Before the first Draw Segment of the game, choose one: put up to 2 cards from your Ringside on the bottom of your Arsenal OR draw up to 3 cards and then put 2 cards from hand on the bottom of your Arsenal. Superstar Value +1"/>
 		<alternate name="WWE Tag Team Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="13e44cec-a214-8e27-6d34-2fa241489879" name="CM Punk, Guest Ringside Announcer" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1231,7 +1237,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played when any player is CM Punk, Revolution CM Punk, or The Best Wrestler in the World. Your non-Unique actions are -1F. ACE: You may put this card into your Ringside to completely reverse Ready to Fight, Shane O'Mac Delivers the BASH, Shoot Action, or a Unique non-Superstar-specific antic."/>
 		<alternate name="CM Punk, Guest Ringside Announcer" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="e182fc98-6db7-2c41-9f30-e4288a2370b7" name="Rybaxel, Guest Ringside Announcers" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1246,7 +1252,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be played when any player is Ryback or Revolution Ryback. All Revolution Off Your Mark cards are Active, and no player may play Shoot Counter when he does not have a maneuver with 'shoot' in the title in his Ring. ACE: When it is not your first turn of the game, and you unsuccessfully play a maneuver, you may discard a maneuver of the same type, and then put this card into your Ringside and your turn does not end, but you can only play maneuvers for the rest of this turn. Reversals to this effect do not move this card from your Ring."/>
 		<alternate name="Rybaxel, Guest Ringside Announcers" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="07de346d-a4d5-7960-577c-89e783b3574c" name="Revolution WWE Intercontinental Title Belt" size="Wide">
 		<property name="Format" value="Revolution"/>
@@ -1306,7 +1312,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kevin Thorn"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1332,7 +1338,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Balls Mahoney"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1358,7 +1364,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Terry Funk"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1384,7 +1390,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tommy Dreamer"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1436,7 +1442,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Elijah Burke"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1462,7 +1468,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Marcus Cor Von"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1488,7 +1494,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="10"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Matt Striker"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1612,7 +1618,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Before the Draw Segment of the first turn of the game, put up to 2 cards from your hand on the bottom of your Arsenal and draw the same number of cards; when you have higher Superstar Value, double that number. Ignore your opponent's card effects that would allow him to start the game. Your Superstar Value is +5."/>
 		<alternate name="Revolution WWE World Heavyweight Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="994e43c4-970d-5fc6-468a-c8c0ede44c87" name="Revolution WWE Tag Team Title Belts" size="Wide">
 		<property name="Format" value="VirtualRevolution"/>
@@ -1627,7 +1633,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Draw up to 1 card and your Superstar Value is +1; when you are a Tag Team, double those numbers and your Pre-match Capacity is +1."/>
 		<alternate name="Revolution WWE Tag Team Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="4be0d2dd-6a91-0b75-075c-5376584a7c16" name="Revolution Money in the Bank Briefcase" size="Wide">
 		<property name="Format" value="VirtualRevolution"/>
@@ -1642,7 +1648,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Draw up to 1 card and your Superstar Value is +1; when your opponent has a Title Belt in his Ring, double those numbers. When this card is in your Ring and he is not a GM, he cannot play Corners with 'pack' in the text."/>
 		<alternate name="Revolution Money in the Bank Briefcase" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="02cf09fa-00b5-63b5-1db8-d3f61df868cd" name="Revolution Twoooooooo!">
 		<property name="Format" value="VirtualRevolution"/>
@@ -1657,7 +1663,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When overturned: this card is -20F. This card is -2F for each Trademark in your opponent's Ring. He has 2 or more Trademarks in his Ring: he discard 2 cards. You have 2 or more Trademarks in your Ring: draw up to 2 cards."/>
 		<alternate name="Revolution Twoooooooo!" type="alt">
-	</alternate>
+		</alternate>
 	</card>
    </cards>
 </set>

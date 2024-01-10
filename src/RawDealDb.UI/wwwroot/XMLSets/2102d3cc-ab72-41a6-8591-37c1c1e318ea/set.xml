@@ -779,12 +779,12 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Smackdown"/>
+		<property name="Traits" value="Smackdown, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Put 1 card with a different card title than this card from your Ring area into your Ringside pile, put 2 cards from your opponent's Ring area into his Ringside pile, look at his hand and he discards 3 cards, and then remove 4 cards in his Ringside pile from the game."/>
-		<alternate name="Break It Out, Break You Down, Breakin' Rules, Breakin' Ground" type="alt">
-	</alternate>	
+		<property name="Card Text" value="Put 1 Ring card with a different card title than this card into your Ringside, put 2 Opponent's Ring cards into their Ringside, look at their hand and they discard 3 cards, and RFG 4 Opponent's Ringside cards."/>
+		<alternate name="Break It Out, Break You Down, Breakin' Rules, Breakin' Ground" type="alt" size="Wide">
+		</alternate>
 	</card>
 <card id="3a45901a-4fed-69a6-0abc-e8e0f0a1876e" name="Hollywood Hulk Hogan">
 		<property name="Format" value="Classic"/>
@@ -792,7 +792,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hulk Hogan"/>
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
@@ -909,7 +909,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sgt. Slaughter"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -923,7 +923,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher / Reversal: Action"/>
-		<property name="SS Logos" value="Sgt. slaughter"/>
+		<property name="SS Logos" value="Sgt. Slaughter"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
@@ -936,7 +936,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
-		<property name="SS Logos" value="Sgt. slaughter"/>
+		<property name="SS Logos" value="Sgt. Slaughter"/>
 		<property name="Traits" value="Permanent, Universally Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -949,7 +949,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Stipulation"/>
-		<property name="SS Logos" value="Sgt. slaughter"/>
+		<property name="SS Logos" value="Sgt. Slaughter"/>
 		<property name="Traits" value="Permanent, RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -962,7 +962,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
-		<property name="SS Logos" value="Sgt. slaughter"/>
+		<property name="SS Logos" value="Sgt. Slaughter"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -975,7 +975,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
-		<property name="SS Logos" value="Sgt. slaughter"/>
+		<property name="SS Logos" value="Sgt. Slaughter"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -987,7 +987,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="9"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Home Team"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1078,7 +1078,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="7"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Heat Seekers"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1170,7 +1170,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
-		<property name="SS Logos" value="Hulk Hogan, Sgt. slaughter, The Home Team, The Heat Seekers"/>
+		<property name="SS Logos" value="Hulk Hogan, Sgt. Slaughter, The Home Team, The Heat Seekers"/>
 		<property name="Traits" value="Foreign Object, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>

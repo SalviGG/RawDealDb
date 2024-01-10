@@ -1295,14 +1295,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Babe of the Year"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, you may discard 1 card and then remove up to 2 cards in your opponent's Ringside pile from the game. You may pack any cards with the Trish Stratus logo, but you do not count as Trish Stratus."/>
 		<alternate name="Babe of the Year" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="44774ba6-2aa5-814b-5fb1-c7de0db81e1a" name="Give Me a Little...">
 		<property name="Format" value="Classic"/>
@@ -1375,14 +1375,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="12"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="JBL"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="During any turn: when you successfully play a common card, discard 2 cards; when you successfully play an uncommon card, discard 1 card; and when you successfully play a Unique card, you may draw 1 card. You do not count as Bradshaw."/>
+		<property name="Card Text" value=""/>
 		<alternate name="JBL" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="644ff5b1-a4f9-12c3-54f2-705ce8f064c3" name="Ten Gallon Hat">
 		<property name="Format" value="Classic"/>
@@ -1455,7 +1455,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Phenom"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1533,7 +1533,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Randy Orton"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1565,8 +1565,6 @@
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, this card is -5F and can only be played after a successfully played maneuver. As a reversal, reverse any non-Trademark-Finisher maneuver and end your opponent's turn."/>
-		<alternate name="RKO" type="alt">
-	</alternate>
 	</card>
 <card id="d84ce419-4ada-8e9d-506d-1d2c576d95df" name="The Youngest Champion in WWE History">
 		<property name="Format" value="Classic"/>
@@ -1613,7 +1611,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Shane O'Mac"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1646,7 +1644,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played 6D or greater maneuver or the card titled Throw Into the Corner Turnbuckle or From the Top Rope. Cannot be reversed when played after the card titled Throw Into the Corner Turnbuckle or Leap of Faith."/>
 		<alternate name="Coast to Coast" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="e51d79b4-8dd9-9322-157d-2a73460c1944" name="Mean Streets Silver Spoon">
 		<property name="Format" value="Classic"/>
@@ -1687,7 +1685,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played card. If reversed from your opponent's hand, all players discard 6 cards."/>
 		<alternate name="Leap of Faith" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="146f9efb-4ecd-320d-1379-ee8acab87354" name="Shelton Benjamin">
 		<property name="Format" value="Classic"/>
@@ -1695,7 +1693,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Shelton Benjamin"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1773,14 +1771,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="#"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Eugene"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="You can pack any Superstar-specific Maneuver cards in your Arsenal. You cannot play more than 1 Unique card during each turn. Your Superstar Value is equal to your opponent's Superstar Value -1."/>
+		<property name="Card Text" value="You cannot play more than 1 Unique card during any turn, and you cannot play Superstar-specific 4D+ reversals. You can pack any non-Virtual Superstar-specific Arsenal maneuvers, regardless of logo. You cannot pack There Is No Escape. Your Ability cannot be blanked or switched. (# = Opponent's Superstar Value -1)"/>
 		<alternate name="Eugene" type="alt">
-	</alternate>		
+		</alternate>		
 	</card>
 <card id="b9bc03fb-0235-4c94-4bd0-3c3161de6f31" name="I'm Special">
 		<property name="Format" value="Classic"/>
@@ -1853,7 +1851,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="11"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rene Dupree"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2023,7 +2021,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
 		<property name="Traits" value="Permanent, Universally Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -2328,7 +2326,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Before your Draw Segment, when your opponent has 1 or more cards in his hand, you may discard 1 card and then he removes the top 3 cards of his Arsenal from the game. He may then discard 1 card and you remove the top 3 cards of your Arsenal from the game. Repeat this until one player stops."/>
 		<alternate name="If You Want To Play You Gotta Pay" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="0ae61ee4-436d-6e86-595c-9f72f955a57f" name="Master Manipulator">
 		<property name="Format" value="Classic"/>
@@ -2355,8 +2353,8 @@
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="After all players' Pre-match phases, before the first turn of the game, all players discard cards until they have # cards in their hand, where # is equal to their printed Starting Hand Size. When this card is in your Ring area, you may put this card into your Ringside pile to reverse any Face, Heel, Chain, Heat, or Volley card and end your opponent's turn."/>
-		<alternate name="Armageddon Is Upon Us" type="alt">
-	</alternate>
+		<alternate name="Armageddon Is Upon Us" type="alt" size="Wide">
+		</alternate>
 	</card>
 <card id="80f627f4-758e-a07c-7128-e9197b874f2a" name="Vinny Mac Attack">
 		<property name="Format" value="Classic"/>
@@ -2370,6 +2368,6 @@
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Vince McMahon can play this card despite his Ability. Can only be played after a successfully played card or as a Counter."/>
-	</card>
+		</card>
    </cards>
 </set>

@@ -283,7 +283,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played if you are an inactive member of your team. Cannot be reversed if your Fortitude Rating is less than your opponent's Fortitude Rating. As an action, you are now the active player and may begin your turn. As a reversal, reverse any Set-up card and end your opponent's turn."/>
@@ -335,7 +335,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo"/>
+		<property name="Traits" value="Face, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played if you are an inactive member of your team and if your Fortitude Rating is less than your opponent's Fortitude Rating. The active member of your team puts 1 card from his Ringside pile into his hand or shuffles up to 3 cards from his Ringside pile into his Arsenal. When this card is in your Ring area, you may put this card into your Ringside pile and if your next card played this turn is an Action card, it cannot be reversed."/>
@@ -556,7 +556,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Active"/>
+		<property name="Traits" value="Tag, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="At the end of the Pre-match phase, one member of your team discards any number of cards and another member of the team draws 1 card for every 2 discarded."/>
@@ -608,12 +608,12 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value=""/>
+		<property name="Traits" value="Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When this card is in your Ring area, your cards with Stun Value are +1D and +1 Stun Value."/>
-		<alternate name="Stun the Crowd" type="alt">
-	</alternate>		
+		<property name="Card Text" value="When this card is in your Ring, your cards with Stun are +1D and +1 Stun."/>
+		<alternate name="Stun the Crowd" type="alt" size="Wide">
+		</alternate>		
 	</card>
 <card id="c5b4e075-927f-1795-7306-01bba7f08a71" name="Take Care of Number One" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -665,9 +665,9 @@
 		<property name="Traits" value="Permanent, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be played by a Female Superstar. Your opponent cannot play the card titled Old School Wrestling Match. If you have 3 or more cards in your Ring area with the word 'psychology'in the title, change 'If you have 3 or more...'and 'If you have 4 or more...'in the text of your cards with the word 'psychology'in the title to 'If you have 1 or more...'"/>
-		<alternate name="Man of 1000 Holds" type="alt">
-	</alternate>	
+		<property name="Card Text" value="Cannot be played by a Female Superstar. Your opponent cannot play Old School Wrestling Match. When you have 3+ 'Psychology' Ring cards, replace '3' and '4' with '1' in the text of your Ring Psychology: Back and Ring Psychology: Neck cards."/>
+		<alternate name="Man of 1000 Holds" type="alt" size="Wide">
+		</alternate>	
 	</card>
 <card id="41d41eb8-261e-66ab-2b9e-1be81c332c91" name="Premiere Raw Superstar" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -680,9 +680,9 @@
 		<property name="Traits" value="Raw, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be played if your Superstar Value is 3 or greater. When this card is in your Ring area, when you successfully play a card with the Raw logo, your opponent discards 1 card. Once during each of your turns you may discard 2 cards with the Raw logo and then put 1 non-unique card with the Raw logo from your Ringside pile into your hand."/>
-		<alternate name="Premiere Raw Superstar" type="alt">
-	</alternate>	
+		<property name="Card Text" value="Can only be played when your Superstar Value is 3+. When this card is in your Ring and your Raw card is successful, your opponent discards 1 card; when they have 4- Hand cards, they may overturn 1 card instead (cannot be reversed). ACE: Once during each of your turns, you may discard 2 Raw cards and then Ringside Search 1 non-unique Raw card."/>
+		<alternate name="Premiere Raw Superstar" type="alt" size="Wide">
+		</alternate>	
 	</card>
 <card id="8a4b0d53-45c7-8cf1-5054-6888d79d7edd" name="Premiere Smackdown Superstar" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -835,7 +835,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Active"/>
+		<property name="Traits" value="Tag, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played maneuver or the card titled Throw Into the Corner Turnbuckle. Your opponent cannot 'tag'out for the rest of this turn and during his next turn."/>
@@ -913,7 +913,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo, Active"/>
+		<property name="Traits" value="Face, Tag, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played if you cannot play any title belt except the Tag Team Title Belts or if this is a Tag Team format match. Reverse any Strike or Grapple maneuver and end your opponent's turn. You must overturn cards until you overturn 2 cards with the Tag Team logo."/>
@@ -1002,7 +1002,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Big Poppa Pump"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1080,7 +1080,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Rattlesnake"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1158,7 +1158,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Shawn Michaels"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1236,7 +1236,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Crippler"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1314,7 +1314,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Los Guerreros"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1392,7 +1392,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Team Angle"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1470,14 +1470,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="2"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Test"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your Backlash deck may contain an additional 6 Mid-match cards. You cannot play any Pre-match cards except the card titled Managed by Stacy Keibler, it is not a Heel card, and before the Pre-match you may put up to 2 into play. You may not play more than 2 of any non-unique card. You may play up to 2 of all unique cards. Before your Draw Segment, your opponent discards # cards, where # is equal to the number of cards your opponent has in his hand greater than the number of cards in your hand+2."/>
+		<property name="Card Text" value="Before your Draw Segment, your opponent discards # cards (# = number of their Hand cards greater than the total of 2 + your Hand cards). You can pack 6- additional Mid-match cards, and 2- copies of any Unique card, but you cannot pack more than 2 copies of any non-Unique card. You cannot pack Pre-match cards except Managed by Stacy Keibler (it is not Heel), and before the Pre-match phase, put 2- copies of that card into your Ring. You cannot pack non-Test-specific Faction or 'Anniversary' Backstage cards."/>
 		<alternate name="Test" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="4b103b1e-3efa-185b-01f8-1baabed300fb" name="Test Drive">
 		<property name="Format" value="Classic"/>
@@ -1550,7 +1550,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rhyno"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1707,11 +1707,11 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Grapple + High Risk"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
 		<property name="Traits" value="Multi, Raw, RMS, Run-in, Unique"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="This card is +10F when played by Spike Dudley. Can only be played if the card titled Brothers from Another Mother is in your Ring area. When played, discard your hand unless your Superstar is Buh Buh Ray Dudley."/>
+		<property name="Card Text" value="This card is +10F when played by Spike Dudley. Can only be played if the card titled Brothers from Another Mother is in your Ring area. When played, discard your hand unless your Superstar is Buh-Buh Ray Dudley."/>
 	</card>
 <card id="8dd6687d-2be0-1f26-00f0-8768360c6c02" name="You're a Human Vacuum Cleaner ... You Suck and Blow at the Same Time" size="Wide">
 		<property name="Format" value="Classic"/>

@@ -140,7 +140,7 @@
 		<property name="SSV" value="" />
 		<property name="CardType" value="Strike" />
 		<property name="SS Logos" value="" />
-		<property name="Traits" value="Heel, Tag logo" />
+		<property name="Traits" value="Heel, Tag" />
 		<property name="Stun" value="" />
 		<property name="Target" value="" />
 		<property name="Card Text" value="To play this card you must be an 'inactive' player of your team. After your 'active'partner has successfully played a maneuver of 5D or greater, you can play this card as the very next card against his opponent. Opponent may attempt to reverse the maneuver as usual." />
@@ -894,7 +894,7 @@
 		<property name="SSV" value="" />
 		<property name="CardType" value="High Risk" />
 		<property name="SS Logos" value="" />
-		<property name="Traits" value="Tag logo" />
+		<property name="Traits" value="Tag" />
 		<property name="Stun" value="1" />
 		<property name="Target" value="" />
 		<property name="Card Text" value="Can only be played after a successfully played 4D+ maneuver. When played, an inactive partner may discard 1 6D+ maneuver and this card is +#D, where # is the Damage of the discarded maneuver." />
@@ -946,7 +946,7 @@
 		<property name="SSV" value="" />
 		<property name="CardType" value="Reversal: Special" />
 		<property name="SS Logos" value="" />
-		<property name="Traits" value="Tag logo" />
+		<property name="Traits" value="Tag" />
 		<property name="Stun" value="" />
 		<property name="Target" value="" />
 		<property name="Card Text" value="When played from your hand by an inactive partner, reverse any maneuver." />
@@ -1011,7 +1011,7 @@
 		<property name="SSV" value="" />
 		<property name="CardType" value="Reversal: Special" />
 		<property name="SS Logos" value="" />
-		<property name="Traits" value="Heel, Tag logo" />
+		<property name="Traits" value="Heel, Tag" />
 		<property name="Stun" value="" />
 		<property name="Target" value="" />
 		<property name="Card Text" value="When played from your hand by an inactive partner, reverse any Strike, Grapple, or High Risk." />
@@ -1089,7 +1089,7 @@
 		<property name="SSV" value="" />
 		<property name="CardType" value="Action" />
 		<property name="SS Logos" value="" />
-		<property name="Traits" value="Tag logo" />
+		<property name="Traits" value="Tag" />
 		<property name="Stun" value="" />
 		<property name="Target" value="" />
 		<property name="Card Text" value="As the 'active'legal player of your team you may 'tag'in a partner. You may draw 1 card. Your partner is now the 'active'legal player and may begin his turn." />
@@ -1258,7 +1258,7 @@
 		<property name="SSV" value="" />
 		<property name="CardType" value="Action" />
 		<property name="SS Logos" value="" />
-		<property name="Traits" value="Tag logo" />
+		<property name="Traits" value="Tag" />
 		<property name="Stun" value="" />
 		<property name="Target" value="" />
 		<property name="Card Text" value="To play this card, you must be the 'active'legal player of your team. If your previously played card was a successfully played maneuver, a tag team partner may now play a single maneuver against your 'active'opponent at a bonus +5D. Opponent may attempt to reverse the maneuver as usual." />
@@ -1594,7 +1594,7 @@
 		<property name="Damage" value="" />
 		<property name="Hand Size" value="7" />
 		<property name="SSV" value="5" />
-		<property name="CardType" value="Superstar" />
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Stone Cold Steve Austin" />
 		<property name="Traits" value="" />
 		<property name="Stun" value="" />
@@ -1650,7 +1650,7 @@
 		<property name="Damage" value="" />
 		<property name="Hand Size" value="6" />
 		<property name="SSV" value="4" />
-		<property name="CardType" value="Superstar" />
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Undertaker" />
 		<property name="Traits" value="" />
 		<property name="Stun" value="" />
@@ -1704,7 +1704,7 @@
 		<property name="Damage" value="" />
 		<property name="Hand Size" value="2" />
 		<property name="SSV" value="4" />
-		<property name="CardType" value="Superstar" />
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Mankind" />
 		<property name="Traits" value="" />
 		<property name="Stun" value="" />
@@ -1756,7 +1756,7 @@
 		<property name="Damage" value="" />
 		<property name="Hand Size" value="10" />
 		<property name="SSV" value="3" />
-		<property name="CardType" value="Superstar" />
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Triple H" />
 		<property name="Traits" value="" />
 		<property name="Stun" value="" />
@@ -1812,7 +1812,7 @@
 		<property name="Damage" value="" />
 		<property name="Hand Size" value="5" />
 		<property name="SSV" value="5" />
-		<property name="CardType" value="Superstar" />
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Rock" />
 		<property name="Traits" value="" />
 		<property name="Stun" value="" />
@@ -1868,7 +1868,7 @@
 		<property name="Damage" value="" />
 		<property name="Hand Size" value="7" />
 		<property name="SSV" value="2" />
-		<property name="CardType" value="Superstar" />
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kane" />
 		<property name="Traits" value="" />
 		<property name="Stun" value="" />
@@ -1924,7 +1924,7 @@
 		<property name="Damage" value="" />
 		<property name="Hand Size" value="7" />
 		<property name="SSV" value="3" />
-		<property name="CardType" value="Superstar" />
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Chris Jericho" />
 		<property name="Traits" value="" />
 		<property name="Stun" value="" />

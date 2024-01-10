@@ -38,7 +38,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Permanent, RMS, Throwback, ACE"/>
+		<property name="Traits" value="Unique, Permanent, RMS, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Mid-match Capacity is +1. ACE: When your maneuver is unsuccessfully played, you may discard 1 card and then put it on the bottom of your Arsenal regardless of other effects; this effect cannot be reversed. ACE: During your turn you may put this card into your Ringside, and then put 1 non-Superstar-specific Corner, Manager, or Guest Ringside Announcer from your opponent's Ring into his Ringside. When that card is a Corner, he may search his hand and Arsenal for up to 4 Superstar-specific cards, remove them from the game, and draw half that many cards (rounded down)."/>
@@ -88,7 +88,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="nWo Hollywood"/>
 		<property name="Traits" value="nWo, Stable"/>
 		<property name="Stun" value=""/>
@@ -155,7 +155,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action: Heat / Reversal: Special: Heat"/>
 		<property name="SS Logos" value="nWo Hollywood"/>
-		<property name="Traits" value="Unique, nWo, Heat, ACE"/>
+		<property name="Traits" value="Unique, nWo, Heat"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, this card is -8F. Draw 1 card. As a reversal, ignore any reversal restrictions from a card, reverse any Activated Card Effect or any non-Superstar-specific card with Momentum or a reversal restriction. ACE: During your turn, you may discard 2 cards and then shuffle this card into your Arsenal."/>
@@ -166,7 +166,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kevin Nash"/>
 		<property name="Traits" value="nWo"/>
 		<property name="Stun" value=""/>
@@ -194,7 +194,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Kevin Nash"/>
-		<property name="Traits" value="Unique, nWo, Permanent, ACE"/>
+		<property name="Traits" value="Unique, nWo, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Your maneuvers are +2D. Ignore the 'Can only be played...' text on your cards with 'nWo' in the title. ACE: Once during each of your turns, you may reveal your hand and remove 2 cards in your hand from the game, and then search your Ringside or Arsenal for 1 non-Unique maneuver, reveal it, put it in your hand, and shuffle; when this effect is reversed, your turn does not end."/>
@@ -244,7 +244,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Stinger"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -259,7 +259,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Sting"/>
-		<property name="Traits" value="Unique, WCW, Permanent, ACE"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card and your It's Showtime! cannot be blanked. Your Superstar-specific Pre-match cards do not take up Pre-match slots in your Ring. When you are The Stinger, when you Activate Sting-specific cards, they cannot be reversed; your Superstar-specific maneuvers are Trademark Finishers instead, and when they would be removed from the game, put them on the bottom of your Arsenal instead. ACE: When your ability is not blank, once during each of your turns you may remove 1 card in your Ringside from the game and then draw 1 card."/>
@@ -298,7 +298,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value="Sting"/>
-		<property name="Traits" value="Unique, WCW, Multi, Permanent, ACE"/>
+		<property name="Traits" value="Unique, WCW, Multi, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Search your Arsenal and Ringside for ...Is That Nothing's For Sure, reveal it, put it in your hand, and shuffle. ACE: Once during each of your turns, you may discard 1 card, and then look at the top 3 cards of your Arsenal; put up to 1 of those cards under a WCW card i your Ring with cards under it, up to 1 card into your hand, and remove the remaining cards from the game."/>
@@ -322,7 +322,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="12"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Lone Warrior"/>
 		<property name="Traits" value="WCW, Throwback"/>
 		<property name="Stun" value=""/>
@@ -337,7 +337,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="The Lone Warrior"/>
-		<property name="Traits" value="Unique, WCW, RMS, Permanent, ACE"/>
+		<property name="Traits" value="Unique, WCW, RMS, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="*After all Pre-match phases, put this card from your Backstage Area into your Ring. When this card is in your Ring, your Fortitude Rating is considered -5 for comparing Fortitude Ratings. ACE: Once during each of your turns, you may reveal 1 Superstar-specific card in hand and put it on the bottom of your Arsenal; when you do, either discard 1 card and put 1 non-hybrid non-Unique maneuver from your Ringside into your hand, or draw 1 card. This effect cannot be reversed."/>
@@ -363,7 +363,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Goldberg"/>
-		<property name="Traits" value="Unique, WCW, Permanent, ACE"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packing this card and you are Goldberg, you are a WCW superstar. Cannot be blanked and does not take up a Pre-match slot in your Ring. At the end of the Pre-match phase, put up to 5 cards from your hand on the bottom of your Arsenal and draw the same number of cards. ACE: When your opponent reverses your maneuver with a non-Unique card, you may overturn 3 cards and then put the maneuver in your hand instead of any other location."/>
@@ -400,7 +400,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Vader"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -441,7 +441,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Vader"/>
-		<property name="Traits" value="Unique, WCW, Permanent, ACE"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked and does not take up a Pre-match slot in your Ring. ACE: When your non-Multi card with 'power' in the title is reversed from Backlash, you may discard 1 card and then the reversed maneuver goes to your hand instead, regardless of other effects. ACE: When your reversal completely reverses a card, you may put this card into your Ringside and then shuffle up to 3 cards from your Ringside into your Arsenal and draw up to 1 card; when your reversal had 'interfere' in the title, double those numbers."/>
@@ -559,7 +559,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Scott Hall"/>
 		<property name="Traits" value="nWo"/>
 		<property name="Stun" value=""/>
@@ -587,7 +587,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Scott Hall"/>
-		<property name="Traits" value="Unique, nWo, Permanent, ACE"/>
+		<property name="Traits" value="Unique, nWo, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Your opponent cannot move cards from under your A No Show. ACE: Once during each of your turns, you may either: discard 2 cards and then look at his hand, choose 1 card, and he shuffles the chosen card into his Arsenal and draws 1 card at the end of your turn; or discard 1 Mid-match maneuver or reversal and then look at his Backlash, choose 1 non-unique reversal or non-unique maneuver, and he discards the chosen card."/>
@@ -637,9 +637,9 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jeff Jarrett"/>
-		<property name="Traits" value="WCW. WWF"/>
+		<property name="Traits" value="WCW, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, when you would draw a card (including your Draw Segment), you may instead cause your opponent to discard 1 card and overturn 1 card. You can pack 3rd Generation Superstar and Once a Horseman, Always a Horseman."/>
@@ -793,7 +793,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="10"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sabu"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -834,7 +834,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Sabu"/>
-		<property name="Traits" value="Unique, ECW, Permanent, ACE"/>
+		<property name="Traits" value="Unique, ECW, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Can be played during any Pre-match Phase. You are considered to have Allegiance: ECW. Ignore 'completely' on your opponent's reversals and effects to your Sabu-specific Multi maneuvers. ACE: Once during each of your turns, you may discard 3 cards and then search your Arsenal for 1 card with 'chair' or 'table' in the title, reveal it, put it in your hand, and shuffle; do not discard to reversals to this effect."/>
@@ -949,7 +949,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Lance Storm"/>
 		<property name="Traits" value="ECW, WCW"/>
 		<property name="Stun" value=""/>
@@ -1003,7 +1003,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Lance Storm"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have 15+ lower Fortitude, your opponent cannot respond to this card. ACE: During your turn, you may discard 2 cards and then you are considered to have lower Fortitude when you play your next card this turn; when it is a maneuver, it is -#F, where # is equal to half his Fortitude (rounded up)."/>
@@ -1068,7 +1068,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value="Lance Storm"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, shuffle up to 7 cards from your Ringside into your Arsenal and draw up to 1 card. As a reversal, reverse any non-maneuver card. ACE: When you would move cards from your Ringside with I'm From Calgary... Alberta, Canada!, you may put this card into your Ringside and the cards are not random."/>
@@ -1094,7 +1094,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value="Lance Storm"/>
-		<property name="Traits" value="Unique, Multi, ACE"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent may discard 2 Backlash reversal cards; if he does not, he puts 2 cards from hand on the bottom of his Arsenal. ACE: During your turn, you may remove this card from the game and then your Unique cards are -#F for the rest of your turn, where # is equal to half your opponent's Fortitude, rounded down."/>
@@ -1105,7 +1105,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sandman"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1123,7 +1123,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Traits" value="Unique, ECW, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed by Sandman. Twice during each of your turns, you may discard 1 card and then play 1 card from your hand face-down; while played, it is considered to have the same card type, text, and Damage as a maneuver in your Backstage Area. Your face-down cards are considered to be titled Struck by a Kendo Stick instead and are Foreign Objects."/>
+		<property name="Card Text" value="During your turn, you may play 1 Hand card face-down; while played, it counts as the same card type, text, title and Damage as a maneuver in your Backstage. Your face-down cards count as Struck by a Kendo Stick instead and are Foreign Objects."/>
 	</card>
 <card id="8045c1d6-4a02-53d5-0d50-dcb1759a727b" name="Beer Can Smashing Entrance" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1224,7 +1224,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value="Sandman, APA, Stone Cold Steve Austin"/>
-		<property name="Traits" value="Unique, Multi, ACE"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are The Sandman, this card is ECW. You may overturn 2 cards and discard 2 cards to play this card from Ringside. Draw up to 2 cards and shuffle up to 2 cards from your Ringside into your Arsenal. ACE: During your turn, you may overturn 2 cards and then discard 2 cards and put this card on the bottom of your Arsenal."/>
@@ -1261,7 +1261,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Norman Smiley"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -1302,7 +1302,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Norman Smiley"/>
-		<property name="Traits" value="Unique, WCW, Permanent, ACE"/>
+		<property name="Traits" value="Unique, WCW, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, draw 2 cards and put up to 1 card from hand under Wrestling in Sports Equipment. When your card is unsuccessfully played, you may put it on the bottom of your Arsenal (regardless of other effects). ACE: During your turn when you have no cards under Wrestling in Sports Equipment and less than 2 cards in hand, you may put this card in your Ringside to search your Arsenal for 2 cards, put them under Wrestling in Sports Equipment, and shuffle. This effect cannot be reversed."/>
@@ -1417,7 +1417,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tommy Dreamer"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -1549,7 +1549,7 @@ Once during each of your opponent's turns, when you discard 1 ’Power’ card f
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Tommy Dreamer"/>
-		<property name="Traits" value="Unique, ECW, ACE"/>
+		<property name="Traits" value="Unique, ECW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your Fortitude Rating is 5 or less and you have lower Fortitude, this card cannot be reversed. Your next Foreign Object maneuver played this turn can only be reversed from Arsenal. ACE: During your turn, you may remove 2 Foreign Objects in your Ringside from the game, and then shuffle this card into your Arsenal."/>

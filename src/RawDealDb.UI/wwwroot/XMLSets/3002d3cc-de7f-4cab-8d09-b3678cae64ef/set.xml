@@ -10,7 +10,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Search your Arsenal for a maneuver with 'cross' in the title, reveal it, put it in your hand, and shuffle your Arsenal. Your maneuvers with 'cross' in the title are +1 Stun Value."/>
@@ -23,7 +23,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Search your Arsenal for a maneuver with 'cross' in the title, reveal it, put it in your hand, and shuffle your Arsenal. Your first and second maneuvers played each turn with 'cross' in the title cannot be reversed from Backlash."/>
@@ -36,7 +36,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. When your next card played this turn is a Trademark Finisher, it is -6F."/>
@@ -49,7 +49,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. When played after a successfully played maneuver, this card is a High Risk instead. Cannot be reversed by reversal cards of D:2 or greater."/>
@@ -62,7 +62,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. When played by Lita, or after a successfully played card, this card is a High Risk instead."/>
@@ -75,7 +75,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. When you are packing As Big and Tough as Any Two Men, this card is -5F and +1 Stun Value. When you have lower Fortitude and your opponent is a Tag Team or Stable, and you are not a Tag Team or Stable, can only be reversed from Arsenal."/>
@@ -88,7 +88,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Face, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Face, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Discard 1 card."/>
@@ -101,7 +101,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Face, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Face, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. When played after Throw Into the Corner Turnbuckle, your opponent's reversals to this card are +8F. Your next card played this turn is considered to be played after Throw Into the Corner Turnbuckle."/>
@@ -114,7 +114,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple + Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Look at your opponent's hand."/>
@@ -127,7 +127,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. This card is considered to be blank for card effects."/>
@@ -140,7 +140,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Draw up to 1 card, and your opponent may draw a card; if he does, you may draw an additional card."/>
@@ -153,7 +153,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are not Tazz, can be reversed as if it was non-Unique. Draw up to 1 card."/>
@@ -166,7 +166,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Trish Stratus, this card is -2F; when you are not, it can be reversed as if it was non-Unique. Your opponent reveals his hand, choose 1 card, and he puts it on the bottom of his Arsenal."/>
@@ -179,7 +179,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. When played after Irish Whip, can only be reversed by cards that reverse Back Body Drop."/>
@@ -192,7 +192,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, this card is -6F and cannot be reversed by reversals of D: 1 or greater. As a reversal, reverse any Strike, Grapple or Submission when that card has a Restricted Modification Symbol."/>
@@ -205,7 +205,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Put up to 1 card from your Ringside on the bottom of your Arsenal."/>
@@ -218,7 +218,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are not Chris Jericho, can be reversed as if it was non-Unique. ACE: When your opponent plays a non-Unique non-Superstar-specific maneuver, you may remove this card from the game and his maneuver is 4D and blank."/>
@@ -231,7 +231,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Your opponent discards 1 card, and you may discard a card; if you do, he discards an additional card."/>
@@ -244,7 +244,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played, you may discard 1 Heel card; when you do not, this card can be reversed as if it was non-Unique. Search your Arsenal for a card with 'leverage' or 'maintain' in the title, reveal it, put it in your hand, and shuffle your Arsenal."/>
@@ -257,7 +257,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Cannot be reversed from hand, Backlash, or Ringside. After damage is applied by this card, choose 1 of your opponent's cards overturned by this card and remove it from the game."/>
@@ -270,7 +270,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Heel, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Heel, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be reversed as if it was non-Unique. Can only be played after you reversed a maneuver to end your opponent's last turn and this is the first card played on your turn. When played, this card is +4D and +1 Stun Value."/>
@@ -283,12 +283,12 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Throwback, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Throwback, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is -5D and -1 Stun Value for each Trademark Finisher in your Ring. You must discard 2 cards to play a Trademark Finisher."/>
 	</card>
-<card id="dc191306-67e0-8749-02d0-a1aab13407c9" name="Olé!">
+<card id="dc191306-67e0-8749-02d0-a1aab13407c9" name="Ole!">
 		<property name="Format" value="VirtualClassic"/>
 		<property name="Fortitude" value="8"/>
 		<property name="Damage" value="0"/>
@@ -296,10 +296,12 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Face, Fan Favorite, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Face, Fan Favorite, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Home Team. Can only be played after your opponent successfully plays a non-unique non-Superstar Specific maneuver. Blank that maneuver's text and damage for the rest of the turn, discard 1 card, shuffle up to 7 cards from your Ringside into your Arsenal, and he continues his turn."/>
+		<alternate name="Ole!" type="alt">
+		</alternate>
 	</card>
 <card id="7cf73176-8036-816e-28bb-6a6cb559a621" name="On the Warpath">
 		<property name="Format" value="VirtualClassic"/>
@@ -309,7 +311,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Face, RMS, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Face, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Home Team. Search your Arsenal for 1 card with 'chop' in the title, reveal it, put it in your hand, and shuffle your Arsenal. When your next card played this turn has 'chop', 'samoan drop', or 'war' in the title, it is now Multi and your opponent cannot play Restricted Use In This Area in response to that card. ACE: When this card is in your Ring or Ringside, you may discard 3 cards and then put this card in your hand."/>
@@ -322,7 +324,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Face, Fan Favorite, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Face, Fan Favorite, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Home Team. Put 1 card from your opponent's Ring into his Ringside, and you may move 1 additional card for each card in his Ring or Ringside with 'trash' in the title."/>
@@ -335,7 +337,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Macho Man Randy Savage, your opponent cannot respond to this card. Reveal 2 cards in your hand with different titles. When the titles of those cards rhyme, he discards 2 cards, overturns 4 cards, and you shuffle your hand and 6 cards from your Ringside into your Arsenal and draw 8 cards."/>
@@ -348,7 +350,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Search your Arsenal for 1 non-reversal non-Unique card and Roll Out of the Ring, reveal them, put them into your hand, and shuffle. Your opponent overturns 6 cards. Your next card played this turn is considered to be played after Throw Opponent Out of the Ring and Roll Out of the Ring."/>
@@ -361,7 +363,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Heel, Cheater, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Heel, Cheater, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Heat Seekers. Reverse any non-Superstar-Specific non-maneuver card, draw 1 card, choose 4 cards in his Ringside, and he removes the chosen cards from the game."/>
@@ -374,7 +376,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Heel, Run-in, RMS, Cheater, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Heel, Run-in, RMS, Cheater, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Heat Seekers, and cannot be moved from your Arsenal by A No Show. As an action, your opponent discards 6 cards. As a reversal, reverse any non-unique non-Superstar-specific card and he overturns cards until he overturns 2 reversal cards."/>
@@ -387,7 +389,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Heel, Cheater, RMS, Throwback, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Heel, Cheater, RMS, Throwback, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Heat Seekers. Choose one: draw up to 2 cards and put up to 1 card from your Ringside with the same title as a card from your Ring into your hand; or put 1 non-Superstar-specific card from your opponent's Ring into your Ring and discard 2 cards. Whenever he searches for 1 card, he must reveal that card, and you may then search for 1 card with the same title as his card, reveal it, put it in your hand, and shuffle your Arsenal. When this card is moved from your Ring, put any cards moved from his Ring into your Ring with this card into his Ring."/>
@@ -400,7 +402,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Heel, Cheater, RMS, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Heel, Cheater, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Heat Seekers. When this card is unsuccessfully played, put it in your Ring instead. Put up to 3 cards that are Heel and/or Cheater from your Ringside into your hand, and put up to 1 card from your Ringside on top of your Arsenal. ACE: Once during each of your turns, discard 1 Backlash card and 2 cards from hand, and then put 1 Backlash card from your Ringside into your Backlash."/>
@@ -413,7 +415,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Kane. Shuffle up to 5 cards from your Ringside into your Arsenal. When this card is in your hand and your opponent reverses a BASH action and you have 5 or more BASH actions in your Ringside, you may put it into your Ring. When you have 5 or less other BASH actions in your Ring, your non-D: 5 BASH actions are Multi and cannot be reversed by Unique or hybrid reversals."/>
@@ -426,7 +428,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Universally Unique, WWF Classic logo"/>
+		<property name="Traits" value="Universally Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by a Legend or WWF Superstar. This card does not take up a slot in your Ring. At the end of the Pre-match phase, put Managed by 'Classy' Freddie Blassie and/or 1 Title Belt with 'World Wrestling Federation' in the title from your Backlash into your Ring. Your Pencil-Necked Geek cards are Multi and cannot be reversed by non-Unique reversals when you do not have a card with that title in your Ring."/>
@@ -439,7 +441,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Cannot be packed by Cryme Tyme, Eddie Guerrero, Eugene, Mr. Pay-Per-View, and The Home Team, or when packing Revolution WWE Cruiserweight Title Belt or a card with 'no escape' or 'salary' in the title. When packing this card, your cards listed on this card are Unique, Permanent, and ignore the 'Can only be played...' text. Your opponent cannot respond to your Good Things Sometimes Happen, Offer Handshake, Turn the Tide, Turn Up the Heat, Well-Deserved Push, and Who Booked This Match? cards."/>
@@ -452,7 +454,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card and Survivor Series do not take up a Pre-match slot in your Ring. When you have 10+ lower Fortitude, your opponent cannot respond to your Four Years in the Making: Survivor Series 3, and when you Activate Survivor Series he cannot reverse the effect, and you are considered to have removed 3 additional cards."/>
@@ -465,7 +467,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Universally Unique, Cheater, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Universally Unique, Cheater, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by a Legend or WWF Superstar. At the end of the Pre-match phase, choose one: blank 1 non-Superstar-Specific Manager or non-Superstar-Specific Object in your opponent's Ring until this card leaves your Ring, or draw up to 1 card. When this card is in your Ringside, you may discard 3 cards and then put this card into your Ring. ACE: During your turn, you may put this card in your Ringside and then your next maneuver played this turn is +5D and reversals to it are +3D."/>
@@ -478,7 +480,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Universally Active, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Universally Active, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Pay-Per-View Event cards do not take up a slot, ignore the 'Can only be played...' text, and when a Pay-Per-View Event card is in your Ring, your Starting Hand Size and Superstar Value are +1. When you successfully Activate WrestleMania, remove it from the game regardless of other effects, and your opponent chooses up to 1 card in his hand that is not moved to his Arsenal; when he has lower Fortitude, he chooses up to 2 cards instead."/>
@@ -491,7 +493,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Universally Active, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Universally Active, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Starting Hand Size is +3, and your opponent's Starting Hand Size is +2. When you successfully play a card with blank text, draw up to 1 card. When you are the Ultimate Warrior and Back to Basics is not in your Ring, you may not play Corners or Run-ins, this card does not increase your opponent's Starting Hand Size, and once during each of your turns you may search your Arsenal for a Superstar-specific maneuver, reveal it, put it in your hand, and shuffle your Arsenal."/>
@@ -504,7 +506,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Allegiance: WWF"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Permanent, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are a WWF Superstar or a Legend, your non-Faction WWF Backlash cards in your Ring increase your Capacity of the same type by 1, and your Starting Hand Size is +1. When you are a WWF Superstar and you have lower Fortitude, you may double the numbers in the text of your maneuvers with 'classic' in the title, and when you successfully play one of those cards, your opponent either discards 1 card or removes 2 cards in his Ringside from the game."/>
@@ -517,7 +519,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Multi, Permanent, Fan Favorite, Face, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, Permanent, Fan Favorite, Face, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by The Home Team. When you have lower Fortitude and your opponent's Fortitude Rating is 20+, he cannot respond to this card. Shuffle up to # cards from your Ringside and/or removed from the game into your Arsenal, where # is the number of Fan Favorite cards and cards with 'legend', 'fans', 'crowd', or 'USA' in the title in your Ring; draw cards up to your Superstar Value (to a maximum of 5 cards). When this card is in your Ring, the number of cards moved to your Arsenal from Ringside or that are removed from the game by your other cards and card effects is reduced to 0."/>
@@ -530,13 +532,10 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="*This card is always considered to be hidden.
-Can only be packed by a WWF Superstar.
-When this card is hidden, you may ignore the ‘Can be reversed...’ text on your ‘Classic’ maneuvers, and once during each of your turns you may reveal 1 Hand ‘Classic’ maneuver, choose 1- Ringside ‘Classic’ maneuver, and Bury those cards.
-"/>
+		<property name="Card Text" value="*This card is always considered to be hidden. Can only be packed by a WWF Superstar. When this card is hidden, you may ignore the ‘Can be reversed...’ text on your ‘Classic’ maneuvers, and once during each of your turns you may reveal 1 Hand ‘Classic’ maneuver, choose 1- Ringside ‘Classic’ maneuver, and Bury those cards."/>
 	</card>
 <card id="f6c8b156-7ad4-9e44-27b1-96ba69718080" name="Jimmy Hart's Megaphone">
 		<property name="Format" value="VirtualClassic"/>
@@ -546,7 +545,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be revealed from your Backstage area when you play a Manager with 'Legendary' or 'Jimmy' in the title. Cannot be packed by Doink. This card may be moved into your Arsenal. During your first turn of the game, you may shuffle this card from your Backstage Area into your Arsenal. You may play this card from hand as if it was F: 20 and a 'Reversal: Superstar specific non-maneuver card'; when you have lower Fortitude, as if it was F: 10."/>
@@ -559,7 +558,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is always considered to be hidden. Can only be packed by a Legend, except Doink. Cannot be packed when packing non-Superstar-specific Managers. When packing this card, your Step Aside, Escape Move, and Break the Hold cards are Unique. When this card is hidden, they can reverse any Strike, Grapple, Submission, Assault, Throw, or Hold; and your Lift a Boot cards can also reverse Extremes and ignore their 'Can only be played...' text."/>
@@ -572,7 +571,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be revealed from your Backstage area when you play Managed by Mr. Fuji. Cannot be packed by Doink. This card may be moved into your Arsenal. During your first turn of the game, you may shuffle this card from your Backstage Area into your Arsenal. You may play this card from hand as if it was F: 25 and a 'Reversal: Superstar specific maneuver'; when you have lower Fortitude, as if it was F: 15."/>
@@ -585,7 +584,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed when packing Tag cards for your Ability. You are both the active and inactive player, your opponent is also the inactive opponent. When you 'tag in', 'tag out', 'tag', or you change the active player, put up to 1 card from your Ringside on the bottom of your Arsenal, and you are considered not to have played any cards this turn. Your opponent's reversals are unaffected by your Surprise Hit cards."/>
@@ -598,7 +597,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Faction"/>
 		<property name="SS Logos" value="The Million Dollar Man, Bam Bam Bigelow, Sid, Nikolai Volkoff, Irwin R. Schyster"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You can pack this card regardless of Superstar. You are now a Million Dollar Corporation Member. When you have 10 or more cards removed from the game, your maneuvers without 'reverse' in the text are -2F and +1D, and your non-Superstar-specific actions are -2F. When your logo is printed on this card, your maneuvers are -2F and +1D for every non-Heat Backlash card removed from the game."/>
@@ -611,7 +610,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by a Million Dollar Corporation Member. Choose one: blank 1 non-Enforcer Backstage card until the end of your next turn, or your opponent plays with his hand revealed until the end of your next turn. When your logo is printed on The Million Dollar Corporation, this card can only be reversed by Unique cards, ACE: and during your turn you may remove this card from the game and then your next card played this turn is -1F for every non-Heat card removed from the game."/>
@@ -637,7 +636,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by a Million Dollar Corporation Member. Put up to 3 cards from hand on the bottom of your Arsenal and remove the same number of cards in your Ringside from the game, and shuffle up to the same number of cards removed from the game into your Arsenal + 1. When your logo is printed on The Million Dollar Corporation, this card is -5F, and when successfully played you may also remove the same number of non-maneuver cards from your opponent's Ring from the game."/>
@@ -650,7 +649,7 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are a printed member of the Million Dollar Corporation and this card is going to your Ringside or being removed from the game, put it into your Backlash instead. The number of your cards removed from the game is considered double. ACE: When you are a printed member of the Million Dollar Corporation and you have at least 4 cards in your hand, you may discard your hand, put up to # of your cards removed from the game on the bottom of your Arsenal, and then draw # cards, where # is the amount of Stun Value in your Ring and cannot be greater than 4."/>
@@ -662,14 +661,11 @@ When this card is hidden, you may ignore the ‘Can be reversed...’ text on yo
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Faction"/>
-		<property name="SS Logos" value="Bobby Heenan, Brain Busters, Andre the Giant, Rick Rude, Mr. Perfect, The 8th Wonder of the World"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="SS Logos" value="Andre the Giant, 8th Wonder, Mr. Perfect, Rick Rude, Brain Busters, Bobby Heenan, Paul Orndorff, King Kong Bundy, Haku"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="You can pack this card regardless of Superstar.
-You are now a Heenan Family Member. Your Managed by Bobby ‘The Brain’ Heenan is Permanent, and when looking at your Arsenal with that card, you may Bury both cards instead.
-When your logo is printed on this card, or your Ability or another of your Ring cards has ‘Heenan Family’ in the text, your Unique reversals are not affected by your opponent's card effects.
-"/>
+		<property name="Card Text" value="You can pack this card regardless of Superstar. You are now a Heenan Family Member. Your Managed by Bobby ‘The Brain’ Heenan is Permanent, and when looking at your Arsenal with that card, you may Bury both cards instead. When your logo is printed on this card, or your Ability or another of your Ring cards has ‘Heenan Family’ in the text, your Unique reversals are not affected by your opponent's card effects."/>
 	</card>
 <card id="d786449c-8785-8652-567b-9dc6600e219b" name="A Giant Assist">
 		<property name="Format" value="VirtualClassic"/>
@@ -679,7 +675,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Maneuver"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Run-in, RMS, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Run-in, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by a Heenan Family Member. This card counts as 2 reversal cards. When played from hand, completely reverse any maneuver. ACE: When your logo is printed on The Heenan Family, during any player's turn you may remove this card from the game, and your next card played this turn is -8F."/>
@@ -692,7 +688,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Run-in, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Run-in, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by a Heenan Family Member. Reverse any Mid-match card or any Activated Card Effect from a Pre-match card. ACE: When your logo is printed on The Heenan Family, after your opponent successfully plays a maneuver and damage has been applied, you may remove this card from the game and then end his turn."/>
@@ -705,7 +701,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Run-in, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Run-in, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by a Heenan Family Member. Reverse any non-Unique non-maneuver card or any non-Unique hybrid card. When played and your logo is printed on The Heenan Family, you may discard up to 3 Backlash cards, and this card is -4F for each card discarded; when you did not and this cards is successfully played, you may draw up to 4 cards and then put the same number of cards from hand on the bottom of your Arsenal."/>
@@ -718,7 +714,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by a Heenan Family Member. When your logo is printed on The Heenan Family, this card is -10F. Look at your opponent's hand and Backlash, then put up to 3 cards from your Ringside on the bottom of your Arsenal. ACE: During his turn, you may remove this card from the game to reverse a non-Unique non-Superstar-specific non-maneuver card; when your logo is printed on The Heenan Family, put this card on the bottom of your Arsenal instead, and you may reverse any non-Superstar-specific non-maneuver card instead."/>
@@ -729,12 +725,12 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="10"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Mega Powers"/>
-		<property name="Traits" value="Legend, Tag Team, Stable, WWF Classic logo"/>
+		<property name="Traits" value="Legend, Tag Team, Stable, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="WWF Legend Superstar Ability: Once during each of your turns when your maneuver is unsuccessfully played, you may reveal 1 Unique card in your hand, put it on top of your Arsenal, and then search your Arsenal for 1 Superstar-specific maneuver, reveal it, put it in your hand, and shuffle your Arsenal. You may pack Unique Hollywood Hulk Hogan and/or Macho Man Randy Savage cards in your Arsenal; you may also pack No Sell Maneuver and Managed by Miss Elizabeth. You may not pack Title Belts, BASH, Heel, or Revolution cards. You are a Tag Team and a Stable."/>
+		<property name="Card Text" value="Once during each of your turns when your maneuver is unsuccessfully played, you may reveal 1 Unique card in your hand, put it on top of your Arsenal, and then search your Arsenal for 1 Superstar-specific maneuver, reveal it, put it in your hand, and shuffle your Arsenal. You may pack Unique Hollywood Hulk Hogan and/or Macho Man Randy Savage cards in your Arsenal; you may also pack No Sell Maneuver and Managed by Miss Elizabeth. You may not pack Title Belts, BASH, Heel, or Revolution cards. You are a Tag Team and a Stable."/>
 	</card>
 <card id="b81147bc-a07b-6732-01ea-7fe4cd3c6fc1" name="What'cha Gonna Do When The Mega Powers Come Runnin' Through?" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -744,7 +740,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Mega Powers"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Ignore the 'with 'blindside' in the title' text on your Superstar-specific cards. ACE: When your opponent has 5 or more maneuvers in his Ring, you may remove this card from the game and your next maneuver of 7D or less can only be reversed from Arsenal. When this card is removed from the game and he has 5 or more maneuvers in his Ring, you may ignore the '20 or more' text on Managed by Miss Elizabeth."/>
@@ -757,7 +753,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="The Mega Powers"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is reversed, put it into your Backlash instead, and your opponent discards 1 card. When you have lower Fortitude, this card is -5F. Your Superstar-specific cards are -5F and when he plays a Unique reversal, he discards 1 card."/>
@@ -770,7 +766,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk / Action"/>
 		<property name="SS Logos" value="Macho Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Macho Man Randy Savage, this card is Multi. As a maneuver, can only be played after a successfully played maneuver, and when played after a maneuver with 'blindside' in the title, can only be reversed by Unique reversals. As an action, this card is -10F, put this card on top of your Arsenal and shuffle up to 3 of your cards removed from the game into your Arsenal. When successfully played, put up to 1 Superstar-specific Action from your Ringside into your hand."/>
@@ -783,7 +779,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Hulk Hogan"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any Antic or Superstar-specific card, or any card with Momentum; search your Arsenal and Ringside for Hulkin' Up, reveal it, put it in your hand, and shuffle your Arsenal."/>
@@ -796,7 +792,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Macho Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent successfully plays a maneuver, you may put this card from your hand into your Ring. ACE: When playing a maneuver, you may put this card into your Ringside and if the maneuver is successfully played, it is +5D. When you are Macho Man Randy Savage, do not discard to reversals to this effect and they do not end your turn."/>
@@ -807,9 +803,9 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="8"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="The 8th Wonder of the World"/>
-		<property name="Traits" value="Legend, Throwback, WWF Classic logo"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="8th Wonder"/>
+		<property name="Traits" value="Legend, Throwback, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During each of your Draw Segments when you have 4 cards or less in hand, you may draw additional cards until you have 8 cards in hand. Your Obey now reads 'Reverse any card.' You can pack Andre the Giant cards (except We Face Each Other as God Intended). You cannot pack High Risks, Wrestlemania, Frankie Takes Ho-llywood, or In The Interest Of Fairness. You are a Legend."/>
@@ -822,10 +818,10 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Andre the Giant"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When you hide We Face Each Other As God Intended, your opponent may remove this card from the game. Ignore the word 'completely' on all players' reversals and card effects. Your maneuvers are +2D. ACE: During your turn, you may put this card into your Ringside and then shuffle 8 cards from your Ringside into your Arsenal."/>
+		<property name="Card Text" value="When you hide We Face Each Other As God Intended, your opponent may RFG this card. Ignore 'completely' on all players' reversals and other card effects. Your maneuvers are +2D. ACE: During your turn, you may Eliminate this card and then Recover 8- Ringside cards."/>
 	</card>
 <card id="b5df2899-2def-77e9-7734-e5d79a697f09" name="Giant Choke Hold" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -835,7 +831,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Submission + Submission + Submission / Reversal: Special"/>
 		<property name="SS Logos" value="Andre the Giant"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, this card requires 3 reversals to be reversed instead of 2. As a reversal, reverse any non-Superstar-specific non-maneuver card. Your Giant Bear Hug is -15F."/>
@@ -848,7 +844,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Grapple / Reversal: Special"/>
 		<property name="SS Logos" value="Andre the Giant"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, when you are a Legend this card is -16F.As a reversal, when you are a Legend reverse any non-Unique non-maneuver card. When successfully played, draw up to 2 cards and put up to 2 cards from your Ringside on the bottom of your Arsenal, your opponent discards 2 cards and overturns 2 cards."/>
@@ -861,7 +857,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action / Reversal: Special"/>
 		<property name="SS Logos" value="Andre the Giant"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, shuffle up to 8 of your cards removed from the game into your Arsenal. As a reversal, reverse any non-Unique card. ACE: During your opponent's turn, you may remove 8 cards in your Ringside from the game to reverse any non-unique maneuver."/>
@@ -874,7 +870,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action: Movie"/>
 		<property name="SS Logos" value="Andre the Giant"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played, you may overturn 2 cards; if you do, this card is now F: 0. Search your Arsenal for 1 Action: Run-in with a female's name and 1 F: 0 maneuver, reveal them, put them in your hand, and shuffle your Arsenal. When your next card played this turn a card searched for with this card, it is considered Superstar-specific and Unique until resolved, and when it is a Run-in, reversals to it are +8F."/>
@@ -885,9 +881,9 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Iron Sheik"/>
-		<property name="Traits" value="Legend, WWF Classic logo"/>
+		<property name="Traits" value="Legend, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent must discard 2 cards to play reversals to your non-Chain Heat maneuvers played from hand, and must overturn 2 cards to reverse your Heat maneuvers played from Ringside. Your Drawing Extra Heat cards are now Heat, ignore their 'Can only be played...' text, and they can only be reversed by D:0 reversals. You may not pack Revolution cards."/>
@@ -900,7 +896,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="The Iron Sheik"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During any players' turn, you may play 1 additional Heat card from Ringside that turn. When you successfully play a Heat maneuver, you may search your Arsenal for Drawing Extra Heat, put it in your Ringside, and shuffle. During your turn, you may hide this card and then search your Arsenal for 3 non-Unique Heat cards, put them in your Ringside, and shuffle."/>
@@ -913,7 +909,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Iron Sheik"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, name a non-Superstar-specific maneuver; your cards with that title are now Heat for the rest of the turn, but your opponent ignores any printed reversal restrictions on that card (including Chain). When you successfully play a Heat maneuver, search your Arsenal for 1 Heat maneuver, put it in your Ringside, and shuffle; when he is a Legend, he then reveals his hand."/>
@@ -926,7 +922,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Trademark Finisher: Heat"/>
 		<property name="SS Logos" value="The Iron Sheik"/>
-		<property name="Traits" value="Unique, WWF Classic logo, Heat"/>
+		<property name="Traits" value="Unique, WWF Classic, Heat"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played from Backlash, this card is -20F. When your next card played this turn is Maintain Hold, ignore the 'Can only be played...' text and when that card is successfully played, you win the game via Pinfall Victory."/>
@@ -939,7 +935,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special: Heat"/>
 		<property name="SS Logos" value="The Iron Sheik"/>
-		<property name="Traits" value="Unique, WWF Classic logo, Heat"/>
+		<property name="Traits" value="Unique, WWF Classic, Heat"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Before playing this card, the reversed maneuver is blanked. Reverse any maneuver with 'reverse' printed in the text and your opponent discards 1 card. When played from hand, he discards 1 additional card randomly."/>
@@ -952,7 +948,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action: Heat / Reversal: Special: Heat"/>
 		<property name="SS Logos" value="The Iron Sheik"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, Heat"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic, Heat"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed when USA! USA! USA! is in your opponent's Ring. As an action, draw up to 2 cards, shuffle up to 1 card from your Ringside into your Arsenal, and remove up to 3 cards in his Ringside from the game. As a reversal, reverse any non-Superstar-specific non-maneuver card. Replace 'Action' with 'non-maneuver card' on your Leave Me Alone cards."/>
@@ -963,9 +959,9 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Diesel"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your non-Unique maneuvers with 'bomb,' 'power,' or 'slam' in the title are +1 Stun Value, and once during each of your turns, you may put 1 card from hand on the bottom of your Arsenal, and then search your Arsenal for 1 of those cards, reveal it, put it in your hand, and shuffle. You can pack Jack-knife (it is now a WWF card) and No Sell Maneuver. You cannot pack Revolution cards."/>
@@ -978,7 +974,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Diesel"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. After all Pre-match are resolved, look at your opponent's hand, choose 1 reversal, and he shuffles the chosen card into his Arsenal; then he chooses one: he discards 2 cards or allows you to draw 2 cards. ACE: When he reverses a maneuver from hand and you have lower Fortitude, you may remove 1 other Pre-match card in your Ring from the game and then continue your turn; when you do, you may only play maneuvers for the rest of the turn."/>
@@ -991,7 +987,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike / Reversal: Special"/>
 		<property name="SS Logos" value="Diesel, Hall and Nash"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packed by Hall and Nash or The Wolfpack, this card is nWo. As a maneuver, when you are Diesel, this card is -12F and when you have lower Fortitude, this card can only be reversed from Arsenal; and when your opponent has a Revolution card in his Ring, this card has Momentum. As a reversal, reverse any non-Superstar-specific non-maneuver card."/>
@@ -1004,7 +1000,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple / Reversal: Special"/>
 		<property name="SS Logos" value="Diesel, Hall and Nash"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packed by Hall and Nash or The Wolfpack, this card is nWo. When you are Diesel, this card is -10F. As a maneuver, when played after a successfully played maneuver, can only be reversed by Superstar-specific reversals. As a reversal, reverse any card that cannot be reversed, 'can only be reversed' by a specific card or type of card, or has Momentum."/>
@@ -1017,7 +1013,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action / Reversal: Special"/>
 		<property name="SS Logos" value="Diesel"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is reversed, put it on the bottom of your Arsenal instead and your turn does not end. As a maneuver, shuffle up to 4 cards from your Ringside into your Arsenal and draw up to 4 cards. As a reversal, when overturned from a non-damage effect, it is reversed, then shuffle this card into your Arsenal and end his turn."/>
@@ -1030,7 +1026,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Diesel"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Shuffle up to 5 cards from your Ringside and up to 1 card removed from the game into your Arsenal, and your opponent overturns 3 cards. When this card is reversed, put 1 other card from your Ringside into your hand."/>
@@ -1041,9 +1037,9 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Ricky Steamboat"/>
-		<property name="Traits" value="Legend, WWF Classic logo"/>
+		<property name="Traits" value="Legend, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, you may discard 1 card and then search your Arsenal for 1 card with 'chop,' 'drag,' 'flying', 'small package,' or 'toss' in the title, reveal it, put it in your hand, and shuffle. Your Flying Body Press and Chicken Wing cards are now Multi and also Trademark Finishers. You cannot pack Revolution cards (except non-hybrid reversals) or Ring Psychology: Arm."/>
@@ -1056,7 +1052,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Ricky Steamboat"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your From the Top Rope cards can only be reversed by Unique reversals, and replace the '3 cards' text with '1 card' on your Flying Body Press cards. When your maneuver is unsuccessful, you may put it on the bottom of your Arsenal instead of your Ringside."/>
@@ -1069,7 +1065,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Storyline"/>
 		<property name="SS Logos" value="Ricky Steamboat"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Can be played during any Pre-match phase. Once during each of your turns, you may put 1 Throwback Japanese Arm Drag from your hand into your Ring. When your turn ends without playing a maneuver, or a card with 'legend' or 'good life' in the title, your opponent may choose 1 Japanese Arm Drag in your Ring and put that card into your Ringside. Your Arm Drag cards now read 'Cannot be reversed by D: 2+ cards.'"/>
@@ -1082,7 +1078,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value="Ricky Steamboat"/>
-		<property name="Traits" value="Unique, Chain, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Chain, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When reversed by a non-Unique card (except from Arsenal), your opponent discards 3 cards. Draw up to 2 cards."/>
@@ -1095,7 +1091,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher + High Risk"/>
 		<property name="SS Logos" value="Ricky Steamboat"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played maneuver. Shuffle up to 6 cards from your Ringside into your Arsenal. When this card is unsuccessful, overturn 1 card."/>
@@ -1108,7 +1104,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Ricky Steamboat"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have 10+ lower Fortitude, this card is F: 0. Reverse any maneuver (including Clutch Onto Opponent or Superplex) or any card with Momentum, and draw up to 1 card. Your maneuvers with 'chop,' 'drag,' 'flying', or 'toss' in the title are -3F and +3D."/>
@@ -1119,9 +1115,9 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sid"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you draw for each of your Draw Segments and your opponent has more cards in hand, you may draw additional cards until you have more cards in hand. When you have lower Fortitude, your maneuvers are -5F."/>
@@ -1136,7 +1132,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Sid"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. ACE: Once during each of your turns, you may put up to 3 cards from your hand on the bottom of your Arsenal, and then your opponent puts the same number of random cards (minus 1) in his hand on the bottom of his Arsenal and draws 1 card. When this effect is reversed, draw the same number of cards put on the bottom of your Arsenal."/>
@@ -1149,7 +1145,7 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Strike + Strike / Reversal: Special"/>
 		<property name="SS Logos" value="Sid"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, this card is -7F and +11D. As a reversal, reverse any Strike, Assault, High Risk, Extreme, or any maneuver played after a Set-up card. Search your Arsenal and Ringside for Sid's Vicious Power Bomb, reveal it, shuffle your Arsenal, and put it on top of your Arsenal. When you successfully Activate Sycho Sid, your opponent reveals his hand, choose 1 card, and he puts the chosen card on top of his Arsenal."/>
@@ -1162,13 +1158,10 @@ When your logo is printed on this card, or your Ability or another of your Ring 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="Sid"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="No other player can modify any player's cards or ability to play cards.
-The number of cards overturned for your opponent's non-damage card effects is reduced to 1.
-ACE: During your turn, you may RFG this card and then your next 3 non-Submission maneuvers played this turn are +6D. This effect cannot be reversed.
-"/>
+		<property name="Card Text" value="No other player can modify any player's cards or ability to play cards. The number of cards overturned for your opponent's non-damage card effects is reduced to 1. ACE: During your turn, you may RFG this card and then your next 3 non-Submission maneuvers played this turn are +6D. This effect cannot be reversed."/>
 	</card>
 <card id="a311807d-4cab-4d5b-a198-4337397a90f2" name="Sycho Choke Slam">
 		<property name="Format" value="VirtualClassic"/>
@@ -1178,7 +1171,7 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Sid"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have lower Fortitude, this card is -6F. When this card would be put into your Arsenal, you may reveal it. When you do, put up to 2 cards from your Ringside on the bottom of your Arsenal."/>
@@ -1191,7 +1184,7 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Sid"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is discarded for Sustained Damage, reveal it and the opponent's maneuver is an additional -2D, and then put this card on the bottom of your Arsenal instead."/>
@@ -1202,12 +1195,12 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Yokozuna"/>
-		<property name="Traits" value="Legend, WWF Classic logo"/>
+		<property name="Traits" value="Legend, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your Fortitude Rating is +3F. You cannot play more than 1 maneuver during each of your turns. You can pack As Big and Tough as Any Two Men. You cannot pack A Quick BASH-ing or any D:1+ Pre-match cards. Your Managed by Mr. Fuji is Superstar-specific, it is not Cheater and can be played during any Pre-match phase."/>
+		<property name="Card Text" value="Your Fortitude is +3F. You cannot play more than 1 maneuver during each of your turns. You can pack As Big and Tough as Any Two Men. You cannot pack A Quick BASH-ing or play D: 1+ Pre-match cards. Your Managed by Mr. Fuji is Superstar-specific, not Cheater, and can be played during any Pre-match phase."/>
 	</card>
 <card id="90c071f2-a2c6-63c5-5ad3-18cd389d0eda" name="The Biggest Champion in WWF History" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1217,7 +1210,7 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Yokozuna"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo,ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, search your Arsenal for 1 non-Unique non-hybrid maneuver, reveal it, put it in your hand, and shuffle. ACE: When your opponent successfully plays a maneuver that is not Superstar-specific or a Foreign Object, you may remove 2 cards in your Backlash from the game and it is -8D. After damage is applied from that maneuver, you may remove 2 cards in your Backlash from the game to end his turn."/>
@@ -1230,7 +1223,7 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action / Reversal: Special"/>
 		<property name="SS Logos" value="Yokozuna"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When Managed by Mr. Fuji is in your Ring or Ringside, can only be reversed by Superstar-specific reversals. As an action, look at your opponent's hand and choose 2 cards, he discards the chosen cards. As a reversal, reverse any Trademark or Trademark Finisher. When successfully played, he discards 2 random cards, and the next maneuver you play cannot be reversed."/>
@@ -1243,7 +1236,7 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value="Yokozuna"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be played regardless of Yokozuna's Ability. Can only be played after a successfully played maneuver, or when you reversed a card to end your opponent's turn and this is the first card played on your turn. Can only be reversed by Unique reversals."/>
@@ -1256,7 +1249,7 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Yokozuna"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="4"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played card, or when you reversed a card to end your opponent's turn and this is the first card played on your turn."/>
@@ -1269,7 +1262,7 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Yokozuna"/>
-		<property name="Traits" value="Unique, Chain, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Chain, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Shuffle this card into your Arsenal, draw up to 2 cards, and put either 1 non-Unique non-hybrid reversal or 1 Trademark Finisher from your Ringside into your hand. When your next card played this turn is The Banzai Drop, it is -5F and cannot be reversed from Backlash."/>
@@ -1280,15 +1273,12 @@ ACE: During your turn, you may RFG this card and then your next 3 non-Submission
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Bam Bam Bigelow"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="WWF Superstar Ability: Once during each of your turns, you may RFG 1 Hand card and your next card played this turn is -#F (# = total Stun Value in your Ring + 1).
-When playing Cartwheel, you may RFG 1 Hand card or 3 Ringside cards and then ignore ‘Set-up’ or ’non-Unique’ text.
-When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...’ text and it is blank.
-"/>
+		<property name="Card Text" value="Once during each of your turns, you may RFG 1 Hand card and your next card played this turn is -#F (# = total Stun Value in your Ring + 1). When playing Cartwheel, you may RFG 1 Hand card or 3 Ringside cards and then ignore ‘Set-up’ or ’non-Unique’ text. When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...’ text and it is blank."/>
 	</card>
 <card id="f42f10c8-6802-a51f-19f6-13a00eb27a64" name="Asbury Park, New Jersey" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1298,7 +1288,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
 		<property name="SS Logos" value="Bam Bam Bigelow"/>
-		<property name="Traits" value="Universally Active, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Universally Active, Permanent, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Your actions with 'stun' in the text cannot be reversed by hybrid or Unique reversals. During each of your turns, your first non-unique non-Volley maneuver with Stun Value can only be reversed from hand or Arsenal; when that maneuver is Head Butt Drop, it is Multi and if unsuccessfully played, draw 2 cards."/>
@@ -1311,7 +1301,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value="Bam Bam Bigelow"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played maneuver or when you reversed a card to end your opponent's turn and this is the first card played on your turn. Can only be reversed by Unique reversals."/>
@@ -1324,7 +1314,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Bam Bam Bigelow"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have 15 or more Stun Value in your Ring, this card is +15D. Shuffle up to 3 cards removed from the game and up to # cards from your Ringside into your Arsenal, where # is half the amount of Stun Value in your Ring, rounded up, and cannot be more than 15."/>
@@ -1337,7 +1327,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Bam Bam Bigelow"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reversal: Special Reverse any non-Unique maneuver, and your opponent discards 2 cards and overturns 2 cards. Replace 'Set-up' with 'non-Unique' on your Cartwheel cards, and the Stun Value in your Ring is considered +1 for every Cartwheel in your Ring."/>
@@ -1350,7 +1340,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value="Bam Bam Bigelow"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, discard this card, draw 1 card, and your opponent randomly puts 2 cards from hand on the bottom of his Arsenal. As a reversal, reverse any non-Superstar-specific card. When this card is overturned, you may discard 1 card with Stun Value and then put this card into your hand instead."/>
@@ -1361,9 +1351,9 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hacksaw Jim Duggan"/>
-		<property name="Traits" value="Legend, WWF Classic logo"/>
+		<property name="Traits" value="Legend, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, you may discard 1 card and then search your Arsenal for 1 non-Throwback non-hybrid Strike with 'clothesline' in the title, reveal it, put it in your hand, and shuffle; when that is the next card played this turn, it is -8F. Your Clothesline cards are +1D. When your opponent plays a reversal to reverse your maneuver with 'clothesline' in the title, he discards # cards, where # is equal to 1 + the Damage of the reversal. You can pack No Sell Maneuver cards, but you cannot pack Managers."/>
@@ -1376,7 +1366,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Hacksaw Jim Duggan"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="At the end of the Pre-match phase, you may choose a Run-in card or a Manager card in your opponent's Ring and it is blank. When it is not your first turn of the game and you have fewer cards in hand, during your turn you may hide this card, and then he discards 2 cards and you draw up to 4 cards."/>
@@ -1389,7 +1379,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Object"/>
 		<property name="SS Logos" value="Hacksaw Jim Duggan, Hulk Hogan, Sgt Slaughter"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Double the numbers on your USA! USA! USA! cards, ignore the 'Can only be played...' text, and they do not take up a Mid-match slot in your Ring. When you are Hacksaw Jim Duggan, your opponent cannot respond to the first card played with that title each turn, and ignore the 'F: 0' text."/>
@@ -1402,7 +1392,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher + Action"/>
 		<property name="SS Logos" value="Hacksaw Jim Duggan"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be reversed from hand and Arsenal. When successfully played, you may discard up to 3 cards with 'Clothesline' in the title, this card is +5D and +1 Stun Value for each card discarded."/>
@@ -1415,7 +1405,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Hacksaw Jim Duggan"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any non-Superstar-specific non-maneuver card or, when overturned, reverse any non-damage card effect."/>
@@ -1428,7 +1418,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Hacksaw Jim Duggan"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your hand and you play No Sell Maneuver, instead of discarding 2 cards you may put this card into your Ring. When your opponent plays a reversal to your maneuver, he then discards 1 card. When you successfully play a maneuver, put this card into your Ringside or you may discard 1 card and put it on the bottom of your Arsenal; when he is a Female superstar, do not discard."/>
@@ -1439,9 +1429,9 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Irwin R. Schyster"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your non-Unique maneuvers are -1F for each of your opponent's cards removed from the game. Ignore the 'Can only be played...' text on Not According to the Fine Print."/>
@@ -1454,7 +1444,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Irwin R. Schyster"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="At the end of the Pre-match phase, your opponent overturns 5 cards, he chooses 2 cards in his Ringside and removes them from the game. ACE: When he unsuccessfully plays a non-Superstar-specific card, you may remove 3 cards in your hand from the game, and the reversed card is removed from the game. During his turn, he may remove 3 cards in his hand from the game to put this card from your Ring into your Ringside."/>
@@ -1467,7 +1457,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission + Submission"/>
 		<property name="SS Logos" value="Irwin R. Schyster"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is considered non-Unique for your Ability. When your opponent moves this card from your Ring, you may put it in your hand instead. ACE: When you are Irwin R. Schyster, once during each of your turns, you may remove the top card of your Arsenal from the game and then he overturns 3 cards."/>
@@ -1480,7 +1470,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Irwin R. Schyster"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be reversed by Rare or Unique cards. Put up to 2 of your cards removed from the game into your hand, and shuffle up to 5 cards removed from the game into your Arsenal."/>
@@ -1493,7 +1483,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Irwin R. Schyster"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Put up to 1 card from your Ringside into your hand or put up to 1 of your cards removed from the game into your hand. Remove up to # cards in your opponent's Ringside from the game, where # is equal to the half the number of your cards removed from the game (rounded down). Your cards are -1F for every card removed from the game."/>
@@ -1506,7 +1496,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Action"/>
 		<property name="SS Logos" value="Irwin R. Schyster"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, this card is -5F when Pay Your Taxes, or Else... is in your Ring. Your opponent may remove 4 cards in his hand from the game. If he does not, search his Arsenal for 3 cards, remove them from the game, and he shuffles his Arsenal. As a reversal, reverse any Action and he removes the top 2 cards of his Arsenal from the game. When the reversed card is Rare or Unique, remove the top card of your Arsenal from the game."/>
@@ -1517,9 +1507,9 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Razor Ramon"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns when you successfully play a printed 4D+ maneuver and it is not reversed from Arsenal, you may discard 1 card and your opponent may discard 2 cards; when he does not, he overturns 4 cards instead. You can pack Heel maneuver and Heel reversal cards as if they are not Heel; you can also pack Hall's Fall-Away Slam, ignore the 'Can only be played...' text, and it is now WWF instead."/>
@@ -1532,7 +1522,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Razor Ramon"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During your turn you may hide this card, look at your opponent╞s hand, and choose up to 2 cards; he puts 1 of the chosen cards on the bottom of his Arsenal, and the other chosen card on the top of his Arsenal."/>
@@ -1545,7 +1535,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Razor Ramon"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, search your Arsenal for 1 Heel card, reveal it, put it in your hand, and shuffle your Arsenal. ACE: During your turn, you may put this card into your Ringside and then shuffle up to # cards from your Ringside into your Arsenal, where # is the number of printed Heel cards in your Ring + 2."/>
@@ -1558,7 +1548,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple + High Risk"/>
 		<property name="SS Logos" value="Razor Ramon, Hall and Nash"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packed by Hall and Nash, this card is now nWo. Cannot be packed by The Wolfpack. Can only be reversed by Unique cards. Can only be played after a successfully played card. When you are Razor Ramon, this card is -5F and when successfully played, draw up to 3 cards."/>
@@ -1571,7 +1561,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher + Trademark Finisher"/>
 		<property name="SS Logos" value="Razor Ramon"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring, your opponent does not draw for his Draw Segment. During his turn when this card is in your Ring, he may overturn 5 cards and then you remove this card from the game; when he does, this card cannot be moved to another location."/>
@@ -1584,7 +1574,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action / Reversal: Special"/>
 		<property name="SS Logos" value="Razor Ramon"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, this card is F: 0. As a reversal, reverse a non-Unique non-maneuver card. Your opponent cannot play non-Superstar-specific non-maneuver cards. When you have greater Fortitude, he may discard 1 card and then you put this card into your Ringside."/>
@@ -1595,9 +1585,9 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rick Rude"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, you may reveal 1 card from hand with 'neck breaker' in the title, put it on the bottom of your Arsenal, look at your opponent's hand, and shuffle up to 2 cards from your Ringside into your Arsenal. Your Grapples with 'neck breaker' in the title are -5F and Superstar-specific. You are a Heenan Family Member. You can pack Managed by Bobby 'The Brain' Heenan."/>
@@ -1610,7 +1600,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Rick Rude"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Search your opponent's Arsenal for 1 Superstar-specific card and reveal it, this card gains the title of his card; and when this card is in your Ring, it also gains his card's text; he shuffles. During his turn you may put this card in your Ring to reverse a card with the same title as this card. When a card with the same title as this card reverses one of your cards, and damage is applied, you may put this card in to your Ring, then remove his card from the game."/>
@@ -1623,7 +1613,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Rick Rude"/>
-		<property name="Traits" value="Unique, Permanent WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. You may immediately play up to 3 additional Pre-match cards. Your opponent cannot prevent you from playing Pre-match cards (except with 'Shenanigans' cards), and you are considered to have Allegiance: WCW and nWo for your Pre-match cards. When you play your first maneuver with 'neck breaker' in the title each turn, choose one: it is Multi, it is considered to be played after From the Top Rope, or when it is unsuccessful, your opponent discards 1 random card. After all Pre-match are resolved, search your Arsenal for 1 Grapple with 'neck' in the title, reveal it, put it into your hand, and shuffle; when you have fewer cards in hand, draw up to 2 cards."/>
@@ -1636,7 +1626,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Rick Rude"/>
-		<property name="Traits" value="Unique, Permanent, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is unsuccessful, put it in your Backlash instead (regardless of other effects) and put up to 1 card from your Ringside into your hand. Search your Arsenal or Ringside for ...And The Women That Come To See Me, reveal it, put it in your hand, and shuffle. Your Neck Breaker cards can also reverse a Strike or Assault, and your Swinging Neck Breaker cards can also reverse a Grapple or Throw; reversals with those titles are -4D."/>
@@ -1649,7 +1639,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Rick Rude"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed from hand or Backlash when you have 6 or more Grapples with 'neck' in the title in your Ring. Before each of your opponent's Draw Segments, he may discard 2 cards; when he does not, he overturns 2 cards."/>
@@ -1662,7 +1652,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action / Reversal: Card"/>
 		<property name="SS Logos" value="Rick Rude"/>
-		<property name="Traits" value="Unique, Multi, RMS, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is -1F for each Unique card in your Ring. As an action, your opponent overturns 4 cards and when he is a female Superstar, he discards # cards, where # is his Superstar Value. ACE: Once during each of your turns, when this card is in your Ring or Ringside, you may overturn 4 cards and then put this card in your hand."/>
@@ -1673,9 +1663,9 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="10"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Heart Break Kid"/>
-		<property name="Traits" value="Throwback, WWF Classic logo"/>
+		<property name="Traits" value="Throwback, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you successfully play a printed High Risk maneuver and it is not reversed from Arsenal, you are considered to have played no cards this turn. Do not discard for The Legend Lives On, and it is blank when in your Ring. You may pack High-Flying Style, the Throwback Managed by Sherri Martel, and non-Revolution Unique Arsenal cards with only the Shawn Michaels logo (they are not Raw)."/>
@@ -1688,7 +1678,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="The Heart Break Kid"/>
-		<property name="Traits" value="Unique, RMs, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, when you successfully play a High Risk maneuver, put up to 2 cards from your Ringside on the bottom of your Arsenal. When a High Risk or Superstar-specific card would be moved from your Ring, you may hide this card instead."/>
@@ -1701,7 +1691,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Heart Break Kid"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During your turn when there are no cards under this card, you may place the bottom card of your Arsenal under this card. Once during each of your turns, you may reveal the card under this card, and when it is a High Risk, you may play it as if from hand; ACE: when it is not, shuffle it back into your Arsenal and draw up to 2 cards."/>
@@ -1714,7 +1704,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value="The Heart Break Kid, Shawn Michaels"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by DX. When you are a Throwback Superstar, this card is F: 0. Reverse any non-Superstar-specific non-maneuver card, and you may choose to have the reversed card put into your opponent's Ring instead. ACE: Once during each of your turns, you may remove 1 other card in your Ring from the game and then put 1 non-Unique reversal from your Ringside into your hand."/>
@@ -1727,7 +1717,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk / Action"/>
 		<property name="SS Logos" value="The Heart Break Kid, The Rockers"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, can only be played after a successfully played Superstar-specific maneuver or card with the Tag logo. Can only be reversed from Ring or Arsenal, but can be reversed as if it were non-unique. As an action, this card is -7F, shuffle this card into your Arsenal and choose one: reveal 1 hidden Backstage Card (ignore the 'Can only be revealed...' text) or remove 1 card in your Ring from the game and then shuffle up to 3 cards from your Ringside into your Arsenal."/>
@@ -1740,7 +1730,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value="The Heart Break Kid, The Rockers, Shawn Michaels"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are a Throwback Superstar, this card is -5F. Can only be played after a successfully played maneuver or if you reversed a card to end your opponent's turn and this is the first card played on your turn. When it is the first card played on your turn or Ladder in the Ring is in your Ring, look at his hand and choose 1 card; he discards the chosen card."/>
@@ -1751,9 +1741,9 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="3"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Honky Tonk Man"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your cards with 'interfere' or 'assistance' in the title are -5F. Cards with 'intercontinental' in the title do not take up a Pre-match slot in your Ring. You may pack cards as if you are a Legend, but you do not count as a Legend."/>
@@ -1766,7 +1756,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Honky Tonk Man"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Before starting hands are drawn, search your Arsenal for up to 3 cards, put them under this card, and shuffle. When you successfully play a non-Pre-match Heel card, you may put 1 card under this card into your hand."/>
@@ -1779,7 +1769,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Honky Tonk Man"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have a title belt with 'intercontinental' in the title in your Ring, during your first Draw Segment of the game, draw 3 additional cards and shuffle up to 3 cards from your Ringside into your Arsenal. When you would discard your hand for Deluding Yourself, discard 3 cards instead. Ignore the 'Can only be played...' text on your Heel action cards. ACE: Once during each of your turns, you may overturn 3 cards and put 1 Heel action from your Ringside into your hand."/>
@@ -1792,7 +1782,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike: Foreign Object / Reversal: Special"/>
 		<property name="SS Logos" value="Honky Tonk Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, this card is -5F, and can only be played after a successfully played Heel card or when Ref Takes a Bump is in your Ring. Cannot be reversed from Backlash or by hybrid reversals. As a reversal, reverse any non-unique card; when Ref Takes a Bump is in your Ring, reverse any maneuver instead. When successfully played, your opponent discards 2 random cards."/>
@@ -1805,7 +1795,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Honky Tonk Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed from Backlash. Can only be played if you reversed a card to end your opponent's turn and this is the first card played on your turn; when that reversal is Playin' a Mean Tune, cannot be reversed from hand. During your turn when this card is in your hand or Ringside, you may reveal it, and then shuffle it and up to 1 card from Ringside into your Arsenal."/>
@@ -1818,7 +1808,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Honky Tonk Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any non-Superstar-specific maneuver, your opponent discards 2 cards and overturns 2 cards. When the first card played on your next turn is a Honky Tonk Man-specific card, ignore the 'can only be played after...' text."/>
@@ -1829,12 +1819,14 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Big Boss Man"/>
-		<property name="Traits" value="WWF, WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During your opponent's turn, you may discard 2 cards to reverse any Fan Favorite or Cheater card. During his turn, when he has played a card, you may overturn 2 cards and his card is no longer Chain, Volley or Multi until it is resolved. You may pack No Sell Maneuver cards, but you cannot pack High Risk, Fan Favorite, or Cheater cards. Your It's Great To Be Back Here In... cards are not Fan Favorite and your Handcuffed cards are not Heel."/>
+		<alternate name="Big Boss Man" type="alt">
+		</alternate>
 	</card>
 <card id="23bc1519-86b5-0120-367c-fc31a5271c65" name="Cobb County, Georgia" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1844,7 +1836,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
 		<property name="SS Logos" value="Big Boss Man"/>
-		<property name="Traits" value="Universally Active, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Universally Active, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Your Fortitude Rating is +3 for every Handcuffed card in your Ring. When your opponent plays a Fan Favorite or Cheater card, you may draw up to 1 card. ACE: During his turn, when he successfully plays a Fan Favorite or Cheater card, you may discard 3 cards, put 3 cards in your Ringside on the bottom of your Arsenal, draw 1 card, and after damage is resolved end his turn."/>
@@ -1857,7 +1849,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Maneuver"/>
 		<property name="SS Logos" value="Big Boss Man"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent's Fortitude Rating is 15F or higher, this card is -5F. Reverse any maneuver, search your Arsenal for Boss Man's Nightstick and Handcuffed, reveal them, put them in your hand, and shuffle your Arsenal. Replace the 'face' text with 'Fan Favorite or Cheater' on your Handcuffed cards. ACE: During his turn, when he plays a card and it is not his first card played this turn, you may discard 1 card and his card is now Cheater."/>
@@ -1870,7 +1862,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Strike"/>
 		<property name="SS Logos" value="Big Boss Man"/>
-		<property name="Traits" value="Unique, Multi, Foreign Object, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, Foreign Object, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card cannot be reversed by Hybrid reversals. Can only be played after a successfully played maneuver, when your opponent has 3 or more Fan Favorite or Cheater cards in his Ring, or when Lockdown! is in your Ring. Draw up to 1 additional card during each of your Draw Segments."/>
@@ -1883,7 +1875,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Big Boss Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="4"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played card, when Lockdown! is in your Ring, or if you reversed a card to end your opponent's turn and this is the first card played on your turn. When played after Irish Whip, this card is Multi and -10F. Put up to 3 Unique cards and any number of Handcuffed cards from your Ringside into your hand."/>
@@ -1896,7 +1888,7 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Big Boss Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When the played card is Fan Favorite, Cheater, Chain, Heat, Volley, Throwback, or RMS, this card is -5F. Reverse any non-Superstar-specific card and draw up to 2 cards; when Lockdown! is in your Ring, reverse any card instead."/>
@@ -1907,14 +1899,12 @@ When you play Head Butt Drop as a Counter, ignore the ‘Can only be played...�
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="Brutus 'The Barber' Beefcake"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="Brutus Beefcake"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="WWF Superstar Ability: When you reveal a Hand ‘Classic’ maneuver for Classic Competitor or when your ‘Classic’ maneuver is unsuccessful, draw 1- card and Bury 1- additional Ringside card.
-When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are -#F (# = the number of his Ring reversal cards.)
-"/>
+		<property name="Card Text" value="When you reveal a Hand ‘Classic’ maneuver for Classic Competitor or when your ‘Classic’ maneuver is unsuccessful, draw 1- card and Bury 1- additional Ringside card. When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are -#F (# = the number of his Ring reversal cards.)"/>
 	</card>
 <card id="7a243c6d-a716-1b53-4fef-863211543f7b" name="The Barber's Shears">
 		<property name="Format" value="VirtualClassic"/>
@@ -1923,8 +1913,8 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
-		<property name="SS Logos" value="Brutus 'The Barber' Beefcake"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="SS Logos" value="Brutus Beefcake"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when packing cards with 'interest' in the title. Once during each of your turns when you have lower Fortitude or fewer cards in hand, you may discard 2 cards, look at your opponent's hand, choose 1 reversal, and he puts it on the bottom of his Arsenal; when you do, you can only play maneuvers with 'classic' in the title for the rest of the turn. During your turn, you may hide this card and choose one: he discards 3 cards or he overturns 3 cards; when Struttin' and Cuttin' or Beefcake's Sleeper Hold is in your Ring, you may choose both options."/>
@@ -1936,8 +1926,8 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
-		<property name="SS Logos" value="Brutus 'The Barber' Beefcake"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="SS Logos" value="Brutus Beefcake"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, search your Arsenal for 1 card with 'classic' in the title, reveal it, put it in your hand, and shuffle. ACE: Once during each of your turns, you may remove 1 maneuver with 'classic' in the title in your hand from the game, and then choose one: shuffle up to 3 cards from your Ringside into your Arsenal, put 1 maneuver with 'classic' in the title in your Ringside into your hand, or put 1 maneuver with 'classic' in the title removed from the game on the bottom of your Arsenal; do not discard to reversals to this effect."/>
@@ -1949,8 +1939,8 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
-		<property name="SS Logos" value="Brutus 'The Barber' Beefcake"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="SS Logos" value="Brutus Beefcake"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When a card effect would remove this card from the game, put it in your Backlash instead. Your Ability gains the text: 'Once during each of your turns, you may overturn 3 cards and then search your Arsenal for a maneuver with 'classic' in the title, reveal it, put it in your hand, and shuffle.' ACE: When your opponent plays a Multi maneuver, you may put this card into your Ringside and then his maneuver is blank; reverse his maneuver. When this card is in your Ringside and he plays a reversal card, you may overturn 3 cards and then put this card into your Backlash."/>
@@ -1962,8 +1952,8 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
-		<property name="SS Logos" value="Brutus 'The Barber' Beefcake"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="SS Logos" value="Brutus Beefcake"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played after a successfully played maneuver, this card is Multi. As a maneuver, put up to 1 card in your opponent's Ring into his Ringside, and when your next card played this turn is Maintain Hold, ignore the 'Can only be played...' text and it cannot be reversed. As a reversal, reverse any non-Unique non-Superstar-specific Action card and he overturns 3 cards."/>
@@ -1975,8 +1965,8 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action / Reversal: Special"/>
-		<property name="SS Logos" value="Brutus 'The Barber' Beefcake"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="SS Logos" value="Brutus Beefcake"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, draw up to 2 cards and shuffle up to 3 cards from your Ringside into your Arsenal. As a reversal, reverse any non-Unique Strike or Grapple; when this card reverses from Arsenal, put it in your Ring. When this card is in your Ring, your Beefcake's Sleeper Hold and maneuvers with 'classic' in the title are -5F, you may choose 2 options for The Barber Shop, and when you successfully play a maneuver with 'classic' in the title, your opponent discards 1 random card."/>
@@ -1987,9 +1977,9 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Nikolai Volkoff"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you successfully play a Chain maneuver, your opponent may discard 2 Backlash cards; If he does not, remove up to 2 cards in his Ringside from the game. You may not search your Arsenal with the Chain trait. Your Drawing Extra Heat cards are now Chain and can only be reversed by non-Unique D:0 reversals."/>
@@ -2002,7 +1992,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Nikolai Volkoff"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packing this card, you cannot pack There is No Escape. Cannot be blanked. Can be played during the Venue phase. Your opponent cannot play Evening Up the Odds, or draw cards when playing Pre-match cards, and his Starting Hand Size cannot be greater than #, where # is equal to his printed Starting Hand Size +2. Discard 1 less card for The Soviet Flag, and when your first card played during each of your turns is a maneuver with 'classic' in the title, it is Chain."/>
@@ -2015,7 +2005,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Nikolai Volkoff"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent's Starting Hand Size is -1. When your Chain card is unsuccessfully played, you may discard 2 cards and then search your Arsenal for 1 non-Unique Chain card, reveal it, put it in your hand, and shuffle your Arsenal. During your turn, you may hide this card and then search your Arsenal for 1 non-Unique reversal card, reveal it, put it in your hand, and shuffle your Arsenal."/>
@@ -2028,7 +2018,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Nikolai Volkoff, Vladimir Kozlov"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you successfully play a Chain maneuver, and you have either lower Fortitude or fewer cards in hand, put up to 1 non-Unique Chain card from Ringside in your hand. ACE: Once during each of your turns you may overturn 2 cards to search your Arsenal for Drawing Extra Heat, reveal it, put it in your hand, and shuffle your Arsenal; when it is the next card played this turn, double all numbers in the text."/>
@@ -2041,7 +2031,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value="Nikolai Volkoff"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Nikolai Volkoff, this card is -9F and when this card is played after a successfully played card, this card is now Multi; when the played card was Chain, this card is now Chain, and when the played card was a maneuver, this card cannot be reversed from hand or Backlash by non-Unique reversal cards."/>
@@ -2054,7 +2044,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher / Action"/>
 		<property name="SS Logos" value="Nikolai Volkoff"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Nikolai Volkoff, this card is Chain. As a maneuver, your opponent discards 2 cards to be able to play a reversal to this card. As an action, this card is -25F, put this card on the bottom of your Arsenal, put up to 1 card from Ringside into your hand, and he reveals his hand."/>
@@ -2067,7 +2057,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value="Nikolai Volkoff"/>
-		<property name="Traits" value="Unique, Chain, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Chain, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, shuffle up to 5 cards from your Ringside into your Arsenal and draw up to 4 cards. As a reversal, completely reverse any Grapple or Submission. Your maneuvers are -3F and +2D."/>
@@ -2078,9 +2068,9 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hart Foundation"/>
-		<property name="Traits" value="Tag Team, WWF Classic logo"/>
+		<property name="Traits" value="Tag Team, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your maneuvers with 'classic' in the title and your maneuvers with the Tag logo are Chain.You may pack maneuvers with the Tag logo, and either Managed by 'The Mouth of the South' Jimmy Hart or Legendary Management; you may also pack non-Trademark Finisher Bret Hart Arsenal cards. You cannot pack any Title Belts except the Tag Team Title Belts."/>
@@ -2093,7 +2083,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Hart Foundation"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, search your Arsenal for 1 Chain maneuver, reveal it, put it in your hand, and shuffle your Arsenal. Your non-High-Risk Tag maneuvers are -4F when you do not have a Heel card in your Ring; when you play a Tag maneuver, choose one: it is blank, or it is considered Unique until the end of the turn."/>
@@ -2106,7 +2096,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk / Action"/>
 		<property name="SS Logos" value="Hart Foundation, Bret Hart"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, can only be played after a successfully played maneuver and cannot be reversed by non-F:0 reversals. As an action, this card is -6F, shuffle this card and up to 2 cards in your Ringside into your Arsenal."/>
@@ -2119,7 +2109,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Hart Foundation, Hart Dynasty"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played card. When played after a successfully played maneuver, your opponent must discard 2 cards to reverse this card from hand or Backlash."/>
@@ -2132,7 +2122,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Hart Foundation"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any non-Superstar-specific non-maneuver card and put up to 1 maneuver from your Ringside into your hand."/>
@@ -2145,7 +2135,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Hart Foundation"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played, this card is Chain. Shuffle up to 5 cards from your Ringside into your Arsenal, then search your Arsenal for 2 non-Superstar-specific maneuvers, reveal it, put them in your hand, and shuffle your Arsenal."/>
@@ -2156,9 +2146,9 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Money Inc"/>
-		<property name="Traits" value="Legend, Tag Team, WWF Classic logo"/>
+		<property name="Traits" value="Legend, Tag Team, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you would remove 1 or more of your cards from the game (except for your Ability) you may put those cards in your Backstage Area instead. Once during each of your turns, you may remove any number of hidden non-Superstar cards in your Backstage Area from the game, and then your next non-unique card played this turn is -2F for each card moved. You can pack Million Dollar Man Ted DiBiase and Irwin R. Schyster cards in your Arsenal, and Money! Money! Money! Money! Money!. You cannot pack any Title Belts except the Tag Team title belts. You are a Tag Team."/>
@@ -2171,7 +2161,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Money Inc, The Million Dollar Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You may choose 1 non-Superstar-specific Universally Unique card in your opponent's Ring, he puts it in his Backlash (ignore the Permanent trait on the chosen card), and you may immediately play a card with the same title regardless of card type. When you do not choose, he reveals his Backlash and you may choose 1 non-Unique non-Superstar-specific non-reversal card and he discards the chosen card; when you are Money Inc, you may choose 1 non-Superstar-specific non-RMS reversal card instead, and he instead removes the chosen card from the game."/>
@@ -2184,7 +2174,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="Money Inc, Irwin R. Schyster"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Money Inc, your Ability may also reduce the Fortitude of Unique cards. When you are Irwin R. Schyster, your Ability reduces for all players' cards removed from the game instead. ACE: During your opponent's turn when you have lower Fortitude, you may remove this card from the game to reverse a non-Unique maneuver, and he overturns 5 cards."/>
@@ -2197,7 +2187,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value="Money Inc, The Million Dollar Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Money Inc, this card is -10F. Can only be played after a successfully played maneuver. Remove up to 2 cards in your Ringside from the game, and then remove up to twice that number of cards in your opponent's Ringside from the game."/>
@@ -2210,7 +2200,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value="Money Inc"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have Managed by 'The Mouth of the South' Jimmy Hart or Legendary Management in your Ringside, this card is -5F; when your card by that title is removed from the game, this card is F: 0. As an action, can only be reversed by Unique cards when this card is F: 0; remove any number of non-Superstar cards from your Backstage Area from the game, shuffle up to triple that number of cards from your Ringside into your Arsenal, and draw up to 3 cards. As a reversal, reverse any Unique Superstar-specific card."/>
@@ -2223,7 +2213,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Money Inc, Irwin R. Schyster, The Million Dollar Man"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Money Inc, this card is F: 0 and can only be reversed by Rare or Unique cards. Draw up to 3 cards. ACE: During your turn you may remove 2 cards in your Backlash from the game and then put 1 Mid-match card removed from the game into your Backlash."/>
@@ -2234,9 +2224,9 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Demolition"/>
-		<property name="Traits" value="Tag Team, WWF Classic logo"/>
+		<property name="Traits" value="Tag Team, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Double Axe Handle cards are blank and they are now Strikes instead. You may pack reversal cards with the Tag logo in your Arsenal. You may not pack any Title Belts except the Tag Team Title Belts. You are a Stable."/>
@@ -2249,10 +2239,10 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Demolition"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be packed when packing Drawing a Blank. Cannot be blanked. When your first card played on your turn is Punch, Kick, Running Lariat, Double Axe Handle, Back Breaker or Shoulder Breaker and it is not a Throwback, it is Multi, F: 0, and requires 3 reversals to reverse it instead of 2."/>
+		<property name="Card Text" value="Cannot be blanked. When your first card played on your turn is not a Throwback and it is Punch, Kick, Running Lariat, Body Slam, Double Axe Handle, Back Breaker or Shoulder Breaker, it is now Multi, F: 0, and requires 3 reversals to reverse it instead of 2."/>
 	</card>
 <card id="9ace81b5-57b3-a516-04ad-4742ebef1cbf" name="Smash's Neck Twist">
 		<property name="Format" value="VirtualClassic"/>
@@ -2262,7 +2252,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple + Submission"/>
 		<property name="SS Logos" value="Demolition"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Draw 1 card for each reversal played in response to this card."/>
@@ -2275,7 +2265,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Demolition"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played card. Cannot be reversed from Backlash. When played after Back Breaker, cannot be reversed from hand."/>
@@ -2288,7 +2278,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Demolition"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any non-Superstar-specific non-maneuver card and remove that card from the game."/>
@@ -2301,7 +2291,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Demolition"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent puts his hand on the bottom of his Arsenal. Before each of his Draw Segments, he shuffles his Arsenal, draws 1 card, and overturns 2 cards."/>
@@ -2312,9 +2302,9 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Natural Disasters"/>
-		<property name="Traits" value="Tag Team, WWF Classic logo"/>
+		<property name="Traits" value="Tag Team, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you play a card with 'splash' in the title after a successfully played card or as a Counter, ignore the 'can only be played...' text. Your maneuvers with 'splash' in the title are -2F and +2 Stun Value. Your opponent's reversals deal no damage. You can pack As Big and Tough as Any Two Men, Legendary Management, and No Sell Maneuver. You cannot pack any Title Belts except the Tag Team Title Belts, and you cannot pack Corners or Back Splash."/>
@@ -2327,7 +2317,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Natural Disasters"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Whenever your opponent would search his Arsenal during the Pre-match phase or before the first turn of the game, he does not. ACE: During your turn, when he has at least 5 more Fortitude than you, you may put this card into your Ringside and then look at his hand, choose 3 cards, and he shuffles the chosen cards into his Arsenal and draws 1 card."/>
@@ -2340,7 +2330,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="The Natural Disasters"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Shuffle up to 2 cards in your Ringside into your Arsenal, and then search your Arsenal for up to 2 maneuvers with 'splash' in the title, reveal them, put them in your hand, and shuffle your Arsenal. Your opponent's maneuvers are -2D. ACE: Once during each of your turns, you may put 2 cards from your hand on the bottom of your Arsenal, and then put 1 non-Superstar-specific maneuver from your Ringside into your hand."/>
@@ -2353,7 +2343,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk + High Risk + High Risk"/>
 		<property name="SS Logos" value="The Natural Disasters"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card requires 3 reversals instead of 2 to be reversed. Can only be played after a successfully played 10D+ maneuver. Your opponent randomly chooses 2 cards in his hand and discards the cards not chosen."/>
@@ -2366,7 +2356,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="The Natural Disasters"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent cannot prevent you from playing this card, or choose this card for See How It Feels. Can only be played after a successfully played 8D+ maneuver or as a Counter (3D+ reversal). You win the game via Pinfall Victory; when this effect is prevented, Damage is immediately applied and cannot be reversed from Arsenal."/>
@@ -2379,7 +2369,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value="The Natural Disasters"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, draw up to 2 cards and this card is also considered to be a maneuver of 8D or greater for your card effects. As a reversal, reverse any non-unique non-hybrid maneuver. When successfully played, search your Arsenal for 1 card with 'splash' in the title, reveal it, put it in your hand, and shuffle your Arsenal."/>
@@ -2390,9 +2380,9 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Rockers"/>
-		<property name="Traits" value="Tag Team, WWF Classic logo"/>
+		<property name="Traits" value="Tag Team, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you successfully play a maneuver, search your Arsenal or Ringside for Propel Partner, reveal it, put it in your hand, and shuffle; and when it is the next card played this turn, your opponent cannot respond to it. Your Perennial Fan Favorites are Superstar-specific. You can pack High-Flying Style, Tag action cards, and Tag maneuver cards; those cards and any maneuver played after Propel Partner are Multi. You cannot pack any Title Belts except the Tag Team Title Belts."/>
@@ -2405,7 +2395,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Rockers"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, search your Arsenal for 1 non-Unique Tag card, reveal it, put it in your hand, and shuffle. When this card is in your Ring, your non-Unique non-hybrid Tag maneuvers and Double Team are F: 0, do not overturn cards for Glad Someone Has My Back, and you cannot play Pump Up the Crowd when you have played that card during your turn. When you successfully play a non-Backlash Tag card, draw up to 1 card."/>
@@ -2418,7 +2408,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Grapple / Action + Action"/>
 		<property name="SS Logos" value="The Rockers"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, this card is -1F for every card with the Tag logo in your ring, and cannot be reversed from Backlash. As an action, this card is F: 0, discard this card and then put up to 2 non-reversal cards with the Tag logo from your Ringside into your hand."/>
@@ -2431,7 +2421,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple + High Risk / Reversal: Special"/>
 		<property name="SS Logos" value="The Rockers"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played when you have lower Fortitude. As a maneuver, when played you may discard up to 3 cards with the Tag logo, then choose as many choices as cards discarded: this card is -10F, it cannot be reversed from Backlash, or ignore the 'Can only be played...' text. As a reversal, reverse any non-Unique card."/>
@@ -2444,7 +2434,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="The Rockers"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played maneuver or From the Top Rope. Draw up to 3 cards and your opponent discards 2 cards."/>
@@ -2457,7 +2447,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="The Rockers"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any Strike, Grapple, Assault, or Throw and draw up to 2 cards. When overturned, this card is -5F; when it reverses from Arsenal, put it into your Ring instead of your Ringside. When this card is in your Ring, your opponent's maneuvers are -1 Stun Value."/>
@@ -2468,9 +2458,9 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Total Package"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your cards cannot be modified by non-Backstage card effects or your opponent's Ability. You may pack No Sell Maneuver cards and Lex Luger cards, replace 'dynamic' with 'BASH' in their text, and they are WWF cards instead of WCW or nWo cards. You cannot pack Corners."/>
@@ -2483,7 +2473,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Object"/>
 		<property name="SS Logos" value="The Total Package, Lex Luger"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packed by Lex Luger, this card is now WCW and cannot be blanked. When your card with 'dynamic' in the title is unsuccessfully played or you overturn any number of cards during your opponent's turn, you may put 1 of those non-reversal cards on this card. ACE: Once during each of your turns when you have lower Fortitude, you may discard 1 card; and then put any number of cards on this card on the bottom of your Arsenal, draw 1 card, he cannot play non-Unique reversals to your next maneuver played when it has 'dynamic' in the title, and when successfully played, choose one: he discards 1 card or he overturns 1 card."/>
@@ -2496,7 +2486,7 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action: Movie"/>
 		<property name="SS Logos" value="Rowdy Roddy Piper"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed. Look at your opponent's hand, discard any number of non-maneuver cards, search your Arsenal for the same number of non-unique maneuvers and 1 maneuver with 'kick' in the title, reveal them, put them in your hand, and shuffle your Arsenal."/>
@@ -2509,10 +2499,10 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Enforcer"/>
 		<property name="SS Logos" value="Bobby Heenan"/>
-		<property name="Traits" value="WWF Classic logo"/>
+		<property name="Traits" value="WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When packing this card, you are a Heenan Family member and when you successfully play any card with 'Heenan Family' in the title or text, you may reveal this card and choose 1 new Enforcer. ≥ Starting Hand Size: +7 Superstar Value: +3 Superstar Ability: + Your Grapple maneuvers with 'neck breaker' in the title are -5F. ≥ Starting Hand Size: +8 Superstar Value: +8 Superstar Ability: + During your opponent's turn, when he successfully plays a second card and damage is applied, you may put 1 card from your hand on the bottom of your Arsenal, draw 1 card, and he discards 1 card and ends his turn. You may not play non-Superstar-specific Mid-match cards. ≥ Starting Hand Size: +4 Superstar Value: +2 Superstar Ability: + Before each of your Draw Segments, you may look at 1 random card in your opponent's hand, and then you may shuffle your Arsenal."/>
+		<property name="Card Text" value="Hidden: when your card with 'Heenan Family' in the title or text is successful, you may reveal this card and change your Enforcer. ≥ Hand Size: +7 Superstar Value: +3 Superstar Ability: +Your 'Neck Breaker' Grapples are -5F. ≥ Hand Size: +8 Superstar Value: +8 Superstar Ability: +During your opponent's turn, when they successfully play a second card and damage is applied, you may Bury 1 Hand card, draw 1, they discard 1, and end the turn. ≥ Hand Size: +4 Superstar Value: +2 Superstar Ability: +Before your Draw Segment, you may look at 1 random card in your opponent's hand, and you may shuffle."/>
 	</card>
 <card id="e9745ea5-a431-2199-9c07-480ab8a87c48" name="The Whoopie Cushion">
 		<property name="Format" value="VirtualClassic"/>
@@ -2522,12 +2512,10 @@ When your opponent has 5+ Ring reversal cards, your ’Classic’ maneuvers are 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher"/>
 		<property name="SS Logos" value="Doink"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When played, Bury any number of non-Backstage cards in your Backstage, and this card is +2D for each card moved with this effect.
-When unsuccessful, Ringside Search the same number of cards -1 and put them in your Backstage.
-"/>
+		<property name="Card Text" value="When played, Bury any number of non-Backstage cards in your Backstage, and this card is +2D for each card moved with this effect. When unsuccessful, Ringside Search the same number of cards -1 and put them in your Backstage."/>
 	</card>
 <card id="46a66baa-7541-8884-83f9-fc907c91a490" name="Junkyard Head Butt">
 		<property name="Format" value="VirtualClassic"/>
@@ -2537,7 +2525,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Grapple / Reversal: Special"/>
 		<property name="SS Logos" value="Junkyard Dog"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, this card is -7F and can only be reversed by D: 0 reversals. When you have less than 5 cards in your hand, you may shuffle your hand into your Arsenal and draw 7 cards. As a reversal, reverse any non-Superstar-specific non-maneuver card. Your opponent discards 1 random card, and you remove up to 4 cards in his Ringside from the game."/>
@@ -2550,7 +2538,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Sgt Slaughter"/>
-		<property name="Traits" value="Unique, Permanent, Heel, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, Heel, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Cannot be packed when packing This Is For the U.S. of A! Your opponent's Starting Hand Size is -1. Your Camel Clutch cards are F: 0 and ignore the 'Mid-match' text on them."/>
@@ -2563,7 +2551,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Jake the Snake"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when you are packing Lucifer. During any player's turn, that player cannot play non-maneuver cards. ACE: During your turn you may remove this card from the game, and then look at your opponent's hand, choose 1 card, and he puts that card on the bottom of his Arsenal. When this card is unsuccessful, look at his hand, choose 1 card, and he puts that card on the bottom of his Arsenal."/>
@@ -2576,7 +2564,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value="Ultimate Warrior"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a 3D or greater maneuver. Draw up to 4 cards. For each card drawn less than 4, shuffle up to 2 cards from your Ringside into your Arsenal."/>
@@ -2589,7 +2577,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Road Warriors, Legion of Doom"/>
-		<property name="Traits" value="Unique, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when you are packing Heel or Cheater cards. When this card is in your Ring, your Face and Fan Favorite cards are -3F. ACE: During your turn you may put this card in your Ringside and then overturn 5 cards and put 1 card from your Ringside into your hand."/>
@@ -2602,7 +2590,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Mr. Perfect"/>
-		<property name="Traits" value="Unique, RMS, WWF Classic logo, ACE"/>
+		<property name="Traits" value="Unique, RMS, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Search your Arsenal or cards removed from the game for 1 non-unique maneuver that does not have the same title as a card in your Ring, reveal it, put it in your hand, and shuffle your Arsenal; when you have 5 or more cards in the Ring with 'perfect' in the title, search for any 1 maneuver instead. ACE: During your turn, you may remove this card from the game and then reduce all numbers in your Ability by 1 for the rest of the turn."/>
@@ -2615,7 +2603,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Four Horsemen, The Nature Boy"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic logo"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="At the end of the Pre-match phase, put up to 1 Title Belt with 'heavyweight' in the title from your Backlash into your Ring, and you may then discard up to 4 cards and draw the same number of cards. Your Starting Hand Size is +1 and your Mid-match Capacity is +1."/>
@@ -2628,7 +2616,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Brain Busters"/>
-		<property name="Traits" value="Unique, WWF Classic logo"/>
+		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent reveals his hand, choose up to 2 cards, he puts the chosen cards on the bottom of his Arsenal and draws 1 card. When he is a Tag Team or Stable, you may choose 1 additional card. Draw up to 2 cards."/>
@@ -2748,7 +2736,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="Traits" value="Throwback, Face"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Completely reverse any Multi card, or reverse any card when your opponent has a card with that title in his Ring. He draws up to 1 card for each Once is Enough in your Ring. When this card is in your Ring, ignore the 'When played from your hand,' text on your Sloppy... Very Sloppy cards."/>
+		<property name="Card Text" value="Completely reverse any Multi, or reverse any card when your opponent has another card with that title in their Ring. They draw 1- for each Once is Enough in your Ring. In Ring: ignore 'When ... hand,' on your Sloppy... Very Sloppy."/>
 	</card>
 <card id="54fd6f13-6678-070c-1cd7-4140e7a9528c" name="Sloppy ... Very Sloppy">
 		<property name="Format" value="VirtualClassic"/>
@@ -2797,7 +2785,7 @@ When unsuccessful, Ringside Search the same number of cards -1 and put them in y
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Chain, Throwback, ACE"/>
+		<property name="Traits" value="Chain, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is -8F when your have lower Fortitude. Shuffle up to 4 cards from your Ringside into your Arsenal. ACE: During your turn you may put this card into your Ringside and then put 1 maneuver from your Ringside into your hand."/>

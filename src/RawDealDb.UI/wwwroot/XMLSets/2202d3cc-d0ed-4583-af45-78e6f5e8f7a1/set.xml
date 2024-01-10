@@ -821,9 +821,9 @@
 		<property name="Traits" value="Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="All players' maneuvers cannot be reversed by non-Superstar-specific hybrid Reversal cards. Your maneuvers also cannot be reversed from your opponent's Backlash deck. Your maneuvers are +2 Stun Value. You cannot play non-unique maneuvers not titled Arm Bar, Arm Bar Takedown, Arm Drag, Atomic Drop, Belly to Back Suplex, Belly to Belly Suplex, Body Slam, Chop, Clothesline, Collar and Elbow Lockup, Drop Kick, Haymaker, Head Butt, Hip Toss, Press Slam, Punch, Roundhouse Punch, Russian Leg Sweep, Snap Mare, Vertical Suplex, Wrist Lock, Backhand Slap, Drop Toe Hold, Elbow Drop, Foot Stomp, or Hammerlock."/>
-		<alternate name="There Is No Escape" type="alt">
-	</alternate>	
+		<property name="Card Text" value="When a player has greater Fortitude, their Virtual maneuvers are not affected by this card. Any player's maneuvers cannot be reversed by non-Superstar-specific Hybrid reversals. Your maneuvers are +2 Stun and cannot be reversed from Backlash. You cannot play non-unique maneuvers except cards listed on Back to Basics."/>
+		<alternate name="There Is No Escape" type="alt" size="Wide">
+		</alternate>	
 	</card>
 <card id="1850cf3f-170e-8a6c-0670-bbfd0d145dd3" name="Denville, New Jersey" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -987,7 +987,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="1"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Carlito"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1065,7 +1065,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jake the Snake"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -1130,7 +1130,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Million Dollar Man"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -1195,7 +1195,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Bookerman"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1241,7 +1241,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, this card is -5D, shuffle this card into your Arsenal and then draw 2 cards. As a reversal, reverse any Submission maneuver and end your opponent's turn."/>
 		<alternate name="You Didn't Just Try That..." type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="130de01a-70fb-a1a8-74d0-2d9b84d74dec" name="Spinning Straight Elbow">
 		<property name="Format" value="Classic"/>
@@ -1256,7 +1256,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When successfully played, you may search your Arsenal for 1 Superstar-specific card, reveal it to your opponent, put it into your hand, and shuffle your Arsenal."/>
 		<alternate name="Spinning Straight Elbow" type="alt">
-	</alternate>	
+		</alternate>
 	</card>
 <card id="7eec57d6-35a0-59be-8c3d-3533bfcd4260" name="Distracted by Sharmell">
 		<property name="Format" value="Classic"/>
@@ -1277,7 +1277,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Largest Athlete in Sports Entertainment"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1355,7 +1355,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="X-treme Diva"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1433,7 +1433,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Chavo Guerrero"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1511,7 +1511,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="12"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Funaki"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1589,7 +1589,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Mexicools"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1667,7 +1667,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Viscera"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1800,12 +1800,12 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Kane"/>
-		<property name="Traits" value="Fan Favorite"/>
+		<property name="Traits" value="Fan Favorite, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your opponent draws 3 cards and randomly discards 2 of them. When this card is in your Ring area, your opponent overturns 1 card whenever he draws any number of cards."/>
+		<property name="Card Text" value="Your opponent draws 3 cards and randomly discards 2 of those cards. When this card is in your Ring, and they draw any number of cards, they overturn 1 card."/>
 		<alternate name="Journey Into Darkness" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="e20b4de3-54fd-a27b-107f-217ad9714023" name="American By Birth-Angry By Choice">
 		<property name="Format" value="Classic"/>
@@ -2080,7 +2080,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, this card is -4D, search your Arsenal for 1 Maneuver card, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. As a reversal, reverse any Unique card and end your opponent's turn."/>
 		<alternate name="Hold On, Hotshot!" type="alt">
-	</alternate>		
+		</alternate>	
 	</card>
 <card id="1fb0b84d-1082-7d04-7997-5cb48f3f1950" name="Shelton's Lunging Lariat">
 		<property name="Format" value="Classic"/>
@@ -2223,9 +2223,9 @@
 		<property name="Traits" value="Fan Favorite, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When played, you may overturn 3 cards. If you do, this card is -10F. When your next card played this turn is a maneuver, it is +10D. When your next card played this turn is an Action card, it is -10F. When this card is in your Ring area, during your turn you may put this card on the bottom of your Arsenal and then shuffle up to 10 cards from your Ringside pile into your Arsenal."/>
+		<property name="Card Text" value="When played, you may overturn 3 cards. If you do, this card is -10F. When your next card played this turn is a maneuver, it is +10D, and when it is an action, it is -10F. ACE: During your turn you may Bury this card and then Recover 10- Ringside cards; when Activated, your opponent may overturn 1 card to RFG this card instead."/>
 		<alternate name="The Intensity of Ten Cities" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="0bde4215-6a87-7c37-04fd-e7d9596630cb" name="Should've Seen This Coming">
 		<property name="Format" value="Classic"/>

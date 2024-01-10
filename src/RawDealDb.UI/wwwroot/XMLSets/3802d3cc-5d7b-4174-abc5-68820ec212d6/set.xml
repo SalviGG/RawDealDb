@@ -54,7 +54,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is considered blank for your effects, and your opponent can only play 1 reversal to this card. Choose 1 option: draw 1 card, put 1 random card from Ringside on the bottom of your Arsenal, or your opponent discards 1 card; when The 'On One' Arena, Ontario, California is in your Ring or Ringside, or during the Adam Crites Memorial Tournament, double the numbers in this effect."/>
 		<alternate name="Take One Second" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="9cedd1ce-2b80-58c6-a637-2fbacc3731c9" name="DDP Yoga">
 		<property name="Format" value="VirtualClassic"/>
@@ -95,7 +95,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played when your opponent has a Venue in his Ring and you do not have a Venue in your Ring. You may immediately play a Venue card regardless of his effects; when 'Your Town' is in his Ring, you may remove the top 2 cards of your Arsenal from the game and immediately play a Feud, Stipulation, Manager, or Object regardless of his card; unless you have a non-Object card of that type in your Ring."/>
 		<alternate name="This is MY Hometown!" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="64e60ba4-5ffd-69c7-3094-803710a88318" name="Dubuque, Iowa" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -105,7 +105,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Heat, Permanent, RMS, ACE"/>
+		<property name="Traits" value="Unique, Heat, Permanent, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring or is removed from the game, your other Pre-match effects cannot move cards from your Ringside to your Arsenal. Once during each of your turns when you successfully play a printed D: 4+ maneuver, shuffle up to 1 card from Ringside into your Arsenal. ACE: When your Fortitude Rating is 10+, you may ignore any of your opponent's reversal restrictions from cards and remove this card from the game to reverse any RMS card or any card with 'shoot' in the title; shuffle up to 4 cards from your Ringside into your Arsenal. When you Activate this card, it can be considered to be a hybrid reversal card."/>
@@ -123,7 +123,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is packed as a Pre-match or Mid-match, and can be packed regardless of Ability. Cannot be played during the Pre-match phase. During the game, this card is considered Superstar-specific. When your opponent plays a non-Superstar-specific Corner with 'pack' in the text or Precision Haymaker, you may put this card from any area into your Ring. He cannot search his Arsenal during the Pre-match phase, and at the end of the Pre-match phase, look at his hand, choose 1 card, and remove it from the game. Any player may choose to draw 0 cards for Precision Haymaker, and may replace 'Back Body Drop' with 'Precision Haymaker' on their reversals."/>
 		<alternate name="Special Guest Referee" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="894adbde-081b-6c33-7260-a97e439a5481" name="Desperate Struggle" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -209,14 +209,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Dusty Rhodes"/>
 		<property name="Traits" value="Unique, Legend, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During your Draw Segment, draw up to # cards instead, where # is the difference between your Superstar Value and your opponent's Superstar Value and cannot be greater than 3; when # is 0, put up to 1 card from Ringside into your hand instead. You cannot pack Managers or Corners."/>
 		<alternate name="Dusty Rhodes" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="f7c1dca4-407f-6037-495c-b19df5b602e3" name="The American Dream">
 		<property name="Format" value="VirtualClassic"/>
@@ -367,12 +367,12 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Terry Funk"/>
 		<property name="Traits" value="Unique, ECW, Extremist"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When your first card played on your turn is a maneuver with 'classic' in the title, you may also immediately play a Foreign Object without 'reversed' in the text from hand; unless both cards are reversed, your turn continues. You can pack No Sell Maneuver, but you cannot pack Managers, There is No Escape, or Everything and the Kitchen Sink. Your Foreign Objects are not Heel or Raw."/>
+		<property name="Card Text" value="When your first card played on your turn is a 'Classic' maneuver, you may also play a Foreign Object from Hand without 'reversed' in the text with it. You can pack No Sell Maneuver, but you cannot pack Managers, There is No Escape, or Everything and the Kitchen Sink. Your Foreign Objects are not Heel or Raw."/>
 	</card>
 <card id="6b94b664-31b7-9390-a448-43c306991f09" name="The Hardcore Icon">
 		<property name="Format" value="VirtualClassic"/>
@@ -398,7 +398,7 @@
 		<property name="Traits" value="Unique, ECW, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be blanked and can be played during the Venue phase. Your Starting Hand Size is +2, your Terry Funk-specific cards do not take up Pre-match or Mid-match slots in your Ring, and ignore the Follow-up on Revolution Funk's Moonsault. When your maneuver with 'classic' in the title is unsuccessful, he overturns 3 cards. and your F: 0 maneuvers with 'classic' in the title are considered Foreign Objects."/>
+		<property name="Card Text" value="Cannot be blanked and can be played during the Venue phase. Your Hand Size is +2, your Terry Funk-specific cards do not take up Ring slots, and your F: 0 'Classic' maneuvers count as Foreign Objects for your non-'Blood' card effects. When your 'Classic' maneuver is unsuccessful, your opponent overturns 3."/>
 	</card>
 <card id="52608da6-9622-6401-3519-6a86d85e6c8c" name="Rip Through You Like a Chainsaw" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -523,14 +523,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Charismatic Enigma"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, when you successfully play a maneuver you may flip other 2 cards in your Ring face-down and then put up to 1 card from your Ringside into your hand. You can pack High-Flying Style, and Jeff Hardy Mid-match Action and Arsenal cards."/>
 		<alternate name="The Charismatic Enigma" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="64e5e266-8c95-16f1-17c8-56a0a0e18acf" name="The X-Treme Enigma">
 		<property name="Format" value="VirtualClassic"/>
@@ -543,9 +543,7 @@
 		<property name="Traits" value="Unique, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your High-Flying Style is Superstar-specific, and your Superstar-specific Events do not take up a Pre-match slot in your Ring. Your Jeff Hardy-specific actions are Multi and can only be reversed by 2 reversal cards. Do not discard for Swanton Bomb.
-When you are Jeff Hardy, once during each of your turns you may reveal 1 High Risk or Trademark Finisher from hand, and then Bury it and your opponent Buries 1 random Hand card.
-"/>
+		<property name="Card Text" value="Your High-Flying Style is Superstar-specific, and your Superstar-specific Events do not take up a Pre-match slot in your Ring. Your Jeff Hardy-specific actions are Multi and can only be reversed by 2 reversal cards. Do not discard for Swanton Bomb. When you are Jeff Hardy, once during each of your turns you may reveal 1 High Risk or Trademark Finisher from hand, and then Bury it and your opponent Buries 1 random Hand card."/>
 	</card>
 <card id="6f5e08ef-92de-092a-520e-40d793433af7" name="X-Treme Face Paint">
 		<property name="Format" value="VirtualClassic"/>
@@ -657,7 +655,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="British Bulldog"/>
 		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
@@ -688,7 +686,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Traits" value="Unique, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be blanked or moved from your Ring by your opponent's effects. Your maneuvers with 'classic' in the title are considered non-Unique for your Ability. Your maneuvers are -1F for each card with 'European' in the title in your Ring; when WWF European Title Belt is in your Ring, your maneuvers are +2D."/>
+		<property name="Card Text" value="Cannot be blanked or moved from your Ring by your opponent's effects. Your 'Classic' maneuvers count as non-Unique for your Ability, and your 'England' Venues count as Calgary, Alberta, Canada for your effects. Your maneuvers are -1F for each Ring 'European' card and +2D for each Ring 'European' Title Belt."/>
 	</card>
 <card id="9d41184d-459d-0d94-5199-ba73df52843c" name="Bulldog's Classic Headlock Takedown">
 		<property name="Format" value="VirtualClassic"/>
@@ -761,7 +759,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Ken Shamrock"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -792,7 +790,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, you may reveal up to 2 cards from your hand, search your Arsenal for the same number of non-Unique maneuvers, reveal them, put them into your hand, and shuffle; when your revealed cards did not have 'shoot' or 'Shamrock' in the title, put them on the bottom of your Arsenal. When your Ankle Lock cards are Multi, they are +4D and require 3 reversals instead of 2 to reverse."/>
+		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, reveal 2- Hand cards and Arsenal Search that many non-Unique maneuvers; Bury any non-'Shoot' non-'Shamrock' cards revealed from Hand. When your Ankle Lock is Multi, it is Multi: 3 and +4D."/>
 	</card>
 <card id="5c6ee480-13d6-67db-a259-c4854d779cc5" name="You Don't Shoot on Shamrock" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -919,7 +917,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="10"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Val Venis"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1049,7 +1047,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tensai"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1064,7 +1062,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Tensai"/>
-		<property name="Traits" value="Unique, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. When this card is in your Ring, it is also considered to be Roll Out of the Ring for your effects, and your Manager Interferes cards can be played as if they are D:0 and/or hybrid. ACE: During your turn, you may reveal 1 maneuver in your hand, and then discard that card, remove this card from the game, and shuffle up to 8 cards from your Ringside into your Arsenal."/>
@@ -1129,7 +1127,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Tensai, A-Train"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any maneuver; when this card reverses, even from Arsenal, put it in your Ring and put up to 2 cards from your Ringside into your hand. ACE: When you are Tensai, during your turn you may remove this card from the game and then draw up to 2 cards."/>
@@ -1153,7 +1151,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Lionheart"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -1233,7 +1231,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value="Lionheart, Chris Jericho"/>
-		<property name="Traits" value="Unique, WCW, ACE"/>
+		<property name="Traits" value="Unique, WCW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by JeriShow. When played by The Lionheart, this card is F: 5 instead. Reverse any non-maneuver card and put up to 1 maneuver from Ringside or removed from the game under Man of 1,004 Holds. ACE: When your opponent would discard for Where the Big Boys Play, you may discard 1 card and then he discards 1 Backlash card instead."/>
@@ -1246,7 +1244,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Lionheart"/>
-		<property name="Traits" value="Unique, WCW, ACE"/>
+		<property name="Traits" value="Unique, WCW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You may play this card from under a WCW card as if from hand. When this card is unsuccessful, you may put it in your Ring instead, regardless of other effects. Draw up to 2 cards, and your opponent discards 2 random Backlash cards. ACE: When you Activate Where the Big Boys Play, you can shuffle this card into your Arsenal, and then that card's effect cannot be reversed."/>
@@ -1257,12 +1255,14 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Fandango"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you play a maneuver from under another card, it is -2F and +2D, and if it is successful you may Promo: 2. Your cards with 'Tony Chimel' or 'Mangled Intro' in the title are not Heel or Raw."/>
+		<alternate name="Fandango" type="alt">
+		</alternate>
 	</card>
 <card id="4ae6dfae-0ede-5991-372b-e47eba0d9623" name="You Will Pronounce My Name Properly!">
 		<property name="Format" value="VirtualClassic"/>
@@ -1413,7 +1413,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Summer Rae"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1569,7 +1569,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Arn Anderson"/>
 		<property name="Traits" value="Legend, WCW"/>
 		<property name="Stun" value=""/>
@@ -1621,7 +1621,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Nation of Domination"/>
 		<property name="Traits" value="Stable, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1665,7 +1665,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be blanked and cannot be prevented from being played. When you play a 4D+ non-High Risk maneuver as a Counter, choose one: it is considered to be played after Irish Whip, it is considered to be played after Throw into the Corner Turnbuckle, or it is -3F. When you play a maneuver that has a title not in your Ring, does not have 'be reversed' in the text, and is either Superstar-specific or has 'Whip' or 'Turnbuckle' in the text: your opponent must remove the top 3 cards of his Arsenal from the game to play a reversal to it."/>
+		<property name="Card Text" value="Cannot be blanked or blocked. When you would play a 4D+ non-High Risk maneuver as a Counter, first choose one: it counts as played after Irish Whip, it counts as played after Throw into the Corner Turnbuckle, or it is -3F. When you play a maneuver that has a title not in your Ring, does not have 'be reversed' in the text, and is either Superstar-specific or has 'Whip' or 'Turnbuckle' in the text: your opponent must RFG their top 3 Arsenal cards to play a reversal to it."/>
 	</card>
 <card id="8f61da0a-94dd-28e1-5ea0-3ff78acd02f9" name="Beatdown by a Nation" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1777,7 +1777,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hart Dynasty"/>
 		<property name="Traits" value="Stable, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1818,7 +1818,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="Hart Dynasty"/>
-		<property name="Traits" value="Unique, Multi, ACE"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Search your Arsenal for 2 non-Unique non-hybrid maneuvers or 1 Superstar-specific non-hybrid maneuver; reveal them, put them in your hand, and shuffle. ACE: When the next card successfully played on your turn is a card you searched for with this card, you may put this card into your Backlash, and then either shuffle 1 face-down card in your Ring into your Arsenal or put 1 non-Superstar-specific card in your opponent's Ring into his Ringside."/>
@@ -1907,12 +1907,12 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Team X-Treme"/>
 		<property name="Traits" value="Stable, Tag Team, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Once during each of your turns, when you successfully play a High Risk, you may discard 1 card and put up to 2 non-hybrid cards from your Ringside into your hand. Your opponent can ignore 'cannot be reversed' effects on your maneuvers. You can pack High-Flying Style, X-Treme Thong and Hardy Boyz, Matt Hardy, Jeff Hardy, and/or Lita maneuvers; your Spin Cycle and Poetry In Motion are blank. You cannot pack Corners or There is No Escape. You are a Stable and a Tag Team."/>
+		<property name="Card Text" value="Once during each of your turns, you may discard 1 High Risk and Ringside Search 2- other non-Hybrid manevuers. Your opponent can ignore reversal restrictions from Arsenal on your High Risks. You can pack High-Flying Style, X-Treme Thong and Hardy Boyz, Matt Hardy, Jeff Hardy, and/or Lita maneuvers; your Spin Cycle and Poetry In Motion are blank. You cannot pack There is No Escape. You are a Tag Team and a Stable."/>
 	</card>
 <card id="df807f54-82ed-5989-0ea8-bf890f6f6b39" name="Live For the Moment">
 		<property name="Format" value="VirtualClassic"/>
@@ -1925,7 +1925,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Traits" value="Unique, RMS, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Replace 'Volley' with 'non-Run-in High Risk' in the text of your Managed by Lita. Once during each of your turns when you successfully play a maneuver, you may discard 1 card and when your next card played this turn is a Unique High Risk, you may ignore the 'Can only be played after...' text, it is +3D and +1 Stun Value; when you do and your maneuver is reversed, you may discard 2 cards and continue your turn, but your next card played can only be a Unique High Risk, and when damage is applied from that card, end your turn."/>
+		<property name="Card Text" value="Replace 'Volley' with 'non-Run-in High Risk' on your Managed by Lita. Once during each of your turns, before playing a Unique High Risk after a maneuver or as a Counter, you may overturn 1 and ignore 'Can only be played after...' on that card, it is +3D and +1 Stun. Once during each of your turns when your maneuver is reversed, you may discard 2 and continue the turn, but your next card played can only be a High Risk, and when damage is applied from that card, end the turn."/>
 	</card>
 <card id="f1747c2d-6a98-00b8-0f36-11be6aba74d2" name="Ladder Match Innovators" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1973,7 +1973,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + High Risk / Reversal: Special"/>
-		<property name="SS Logos" value="Team X-Treme, Matt Hardy"/>
+		<property name="SS Logos" value="Matt Hardy"/>
 		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
@@ -2011,7 +2011,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Brood"/>
 		<property name="Traits" value="Stable, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -2130,7 +2130,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="The Brood"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed by hybrid cards. Search your Arsenal for up to 3 cards, remove them from the game, shuffle, and draw the same number of cards. ACE: Once during each of your opponent's turns, you may remove the top 2 cards of your Arsenal from the game, discard 1 card, and then you may play 1 non-hybrid reversal card removed from the game as if from hand or Backlash."/>
@@ -2141,7 +2141,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="bWo"/>
 		<property name="Traits" value="ECW, Extremist, Stable, Tag Team, Throwback"/>
 		<property name="Stun" value=""/>
@@ -2169,7 +2169,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="bWo"/>
-		<property name="Traits" value="Unique, ECW, Permanent, ACE"/>
+		<property name="Traits" value="Unique, ECW, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Your bWo specific cards do not take up Pre-match or Mid-match slots in your Ring. ACE: Once during each of your turns, you may draw up to 1 card and move 1 card with 'Shenanigans' in the title from your Ring or Backstage under your Superstar Card, and then add your opponent's Ability (including any Enforcer Abilities) to your own until the start of your next turn; when you have lower Fortitude, this effect cannot be reversed."/>
@@ -2338,7 +2338,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="X-Pac"/>
-		<property name="Traits" value="Unique, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked and does not take up a Pre-match slot in your Ring. When The X-Factor is revealed: this card can be played during any Pre-match phase; your Pac's Pack is -5F and not a Run-in; and when you play a maneuver from Ringside, choose 3 cards in your Ringside, your opponent randomly chooses 1, when the card he chose has the same title as the played card and is not a Set-up, he cannot play reversals to it from hand. ACE:  During your turn, you may put this card into your Ringside and then shuffle up to 6 cards from your Ringside into your Arsenal and draw up to 3 cards."/>
@@ -2403,7 +2403,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="APA"/>
-		<property name="Traits" value="Unique, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. When this card is in your Ring, your maneuvers are +1D, your APA-specific cards do not take up a Mid-match slot in your Ring, and your APA-specific actions can only be reversed by Superstar-specific cards. ACE: Once during each of your turns, you may overturn 4 cards and either put up to 2 non-Chain Backlash cards from your Ringside into your Backlash or put up to 2 cards from your Ringside on the bottom of your Arsenal; when you use this effect, you may discard 2 cards, if you do, it cannot be reversed."/>
@@ -2416,7 +2416,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value="APA"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any non-maneuver card and put Damn! from your Ring or Ringside into your Backlash. When this card is in your Ring, Damn! is -10F. ACE: When your opponent moves cards from his Ringside with a card or card effect, you may put this card into your Ringside and shuffle the same number of cards from your Ringside into your Arsenal."/>
@@ -2458,7 +2458,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Traits" value="Unique, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be packed by Trish Stratus. When packing this card, you may pack cards with 'bulldog' in the title as if they are not Heel or Smackdown, and when this card is revealed, they are +1D and you may ignore the 'Can only be played...' text. When your opponent moves one of your action or Superstar-specific cards from the Ring, you may put it in your Ringside instead. Before each of your Draw Segments, you may discard 1 card or overturn 2 cards, and then your Ability is blank for the rest of the turn."/>
+		<property name="Card Text" value="Can only be packed by Trish Stratus. Packed: you can pack Trish Stratus cards as if they are not Cheater or Fan Favorite, and 'Bulldog' cards as if they are not Heel or Smackdown. Your 'Bulldog' cards are +1D and ignore 'Can only be played...'. Your 'Stratus' cards are Superstar-specific, and non-Superstar-specific D: 2+ reversals cannot be played to your 'Bulldog', 'Chick', or Superstar-specific maneuvers. Before your Draw Segment, you may blank your Ability this turn."/>
 	</card>
 <card id="98cffc1e-3f25-153c-68ef-f00aa5ed5c6e" name="This IS What We Came To See!" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -2507,7 +2507,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Dude Love"/>
-		<property name="Traits" value="Unique, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by Dude Love. Cannot be blanked, and can be played during any Pre-match phase. Your opponent╞s maneuvers are not affected by damage modifiers that increase damage, ignore the 'Can only be played...' text of Three Faces of Foley, and your Dude Love-specific actions are Multi. ACE: When he draws a card for your Ability, you may overturn 1 card and draw 1 card."/>
@@ -2754,7 +2754,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Andre the Giant"/>
-		<property name="Traits" value="Unique, Permanent, WWF Classic, ACE"/>
+		<property name="Traits" value="Unique, Permanent, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by Andre the Giant. Cannot be blanked, and can be played during any Pre-match phase. Your Backstage cards cannot be blanked, and your opponent cannot reduce your Starting Hand Size, or move cards from your hand before the first turn of the game. When you play your Superstar-specific cards, the number of Heat cards removed from the game for the Heat trait is 0. ACE: Once during each of your turns, you may choose 1 maneuver that is not Superstar-specific, Multi, or RMS in your Ringside, and then randomly remove 1 other card in your Ringside from the game and play the chosen maneuver as if from hand, but he ignores any reversal restrictions on that card (including Chain)."/>
@@ -2832,7 +2832,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="Mr. Perfect"/>
-		<property name="Traits" value="Unique, Multi, WWF Classic, ACE"/>
+		<property name="Traits" value="Unique, Multi, WWF Classic"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have lower Fortitude, this card is -5F. Shuffle up to 10 cards from your Ringside into your Arsenal and draw up to 3 cards. ACE: Once during each of your turns you may remove 2 cards in your Ringside from the game, and your next Superstar-specific card played this turn is either -10F or cannot be reversed from hand. During your turn when this card is in your Ringside or removed from the game, you may remove 1 card in your hand from the game and put this card into your Backlash."/>
@@ -2897,7 +2897,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value="DDP"/>
-		<property name="Traits" value="Unique, WCW, ACE"/>
+		<property name="Traits" value="Unique, WCW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have a Fan Favorite card in your Ring, this card is -1F for every Fan Favorite and DDP-specific card in your Ring. When your opponent successfully plays a card and damage is applied, you may play this card and end his turn. ACE: When you would discard or overturn cards for his non-damage card effect, you may remove 2 cards in your Ringside from the game; and then draw up to half the number of cards discarded, rounded up, and randomly put up to half the number of cards that you overturned, rounded up, from your Ringside on the bottom of your Arsenal."/>
@@ -2991,7 +2991,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Traits" value="Unique, WCW, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Search your Arsenal for 10 non-Unique non-Revolution non-Throwback maneuvers that either have titles listed on Back to Basics, or have 'clothesline' or 'suplex' in the title; reveal them, put them in your Backstage Area hidden, and shuffle. Before your first Draw Segment of the game, or when you successfully play a maneuver or completely reverse your opponent's maneuver, put 1 maneuver in your Backstage Area into your hand; when you successfully played a maneuver with a title listed on Back to Basics, draw up to 1 card."/>
+		<property name="Card Text" value="Arsenal Search 10- non-Unique non-Throwback maneuvers that are either 'Clothesline' or 'Suplex' cards or have titles listed on Back to Basics, and hide them in your Backstage. Before your first Draw Segment of the game, when your maneuver is successful, or when you reverse a maneuver: Backstage Search 1 maneuver. When your maneuver with a title listed on Back to Basics is successful, draw 1-."/>
 	</card>
 <card id="f60baab5-9500-3628-41f6-ca6cda3f8330" name="Hail to The Victors" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -3079,7 +3079,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Object"/>
 		<property name="SS Logos" value="Festus"/>
-		<property name="Traits" value="Unique, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card cannot be blanked and can be played during any Pre-match Phase. Your opponent's 'Your Town' is blank, and he cannot blank or move your Pre-match cards with non-Superstar-specific cards that do not have 'Shenanigans' in the title. ACE: During your turn you may put this card into your Ringside and then shuffle up to 8 cards from your Ringside into your Arsenal; do not discard to reversals to this effect."/>
@@ -3092,7 +3092,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="Festus"/>
-		<property name="Traits" value="Unique, Multi, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Multi, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your maneuver is unsuccessfully played and you have lower Fortitude or fewer cards in hand, you may put this card into your Ring. When this card is in your Ringside, you may overturn 3 cards and put it in your Backlash. ACE: During your turn, you may remove 1 card in your Backlash from the game, and then choose one: your next Superstar-specific action is -5F and cannot be reversed from hand; when you activate a Superstar-specific card, your opponent cannot reverse that effect, or put up to 1 non-reversal card from your Ringside into your hand."/>
@@ -3365,7 +3365,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value="Darren Young"/>
-		<property name="Traits" value="Unique, Multi, ACE"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by Darren Young. When this card is in your Ring and you successfully play a maneuver, shuffle up to 1 maneuver from your Ringside into your Arsenal. ACE: When you have 15- cards in your Arsenal, you may discard 1 card and then when your next card played is a maneuver, it is Multi."/>
@@ -3486,9 +3486,7 @@ When you are Jeff Hardy, once during each of your turns you may reveal 1 High Ri
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be reversed by 2 reversal cards. If unsuccessful, Bury 1- random Ringside reversal.
-Arsenal Search 2- Chris Jericho-specific cards.
-Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the stupid idiot.
-"/>
+Arsenal Search 2- Chris Jericho-specific cards. Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the stupid idiot."/>
 	</card>
 <card id="e766fd62-3f8c-5e67-6625-f9b52cd21224" name="The List of Jericho">
 		<property name="Format" value="VirtualClassic"/>
@@ -3563,10 +3561,10 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Vader"/>
-		<property name="Traits" value="Unique, RMS, WCW, ACE"/>
+		<property name="Traits" value="Unique, RMS, WCW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Put 2 cards from your hand on the bottom of your Arsenal and choose one: search your Arsenal for up to 1 Superstar-specific non-F:0 card, reveal it, put it in your hand, and shuffle; OR when your next card played is a maneuver with 'power' in the title, if it is successful, your opponent overturns # cards, where # is the number of cards with 'power' in the title in your Ring and cannot be greater than 5, and when it is unsuccessful, he discards 2 cards. ACE: During your turn when this card is in your Ring, Ringside, or is removed from the game, you may discard 2 cards and put it in your Backlash, and then end your turn."/>
+		<property name="Card Text" value="You may Bury 2 Hand cards and Arsenal Search 1- Superstar-specific non-F: 0 card. When your next card played is a 'Power' maneuver: if successful, your opponent overturns #; and if unsuccessful, they discard 2 (# = number of your Ring 'Power' cards, max. 5). ACE: During your turn when this card is in your Ring, Ringside, or RFG, you may discard 2 cards, put it in your Backlash, and then end the turn."/>
 	</card>
 <card id="088de4ff-2b38-4d89-42c9-15b0e7783d29" name="The Accountability Crib">
 		<property name="Format" value="VirtualClassic"/>
@@ -3602,7 +3600,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action"/>
 		<property name="SS Logos" value="Scott Hall, Hall and Nash"/>
-		<property name="Traits" value="Unique, Multi, nWo, ACE"/>
+		<property name="Traits" value="Unique, Multi, nWo"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed when you have a card with 'survey' in the title in your Ring; when you do and you Activate that card, the effect cannot be reversed. When you are Hall and Nash, before each of your Draw Segments, choose one for your non-Revolution cards with 'bomb', 'power', or 'slam': they are Chain, OR when they are unsuccessful, your opponent discards 1 random Backlash card. When you have 10+ lower fortitude, you may choose both options. ACE: When playing an nWo card, you may remove this card from the game and your played card is -10F."/>
@@ -3654,7 +3652,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action"/>
 		<property name="SS Logos" value="The Viper"/>
-		<property name="Traits" value="Unique, Multi, ACE"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During any turn when this card is in your Ringside or removed from the game, and you play a Superstar-specific card, you may put it into your Ring. ACE: When you play a Randy Orton-specific action, you may remove 2 cards in your hand from the game, and the played card cannot be reversed by non-Unique reversals. ACE: When your opponent plays a maneuver, you may remove 1 reversal in your hand from the game, and his card is -3D."/>
@@ -3797,7 +3795,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Dean Ambrose"/>
-		<property name="Traits" value="Unique, Heat, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Heat, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, draw 3 cards, and your opponent may discard 2 cards; if he does not, put 3 cards from you hand under this card. ACE: During your turn when you have not Activated any cards this turn, you may put 1 card under this card on the bottom of your Arsenal, and then he reveals 1 random card in his hand; when his card is an action, he puts that card and 1 random card from hand on the bottom of his Arsenal, when it is a non-hybrid reversal, he cannot play cards with that title to your next maneuver played this turn. You cannot Activate cards for the rest of the turn."/>
@@ -3836,7 +3834,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Roman Reigns"/>
-		<property name="Traits" value="Unique, RMS, ACE"/>
+		<property name="Traits" value="Unique, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Superstar Value and Starting Hand Size are +2. You may put this card into your Ring to reverse any non-Unique non-maneuver card and Promo: 3. ACE: When playing a non-Unique Multi maneuver, you may put this card from your Ring into your Ringside and your maneuver requires 3 reversals instead of 2 to reverse; when you have 10+ lower Fortitude, this effect cannot be reversed."/>
@@ -3901,7 +3899,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Seth Rollins"/>
-		<property name="Traits" value="Unique, Permanent, ACE"/>
+		<property name="Traits" value="Unique, Permanent"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packing this card, you can pack Respect The Authority, but you cannot pack Sierra Hotel India Echo Lima Delta. Cannot be blanked. Your Pre-match Capacity is +2, and your opponent's non-Superstar-specific cards do not lower your Starting Hand Size or move cards from your hand during the Pre-match phase. ACE: You may put this card into your Ringside to reverse a non-Superstar-specific action or antic."/>
@@ -4057,7 +4055,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="A.J. Lee"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have fewer cards in Arsenal than your opponent, he cannot respond to this card; when you have 9+ lower Fortitude, this card is F: 0. Put up to 8 cards from your Ringside on the bottom of your Arsenal, draw up to 3 cards, and then discard any number of cards. ACE: When you use your Ability and overturn cards for Don't Call Me Crazy!, you may shuffle 1 card from your Ringside into your Arsenal and then draw up to 1 card, look at his hand, choose 1 card, he shuffles the chosen card into his Arsenal and draws 1 card."/>
@@ -4174,7 +4172,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Backstage Card"/>
 		<property name="SS Logos" value="Charlotte, Emma"/>
-		<property name="Traits" value="Unique, NXT, RMS, ACE"/>
+		<property name="Traits" value="Unique, NXT, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When Daughter of The Nature Boy is moved from your Ring, or you reveal It's All About Me!, you may put this card into your Ring. When this card is in your Ring, during your opponent's turn when plays a non-maneuver card, he overturns 1 card. ACE: During your turn you may discard 1 random card and then put 1 Superstar-specific card from your Ringside into your hand and put this card in your Ringside."/>
@@ -4395,7 +4393,7 @@ Your opponent may Arsenal Search 1- cards with ‘Jericho’ in the text, the st
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Object"/>
 		<property name="SS Logos" value="New Day"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. This card is considered Face when played. Once during the end of Pre-match phase when your opponent's card allows him to draw a number of cards, you may reduce that number of cards to 0. ACE: When he plays a reversal to your maneuver, you may put this card into your Ringside, and then the damage of his reversal is reduced to 0, and the number of cards he draws during his next Draw Segment is reduced to 0."/>

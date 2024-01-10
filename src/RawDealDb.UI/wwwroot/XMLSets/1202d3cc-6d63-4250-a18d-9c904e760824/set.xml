@@ -10,7 +10,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike + Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Foreign Object, Heel, Multi, RAW, Unique"/>
+		<property name="Traits" value="Foreign Object, Heel, Multi, Raw, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Female Superstars. Cannot be reversed by the card titled Back Rake. When this card is in your Ring area, you may put this card into your Ringside pile to reverse any Foreign Object or any card played after the card titled Roll Out of the Ring and end your opponent's turn."/>
@@ -23,7 +23,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="RAW, Unique"/>
+		<property name="Traits" value="Raw, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any non-Trademark-Finisher maneuver of #D or less, where # is equal to the total number of cards removed from the game, and end your opponent's turn. You may put the card titled Get the 'F'Out from your Ringside pile into your hand."/>
@@ -36,7 +36,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="RAW, Unique"/>
+		<property name="Traits" value="Raw, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed when played by Stacy Keibler. Shuffle up to # cards from your Ringside pile into your Arsenal and your maneuvers are +#D for the rest of the turn, where # is equal to the number of cards in your Ring area with the Raw logo."/>
@@ -49,7 +49,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="RAW, Unique"/>
+		<property name="Traits" value="Raw, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent randomly discards 3 cards."/>
@@ -62,7 +62,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Stipulation"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="RAW, Permanent, Unique"/>
+		<property name="Traits" value="Raw, Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="The maximum number of Pre-match cards you may have in your Ring area is reduced by 2. The maximum number of Mid-match cards all players may have in their Ring areas is reduced by 3."/>
@@ -75,7 +75,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="RAW, Unique"/>
+		<property name="Traits" value="Raw, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Discard 1 card. Blank the text of 1 card in your opponent's Ring area for the rest of the turn. If your next card played this turn is a card with the Raw logo, it cannot be reversed."/>
@@ -88,7 +88,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="RAW, Unique"/>
+		<property name="Traits" value="Raw, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played non-0F maneuver and if your Fortitude Rating is less than your opponent's Fortitude Rating and if you have fewer cards in your hand than your opponent. The maneuver does its normal damage, regardless of overturned Reversal cards. Your opponent then puts Maneuver cards from his Ring area into his Ringside pile until his Fortitude Rating is equal to or less than that maneuver's F. End your opponent's turn. When played by Raw GM Eric Bischoff, you choose the cards instead of your opponent."/>
@@ -99,7 +99,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0+"/>
 		<property name="SSV" value="1+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Eric Bischoff"/>
 		<property name="Traits" value="GM, Raw"/>
 		<property name="Stun" value=""/>
@@ -117,7 +117,7 @@
 		<property name="Traits" value="Raw"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +7 Superstar Value: +5 Superstar Ability: +Once during each of your turns you may draw 1 card and then put 1 card from your hand at the bottom of your Arsenal. ≥ Starting Hand Size: +10 Superstar Value: +3 Superstar Ability: +None - isn't his Starting Hand Size enough?!?!? ≥ Starting Hand Size: +4 Superstar Value: +1 Superstar Ability: +Blank non-Stun-Value card-drawing effects on cards played from your opponent's hand."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Hand Size: +7 Superstar Value: +5 Superstar Ability: +Once during each of your turns you may draw 1 card and then put 1 card from your hand at the bottom of your Arsenal. ≥ Hand Size: +10 Superstar Value: +3 Superstar Ability: +None - isn't his Starting Hand Size enough?!?!? ≥ Hand Size: +4 Superstar Value: +1 Superstar Ability: +Blank non-Stun-Value card-drawing effects on cards played from your opponent's hand."/>
 	</card>
 <card id="272a1df4-721d-854c-60ee-a96302c329b8" name="Chris Jericho, Kane, or ... D-Von Dudley?">
 		<property name="Format" value="Classic"/>
@@ -130,7 +130,7 @@
 		<property name="Traits" value="Raw"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +7 Superstar Value: +3 Superstar Ability: +Once during each of your turns you may discard 1 card and then your opponent discards 1 card. ≥ Starting Hand Size: +7 Superstar Value: +2 Superstar Ability: +Before your Draw Segment, your opponent overturns 1 card. ≥ Starting Hand Size: +5 Superstar Value: +1 Superstar Ability: +When you successfully play a maneuver, you may draw 1 card."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Hand Size: +7 Superstar Value: +3 Superstar Ability: +Once during each of your turns you may discard 1 card and then your opponent discards 1 card. ≥ Hand Size: +7 Superstar Value: +2 Superstar Ability: +Before your Draw Segment, your opponent overturns 1 card. ≥ Hand Size: +5 Superstar Value: +1 Superstar Ability: +When you successfully play a maneuver, you may draw 1 card."/>
 	</card>
 <card id="759d61d2-6e76-3933-1b89-294f8d4948a5" name="Suicide Lariat">
 		<property name="Format" value="Classic"/>
@@ -223,13 +223,13 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed when played by The Rock or The People's Champ. Search your Arsenal for up to 2 non-unique Maneuver or Action cards with the Smackdown logo, reveal them to your opponent, put them into your hand, and shuffle your Arsenal."/>
 	</card>
-<card id="9a7f8aaa-598f-351e-9609-f69b96cd3793" name="SmackDown! GM Stephanie McMahon">
+<card id="9a7f8aaa-598f-351e-9609-f69b96cd3793" name="Stephanie McMahon">
 		<property name="Format" value="Classic"/>
 		<property name="Fortitude" value=""/>
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0+"/>
 		<property name="SSV" value="1+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Stephanie McMahon"/>
 		<property name="Traits" value="GM, Smackdown"/>
 		<property name="Stun" value=""/>
@@ -247,7 +247,7 @@
 		<property name="Traits" value="Smackdown"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +5 Superstar Value: +5 Superstar Ability: +Before your Draw Segment, put 1 card from your Ringside pile at the bottom of your Arsenal. ≥ Starting Hand Size: +6 Superstar Value: +4 Superstar Ability: +Once during each of your turns you may discard 2 cards and then put 1 card from your Ringside pile into your hand. ≥ Starting Hand Size: +7 Superstar Value: +1 Superstar Ability: +When you successfully play a High Risk maneuver, shuffle up to 6 cards from your Ringside pile into your Arsenal."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Hand Size: +5 Superstar Value: +5 Superstar Ability: +Before your Draw Segment, put 1 card from your Ringside pile at the bottom of your Arsenal. ≥ Hand Size: +6 Superstar Value: +4 Superstar Ability: +Once during each of your turns you may discard 2 cards and then put 1 card from your Ringside pile into your hand. ≥ Hand Size: +7 Superstar Value: +1 Superstar Ability: +When you successfully play a High Risk maneuver, shuffle up to 6 cards from your Ringside pile into your Arsenal."/>
 	</card>
 <card id="6f03edc4-2d2e-7a4d-5e03-6aeacdc02963" name="Rikishi, Chris Benoit, or ... Eddie Guerrero?">
 		<property name="Format" value="Classic"/>
@@ -260,7 +260,7 @@
 		<property name="Traits" value="Smackdown"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +6 Superstar Value: +4 Superstar Ability: +Once during each of your turns you may discard 2 cards and then search your Arsenal for 1 Maneuver card, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. ≥ Starting Hand Size: +6 Superstar Value: +1 Superstar Ability: +The first maneuver you play each turn is +1D, the second +2D, the third +3D, and so forth. ≥ Starting Hand Size: +7 Superstar Value: +1 Superstar Ability: +The first High Risk maneuver you play each turn cannot be reversed."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Hand Size: +6 Superstar Value: +4 Superstar Ability: +Once during each of your turns you may discard 2 cards and then search your Arsenal for 1 Maneuver card, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. ≥ Hand Size: +6 Superstar Value: +1 Superstar Ability: +The first maneuver you play each turn is +1D, the second +2D, the third +3D, and so forth. ≥ Hand Size: +7 Superstar Value: +1 Superstar Ability: +The first High Risk maneuver you play each turn cannot be reversed."/>
 	</card>
 <card id="4b8c89a7-641f-2dd1-71fd-8dc12cec49e5" name="You're Fired!">
 		<property name="Format" value="Classic"/>
@@ -333,7 +333,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Mae Young"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>

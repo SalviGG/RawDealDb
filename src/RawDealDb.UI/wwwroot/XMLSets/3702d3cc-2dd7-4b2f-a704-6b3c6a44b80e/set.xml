@@ -8,16 +8,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kevin Owens"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent reverses a card from his Arsenal to end your turn, he overturns 2 cards. When he reverses a card from hand to end your turn, draw up to 1 card. Before your first Draw Segment of the game, shuffle # cards from your hand into your Arsenal, where # is the number of cards you have in hand greater than 8."/>
-		<alternate name="Kevin Owens" type="alt" size="Wide">
-	</alternate>
 		<alternate name="Kevin Owens" type="alt2">
-	</alternate>
+		</alternate>
 	</card>
 <card id="4efbccb9-7f26-884d-2d42-a19771072990" name="The Prizefighter">
 		<property name="Format" value="VirtualClassic"/>
@@ -30,10 +28,7 @@
 		<property name="Traits" value="Unique, NXT, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="You are considered to have Roll Out of the Ring in your Ring for Apron Bomb.
-When you have a Title Belt in your Ring and you use your Ability, put up to 1 non-reversal maneuver in your Ringside on the bottom of your Arsenal.
-When you do not have a Title Belt in your Ring, he has a Title Belt in his Ring, and you have lower Fortitude, add 1 to the numbers in your Ability.
-"/>
+		<property name="Card Text" value="You are considered to have Roll Out of the Ring in your Ring for Apron Bomb. When you have a Title Belt in your Ring and you use your Ability, put up to 1 non-reversal maneuver in your Ringside on the bottom of your Arsenal. When you do not have a Title Belt in your Ring, he has a Title Belt in his Ring, and you have lower Fortitude, add 1 to the numbers in your Ability."/>
 	</card>
 <card id="5802942c-119c-60be-124a-3bf0b37a0b08" name="Fight Owens Fight" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -72,9 +67,7 @@ When you do not have a Title Belt in your Ring, he has a Title Belt in his Ring,
 		<property name="Traits" value="Unique, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be packed when packing Backstage Shenanigans. During your opponent's turn, when it is not his first turn of the game, before his Draw Segment you may put this card from your Backlash into your Ring, draw 2- cards, and end his turn.
-ACE: During your turn when this card is in your Ring, you may overturn 2 cards, and then discard up to 2 cards, put the same number of cards +1 from your Ringside into your hand, and remove this card from the game.
-"/>
+		<property name="Card Text" value="Cannot be packed when packing Backstage Shenanigans. During your opponent's turn, when it is not his first turn of the game, before his Draw Segment you may put this card from your Backlash into your Ring, draw 2- cards, and end his turn. ACE: During your turn when this card is in your Ring, you may overturn 2 cards, and then discard up to 2 cards, put the same number of cards +1 from your Ringside into your hand, and remove this card from the game."/>
 	</card>
 <card id="d5570f1a-1275-37df-9a38-b98d8b2996dc" name="Kevin's Cannonball">
 		<property name="Format" value="VirtualClassic"/>
@@ -152,9 +145,7 @@ ACE: During your turn when this card is in your Ring, you may overturn 2 cards, 
 		<property name="Traits" value="Unique, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Reverse any non-maneuver card. Look at your opponent's hand, choose 3- cards, he shuffles them into his Arsenal and draws that many.
-When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘hand or Arsenal’ in your Ability.
-"/>
+		<property name="Card Text" value="Reverse any non-maneuver card. Look at your opponent's hand, choose 3- cards, he shuffles them into his Arsenal and draws that many. When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘hand or Arsenal’ in your Ability."/>
 	</card>
 <card id="ad3afd5e-5959-3c2d-6463-943f306458d7" name="Making a Mockery of the Competition">
 		<property name="Format" value="VirtualClassic"/>
@@ -167,7 +158,7 @@ When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘han
 		<property name="Traits" value="Unique, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your opponent cannot respond to this card. Choose 1 Superstar-specific non-hybrid card that is an action or antic in his Ringside, remove his card from the game, and this card gains the removed card's text until the end of the turn. This card resolves to the Ring regardless of other effects."/>
+		<property name="Card Text" value="Your opponent cannot respond to this card. RFG 1 of their Ringside Superstar-specific non-Hybrid actions without 'win the game' in the text, and this card gains that card's text until the end of the turn. This card resolves to the Ring regardless of other effects."/>
 	</card>
 <card id="e8415be8-173f-a614-9ec4-3006ef0b646e" name="Rusev">
 		<property name="Format" value="VirtualClassic"/>
@@ -175,14 +166,16 @@ When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘han
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rusev"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your non-Unique non-Multi maneuvers without 'reversed' in the text are -2F for every printed D: 5+ Arsenal card in your Ringside. When any player successfully plays a printed F: 10+ card, you may Promo: 2. You can pack As Big and Tough as Any Two Men, Soviet Power, and The Strength of Mother Russia."/>
 		<alternate name="Rusev" type="alt">
-	</alternate>
+		</alternate>
+		<alternate name="Rusev" type="alt2" size="Wide">
+		</alternate>
 	</card>
 <card id="6aff44fb-3c29-4f09-0eb0-1db9d523405c" name="The Bulgarian Brute">
 		<property name="Format" value="VirtualClassic"/>
@@ -333,12 +326,14 @@ When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘han
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Big E"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you have equal or lower Fortitude, your opponent must overturn 5 cards to play reversals from hand to your printed non-Follow-up F: 5 or printed D: 5 maneuvers. You can pack No Sell Maneuver and As Big and Tough as Any Two Men, and you are considered to be Kane for its effect. You cannot pack Corners."/>
+		<alternate name="Big E" type="alt">
+		</alternate>
 	</card>
 <card id="2176c2e6-57e4-7e77-38c5-93aa1ec2060e" name="Three Ain't Enough!">
 		<property name="Format" value="VirtualClassic"/>
@@ -489,7 +484,7 @@ When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘han
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Stardust"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -645,14 +640,16 @@ When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘han
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Xavier Woods"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you unsuccessfully play a maneuver or NXT card, shuffle up to 1 non-reversal card from your Ringside into your Arsenal. When you flip a card face-up, discard 1 card. Your Superstar-specific cards are now NXT. You can pack Backed by The Funkadactyls, Funk Is On a Roll! and Somebody Call My Mama! You cannot pack Corners."/>
 		<alternate name="Xavier Woods" type="alt">
-	</alternate>
+		</alternate>
+		<alternate name="Xavier Woods" type="alt2">
+		</alternate>
 	</card>
 <card id="4c3f938b-5fce-727b-5c02-be02770d8d7c" name="Hailing from Angel Grove, California" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -717,7 +714,7 @@ When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘han
 		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When you are Xavier Woods, this card is -5F. As an action, shuffle this card and up to 1 of your cards removed from the game into your Arsenal. As a reversal, this card is -10F and when overturned, reverse any non-damage card effect (even during your own turn or the Pre-match phase), then shuffle this card and up to 3 cards from your Ringside into your Arsenal."/>
+		<property name="Card Text" value="When you are Xavier Woods, -5F. As an action, Recover this card and 1- RFG card. As a reversal, -10F; when overturned, reverse a non-damage card effect (even during the Pre-match phase), then Recover this card and 3- Ringside cards."/>
 	</card>
 <card id="fcd8b6c8-901d-8216-7653-7fe461ff6b93" name="The New Day">
 		<property name="Format" value="VirtualClassic"/>
@@ -725,14 +722,16 @@ When this card is in your Ring, replace ‘hand’ and ‘Arsenal’ with ‘han
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="New Day"/>
 		<property name="Traits" value="Unique, Stable, Tag Team"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you successfully play a Cheater or Heel card, you may Promo: 3 and then put up to 1 card from your Ringside on the bottom of your Arsenal. You can pack Kofi Kingston Arsenal maneuvers, but you cannot pack Flurry of Finishers. When you are not packing Face cards, you can pack both Fan Favorite and Cheater cards; when you are not packing Fan Favorite cards, you can pack both Face and Heel cards. You are a Tag Team."/>
 		<alternate name="The New Day" type="alt">
-	</alternate>
+		</alternate>
+		<alternate name="The New Day" type="alt2" size="Wide">
+		</alternate>
 	</card>
 <card id="cd2c20da-4514-a156-2a48-22e11e9a6103" name="Clap Therapy">
 		<property name="Format" value="VirtualClassic"/>

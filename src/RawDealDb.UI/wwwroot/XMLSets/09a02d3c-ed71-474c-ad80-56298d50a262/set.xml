@@ -158,7 +158,7 @@
 		<property name="Traits" value=""/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be played after a successfully played Strike maneuver. Cannot be reversed from your opponent's Backlash deck. If played by Buh Buh Ray Dudley, reversals to this card are +10F."/>
+		<property name="Card Text" value="Can only be played after a successfully played Strike maneuver. Cannot be reversed from your opponent's Backlash deck. If played by Buh-Buh Ray Dudley, reversals to this card are +10F."/>
 	</card>
 <card id="f1bbfa86-54b9-a398-8884-1b7efed49fc2" name="Lock-up">
 		<property name="Format" value="Classic"/>
@@ -467,7 +467,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo"/>
+		<property name="Traits" value="Face, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played if your opponents' Fortitude Rating is at least 10F greater than your Fortitude Rating. Cannot be reversed. As an action, your partner is now the active player and may begin his turn. As a reversal, reverse any maneuver and end your opponent's turn."/>
@@ -1011,7 +1011,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Big Freak'n Machine"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1089,7 +1089,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Game"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1169,7 +1169,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Goldust"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1247,7 +1247,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Brock Lesnar"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1325,7 +1325,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The People's Champ"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1403,7 +1403,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rey Mysterio"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1481,7 +1481,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="3"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="3 Minute Warning"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1559,7 +1559,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jamie Noble"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1729,11 +1729,11 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley, D-Von Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley, D-Von Dudley"/>
 		<property name="Traits" value="Raw, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Discard # cards and your opponent must discard # cards. If played by Buh Buh Ray Dudley, do not discard your hand at the end of this turn for your Superstar Ability."/>
+		<property name="Card Text" value="Discard # cards and your opponent must discard # cards. If played by Buh-Buh Ray Dudley, do not discard your hand at the end of this turn for your Superstar Ability."/>
 	</card>
 <card id="59af5709-843c-40d4-7244-d88f5aad8e5f" name="Never Gonna Stop Me">
 		<property name="Format" value="Classic"/>
@@ -1911,7 +1911,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
-		<property name="SS Logos" value="Billy and Chuck, B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy and Chuck, Billy Gunn"/>
 		<property name="Traits" value="Smackdown, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>

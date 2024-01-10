@@ -65,7 +65,7 @@
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="This card is +3F for each Unique reversal in your Ring. Reverse any maneuver and draw 1 card. When this card is in your Ring and you successfully play a BASH maneuver, you may put this card on the bottom of your Arsenal."/>
+		<property name="Card Text" value="Draw -1. In Ring: when your BASH maneuver is successful, you may Bury this card."/>
 	</card>
 <card id="ef35a461-2d9b-2894-1c99-596742d51f04" name="The Horsemen Have My Back">
 		<property name="Format" value="VirtualClassic"/>
@@ -114,10 +114,10 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Cheater, Unique, ACE"/>
+		<property name="Traits" value="Cheater, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be packed when packing In The Interest Of Fairness, or when you are The Heat Seekers. Your opponent's Starting Hand Size is -1. ACE: When he reverses your non-maneuver Cheater card, you may remove this card from the game and then remove the card that reversed your Cheater card from the game and ignore the reversal effect."/>
+		<property name="Card Text" value="'Packed: you cannot pack 'Fairness' cards. Your opponent's Hand Size is -1. ACE: When your non-Mid-match non-maneuver Cheater card is unsuccessful, you may RFG this card from your Ring and then RFG the card that reversed your played card and ignore the reversal effect."/>
 	</card>
 <card id="61bf92e2-2b61-56e4-a5bd-f0fc6a8494db" name="Drawing a Blank" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -170,7 +170,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Permanent, Throwback, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Throwback, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played if your printed Superstar Value is greater than your opponent's printed Superstar Value. His non-Unique It's Showtime! is blank, and a non-printed ECW Originals Member is no longer a Member and cannot become a Member. ACE: During your turn when you have lower Fortitude, you may remove this card from the game and then shuffle # cards from your Ringside into your Arsenal and draw 2 cards, where # is your printed Superstar Value."/>
@@ -183,7 +183,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Permanent, RMS, Unique, ACE"/>
+		<property name="Traits" value="Permanent, RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when packing Wrestlemania. ACE: During your turn when you have no cards under this card, you may put 1 maneuver from your Ringside face-up under this card and then shuffle # cards from your Ringside into your Arsenal, where # is equal to the maneuver's Damage and cannot be greater than 12; this effect cannot be reversed. Before the Draw Segment of each of your turns, when you have fewer cards under this card than the printed Damage of the face-up card +4, put the top card of your Arsenal and 1 random card from your Ringside face-down under this card; if you did not, put the top 2 cards of your Arsenal face-down under this card."/>
@@ -235,7 +235,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Permanent, RMS, Universally Active, ACE"/>
+		<property name="Traits" value="Permanent, RMS, Universally Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed by Chris Benoit or Big Freak'n Machine. Search your Arsenal for up to 8 cards titled Clutch onto Opponent, Precision Haymaker, Revolution Double Leg Lock Crab, or Revolution Scissors Hold, reveal them, put them under this card, and shuffle. Before the Draw Segment of the first turn of the game, when you do not have It's Hard Being This Original in your Ring, discard 1 card for each card under this card. ACE: Once during each of your turns, you may allow your opponent to draw 2 cards (1 card when he has a non-Superstar-specific Corner in his Ring), and then put 1 card from under this card into your hand."/>
@@ -248,10 +248,10 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Allegiance: ECW"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="ECW, Permanent, RMS, Unique, ACE"/>
+		<property name="Traits" value="ECW, Permanent, RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Double all numbers in your ECW Championship Belt and you may choose both options. ACE: Once during each of your turns, you may discard 1 card and then your next Extreme played this turn is also a Foreign Object. ACE: During your turn, you may hide The House that Hardcore Built to put up to # cards from your Ringside on the bottom of your Arsenal, where # is the total number of Extreme, Foreign Object and ECW cards in your Ring."/>
+		<property name="Card Text" value="Double all numbers in the text of your 'ECW' Title Belt, and you may choose both options. ACE:  During your turn, you may Bury #- Ringside cards and then hide The House that Hardcore Built (# = number of your Ring Foreign Objects and ECW cards.)"/>
 	</card>
 <card id="497725f7-49b2-9906-9c3f-9d27d45d1640" name="I Know Who Pays My Salary!" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -261,10 +261,12 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Allegiance: WWE"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Permanent, RMS, Unique, ACE"/>
+		<property name="Traits" value="Permanent, RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When packing this card, you cannot pack nWo, ECW, or WCW cards. When your opponent is an nWo, WCW or ECW Superstar, your Starting Hand Size and Superstar Value are +2. ACE: When he is not Vince McMahon, once during each of your turns you may discard 2 cards and then you are considered to have lower Fortitiude when you play your next non-Antic card this turn."/>
+		<property name="Card Text" value="Packed: you cannot pack nWo, ECW, or WCW cards. Cannot be packed by Los Guerreros. When your opponent is an nWo, WCW or ECW Superstar, your Hand Size and Superstar Value are +2. ACE: When they are not Vince McMahon, once during each of your turns when you would play a card, you may first discard 2 and then you count as having lower Fortitude until it becomes successful or unsuccessful."/>
+		<alternate name="I Know Who Pays My Salary!" type="alt">
+		</alternate>
 	</card>
 <card id="6218683b-6b28-6446-5a77-ef0512740fbe" name="I'm Always On the Winning Side - MY Side!" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -274,7 +276,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Allegiance: None"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Permanent, RMS, Unique, ACE"/>
+		<property name="Traits" value="Permanent, RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When packing this card, you cannot pack Factions or Guest Ring Announcers, or non-Superstar Specific cards that are ECW, WCW, or nWo. Your Starting Hand Size is +1, your Pre-match and Mid-match Capacity are +1, and at the end of Pre-match phase, put up to 1 card from your Ringside on the bottom of your Arsenal. ACE: Once during each of your turns, you may randomly remove 1 card in your Ringside from the game and then randomly discard 2 cards, search your Arsenal for 1 non-unique maneuver card, reveal it, put it into your hand, and shuffle."/>
@@ -303,7 +305,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Traits" value="nWo, Permanent, RMS, Throwback, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can be played regardless of The Boogeyman's Ability. Your Run-in cards are -3F, your non-maneuver nWo Actions can only be reversed by Unique reversals, your nWo specific Pre-match cards do not take up a slot in your Ring, and your nWo Superstar-specific maneuvers ignore the 'Can only be played after...' text. When you are not packing a Superstar-specific nWo Pre-match card and you reveal, discard, play, or overturn an nWo card you may put this card from your Backlash into your Ring. When you have another Allegiance card in your Ring, put this card on top of that card and it is no longer considered to be in your Ring."/>
+		<property name="Card Text" value="Can be played regardless of The Boogeyman's Ability. Your Run-in cards are -3F, your non-maneuver nWo Actions can only be reversed by Unique reversals, your nWo specific Pre-match cards do not take up a slot in your Ring, and your nWo Superstar-specific maneuvers ignore the 'Can only be played after...' text. When you reveal Controversy Creates Cash, you may put this card from your Backlash into your Ring. When you do not have a Superstar-specific nWo card revealed or in your Ring, reduce the numbers on your Lethal nWo Poison by 1."/>
 		<alternate name="nWo T-Shirt" type="alt">
 	</alternate>
 	</card>
@@ -328,7 +330,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Allegiance: WCW"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Permanent, RMS, Unique, WCW, ACE"/>
+		<property name="Traits" value="Permanent, RMS, Unique, WCW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be played regardless of The Boogeyman╞s Ability. When you put a WCW card into your Ring, your opponent discards 1 card. When played by a WCW Superstar, you may search your Arsenal for 2 cards and put them under this card, then shuffle. Once during each of your turns, you may put the bottom card of your Arsenal under this card. ACE: Once during each of your turns, when it is not your first turn of the game and you have lower Fortitude, you may remove 2 cards under this card from the game; then look at his hand, choose 2 reversals, and they cannot be played in response to the next maneuver played this turn."/>
@@ -354,7 +356,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="RMS, Unique, ACE"/>
+		<property name="Traits" value="RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any non-Superstar specific card with printed Fortitude greater than your opponent's Fortitude Rating, or any Multi Volley maneuver; he puts the reversed card into his hand. ACE: During your turn, you may remove this card from the game and then ignore all play restrictions from his effects for the rest of the turn. This effect cannot be reversed."/>
@@ -482,7 +484,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Champ"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -510,7 +512,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action: Movie"/>
 		<property name="SS Logos" value="John Cena"/>
-		<property name="Traits" value="Unique, Permanent, RMS, ACE"/>
+		<property name="Traits" value="Unique, Permanent, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when packing Wrestlemania. During your turn when this card is in your Backlash, you may put it in your Ring. Once before each of your Draw Segments, put up to 1 card from your Ringside under this card. ACE: During your turn when you have 12 cards under this card, put up to 3 cards from your Ringside into your hand, put all cards under this card on the bottom of your Arsenal, shuffle up to 12 cards removed from the game and up to 12 cards in your Ringside into your Arsenal, and then remove this card from the game."/>
@@ -560,7 +562,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Genetic Jackhammer"/>
 		<property name="Traits" value="Chairman"/>
 		<property name="Stun" value=""/>
@@ -601,7 +603,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Vince McMahon"/>
-		<property name="Traits" value="Unique, Permanent, RMS, ACE"/>
+		<property name="Traits" value="Unique, Permanent, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent cannot play reversals to this card. ACE: Once during each of your turns, you may put 1 non-Backlash D: 0 card from your Ring under this card and he may draw 1 card, and then draw up to 2 cards or shuffle up to 3 cards from your Ringside into your Arsenal. When there are 5 cards under this card, remove it from the game and put the cards under it on the bottom of your Arsenal."/>
@@ -638,7 +640,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Legacy"/>
 		<property name="Traits" value="Stable"/>
 		<property name="Stun" value=""/>
@@ -716,7 +718,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Priceless"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -783,7 +785,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action + Action / Reversal: Unique"/>
 		<property name="SS Logos" value="The Legacy, Priceless"/>
-		<property name="Traits" value="Unique, Multi, ACE"/>
+		<property name="Traits" value="Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, name a maneuver type, then your opponent reveals his hand and discards all maneuvers of the chosen type. ACE: Once during each of your turns, you may discard 1 card and then shuffle 1 card of the same card type from your Ringside into your Arsenal."/>
@@ -794,12 +796,12 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Raw Guest Host"/>
-		<property name="Traits" value="Raw"/>
+		<property name="Traits" value="Raw, GM"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your first non-Superstar-specific Raw Action played each turn can only be reversed by Superstar-specific and non-hybrid reversal cards. You can pack 1 Corner card in your Backstage Area, ignore the 'up to 4' text; at the end of the Pre-match phase, put that card into your Ring, it is Superstar-specific and Permanent. You can pack 1 copy of Skirt the Issue, and your Smackdown Superstar-specific cards are now Raw. You cannot pack non-Superstar-specific non-Unique maneuvers."/>
+		<property name="Card Text" value="Your first non-Superstar-specific Raw action played each turn can only be reversed by Superstar-specific reversals and non-Hybrid non-BASH reversals. You can pack cards as if you were a Legend, and 1 Skirt the Issue. You cannot pack non-Superstar-specific non-Raw non-Unique maneuvers."/>
 	</card>
 <card id="da884786-088a-576b-8fe1-6ac3d0027254" name="The Best Defense is a Good Offense" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -812,7 +814,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Traits" value="Raw, Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be blanked. When your next Pre-match card played is Raw, your Pre-match Capacity is +2. At the end of the Pre-match phase, search your Arsenal for 1 non-hybrid Superstar-specific maneuver, reveal it, put it in your hand, and shuffle. Your Superstar-specific maneuvers are -8F."/>
+		<property name="Card Text" value="Cannot be blanked or blocked. When your next Pre-match card played is Raw, your Pre-match Capacity is +2. At the end of the Pre-match phase, Arsenal Search 1 non-Hybrid printed Raw maneuver or 1 non-Hybrid Unique maneuver. Your Unique maneuvers are -8F."/>
 	</card>
 <card id="486e76b6-9d97-3f35-059e-3a1f0767701d" name="The Price is Raw" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -872,7 +874,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Great Khali"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -900,7 +902,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Great Khali"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Your opponent's maneuvers are -1D. Your printed 6D+ maneuvers are also Colossals for your effects. When your Ability is blank, his successfully played reversals are blank and deal no damage; ACE: and once during each of your turns, you may discard 3 cards and then put 1 Colossal maneuver from your Ringside into your hand (this effect cannot be reversed)."/>
@@ -950,7 +952,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Umaga"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -965,7 +967,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Umaga"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When this card is in your Ring, ignore the 'can only be played...' text on your Me Llamo...Armando Alejandro Estrrrrrada cards. ACE: When you have at least 10 lower Fortitude, you may put this card in your Ringside and then if your next card played this turn is a maneuver, it can only be reversed from Arsenal."/>
@@ -1028,12 +1030,12 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Muhammad Hassan"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="You may play printed Heat reversals from hand; ignore the 'When played from your Ringside pile' text on those cards.  Replace the 'Al Snow' text with 'Muhammad Hassan' on your Headstrong cards. Your Camel Clutch cards are Heat and -3F. You cannot pack Wrestlemania or Corners."/>
+		<property name="Card Text" value="Your Unique non-action cards are now Heat. When you successfully play a non-printed Heat Unique card from Ringside, overturn 4. When you have 10+ lower Fortitude, your Unique actions are antics instead. You can play printed Heat reversals from Hand as if played from Ringside, and ignore 'Can only be played...'; replace 'Al Snow' with 'Muhammad Hassan' on your Headstrong. Your Camel Clutch is Heat and -3F."/>
 	</card>
 <card id="3e8eefdc-8615-41ff-4fda-50d0366c9452" name="Managed by Daivari" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1043,10 +1045,10 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Muhammad Hassan"/>
-		<property name="Traits" value="Unique"/>
+		<property name="Traits" value="Unique, Permanent, Heat"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your Stay Away from Daivari cards cannot be reversed by hybrid cards. Your Manager Interferes are -2F for each Stay Away from Daivari card in your Ring."/>
+		<property name="Card Text" value="Cannot be blanked. When packing this card, your Baghdad, Iraq is Superstar-specific. When you Stay Away from Daivari is not in your Ring, your opponent cannot respond to it. When you Activate that card, RFG it. During your turn when you have 3 RFG Stay Away from Daivari, you may Arsenal/Ringside/Hand Search Open Your Eyes to the Truth and put in in your Ring; it is Permanent."/>
 	</card>
 <card id="60ba2904-2878-7299-754d-646ef97f061c" name="Hassan's Modified Camel Clutch">
 		<property name="Format" value="VirtualClassic"/>
@@ -1106,12 +1108,14 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Santino Marella"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns, you may discard 1 antic and then put up to 2 cards from your Ringside on the bottom of your Arsenal. Once during each of your turns, you may overturn 4 cards and then put 1 antic from your Ringside into your hand. You can pack non-maneuver cards as if you were a Diva, but you are not a Diva. You cannot pack Antics with 'Requirement: Lower Fortitude'."/>
+		<alternate name="Santino Marella" type="alt">
+		</alternate>
 	</card>
 <card id="e97cd971-017b-39b5-7a77-0aa8cf733a6b" name="Santino's Casa" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1121,7 +1125,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Santino Marella"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="All copies of cards under this card are also considered antics for your effects. Once during each of your turns, you may either: put 1 non-Unique non-Set-up non-antic card from your hand or Ringside face-up under this card OR ACE: randomly remove 1 card under this card from the game, and then put all cards under this card into your hand."/>
@@ -1184,7 +1188,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jack Swagger"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1199,7 +1203,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Jack Swagger"/>
-		<property name="Traits" value="Unique, Throwback, ACE"/>
+		<property name="Traits" value="Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. ACE: Once during each of your turns, you may discard 3 cards, and then look at your opponent's hand, choose 1 card, and he discards the chosen card. When this card is moved from your Ring, look at his hand, choose 1 card, and he discards the chosen card."/>
@@ -1212,7 +1216,7 @@ At the end of the Pre-match phase if you resolve your effects first, you may ins
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Jack Swagger"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Collegiate Champions is Permanent. ACE: Once during each of your turns, you may discard 2 Backlash cards, and your next Grapple or Throw maneuver played this turn is -8F and Multi; when you have no maneuvers in your Ring, it also cannot be reversed from hand by non-Unique reversals. When this card is moved from the Ring, put 1 Backlash card from your Ringside into your Backlash."/>
@@ -1265,7 +1269,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Vladimir Kozlov"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1343,12 +1347,14 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kofi Kingston"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Once during each of your turns, when your maneuver is unsuccessful, you may discard 1 card and overturn 2 cards, and your turn does not end; the next card you play this turn can only be a High Risk maneuver, but replace the 'after a successfully played' text on that High Risk with 'after an unsuccessfully played', and when that maneuver is successfully played and damage is resolved, end your turn. Your maneuvers are +1 Stun Value. You can pack High-Flying Style."/>
+		<property name="Card Text" value="Once during each of your turns, when your maneuver is unsuccessful, you may discard 1, overturn 2, and continue the turn. The next card you play this turn can only be a High Risk, it counts as played after your unsuccessful card as if it were successful; when that High Risk is successful, end the turn. Your maneuvers are +1 Stun. You can pack High-Flying Style."/>
+		<alternate name="Kofi Kingston" type="alt">
+		</alternate>
 	</card>
 <card id="350e0f9e-1553-6969-944e-f8f00b2aa021" name="S.O.S. I Hear Them Shouting" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1358,7 +1364,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Kofi Kingston"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card and your Awesome Pyro cards do not take up Pre-match slots in your Ring, and when you draw cards for Awesome Pyro, draw 1 additional card. ACE: During your turn, you may put this card into your Ringside, and then put your hand at the bottom of your Arsenal and draw the same number of cards +3; when your opponent reverses this effect, he discards 2 cards."/>
@@ -1371,7 +1377,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Kofi Kingston"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your opponent cannot respond to this card. Your Springboard cards cannot be reversed. ACE: Once during each of your turns, you may discard 1 card and then ignore the 'Can only be played...' text on your Springboard or From the Top Rope cards; when he reverses this effect, he discards 1 random card."/>
@@ -1410,7 +1416,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value="Kofi Kingston"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, this card is -4F and your opponent cannot respond to it. As a reversal, when played from your hand, completely reverse any non-Unique non-maneuver card. ACE: Once during each of your turns, you may discard 1 card and then search your Arsenal for Springboard or From the Top Rope, reveal it, put it into your hand, and shuffle. When he reverses this effect, he discards 2 cards."/>
@@ -1421,7 +1427,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="3"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Evan Bourne"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1449,7 +1455,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Evan Bourne"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. At the end of the Pre-match phase, you may put Human Highlight Reel from your Backlash into your Ring. Do not discard cards for Armageddon Is Upon Us. ACE: During each of your turns, you may remove up to 1 reversal and up to 1 Set-up card in your Ring from the game and then draw the same number of cards you removed."/>
@@ -1499,7 +1505,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Festus"/>
 		<property name="Traits" value="RMS"/>
 		<property name="Stun" value=""/>
@@ -1527,7 +1533,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Feud"/>
 		<property name="SS Logos" value="Festus"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. After all Pre-match have been resolved, search your Arsenal for 2 non-unique maneuvers, reveal them, put them in your hand, and shuffle. Before the Draw Segment of the first turn of the game, all players put cards from their hand on the bottom of their Arsenal for each Pre-match card in their Ring greater than 5. ACE: When your opponent reverses a maneuver, you may put this card into your Ringside to continue your turn."/>
@@ -1577,7 +1583,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Miz and Morrison"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1607,7 +1613,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Miz and Morrison, John Morrison"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card does not take up a Pre-match slot in your Ring. When your have lower Superstar Value, your Pre-match Capacity is +2; when you have equal or greater Superstar Value, your Starting Hand Size is +2. ACE: Once during each of your turns, you may remove the top 2 cards of your Arsenal from the game, and then draw 1 card and shuffle 1 card from your Ringside into your Arsenal."/>
@@ -1657,7 +1663,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Carlito and Primo Colon"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1698,7 +1704,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value="Carlito and Primo Colon, Carlito"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you are Carlito, this card is Fan Favorite and F: 0. Reverse any non-maneuver card and draw 1 card. ACE: During your turn when this card is in your Ring, you may remove it from the game and then reveal 1 Backstage Card. When you are Carlito, this effect cannot be reversed."/>
@@ -1735,7 +1741,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kaientai"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1750,7 +1756,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Object"/>
 		<property name="SS Logos" value="Kaientai, Funaki, Yokozuna"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. When you are a Tag Team, your Starting Hand Size is +2. At the end of Pre-match, when this card is in your Backlash, you may put it into your Ring. Before the Draw Segment of the first turn of the game, you may search your Arsenal for 1 non-Unique reversal, reveal it, put it in your hand, and shuffle. ACE: During your turn, you may put this card into your Ringside and then your next Multi maneuver played this turn requires 3 reversals instead of 2."/>
@@ -1813,12 +1819,14 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Beth Phoenix"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During your opponent's turn, when you completely reverse one of his cards, you may discard 1 card and search your Arsenal for 1 card of the same type as his card (when it was a maneuver, the same maneuver type), reveal it, put it in your hand, and shuffle. He is considered a Legend for A Phoenix Rising. You can pack non-Run-in Multi maneuvers and No Sell Maneuver, do not discard for that card when played against a female Superstar."/>
+		<alternate name="Beth Phoenix" type="alt">
+		</alternate>
 	</card>
 <card id="e9100b13-69a0-a3be-2b1d-75bfdae773c3" name="The Glamazon" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -1891,7 +1899,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Gail Kim"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1969,7 +1977,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Brie Bella"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -2047,7 +2055,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Nikki Bella"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -2062,7 +2070,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Bella Twins"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent has 2 or more copies of any card in his Ring, he must discard 2 cards to play a card with that title. ACE: During your turn when you are not a Tag Team, you may put this card into your Ringside and then play The Old Switcheroo."/>
@@ -2125,7 +2133,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="8"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The McMahon Dynasty"/>
 		<property name="Traits" value="Stable"/>
 		<property name="Stun" value=""/>
@@ -2140,7 +2148,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The McMahon Dynasty"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="ACE: Once during each of your turns, you may remove 1 Backlash card in your Ring with 'McMahon' in the title from the game, and then shuffle up to 4 cards from your Ringside and up to 1 card removed from the game into your Arsenal, draw up to 2 cards, and your opponent may overturn 4 cards. When he does not, you may instead put 1 card in his Ring into his Ringside."/>
@@ -2151,7 +2159,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="JeriShow"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -2177,7 +2185,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Nature Boy"/>
 		<property name="Traits" value="Legend, WCW"/>
 		<property name="Stun" value=""/>
@@ -2192,7 +2200,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Nature Boy"/>
-		<property name="Traits" value="Permanent, Unique, WCW, ACE"/>
+		<property name="Traits" value="Permanent, Unique, WCW"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="ACE: When you do not have a maneuver in your Ring and your maneuver is unsuccessfully played, you may discard 1 card and choose 1 non-Pre-match card in your opponent's Ring, and he puts the chosen card into his Ringside. When you move a maneuver from your Ring, put this card into your Ringside."/>
@@ -2203,7 +2211,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="1+"/>
 		<property name="SSV" value="4+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sheriff Austin"/>
 		<property name="Traits" value="GM"/>
 		<property name="Stun" value=""/>
@@ -2229,7 +2237,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Bella Twins"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -2244,7 +2252,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="The Bella Twins"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by The Bella Twins. This card does not take up a Pre-match slot in your Ring. ACE: Once during each of your turns, you may discard 1 card and then your next card played this turn is Multi. When your opponent reverses this Activated Card Effect, draw up to 2 cards."/>
@@ -2255,7 +2263,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kurt Angle"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2333,7 +2341,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Big Show"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2411,7 +2419,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Christian"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2489,7 +2497,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="William Regal"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2595,7 +2603,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Brothers of Destruction"/>
-		<property name="Traits" value="Permanent, RMS, Unique, ACE"/>
+		<property name="Traits" value="Permanent, RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="During your turn, when this card is in your Ringside, you may put it into your Ring or Backstage Area. When this card is in your Backstage Area, your Ability is blank. ACE: Before the Draw Segment of each of your turns, when this card is in your Ring or Backstage Area, you may overturn 2 cards and then put 1 card from your Ringside into your hand. When this card is in your Ring or Backstage Area, you have lower Fortitude, and your opponent's Fortitude Rating is 10+, your Brothers 'til the End is F: 0."/>
@@ -2621,10 +2629,10 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Al Snow"/>
-		<property name="Traits" value="ECW, Permanent, Unique, ACE"/>
+		<property name="Traits" value="ECW, Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Cannot be blanked. Your Al Snow-specific cards do not take up a Pre-match slot in your Ring, and your Al Snow-specific actions played from hand are Multi. At the end of the Pre-match phase, search your Arsenal and hand for What Does Everybody Want? and What Does Everybody Need?, shuffle, and you may immediately play them regardless of Fortitude. When Head is Permanent, it now reads 'During your Draw Segment, draw up to 1 additional card.' ACE: When your Fortitude Rating is 5- and your maneuver is unsuccessful, you may put that maneuver into your Ring and then remove the top # cards of your Arsenal from the game, where # is the maneuver's printed Damage."/>
+		<property name="Card Text" value="Cannot be blanked. Your Al Snow-specific cards do not take up Ring slots, and your Al Snow-specific actions played from Hand are Multi. At the end of the Pre-match phase, Arsenal Search What Does Everybody Want? and What Does Everybody Need?; you may play them immediately regardless of Fortitude. When Head is Permanent, it now reads 'During your Draw Segment, draw 1- more card.' ACE: When you have no Ring maneuvers and your maneuver is unsuccessful, you may put it into your Ring and then RFG your top # Arsenal cards (# = your card's printed Damage)."/>
 	</card>
 <card id="97b605d1-4940-9cd1-8c48-1bb6bd6b2df0" name="On Your Knees, Dog">
 		<property name="Format" value="VirtualClassic"/>
@@ -2673,7 +2681,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Storyline"/>
 		<property name="SS Logos" value="Rhyno"/>
-		<property name="Traits" value="ECW, Permanent, Unique, ACE"/>
+		<property name="Traits" value="ECW, Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. Cannot be played when Extreme Warfare is in your Ring; you cannot put that card into your Ring. ACE: Once during each of your turns, you may discard # cards, where # is the number of D: 2+ cards in your Ring +2; and then your opponent reveals his hand, choose 1 card, and he discards the chosen card. This effect cannot be reversed."/>
@@ -2780,7 +2788,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Traits" value="RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When packing this card, your Starting Hand Size is +5 and you can pack up to 7 additional Pre-match cards, but you cannot pack Enforcers or I'm Gonna Break You. Once during each of your turns, you may play a non-Set-up non-hybrid non-Unique non-Active Pre-match Event, and ignore the 'At the end of the Pre-match phase' text."/>
+		<property name="Card Text" value="'Packed: your Hand Size is +5 and you can pack 7- additional Pre-match, but you cannot pack Enforcers or I'm Gonna Break You. Do not discard for Armageddon Is Upon Us. Once during each of your turns, you may play a non-Set-up non-Hybrid non-Unique non-Active Pre-match Event, and ignore 'At the end of the Pre-match phase'."/>
 	</card>
 <card id="fcf0284c-2c78-321e-1fb7-3c11520b21a2" name="Too Big to Slow Down">
 		<property name="Format" value="VirtualClassic"/>
@@ -2868,7 +2876,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value="Mitch"/>
-		<property name="Traits" value="Unique, ACE"/>
+		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="ACE: Once during each of your turns, you may reveal your hand and when you have no action cards, you may search your Arsenal for 1 non-Unique non-Foreign Object action card, reveal it, put it in your hand, and shuffle. When this card is used for your Ability, put it on the bottom of your Arsenal instead."/>
@@ -2897,10 +2905,7 @@ Choose one: Put 1- Ringside Backlash cards into your Backlash, or draw 2- cards 
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can be played during any Pre-match Phase. Cannot be blanked.
-Your Superstar-specific Backlash cards do not take up Pre-match or Mid-match slots in your Ring; until the first turn of the game, your opponent's effects cannot move them from your Backlash or prevent them from being played.
-You can only play 1 Storyline card, and it adds to your Ability instead of replacing it.
-"/>
+		<property name="Card Text" value="Can be played during any Pre-match Phase. Cannot be blanked. Your Superstar-specific Backlash cards do not take up Pre-match or Mid-match slots in your Ring; until the first turn of the game, your opponent's effects cannot move them from your Backlash or prevent them from being played. You can only play 1 Storyline card, and it adds to your Ability instead of replacing it."/>
 	</card>
 <card id="12c06c5a-0720-38b9-3b24-8b7793d510ac" name="Bret's Trademark Sunglasses">
 		<property name="Format" value="VirtualClassic"/>
@@ -2926,10 +2931,7 @@ You can only play 1 Storyline card, and it adds to your Ability instead of repla
 		<property name="Traits" value="Foreign Object, Unique, Multi"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When you are Owen Hart, this card is -10F.
-RFG your top 2 Arsenal cards and draw 3- cards.
-When this card is in your Ring, before your Draw Segment, you may look at your top 3 Arsenal cards, RFG 1 of them and Bury 1 of them.
-"/>
+		<property name="Card Text" value="When you are Owen Hart, this card is -10F. RFG your top 2 Arsenal cards and draw 3- cards. When this card is in your Ring, before your Draw Segment, you may look at your top 3 Arsenal cards, RFG 1 of them and Bury 1 of them."/>
 		<alternate name="Two-time Slammy Winner" type="alt">
 	</alternate>
 	</card>
@@ -2970,10 +2972,7 @@ When this card is in your Ring, before your Draw Segment, you may look at your t
 		<property name="Traits" value="Permanent, RMS, Throwback, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Reverse any non-unique Hand maneuver, Arsenal Search 4- ‘Maintain’ cards and RFG them, then draw the same number of cards.
-Your ‘Maintain’ cards cannot be moved from RFG.
-Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
-"/>
+		<property name="Card Text" value="Reverse any non-unique Hand maneuver, Arsenal Search 4- ‘Maintain’ cards and RFG them, then draw the same number of cards. Your ‘Maintain’ cards cannot be moved from RFG. Your Unbreakable is F: 0 and can only be reversed by Unique reversals."/>
 	</card>
 <card id="fdeca0ba-4fd3-5e51-7165-dc2c1d145db0" name="Green Bay, Wisconsin" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -2983,7 +2982,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Venue"/>
 		<property name="SS Logos" value="The Future of Sports Entertainment, Ken Kennedy"/>
-		<property name="Traits" value="Permanent, Universally Active, ACE"/>
+		<property name="Traits" value="Permanent, Universally Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your Ability is not blank, your Ken Kennedy-specific actions are -4F and when you Activate Mr. Kennedy's Mic, you may also search your Arsenal for 1 non-unique card and put it in your hand. During your turn when Mr. Kennedy's Mic is in your Ringside and your Fortitude Rating is 20 or more, ACE: you may remove that card and this card from the game and when your next card played this turn is The Green Bay Plunge, your Fortitude is considered to be +20F until that card is resolved."/>
@@ -2996,7 +2995,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="CM Punk"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you play a Multi Double Underhook Back Breaker and you do not have a card with that title in your Ring, it requires 3 reversals to be reversed instead of 2, and ignore 'completely' on your opponent's reversal cards and effects to it. ACE: When he plays a maneuver, you may overturn 5 cards and then ignore all modifications to that card from his cards and his card effects until the end of the turn."/>
@@ -3034,7 +3033,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
-		<property name="SS Logos" value="NAO, Road Dogg, B.A.Billy Gunn, Chyna, X-Pac, Triple H"/>
+		<property name="SS Logos" value="New Age Outlaws, Road Dogg, Billy Gunn, Chyna, X-Pac, Triple H"/>
 		<property name="Traits" value="Run-in, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -3152,7 +3151,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Godfather"/>
-		<property name="Traits" value="Permanent, Unique, ACE"/>
+		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. During your turn when you use your Ability, you may put up to # cards from your hand under this card, where # is equal to the number of Action: Run-in cards in your Ring +1, and return those cards to your hand after you draw for your Ability. ACE: Once during each of your turns, you may discard 2 cards to search your Arsenal for 1 Run-in with a female's name in the title, reveal it, put it in your hand, and shuffle."/>
@@ -3269,7 +3268,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value="Brain Busters"/>
-		<property name="Traits" value="RMS, Unique, ACE"/>
+		<property name="Traits" value="RMS, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="ACE: Once during each of your turns, you may have your opponent reveal 2 random cards in his hand, then either choose 1 card from your hand, shuffle it into your Arsenal, and draw 1 card; or choose 1 of the revealed cards, and he shuffles that card into his Arsenal and draws 1 card. When this card is in your Ringside, you may discard 3 cards to put it into your Backlash."/>
@@ -3282,7 +3281,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value="Babe of the Year, Eugene, The Phenom, Randy Orton, Shane O'Mac, Shelton Benjamin, JBL, Rene Dupree"/>
-		<property name="Traits" value="Unique, Throwback, ACE"/>
+		<property name="Traits" value="Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="After all Pre-match have been resolved, all players with more cards in their hand than their printed Starting Hand Size discard cards until they have cards in their hand equal to their printed Starting Hand Size. ACE: You may put this card into your Ringside to reverse any Chain, Heat, or Volley card."/>
@@ -3294,7 +3293,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
-		<property name="SS Logos" value="Batista, Christy, Snitsky, Heidenreich, The Leader of the Peepulation, MNM, Rowdy Roddy Piper, Theodore Long, The HurriFriends, The Immortal One"/>
+		<property name="SS Logos" value="Batista, Christy, Snitsky, Heidenreich, Leader of the Peepulation, MNM, Rowdy Roddy Piper, Theodore Long, The HurriFriends, The Immortal One"/>
 		<property name="Traits" value="Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -3360,7 +3359,7 @@ Your Unbreakable is F: 0 and can only be reversed by Unique reversals.
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Unique, Throwback, ACE"/>
+		<property name="Traits" value="Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by a Legend. Your Pre-match Capacity is +1. ACE: During your turn or when you are about to lose the game via Pinfall victory, you may put this card into your Ringside, shuffle up to 8 cards from your Ringside into your Arsenal, and end the current turn."/>

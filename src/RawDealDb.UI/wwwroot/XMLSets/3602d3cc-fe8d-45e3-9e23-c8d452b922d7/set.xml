@@ -502,7 +502,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Shield"/>
 		<property name="Traits" value="Tag Team, Stable"/>
 		<property name="Stun" value=""/>
@@ -632,7 +632,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Wyatt Family"/>
 		<property name="Traits" value="Tag Team, Stable"/>
 		<property name="Stun" value=""/>
@@ -762,7 +762,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Cesaro"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -892,7 +892,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Ryback"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1022,7 +1022,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Goldberg"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1152,7 +1152,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Matt Hardy"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1282,7 +1282,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="9"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hulk Hogan"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -1412,7 +1412,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="8"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Andre the Giant"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -1542,7 +1542,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="7"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Ultimate Warrior"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -1672,7 +1672,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rowdy Roddy Piper"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -1802,7 +1802,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="9"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="DX"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1841,7 +1841,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="7"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Brothers of Destruction"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1880,7 +1880,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hardy Boyz"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1919,7 +1919,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="JeriShow"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1958,7 +1958,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Raven"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -2036,7 +2036,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tazz"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -2114,7 +2114,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rhyno"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -2192,7 +2192,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tajiri"/>
 		<property name="Traits" value="ECW, Extremist"/>
 		<property name="Stun" value=""/>
@@ -2270,7 +2270,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Dudley Boyz"/>
 		<property name="Traits" value="ECW, Extremist, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -2348,7 +2348,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="bWo"/>
 		<property name="Traits" value="ECW, Extremist, Tag Team"/>
 		<property name="Stun" value=""/>

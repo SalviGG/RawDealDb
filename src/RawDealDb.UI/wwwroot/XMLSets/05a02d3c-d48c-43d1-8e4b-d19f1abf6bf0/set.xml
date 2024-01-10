@@ -10,7 +10,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="7"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Two-Man Power Trip"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -88,7 +88,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Brothers of Destruction"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>

@@ -1906,7 +1906,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Ric Flair"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2036,7 +2036,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Shawn Michaels"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2166,7 +2166,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="8"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Stone Cold Steve Austin"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2296,7 +2296,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Great Khali"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2426,7 +2426,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Umaga"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2556,7 +2556,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="7"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Undertaker"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>

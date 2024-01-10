@@ -8,14 +8,13 @@
         <property name="Damage" value=""/>
         <property name="Hand Size" value="9"/>
         <property name="SSV" value="1"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Akeem"/>
-        <property name="Traits" value="WWF"/>
+        <property name="Traits" value="WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="WWF Superstar Ability: Your Charismatic Style and So Much Larger Than Life are not Face or Fan Favorite, ignore 'Fan Favorite' in their text, and your opponent cannot respond to them.
-When you have lower Fortitude, and your maneuver without a printed reversal restriction is unsuccessful, he reveals his hand, and he may then RFG a Hand reversal. If he does, RFG your reversed maneuver, if he does not, you may put the reversed maneuver into your hand. You can pack As Big and Tough as Any Two Men (replace 'Kane' with 'Akeem' in its text). You cannot pack non-'Splash' High Risks."/>
-<alternate name="Akeem" type="alt">
+        <property name="Card Text" value="Your Charismatic Style and So Much Larger Than Life are not Face or Fan Favorite, ignore 'Fan Favorite' in their text, and your opponent cannot respond to them. When you have lower Fortitude, and your maneuver without a printed reversal restriction is unsuccessful, he reveals his hand, and he may then RFG a Hand reversal. If he does, RFG your reversed maneuver, if he does not, you may put the reversed maneuver into your hand. You can pack As Big and Tough as Any Two Men (replace 'Kane' with 'Akeem' in its text). You cannot pack non-'Splash' High Risks."/>
+	<alternate name="Akeem" type="alt">
 	</alternate>
 </card>
 <card id="1d9c9b72-02fa-4880-8905-32d1a395c134" name="One Man Gang">
@@ -26,11 +25,10 @@ When you have lower Fortitude, and your maneuver without a printed reversal rest
         <property name="SSV" value=""/>
         <property name="CardType" value="Backstage Card"/>
         <property name="SS Logos" value="Akeem"/>
-        <property name="Traits" value="Unique, RMS, WWF"/>
+        <property name="Traits" value="Unique, RMS, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When packing this card, you can pack Backed by Gary Hart, and your 'Chain' cards are not Heel, but you cannot pack So Much Larger Than Life or Charismatic Style.
-Your maneuvers are +#D, and your opponent's maneuvers are -#D, where # is equal to the played maneuver's Stun Value, and their non-Superstar-specific reversals deal no damage. When their maneuver would apply more than its printed damage, first shuffle 2- Ringside cards into your Arsenal."/>
+        <property name="Card Text" value="When packing this card, you can pack Backed by Gary Hart, and your 'Chain' cards are not Heel, but you cannot pack So Much Larger Than Life or Charismatic Style. Your maneuvers are +#D, and your opponent's maneuvers are -#D, where # is equal to the played maneuver's Stun Value, and their non-Superstar-specific reversals deal no damage. When their maneuver would apply more than its printed damage, first shuffle 2- Ringside cards into your Arsenal."/>
 </card>
 <card id="2fbad03b-c8cc-48d3-9ec1-709569faf861" name="Managed by Slick" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -40,13 +38,11 @@ Your maneuvers are +#D, and your opponent's maneuvers are -#D, where # is equal 
         <property name="SSV" value=""/>
         <property name="CardType" value="Pre-match Manager"/>
         <property name="SS Logos" value="Akeem, Kamala"/>
-        <property name="Traits" value="Unique, Permanent, WWF, ACE"/>
+        <property name="Traits" value="Unique, Permanent, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Cannot be blanked.
-When packing this card, your You're a Jive Soul Bro! is not Heel or Cheater, and when that card is played, double all numbers in its text.
-ACE: During your turn, you may RFG this card and then Arsenal Search 1 'Classic' card (when you are Akeem, you may Arsenal Search 1 non-Unique non-Hybrid maneuver with printed Stun Value instead). This effect cannot be reversed."/>
-<alternate name="Managed by Slick" type="alt" size="Wide">
+        <property name="Card Text" value="Cannot be blanked. When packing this card, your You're a Jive Soul Bro! is not Heel or Cheater, and when that card is played, double all numbers in its text. ACE: During your turn, you may RFG this card and then Arsenal Search 1 'Classic' card (when you are Akeem, you may Arsenal Search 1 non-Unique non-Hybrid maneuver with printed Stun Value instead). This effect cannot be reversed."/>
+	<alternate name="Managed by Slick" type="alt" size="Wide">
 	</alternate>	
 </card>
 <card id="9a1e900a-3eaf-4a71-98bd-4a042bee880d" name="747 Splash">
@@ -57,13 +53,10 @@ ACE: During your turn, you may RFG this card and then Arsenal Search 1 'Classic'
         <property name="SSV" value=""/>
         <property name="CardType" value="Trademark Finisher + Trademark Finisher"/>
         <property name="SS Logos" value="Akeem"/>
-        <property name="Traits" value="Unique, Multi, RMS, WWF"/>
+        <property name="Traits" value="Unique, Multi, RMS, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="This card is -1F for each Stun Value in your Ring.
-Can only be played as a Counter (maneuver with Stun Value) or when you have 10+ Stun Value in your Ring.
-Your opponent must either overturn 7 cards (this cannot be reversed), discard 4 cards, or RFG 7 of his Ringside cards to be able to reverse this card.
-During your turn when this card is in your Hand or Ringside, you may reveal this card, Bury it, and when you have 10+ lower Fortitude, your opponent cannot play reversals to your next non-Run-in printed F: 0 maneuver with Stun Value played this turn."/>
+        <property name="Card Text" value="This card is -1F for each Stun Value in your Ring. Can only be played as a Counter (maneuver with Stun Value) or when you have 10+ Stun Value in your Ring. Your opponent must either overturn 7 cards (this cannot be reversed), discard 4 cards, or RFG 7 of his Ringside cards to be able to reverse this card. During your turn when this card is in your Hand or Ringside, you may reveal this card, Bury it, and when you have 10+ lower Fortitude, your opponent cannot play reversals to your next non-Run-in printed F: 0 maneuver with Stun Value played this turn."/>
 </card>
 <card id="11c66577-d8e1-45f4-bc87-9f7bf6e2454e" name="Kamala">
         <property name="Format" value="VirtualClassic"/>
@@ -71,13 +64,13 @@ During your turn when this card is in your Hand or Ringside, you may reveal this
         <property name="Damage" value=""/>
         <property name="Hand Size" value="10"/>
         <property name="SSV" value="2"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Kamala"/>
-        <property name="Traits" value="WWF"/>
+        <property name="Traits" value="WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="WWF Superstar Ability: Your 'Chop', 'Thrust', 'Choke', 'Splash', and 'Head' maneuvers are considered to have 'Classic' in the title, are not Cheater or Fan Favorite, and when they are unsuccessful, your opponent overturns 3 cards. Overturn 3 fewer cards for your Over Sell Maneuver. You can pack Face-Painted Fury, As Big and Tough as Any Two Men and No Sell Maneuver, but you may not pack non-Hybrid actions. Your Thrust Knee Lift is blank."/>
-<alternate name="Kamala" type="alt">
+        <property name="Card Text" value="Your 'Chop', 'Thrust', 'Choke', 'Splash', and 'Head' maneuvers are considered to have 'Classic' in the title, are not Cheater or Fan Favorite, and when they are unsuccessful, your opponent overturns 3 cards. Overturn 3 fewer cards for your Over Sell Maneuver. You can pack Face-Painted Fury, As Big and Tough as Any Two Men and No Sell Maneuver, but you may not pack non-Hybrid actions. Your Thrust Knee Lift is blank."/>
+	<alternate name="Kamala" type="alt">
 	</alternate>
 </card>
 <card id="27b233c6-8838-4ff9-adf9-30288d53f579" name="The Ugandan Giant" size="Wide">
@@ -86,14 +79,12 @@ During your turn when this card is in your Hand or Ringside, you may reveal this
         <property name="Damage" value="0"/>
         <property name="Hand Size" value=""/>
         <property name="SSV" value=""/>
-        <property name="CardType" value="Mid-Match Action / Reversal: non-Trademark Finisher maneuver"/>
+        <property name="CardType" value="Mid-match Action / Reversal: non-Trademark Finisher maneuver"/>
         <property name="SS Logos" value="Kamala"/>
-        <property name="Traits" value="Unique, Permanent, RMS, WWF"/>
+        <property name="Traits" value="Unique, Permanent, RMS, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="As an action, put 1 maneuver in your opponent's Ring face-up under this card.
-As a reversal, put the reversed card face-up under this card instead of any other location.
-Your opponent's maneuvers of the same type as a card under this card do a maximum of 5D. During his turn, he may discard 3 cards to put this card into your Ringside, and all cards under this card into his Ringside."/>
+        <property name="Card Text" value="As an action, put 1 maneuver in your opponent's Ring face-up under this card. As a reversal, put the reversed card face-up under this card instead of any other location. Your opponent's maneuvers of the same type as a card under this card do a maximum of 5D. During his turn, he may discard 3 cards to put this card into your Ringside, and all cards under this card into his Ringside."/>
 </card>
 <card id="4a0b2b87-2ba9-49f5-9c04-cecac13f44fb" name="Air Africa">
         <property name="Format" value="VirtualClassic"/>
@@ -103,11 +94,10 @@ Your opponent's maneuvers of the same type as a card under this card do a maximu
         <property name="SSV" value=""/>
         <property name="CardType" value="Trademark Finisher"/>
         <property name="SS Logos" value="Kamala"/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Can only be played after a successful maneuver or as a Counter.
-When played after a maneuver, cannot be reversed, and the damage of this card cannot be reduced."/>
+        <property name="Card Text" value="Can only be played after a successful maneuver or as a Counter. When played after a maneuver, cannot be reversed, and the damage of this card cannot be reduced."/>
 </card>
 <card id="dfed2f52-4c8d-458d-b536-1147f973aaf0" name="Ugandan Belly Slaps">
         <property name="Format" value="VirtualClassic"/>
@@ -117,12 +107,10 @@ When played after a maneuver, cannot be reversed, and the damage of this card ca
         <property name="SSV" value=""/>
         <property name="CardType" value="Action + Action"/>
         <property name="SS Logos" value="Kamala"/>
-        <property name="Traits" value="Unique, Multi, WWF"/>
+        <property name="Traits" value="Unique, Multi, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Cannot be reversed when played after a 'Classic' maneuver.
-Put 1- Ringside Backlash cards into your Backlash, and 1- Ringside cards into your hand.
-When this card is in your Ring or Ringside and your maneuver is successful, you may Bury this card."/>
+        <property name="Card Text" value="Cannot be reversed when played after a 'Classic' maneuver. Put 1- Ringside Backlash cards into your Backlash, and 1- Ringside cards into your hand. When this card is in your Ring or Ringside and your maneuver is successful, you may Bury this card."/>
 </card>
 <card id="1dfec56c-9893-453b-bc3a-939635c6e273" name="Joe Gacy">
         <property name="Format" value="VirtualClassic"/>
@@ -130,13 +118,13 @@ When this card is in your Ring or Ringside and your maneuver is successful, you 
         <property name="Damage" value=""/>
         <property name="Hand Size" value="2"/>
         <property name="SSV" value="0"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Joe Gacy"/>
         <property name="Traits" value="NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="NXT Superstar Ability: Once during each of your turns you may Bury 2 Hand cards, if you do and you have lower Fortitude, both players' Fortitude Ratings are considered to be half the combined total Damage in all Rings (rounded up) until the start of your next turn; when you have greater Fortitude, Flip 1 non-maneuver card in their Ring face-down, and Flip it face-up before your next Draw Segment. You cannot win the game via victory condition from your effect. You can pack Hug It Out! and throwback Do You Want a Hug?."/>
-<alternate name="Joe Gacy" type="alt">
+        <property name="Card Text" value="Once during each of your turns you may Bury 2 Hand cards, if you do and you have lower Fortitude, both players' Fortitude Ratings are considered to be half the combined total Damage in all Rings (rounded up) until the start of your next turn; when you have greater Fortitude, Flip 1 non-maneuver card in their Ring face-down, and Flip it face-up before your next Draw Segment. You cannot win the game via victory condition from your effect. You can pack Hug It Out! and throwback Do You Want a Hug?."/>
+	<alternate name="Joe Gacy" type="alt">
 	</alternate>
 </card>
 <card id="624945ef-b8db-4adf-a384-57ebf59d2461" name="Any Conflict Can Be Resolved Using Words">
@@ -150,9 +138,7 @@ When this card is in your Ring or Ringside and your maneuver is successful, you 
         <property name="Traits" value="Unique, RMS, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="*Reveal this card when you play A Safe Space.*
-Your opponent cannot play Backlash reversals to your first printed non-maneuver played from hand each turn.
-When you play a maneuver, you may discard 2 cards. If you do, that maneuver is now an action instead until it becomes successful or unsuccessful."/>
+        <property name="Card Text" value="*Reveal this card when you play A Safe Space. Your opponent cannot play Backlash reversals to your first printed non-maneuver played from hand each turn. When you play a maneuver, you may discard 2 cards. If you do, that maneuver is now an action instead until it becomes successful or unsuccessful."/>
 </card>
 <card id="94e8ee36-d6c9-4659-bd52-9cb94c7b6e65" name="All-Inclusive Invitational" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -165,10 +151,7 @@ When you play a maneuver, you may discard 2 cards. If you do, that maneuver is n
         <property name="Traits" value="Unique, Permament, RMS, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Your opponent cannot prevent you from playing this card, and can be played during the Event phase.
-No Superstar is considered Male or Female.
-Once per turn, when you have fewer Hand cards, and your opponent draws any number of cards, you may draw 1 card or Bury 1 Ringside card.
-At the end of all Pre-match phases, before the first turn of the game, choose 1: The player with the fewest Hand cards draws until they have the same number as their opponent, or all players shuffle their hands into their Arsenal and draw the same number they shuffled in. Your opponent cannot prevent these effects and draws 2 fewer cards."/>
+        <property name="Card Text" value="Your opponent cannot prevent you from playing this card, and can be played during the Event phase. No Superstar is considered Male or Female. Once per turn, when you have fewer Hand cards, and your opponent draws any number of cards, you may draw 1 card or Bury 1 Ringside card. At the end of all Pre-match phases, before the first turn of the game, choose 1: The player with the fewest Hand cards draws until they have the same number as their opponent, or all players shuffle their hands into their Arsenal and draw the same number they shuffled in. Your opponent cannot prevent these effects and draws 2 fewer cards."/>
 </card>
 <card id="f80298aa-80a6-458d-a0a5-8fd1b16ff017" name="A Safe Space" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -181,10 +164,7 @@ At the end of all Pre-match phases, before the first turn of the game, choose 1:
         <property name="Traits" value="Unique, Permanent, RMS, NXT"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Can be played during the Venue phase. All players may draw 1 card.
-When any player plays a maneuver with a reversal restriction from a card effect, their opponent may discard 1 card to ignore the reversal restriction.
-No player can blank their opponent's card's text (except by 'Shenanigans' Backstage cards), or prevent them from playing actions. No player overturns more than 1 card per turn for their opponent's non-Superstar-specific non-damage card effects.
-When any player would discard for their opponent's card effect, they may discard 1 card from the same area instead."/>
+        <property name="Card Text" value="Can be played during the Venue phase. All players may draw 1 card. When any player plays a maneuver with a reversal restriction from a card effect, their opponent may discard 1 card to ignore the reversal restriction. No player can blank their opponent's card's text (except by 'Shenanigans' Backstage cards), or prevent them from playing actions. No player overturns more than 1 card per turn for their opponent's non-Superstar-specific non-damage card effects. When any player would discard for their opponent's card effect, they may discard 1 card from the same area instead."/>
 </card>
 <card id="aa4bc9ad-8e0e-44b6-b5f7-79dc0ba98308" name="The American Nightmare">
         <property name="Format" value="VirtualClassic"/>
@@ -192,15 +172,13 @@ When any player would discard for their opponent's card effect, they may discard
         <property name="Damage" value=""/>
         <property name="Hand Size" value="4"/>
         <property name="SSV" value="4"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="The American Nightmare"/>
         <property name="Traits" value=""/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Superstar Ability: Once during each of your turns, you may discard 1 card and then you are considered to have +5F for your next maneuver played this turn and you may Promo: 3.
-Your Bionic Elbow and Figure Four Leg Lock cards are Superstar-specific, gain the Cody Rhodes logo, and after their damage is applied, end your turn.
-You can pack non-'Mask' Cody Rhodes maneuvers and Rhodes Family Values."/>
-<alternate name="The American Nightmare" type="alt">
+        <property name="Card Text" value="Once during each of your turns, you may discard 1 card and then you are considered to have +5F for your next maneuver played this turn and you may Promo: 3. Your Bionic Elbow and Figure Four Leg Lock cards are Superstar-specific, gain the Cody Rhodes logo, and after their damage is applied, end your turn. You can pack non-'Mask' Cody Rhodes maneuvers and Rhodes Family Values."/>
+	<alternate name="The American Nightmare" type="alt">
 	</alternate>
 </card>
 <card id="be532115-1ce4-4de3-9e99-78752aa7101a" name="I Built My Kingdom">
@@ -214,9 +192,7 @@ You can pack non-'Mask' Cody Rhodes maneuvers and Rhodes Family Values."/>
         <property name="Traits" value="Unique, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="When you would discard for your opponent's effects before the first turn of the game, you may Promo: # instead (# = cards to be discarded).
-When his maneuver is unsuccessful, you may choose a word of 4+ letters and then discard 1 card or RFG 1 Ringside card. If the discarded / RFG card has the chosen word in its title, Arsenal Search 1 non-Unique maneuver with that word in its title.
-When your maneuver is successful, Bury 1 random RFG or Ringside card."/>
+        <property name="Card Text" value="When you would discard for your opponent's effects before the first turn of the game, you may Promo: # instead (# = cards to be discarded). When his maneuver is unsuccessful, you may choose a word of 4+ letters and then discard 1 card or RFG 1 Ringside card. If the discarded / RFG card has the chosen word in its title, Arsenal Search 1 non-Unique maneuver with that word in its title. When your maneuver is successful, Bury 1 random RFG or Ringside card."/>
 </card>
 <card id="86fc8f4c-daac-41cf-afbd-f2e9b55a6603" name="Adrenaline In My Soul" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -229,9 +205,7 @@ When your maneuver is successful, Bury 1 random RFG or Ringside card."/>
         <property name="Traits" value="Unique, Permanent"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Can be played during any phase and from Ringside. Cannot be Blanked.
-At the end of the Pre-match phase, draw 6- cards, put 4- Hand cards under this card, discard 2 cards, and Bury 2- Ringside cards.
-When you Promo, you may reveal the chosen card. When you do: when it is a reversal, put 1- cards under this card in your hand; when it is a non-Chain maneuver and it is your next card played this turn, and your opponent has 5+ Hand cards, he must Bury 2 Hand cards to play reversals to it."/>
+        <property name="Card Text" value="Can be played during any phase and from Ringside. Cannot be Blanked. At the end of the Pre-match phase, draw 6- cards, put 4- Hand cards under this card, discard 2 cards, and Bury 2- Ringside cards. When you Promo, you may reveal the chosen card. When you do: when it is a reversal, put 1- cards under this card in your hand; when it is a non-Chain maneuver and it is your next card played this turn, and your opponent has 5+ Hand cards, he must Bury 2 Hand cards to play reversals to it."/>
 </card>
 <card id="c1c20b32-dae5-41ef-a1d7-af160be5a808" name="Wrestling Has More Than One Royal Family" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -244,9 +218,7 @@ When you Promo, you may reveal the chosen card. When you do: when it is a revers
         <property name="Traits" value="Unique, Permanent, RMS"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Can be played during any phase and from Ringside. Your The American Nightmare-specific cards do not take up Ring slots.
-Double the numbers on your Rhodes Family Values, and replace a Superstar on your Superstar-specific maneuvers with 'The American Nightmare'.
-When played as a Counter, you may ignore the 'Can only be played after...' text on your Superstar-specific cards, and they are Chain."/>
+        <property name="Card Text" value="Can be played during any phase and from Ringside. Your The American Nightmare-specific cards do not take up Ring slots. Double the numbers on your Rhodes Family Values, and replace a Superstar on your Superstar-specific maneuvers with 'The American Nightmare'. When played as a Counter, you may ignore the 'Can only be played after...' text on your Superstar-specific cards, and they are Chain."/>
 </card>
 <card id="d170d50e-364a-4ce1-83a8-fdd33f633720" name="Bruno Sammartino">
         <property name="Format" value="VirtualClassic"/>
@@ -254,13 +226,13 @@ When played as a Counter, you may ignore the 'Can only be played after...' text 
         <property name="Damage" value=""/>
         <property name="Hand Size" value="6"/>
         <property name="SSV" value="7"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="Bruno Sammartino"/>
-        <property name="Traits" value="Legend, WWF, Face"/>
+        <property name="Traits" value="Legend, Face, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Face WWF Superstar Ability: You cannot pack Wrestlemania, or High Risks, but you can pack 1 copy of non-High Risk maneuvers listed on Back to Basics in your Backstage. Shuffle those cards into your Arsenal. Your Maintain Hold is F:0. Your 'Classic' maneuvers are Superstar-specific. You may not pack 'Panic' maneuvers. You are a Legend."/>
-<alternate name="Bruno Sammartino" type="alt">
+        <property name="Card Text" value="You cannot pack Wrestlemania, or High Risks, but you can pack 1 copy of non-High Risk maneuvers listed on Back to Basics in your Backstage. Shuffle those cards into your Arsenal. Your Maintain Hold is F:0. Your 'Classic' maneuvers are Superstar-specific. You may not pack 'Panic' maneuvers. You are a Legend."/>
+	<alternate name="Bruno Sammartino" type="alt">
 	</alternate>		
 </card>
 <card id="ad28f844-bfa1-4577-9650-a737ddd88b4f" name="The Italian Strongman">
@@ -271,13 +243,12 @@ When played as a Counter, you may ignore the 'Can only be played after...' text 
         <property name="SSV" value=""/>
         <property name="CardType" value="Backstage Card"/>
         <property name="SS Logos" value="Bruno Sammartino"/>
-        <property name="Traits" value="Unique, RMS, WWF"/>
+        <property name="Traits" value="Unique, RMS, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Bury any maneuvers overturned for your opponent's non-damage card effects or reversal damage.
-When your Submission without a printed reversal restriction is successful, You may Arsenal Search 1 Maintain Hold. If you do, your maneuver is reduced to D:0 until the end of the turn."/>
+        <property name="Card Text" value="Bury any maneuvers overturned for your opponent's non-damage card effects or reversal damage. When your Submission without a printed reversal restriction is successful, You may Arsenal Search 1 Maintain Hold. If you do, your maneuver is reduced to D:0 until the end of the turn."/>
 </card>
-<card id="2350bb49-eac5-4c9c-879a-d45cbf29821a" name="Hammerlock - Throwback">
+<card id="2350bb49-eac5-4c9c-879a-d45cbf29821a" name="Hammerlock">
         <property name="Format" value="VirtualClassic"/>
         <property name="Fortitude" value="1"/>
         <property name="Damage" value="5"/>
@@ -285,7 +256,7 @@ When your Submission without a printed reversal restriction is successful, You m
         <property name="SSV" value=""/>
         <property name="CardType" value="Submission"/>
         <property name="SS Logos" value="Bruno Sammartino"/>
-        <property name="Traits" value="Unique, Throwback, WWF"/>
+        <property name="Traits" value="Unique, Throwback, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Once during each of your turns, you may choose 1: when this card is in your Ringside, discard 2 cards and then put this card into your Hand; when this card is RFG, shuffle it into your Arsenal; OR ACE: when this card is in your Ring, RFG 2 Ringside cards and then put this card into your Ringside."/>
@@ -298,7 +269,7 @@ When your Submission without a printed reversal restriction is successful, You m
         <property name="SSV" value=""/>
         <property name="CardType" value="Trademark Finisher"/>
         <property name="SS Logos" value="Bruno Sammartino"/>
-        <property name="Traits" value="Unique, WWF"/>
+        <property name="Traits" value="Unique, WWF Classic"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
         <property name="Card Text" value="Cannot be reversed from Arsenal."/>
@@ -309,14 +280,13 @@ When your Submission without a printed reversal restriction is successful, You m
         <property name="Damage" value=""/>
         <property name="Hand Size" value="7"/>
         <property name="SSV" value="4"/>
-        <property name="CardType" value="Superstar"/>
+        <property name="CardType" value="Superstar Card"/>
         <property name="SS Logos" value="The Great Muta"/>
         <property name="Traits" value="Legend, WCW"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="WCW Legend Superstar Ability: Your opponent must discard # cards (Max. 3) in order to play non-Backlash reversals to your maneuver without a reversal restriction from your effect, where # = your number of Ring cards with the same title as your maneuver +1 (when it is a 'Moonsault' maneuver, Ring and Ringside +1).
-You can pack 5- Superstar-specific 'Moonsault' maneuvers regardless of Superstar logo in your Backstage (shuffle those cards into your Arsenal), Japanese Flag, High-Flying Style, and Roundhouse Kick when packing Smackdown or BASH cards. You cannot pack Man of 1000 Holds."/>
-<alternate name="The Great Muta" type="alt">
+        <property name="Card Text" value="WCW Legend Superstar Ability: Your opponent must discard # cards (Max. 3) in order to play non-Backlash reversals to your maneuver without a reversal restriction from your effect, where # = your number of Ring cards with the same title as your maneuver +1 (when it is a 'Moonsault' maneuver, Ring and Ringside +1). You can pack 5- Superstar-specific 'Moonsault' maneuvers regardless of Superstar logo in your Backstage (shuffle those cards into your Arsenal), Japanese Flag, High-Flying Style, and Roundhouse Kick when packing Smackdown or BASH cards. You cannot pack Man of 1000 Holds."/>
+	<alternate name="The Great Muta" type="alt">
 	</alternate>		
 </card>
 <card id="66d63806-e639-44f3-b54a-d5208833b4dd" name="Backed by Gary Hart">
@@ -330,10 +300,7 @@ You can pack 5- Superstar-specific 'Moonsault' maneuvers regardless of Superstar
         <property name="Traits" value="Unique, Permanent, RMS, WCW"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Your Pre-Match and Mid-Match Capacity are +2.
-Your Heel cards ignore Fortitude modifications from your opponent.
-At the end of the Pre-match phase, Arsenal Search 1 non-Unique maneuver.
-You may put this card from your Backstage into your Ring to reverse a non-Superstar-specific non-maneuver card."/>
+        <property name="Card Text" value="Your Pre-Match and Mid-Match Capacity are +2. Your Heel cards ignore Fortitude modifications from your opponent. At the end of the Pre-match phase, Arsenal Search 1 non-Unique maneuver. You may put this card from your Backstage into your Ring to reverse a non-Superstar-specific non-maneuver card."/>
 </card>
 <card id="a208b5aa-68a6-4292-8016-72057bd0a23b" name="From the Land of the Rising Sun" size="Wide">
         <property name="Format" value="VirtualClassic"/>
@@ -346,10 +313,7 @@ You may put this card from your Backstage into your Ring to reverse a non-Supers
         <property name="Traits" value="Unique, Permanent, WCW"/>
         <property name="Stun" value=""/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Cannot be blanked. Can be played during the Venue phase.
-Ignore 'can only be played...' in the text of your non-Superstar-specific 'Moonsault' maneuvers played as a Counter, your maneuvers are considered Raw for Roundhouse Kick, and your Knee Lift is Multi.
-Your Strikes are also considered High Risks for your non-Foreign Object effects.
-This card is also considered to be titled Drop Kick, Spinning Heel Kick, Knee Lift, Roundhouse Kick, and Leg Sweep for your effects."/>
+        <property name="Card Text" value="Cannot be blanked. Can be played during the Venue phase. Ignore 'can only be played...' in the text of your non-Superstar-specific 'Moonsault' maneuvers played as a Counter, your maneuvers are considered Raw for Roundhouse Kick, and your Knee Lift is Multi. Your Strikes are also considered High Risks for your non-Foreign Object effects. This card is also considered to be titled Drop Kick, Spinning Heel Kick, Knee Lift, Roundhouse Kick, and Leg Sweep for your effects."/>
 </card>
 <card id="4b2c509d-61ce-415b-add6-bd6bdfdafc88" name="Muta's Legendary Moonsault">
         <property name="Format" value="VirtualClassic"/>
@@ -362,9 +326,7 @@ This card is also considered to be titled Drop Kick, Spinning Heel Kick, Knee Li
         <property name="Traits" value="Unique, WCW"/>
         <property name="Stun" value="2"/>
         <property name="Target" value=""/>
-        <property name="Card Text" value="Can only be played after a successful card.
-This card is also considered to be titled Moonsault for your effects.
-When successful and you have 5+ 'Moonsault' Ring cards, you win via Pinfall victory."/>
+        <property name="Card Text" value="Can only be played after a successful card. This card is also considered to be titled Moonsault for your effects. When successful and you have 5+ 'Moonsault' Ring cards, you win via Pinfall victory."/>
 </card>
 </cards>
 </set>

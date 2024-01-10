@@ -54,7 +54,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. This card and your NXT Arrival do not take up a Pre-match slot in your Ring, and your The NXT Generation cannot be reversed from hand. When you would move cards from under NXT Arrival, you may put 1 card from under that card on the bottom of your Arsenal."/>
 	</card>
-<card id="eb33a856-69d8-671b-4f30-d969acec5a83" name="NXT North American Championship Title" size="Wide">
+<card id="eb33a856-69d8-671b-4f30-d969acec5a83" name="NXT North American Championship Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
 		<property name="Fortitude" value=""/>
 		<property name="Damage" value=""/>
@@ -65,9 +65,9 @@
 		<property name="Traits" value="Universally Unique, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When you are an NXT Superstar and you have lower Fortitude, your first card played each turn is -1F. When you are Adam Cole, Ricochet, Johnny Gargano, or Velveteen Dream, before your first Draw Segment, you may overturn 3 cards and your opponent puts 1 random card from his hand on the bottom of his Arsenal."/>
-		<alternate name="NXT North American Championship Title" type="alt" size="Wide">
-	</alternate>
+		<property name="Card Text" value="When you are an NXT Superstar and you have lower Fortitude, your first card played each turn is -1F. When you are Adam Cole, Ricochet, Johnny Gargano, or Roderick Strong, before your first Draw Segment, you may overturn 3 and your opponent randomly Buries 1 Hand card. Superstar Value +0"/>
+		<alternate name="NXT North American Championship Title Belt" type="alt" size="Wide">
+		</alternate>
 	</card>
 <card id="7d37c585-6329-993b-071a-eb316afa08c7" name="NXT Tag Team Title Belts" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -82,7 +82,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can be packed when you can pack the Tag Team Title Belts. When you are an NXT Superstar, your Starting Hand Size is +1, and when you are a Tag Team, your opponent's Starting Hand Size is -1. When you are Neville, The Wyatt Family, The Ascension, The Vaudevillains, or American Alpha, at the end of the Pre-match phase, put up to 1 non-Unique card from your Ringside into your hand. Superstar Value +1"/>
 		<alternate name="NXT Tag Team Title Belts" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="0695c909-4dbc-5a3b-6218-01d9dce53dcf" name="NXT Women's Championship Title Belt" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -97,7 +97,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed by a Female Superstar. When you are an NXT Superstar, your Starting Hand Size is +1. When you are Paige, Charlotte, Sasha Banks, Bayley, or Asuka, this card is considered Superstar-specific and your opponent's Starting Hand Size is -1. Superstar Value +1"/>
 		<alternate name="NXT Women's Championship Title Belt" type="alt" size="Wide">
-	</alternate>
+		</alternate>
 	</card>
 <card id="c92fbcd7-277b-5867-8c44-4306e0514d4b" name="The NXT Arena, Full Sail University" size="Wide">
 		<property name="Format" value="VirtualClassic"/>
@@ -183,12 +183,18 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Finn Balor"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you Promo, you may put cards not chosen under this card instead. Once during each of your turns, you may put 2 cards under this card into your Ringside, draw 2 cards, and then put 1 card from hand on the bottom of your Arsenal. You can pack High-Flying Style."/>
+		<alternate name="Finn Balor" type="alt">
+		</alternate>
+		<alternate name="Finn Balor" type="alt2">
+		</alternate>
+		<alternate name="Finn Balor" type="alt3">
+		</alternate>
 	</card>
 <card id="50d3cf64-06fb-769c-1e8f-0263055f9d82" name="Finn's Leather Jacket">
 		<property name="Format" value="VirtualClassic"/>
@@ -331,7 +337,7 @@
 		<property name="Traits" value="Unique, Multi, NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When Finn's Leather Jacket is revealed, this card is -5F and cannot be reversed from hand. Shuffle up to 6 of your cards removed from the game and up to 4 cards from Ringside into your Arsenal, and put up to 2 of your cards removed from the game under your Superstar Card. When this card is in your Ring and you would remove random cards under a Backstage card from the game, choose the same number of cards instead."/>
+		<property name="Card Text" value="When Finn's Leather Jacket is revealed, -5F and cannot be reversed from Hand. Recover 6- RFG cards and 4- Ringside cards, and put 2- RFG cards under your Superstar card. In Ring: when you would randomly RFG cards under your Superstar card, choose that many instead."/>
 	</card>
 <card id="655841ab-54ac-05ea-9213-9b38e87c1981" name="Samoa Joe">
 		<property name="Format" value="VirtualClassic"/>
@@ -339,14 +345,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Samoa Joe"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your played maneuvers without a printed reversal restriction that are not played from hand are Chain. Your non-Faction Samoa Joe-specific Pre-match cards cannot be blanked and can be played during any Pre-match phase. You can pack No Sell Maneuver."/>
 		<alternate name="Samoa Joe" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="11542929-2619-8e2c-179e-17c240c38359" name="The Samoan Submission Machine">
 		<property name="Format" value="VirtualClassic"/>
@@ -497,7 +503,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Shinsuke Nakamura"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
@@ -653,14 +659,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Baron Corbin"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your RMS maneuver is unsuccessful, you may Promo: 2. When your opponent plays a reversal card with 'completely' in the text, he removes the top 2 cards of his Arsenal from the game. You can pack No Sell Maneuver, but you cannot pack First of All or Corners. Your WWE Homecoming is not Fan Favorite."/>
 		<alternate name="Baron Corbin" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="0b269739-576e-6cc2-a34c-ed9690f20544" name="Superhuman">
 		<property name="Format" value="VirtualClassic"/>
@@ -811,12 +817,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Neville"/>
 		<property name="Traits" value="NXT, Cruiserweight"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="At the end of the Pre-match Phase, you may put NXT Arrival from your Backlash or Ringside into your Ring. When you put cards under NXT Arrival, put up to 1 of your non-reversal cards removed from the game under NXT Arrival. Your Youthful Agility is F: 0. You can pack European Style, High-Flying Style and Standing Moonsault."/>
+		<alternate name="Neville" type="alt">
+		</alternate>
 	</card>
 <card id="4d267ffc-69ee-59dd-0fbe-352d11406c38" name="The Man That Gravity Forgot">
 		<property name="Format" value="VirtualClassic"/>
@@ -967,12 +975,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tyler Breeze"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your cards with 'kick' in the title are Multi, and when you have fewer cards in hand, can only be reversed by 2 reversal cards. Once during each of your turns, or when you successfully play a maneuver, you may put up to 1 card from your hand or Ringside face-down under The Selfie Stick. When you successfully play a non-maneuver card, you may turn 1 card under The Selfie Stick face-up."/>
+		<alternate name="Tyler Breeze" type="alt">
+		</alternate>
 	</card>
 <card id="e053e29b-23c4-4133-6378-b3cc5e908565" name="The Selfie Stick">
 		<property name="Format" value="VirtualClassic"/>
@@ -1123,7 +1133,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="2"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Bo Dallas"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
@@ -1279,7 +1289,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Mojo Rawley"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
@@ -1435,14 +1445,16 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Asuka"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your maneuver is unsuccessful, your opponent puts 1 random card from his hand on the bottom of his Arsenal and draws 1 card. You can pack Unique Multi maneuvers, but you cannot pack maneuvers that are Heat, Chain, or Volley, or that have 'dynamic', 'girly', 'precision,' 'shoot', or 'technical' in the title."/>
 		<alternate name="Asuka" type="alt">
-	</alternate>
+		</alternate>
+		<alternate name="Asuka" type="alt2">
+		</alternate>
 	</card>
 <card id="0261465b-40d2-a2f7-86e1-60009df073b5" name="Asuka's Aggression">
 		<property name="Format" value="VirtualClassic"/>
@@ -1593,16 +1605,16 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Alexa Bliss"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your printed D:7- maneuvers without 'reversed' in the text are -5F, cannot be reversed by cards with µReach' in the title, and when successfully played you may Promo: 2. You can pack up to 3 Hair Pull and 3 Choke Hold cards in your Backstage Area, as if they are not Heel, and you can pack Total Divas."/>
 		<alternate name="Alexa Bliss" type="alt">
-	</alternate>
+		</alternate>
 		<alternate name="Alexa Bliss" type="alt2">
-	</alternate>
+		</alternate>
 	</card>
 <card id="144c23e7-668c-7429-3d43-399ce1410300" name="Spiteful">
 		<property name="Format" value="VirtualClassic"/>
@@ -1753,16 +1765,18 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Emma"/>
 		<property name="Traits" value="NXT"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during any turn when your opponent moves any number of cards into his Arsenal, you may Promo: 2. When you randomly discard any number of cards, you may Promo: 3. You can pack Backed by Santino Marella and Total Divas. You cannot pack Corners."/>
 		<alternate name="Emma" type="alt">
-	</alternate>
+		</alternate>
 		<alternate name="Emma" type="alt2">
-	</alternate>	
+		</alternate>
+		<alternate name="Emma" type="alt3">
+		</alternate>
 	</card>
 <card id="6a881a30-57f9-7d43-3844-79679f63a652" name="Emma's Bubbly Personality">
 		<property name="Format" value="VirtualClassic"/>
@@ -1913,7 +1927,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="American Alpha"/>
 		<property name="Traits" value="NXT, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -2069,7 +2083,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Vaudevillains"/>
 		<property name="Traits" value="NXT, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -2225,12 +2239,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Ascension"/>
 		<property name="Traits" value="NXT, Tag Team"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When you overturn 2+ cards for a card effect, put up to 1 non-reversal maneuver overturned for that effect into your hand. Once during any turn, when you would overturn a number of cards for a card effect, you may discard 1 maneuver and then overturn half of that number instead (rounded up). Your Chain cards are not Chain. You cannot pack any Title Belts except the Tag Team Title Belts, Corners or Underrated Superstar."/>
+		<alternate name="The Ascension" type="alt">
+		</alternate>
 	</card>
 <card id="3b87e754-3af1-15b3-8904-6e1d73df3449" name="Welcome to the Wasteland" size="Wide">
 		<property name="Format" value="VirtualClassic"/>

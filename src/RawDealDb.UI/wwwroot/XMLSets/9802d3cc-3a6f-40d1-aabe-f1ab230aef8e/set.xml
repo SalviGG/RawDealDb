@@ -346,7 +346,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Chris Masters"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -364,7 +364,11 @@
 		<property name="Traits" value="Permanent, Universally Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Once a player has played a Feud, Stipulation, Manager, or Object, he cannot play any of those types of cards during the Pre-match phase."/>
+		<property name="Card Text" value="Once any player has played a non-Superstar-specific card that is a Feud, Stipulation, Manager or Object, that player cannot play any non-Superstar-specific cards of those types during the Pre-match phase."/>
+		<alternate name="Your Town" type="alt" size="Wide">
+		</alternate>
+		<alternate name="Your Town" type="alt2" size="Wide">
+		</alternate>
 	</card>
 <card id="c1496b46-0633-3b32-79ed-9d6608230b1f" name="You Talkin' to Me?">
 		<property name="Format" value="Classic"/>
@@ -411,7 +415,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="9"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="DX"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -699,7 +703,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played as an inactive player of your team and when one of your opponents has Cheap Shot From the Corner, Trip, Partner Interference, That's Gonna Cost You!, Double Team, Propel Partner or Jump the Bell in his Ring. Only your inactive opponent can reverse this maneuver; if he does, your active partner's turn ends and you overturn 1 card."/>
@@ -712,7 +716,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission / Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, when successfully played you may overturn 1 card and 'tag out'. As an action, you may discard this card and draw 1 card."/>
@@ -725,7 +729,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Heel, Tag logo, Throwback"/>
+		<property name="Traits" value="Heel, Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played as an inactive partner after your active partner successfully plays a 5D+ maneuver."/>
@@ -738,7 +742,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Heel, RMS, Tag logo, Throwback"/>
+		<property name="Traits" value="Heel, RMS, Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played against an inactive opponent. Reversals to this card are +4F."/>
@@ -764,7 +768,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when packing Tandem Atomic Drop. When successfully played, a single inactive partner must discard 1 card and after damage is resolved, he may 'tag in.'"/>
@@ -777,7 +781,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When successfully played, a single inactive partner must discard 1 card and after damage is resolved, he may 'tag in.'"/>
@@ -790,7 +794,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed when you cannot play any title belt except the Tag Team Title Belts, or if this is a Tag Team format match. As a maneuver, can only be played after a successfully played 5D+ maneuver or Throw Into the Corner Turnbuckle. As a reversal, reverse Superplex or From the Top Rope. When successfully played, opponent puts 2 cards from hand on top of his Arsenal. This card is -7F when you are the Dudley Boyz or Edge and Christian."/>
@@ -803,7 +807,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played 4D+ maneuver. When played, an inactive partner may discard 1 6D+ maneuver and this card is +#D, where # is the Damage of the discarded maneuver."/>
@@ -816,7 +820,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed when you cannot play any title belt except the Tag Team Title Belts, or if this is a Tag Team format match. Choose 1 card in your Ringside, put it on top of your Arsenal, search your Arsenal for any 1 Action, reveal it, put it into your hand, and shuffle."/>
@@ -829,7 +833,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Reverse any 8D+ Strike or 8D+ High Risk. This card is +#D, where # is equal to the reversed maneuver's Damage -1."/>
@@ -842,7 +846,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played from your hand by an inactive partner, reverse any maneuver."/>
@@ -855,7 +859,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Heel, Tag logo"/>
+		<property name="Traits" value="Heel, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When played from your hand by an inactive partner, reverse any Strike, Grapple, or High Risk."/>
@@ -868,7 +872,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by an inactive partner. Cannot be reversed when you have lower Fortitude. As an action, 'tag in.' As a reversal, reverse any non-Unique Set-up card."/>
@@ -881,7 +885,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo, Throwback"/>
+		<property name="Traits" value="Face, Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played when you have at least 10 lower Fortitude. Cannot be reversed. As an action, 'tag out.' As a reversal, reverse any maneuver."/>
@@ -894,7 +898,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You may 'tag out', draw up to 1 card and overturn 1 card."/>
@@ -907,7 +911,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo, Throwback"/>
+		<property name="Traits" value="Face, Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by an inactive partner when you have lower Fortitude. The active partner either puts 1 card from his Ringside into his hand, or he shuffles up to 3 cards from his Ringside into his Arsenal and overturns 1 card. ACE: During your turn, you may put this card into your Ringside and when your next card played this turn is an action, it cannot be reversed."/>
@@ -920,7 +924,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played by an inactive partner after a successfully played maneuver by your active partner. When your active partner's next card played this turn is a Strike or Grapple, it is a High Risk instead and +3D. Draw 1 card."/>
@@ -933,7 +937,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when packing Double Team. Can only be played after a successfully played maneuver. An inactive partner may now play 1 maneuver against your active opponent, and it is +5D."/>
@@ -946,7 +950,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed when you cannot play any title belt except the Tag Team Title Belts, or if this is a Tag Team format match. Choose one: your opponent's reversals to your next maneuver played this turn are +# F, where # is equal to your Fortitude Rating -1; OR you may discard this card and draw up to 3 cards."/>
@@ -959,7 +963,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="All opponents discard 1 card, and all opponents' reversals to your next maneuver this turn are +15F. When played by Edge and/or Christian this card can not be reversed."/>
@@ -972,7 +976,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Active"/>
+		<property name="Traits" value="Tag, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be packed when packing Give and Take. At the end of the Pre-match phase, one member of your team discards any number of cards and another member of the team draws 1 card for every 2 discarded."/>
@@ -985,7 +989,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo, Throwback"/>
+		<property name="Traits" value="Face, Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed when you cannot play any title belt except the Tag Team Title Belts, or if this is a Tag Team format match. ACE: During your turn, you may put this card into your Ringside, and then shuffle up to 5 cards from your Ringside into your Arsenal and put 1 Face card from your Ringside into your hand."/>
@@ -998,7 +1002,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Face, Tag logo, Throwback, Active"/>
+		<property name="Traits" value="Face, Tag, Throwback, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be packed when you cannot play any title belt except the Tag Team Title Belts, or if this is a Tag Team format match. Reverse any Strike or Grapple, and overturn cards until you overturn 2 cards with the Tag logo."/>
@@ -1011,7 +1015,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Active, Multi, RMS, Tag logo, Throwback"/>
+		<property name="Traits" value="Active, Multi, RMS, Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, can only be played when you have lower Fortitude; discard this card and 'tag out.' As a reversal, when your opponents have at least 6 more non-Pre-match cards in their Ring than you have in your Ring, completely reverse any non-unique card and 'tag out.'"/>
@@ -1024,7 +1028,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played when you have greater Fortitude. You may 'tag out.'"/>
@@ -1037,7 +1041,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Active, Throwback"/>
+		<property name="Traits" value="Tag, Active, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played after a successfully played maneuver or Throw Into the Corner Turnbuckle. Your active opponent cannot 'tag out' for the rest of this turn and during his next turn."/>
@@ -1050,7 +1054,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo, Throwback"/>
+		<property name="Traits" value="Tag, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played as an inactive partner. Search your Arsenal for any Tag card, reveal it, put it in your hand, and shuffle."/>

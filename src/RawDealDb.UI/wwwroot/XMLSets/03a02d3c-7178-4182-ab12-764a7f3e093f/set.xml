@@ -129,7 +129,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="To play this card you must be an 'inactive'player of your team and one of your 'inactive'opponent's must have a card titled Cheap Shot From the Corner, Trip, Partner Interference, That's Gonna Cost You!, Double Team, Propel Partner or Jump the Bell in his Ring area. Only your 'inactive'opponent may reverse this maneuver as usual, if he does he ends your 'active'partner's turn; otherwise he will take the damage."/>
@@ -285,10 +285,10 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When successfully played, a single 'inactive'tag team partner must discard 1 card. If that partner chooses, he may declare to 'tag'in as the 'active'partner at the resolution of this card's damage."/>
+		<property name="Card Text" value="When successfully played, a single 'inactive' tag team partner must discard 1 card. If that partner chooses, he may declare to 'tag' in as the 'active' partner at the resolution of this card's damage."/>
 	</card>
 <card id="0f7769f6-9abf-6c74-54d1-f353b6ba988a" name="Brainbuster">
 		<property name="Format" value="Classic"/>
@@ -363,7 +363,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Submission / Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, when successfully played as the 'active'legal player of your team you may 'tag'in a partner. Your partner is now the 'active'legal player and may begin his turn. As an action, you may discard this card to draw 1 card."/>
@@ -649,10 +649,10 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="To play this card you must be an 'inactive'player of your team. May only be played after a successfully played maneuver by your 'active'partner. If your partner's next card played this turn is a Strike or Grapple maneuver it is to be only considered as a High Risk maneuver and is +3D. Draw 1 card."/>
+		<property name="Card Text" value="To play this card you must be an 'inactive' player of your team. May only be played after a successfully played maneuver by your 'active' partner. If your partner's next card played this turn is a Strike or Grapple maneuver it is to be only considered as a High Risk maneuver and is +3D. Draw 1 card."/>
 	</card>
 <card id="b604de27-05ba-7854-45d1-46bfc386569e" name="Ladder In the Ring">
 		<property name="Format" value="Classic"/>
@@ -1102,7 +1102,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Dudley Boyz"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -1143,8 +1143,8 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="Buh Buh Ray Dudley"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="Buh-Buh Ray Dudley"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1157,7 +1157,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher / Reversal: High Risk"/>
-		<property name="SS Logos" value="Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
@@ -1170,7 +1170,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
-		<property name="SS Logos" value="Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1183,7 +1183,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
-		<property name="SS Logos" value="Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="Buh-Buh Ray Dudley"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1196,7 +1196,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple / Reversal: Strike"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
@@ -1209,7 +1209,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike / Reversal: Strike"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
@@ -1221,7 +1221,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="D-Von Dudley"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1299,7 +1299,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Edge and Christian"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1338,7 +1338,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="#"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Edge"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1416,7 +1416,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Christian"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1494,7 +1494,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Hardy Boyz"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1533,7 +1533,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Matt Hardy"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1611,7 +1611,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Jeff Hardy"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1689,7 +1689,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Right to Censor"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1824,9 +1824,9 @@
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When this card is in your Ring area, your opponent's maneuvers of 4F or less played from his hand are blanked text and 1D until the damage is resolved."/>
-		<alternate name="The Brahma Bull" type="alt">
-	</alternate>	
+		<property name="Card Text" value="Your opponent's played F:4- Hand maneuvers are blank and D: 1 until the end of the turn. When you are not The Rock and you have greater Fortitude, this card is blank."/>
+		<alternate name="The Brahma Bull" type="alt" size="Wide">
+		</alternate>	
 	</card>
 <card id="bc2dba2f-91bb-956d-0615-ba7e91273a05" name="Sledge Hammer Shot" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1952,7 +1952,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>

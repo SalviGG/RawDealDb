@@ -130,9 +130,9 @@
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When this card is in your hand, if your opponent successfully plays an Action card and it is not his first Action card played this turn, you may immediately put this card into your Ring area. When this card is in your Ring area, once during each of your turns your opponent overturns 1 card."/>
+		<property name="Card Text" value="When this card is in your hand, and your opponent successfully plays an Action that is not their first Action played this turn, you may put this card into your Ring. When this card is in your Ring, once during each of your turns when you have no other Ring Judo Choke cards, they overturn 1 card."/>
 		<alternate name="Judo Choke" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="85b2ff89-8e76-9aea-5258-5c583e6408d9" name="Strangle Hold">
 		<property name="Format" value="Classic"/>
@@ -485,7 +485,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="This card is +1D for every Superstar-specific card in your Ring area. When successfully played, draw up to 2 cards or shuffle up to 2 cards from your Ringside pile into your Arsenal."/>
 		<alternate name="Patented Rock Footstomp" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="534aa7fa-a695-7770-834a-7f87caf00c94" name="Your Brush with Greatness is Over">
 		<property name="Format" value="Classic"/>
@@ -597,7 +597,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Highlight of the Night"/>
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
@@ -675,7 +675,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kurt Angle"/>
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
@@ -701,7 +701,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Chris Benoit"/>
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
@@ -734,7 +734,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Starting Hand Size is +1. When any player successfully plays the card titled Maintain Hold after a maneuver of 8D or greater, he wins via Pinfall victory. Once during each of your turns you may discard 1 card and then put the card titled Maintain Hold from your Ringside pile into your hand."/>
 		<alternate name="First to Tap Out Match" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="4c31c815-5c8b-5ce1-3e9f-54ba75957a35" name="A Victim of the Crippler" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -842,14 +842,14 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="All players search their Arsenal for any number of cards titled Table! Table! Table, Ladder in the Ring, and Chair Shot, reveal them to their opponent, put them into their Backlash deck, and shuffle their Arsenal. These cards are now played as Mid-match cards, but do not count as such outside of your Backlash deck. Once during each of your turns, you may overturn 1 card and then put 1 card titled Table! Table! Table, Ladder in the Ring, or Chair Shot from your Ringside pile into your hand."/>
 	</card>
-<card id="febee95d-7148-0c99-04c9-6d80b44b43d8" name="Buh Buh Ray Dudley">
+<card id="febee95d-7148-0c99-04c9-6d80b44b43d8" name="Buh-Buh Ray Dudley">
 		<property name="Format" value="Classic"/>
 		<property name="Fortitude" value=""/>
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="4"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="Buh Buh Ray Dudley"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -862,7 +862,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher / Reversal: High Risk"/>
-		<property name="SS Logos" value="Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Unique, Throwback"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
@@ -875,7 +875,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
-		<property name="SS Logos" value="Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -940,20 +940,20 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
-		<property name="SS Logos" value="D-Von Dudley, Dudley Boyz, Buh Buh Ray Dudley"/>
+		<property name="SS Logos" value="D-Von Dudley, Dudley Boyz, Buh-Buh Ray Dudley"/>
 		<property name="Traits" value="Unique, Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Your Starting Hand Size is +2. When this card is in your Ring area, if your Fortitude Rating is 5 or greater, you may put this card into your Ringside pile and then search your Arsenal for 1 card, put it into your hand, and shuffle your Arsenal. When this card is in your Ring area, if your Fortitude Rating is 10 or greater, you may put this card into your Ringside pile to reverse any maneuver and end your opponent's turn."/>
 	</card>
-<card id="89b1a579-63be-6941-9098-04c51f286ad5" name="The Leader of the Edge Army">
+<card id="89b1a579-63be-6941-9098-04c51f286ad5" name="Leader of the Edge Army">
 		<property name="Format" value="Classic"/>
 		<property name="Fortitude" value=""/>
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="The Leader of the Edge Army"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="Leader of the Edge Army"/>
 		<property name="Traits" value="Throwback"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1765,7 +1765,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
-		<property name="SS Logos" value="Kane, Road Dogg, X-Pac, B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Kane, Road Dogg, X-Pac, Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>

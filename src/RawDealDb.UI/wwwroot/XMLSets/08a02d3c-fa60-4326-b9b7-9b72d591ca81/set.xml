@@ -10,7 +10,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="8"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Dangerous Alliance"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -127,7 +127,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="9"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The People's Team"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>

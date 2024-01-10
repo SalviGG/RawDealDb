@@ -1169,7 +1169,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Action + Action / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Multi, RMS, Active, Tag logo"/>
+		<property name="Traits" value="Multi, RMS, Active, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As an action, this card is -2D and can only be played when your Fortitude Rating is less than your opponent's Fortitude Rating. Discard this card. Your 'inactive' opponent is now considered active. As a reversal, completely reverse any non-unique card when your opponents have at least 5 more non-Pre-match cards in their Ring area than you have in your Ring area and end your opponent's turn. Your partner is now 'active' and may begin his turn."/>
@@ -1297,16 +1297,16 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="10"/>
 		<property name="SSV" value="10"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Evolution"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You can pack the Tag Team Title Belts. At the start of your turn, before your Draw Segment, look at the top 3 cards of your Arsenal, put them back in any order, and overturn 2 cards. Once during each of your turns you may discard 3 cards, overturn 3 cards, and put 1 card from your opponent's Ring area into his Ringside pile. If that card is a maneuver of F:0, he may shuffle it into his Arsenal."/>
 		<alternate name="Evolution" type="alt">
-	</alternate>
+		</alternate>
 		<alternate name="Evolution" type="alt2">
-	</alternate>
+		</alternate>
 	</card>
 <card id="c8e5d0c6-5dcf-3e3b-84e2-79a821619d51" name="Evolution Is a Mystery" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1334,7 +1334,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Overturn 3 cards, remove up to 3 cards in your opponent's Ringside pile from the game, put up to 3 Backlash deck cards from your Ringside pile into your Backlash deck, and you may draw up to 3 cards."/>
 		<alternate name="Paid, Laid, and Made" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="83969d96-a3fd-1112-5899-209e24980619" name="Yesterday Is So Long Ago">
 		<property name="Format" value="Classic"/>
@@ -1381,7 +1381,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Highlight of the Night"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1459,7 +1459,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="1+"/>
 		<property name="SSV" value="3+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Mystery Wrestler"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1490,7 +1490,7 @@
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. When Dude Love is your Enforcer, unless you are The Mystery Wrestler, during your opponent's turn, he may discard 2 cards and choose a different Enforcer for you. ≥ Starting Hand Size: +2 Superstar Value: +4 Superstar Ability: + Draw 1 additional card during your Draw Segment. Your opponent's cards are -1D. ≥ Starting Hand Size: +4 Superstar Value: +2 Superstar Ability: + Your opponent may draw 1 additional card during his Draw Segment. Your maneuvers are -1D. Once during each of your turns, you may put 1 non-unique card from your Ringside pile into your hand."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. When Dude Love is your Enforcer, unless you are The Mystery Wrestler, during your opponent's turn, he may discard 2 cards and choose a different Enforcer for you. ≥ Hand Size: +2 Superstar Value: +4 Superstar Ability: +Draw 1 additional card during your Draw Segment. Your opponent's cards are -1D. ≥ Hand Size: +4 Superstar Value: +2 Superstar Ability: +Your opponent may draw 1 additional card during his Draw Segment. Your maneuvers are -1D. Once during each of your turns, you may put 1 non-unique card from your Ringside pile into your hand."/>
 	</card>
 <card id="1e5015f3-26a5-0942-1505-3c577ff56310" name="Testicular Fortitude">
 		<property name="Format" value="Classic"/>
@@ -1518,14 +1518,14 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be reversed when played by Cactus Jack or The Mystery Wrestler. Search your Arsenal for 1 Foreign Object card, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. When this card is in your Ring area, your Foreign Object cards are -4F. When this card is in your Ringside pile, during your turn you may discard 3 cards and then put this card into your hand."/>
 	</card>
-<card id="45b1c9ed-58cf-59c1-7f67-a7cdc67a240a" name="The Leader of the Edge Army">
+<card id="45b1c9ed-58cf-59c1-7f67-a7cdc67a240a" name="Leader of the Edge Army">
 		<property name="Format" value="Classic"/>
 		<property name="Fortitude" value=""/>
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="The Leader of the Edge Army"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="Leader of the Edge Army"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1602,7 +1602,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0+"/>
 		<property name="SSV" value="0+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Paul Heyman"/>
 		<property name="Traits" value="GM"/>
 		<property name="Stun" value=""/>
@@ -1646,9 +1646,9 @@
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. ≥ Starting Hand Size: +4 Superstar Value: +0 Superstar Ability: + Once during each of your turns you may discard 1 card and then your opponent names a card and then you name a card. The named cards cannot be played for the rest of the turn. ≥ Starting Hand Size: +5 Superstar Value: +0 Superstar Ability: + Once during each of your turns you may discard 2 cards and then name a card, look at your opponent's hand, choose 1 card you named, and he discards the chosen card. ≥ Starting Hand Size: +6 Superstar Value: +0 Superstar Ability: + Once during each of your turns you may discard 2 cards and then your opponent names a card. Reveal the top card of his Arsenal. If it is the card he named, he puts it into his hand. If it is not, put it into his Ringside pile and he overturns 2 cards."/>
+		<property name="Card Text" value="Can only be packed by Superstars that can pack Enforcers. ≥ Hand Size: +4 Superstar Value: +0 Superstar Ability: +Once during each of your turns, you may discard 1 card, your opponent names a card, and you name a card. The named cards cannot be played for the rest of the turn. ≥ Hand Size: +5 Superstar Value: +0 Superstar Ability: +Once during each of your turns, you may discard 2 cards, name a card, and look at your opponent's hand; when they have a Hand card with that title, they discard it and draw 1. ≥ Hand Size: +6 Superstar Value: +0 Superstar Ability: +Once during each of your turns, you may discard 2 cards, your opponent names a card, and reveals their top Arsenal card. When it is the named card, they put it into their hand. When it is not, they overturn 3 cards."/>
 		<alternate name="Coach, Cole, or Finkel?" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="b5cfb924-59cf-5c13-570a-b0f04ff419b6" name="Big Boys Club">
 		<property name="Format" value="Classic"/>
@@ -1682,7 +1682,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Your Freaking Hero"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1760,7 +1760,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="3"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="FBI"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1838,7 +1838,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="A-Train"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -2008,7 +2008,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Permanent, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -2021,7 +2021,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley, D-Von Dudley, Spike Dudley"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -2194,7 +2194,7 @@
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. ≥ Starting Hand Size: +6 Superstar Value: +6 Superstar Ability: +Your maneuvers cannot be reversed from your opponent's Backlash deck. ≥ Starting Hand Size: +5 Superstar Value: +3 Superstar Ability: +Your first non-Pre-match non-Reversal card played of the game can only be reversed from your opponent's Backlash deck and Arsenal. ≥ Starting Hand Size: +7 Superstar Value: +5 Superstar Ability: +At the start of your turn, before your Draw Segment, look at the top 3 cards of your Arsenal and put them back in any order."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. Can be revealed by any GM Superstar. ≥ Hand Size: +6 Superstar Value: +6 Superstar Ability: +Your maneuvers cannot be reversed from your opponent's Backlash deck. ≥ Hand Size: +5 Superstar Value: +3 Superstar Ability: +Your first non-Pre-match non-Reversal card played of the game can only be reversed from your opponent's Backlash deck and Arsenal. ≥ Hand Size: +7 Superstar Value: +5 Superstar Ability: +At the start of your turn, before your Draw Segment, look at the top 3 cards of your Arsenal and put them back in any order."/>
 	</card>
 <card id="864b7343-5355-7649-5b8c-2d3ce2c64e22" name="Belly-to-Belly Steinerplex">
 		<property name="Format" value="Classic"/>

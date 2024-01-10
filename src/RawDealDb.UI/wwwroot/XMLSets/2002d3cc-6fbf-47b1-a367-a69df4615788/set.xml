@@ -1027,9 +1027,9 @@
 		<property name="Traits" value="Run-in, Set-up, Smackdown"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your opponent discards cards from his Backlash deck equal to the number of cards titled Who's Cooler than Michelle McCool? in your Ring area. When this card is in your Ring area, during your turn you may put this card into your Ringside pile and then draw 1 card and discard 1 card."/>
-		<alternate name="Who's Cooler than Michelle McCool?" type="alt">
-	</alternate>	
+		<property name="Card Text" value="Cannot be played when you have 3+ Ring cards with this title. Your opponent discards # Backlash cards (# = Ring cards with this title). ACE: During your turn, you may put this card from your Ring into your Ringside, and then draw 1 card and discard 1 card."/>
+		<alternate name="Who's Cooler than Michelle McCool?" type="alt" size="Wide">
+		</alternate>
 	</card>
 <card id="ecdd1b73-0e99-1890-20d5-bb3b11c78c58" name="Blindsided Precision" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1042,7 +1042,7 @@
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="At the end of the Pre-match phase, search your Arsenal for 1 card with the word 'blindside'in the title, put it into your Ringside pile, and shuffle your Arsenal. When this card is in your Ring area, during your turn you may discard 1 card with the word 'blindside'in the title, put this card into your Ringside pile, and then search your Arsenal for 1 card with the word 'precision'in the title, reveal it to your opponent, put it into your hand, and shuffle your Arsenal."/>
+		<property name="Card Text" value="At the end of the Pre-match phase, search your Arsenal for 1 card with the word 'blindside' in the title, put it into your Ringside pile, and shuffle your Arsenal. When this card is in your Ring area, during your turn you may discard 1 card with the word 'blindside' in the title, put this card into your Ringside pile, and then search your Arsenal for 1 card with the word 'precision' in the title, reveal it to your opponent, put it into your hand, and shuffle your Arsenal."/>
 	</card>
 <card id="d48eda03-43f0-a4c8-789b-2714f55f337f" name="Backstage Shenanigans" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1055,11 +1055,11 @@
 		<property name="Traits" value="Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="This card counts as either a Pre-match Event or a Mid-match Action in your Backlash deck for the purposes of deck construction. Your opponent skips his first turn of the game if he has 2 or more non-Enforcer non-Superstar cards revealed in his Backstage area. As an action, draw 2 cards."/>
-		<alternate name="Backstage Shenanigans" type="alt">
-	</alternate>
-		<alternate name="Backstage Shenanigans" type="alt2">
-	</alternate>	
+		<property name="Card Text" value="When this card is in your Ring and your opponent has 2+ revealed non-Superstar-specific non-'Shenanigans' Backstage cards, they skip their first turn. As an action, draw 2 cards."/>
+		<alternate name="Backstage Shenanigans" type="alt" size="Wide">
+		</alternate>
+		<alternate name="Backstage Shenanigans" type="alt2" size="Wide">
+		</alternate>	
 	</card>
 <card id="2992c71a-0835-a211-928c-8eda530c6cd5" name="Pyrotechnic Volley" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1301,14 +1301,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Batista"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns you may discard 1 card and then search your Arsenal for 1 card with the words 'spine buster' or 'spinebuster' in the title, reveal it to your opponent, put it into your hand, and shuffle your Arsenal. Your cards with the words 'spine buster' or 'spinebuster' in the title are -10F. Your opponent's Reversal cards deal no Damage."/>
 		<alternate name="Batista" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="e34af00b-3633-5528-5f6c-9ff36c59a7c5" name="The Destroyer" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1375,14 +1375,14 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, shuffle up to 3 cards from your Ringside pile into your Arsenal. As a reversal, reverse any Strike or High Risk maneuver and end your opponent's turn."/>
 	</card>
-<card id="1cbb3e3b-39b9-026a-2eb2-c5abbbcd091e" name="The Leader of the Peepulation">
+<card id="1cbb3e3b-39b9-026a-2eb2-c5abbbcd091e" name="Leader of the Peepulation">
 		<property name="Format" value="Classic"/>
 		<property name="Fortitude" value=""/>
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="The Leader of the Peepulation"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="Leader of the Peepulation"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1459,7 +1459,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Christy"/>
 		<property name="Traits" value="Diva"/>
 		<property name="Stun" value=""/>
@@ -1537,7 +1537,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="7"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Immortal One"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
@@ -1615,14 +1615,14 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rowdy Roddy Piper"/>
 		<property name="Traits" value="Legend"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your opponent's cards with the Restricted Modification Symbol do not have it. During his turn, his Action cards and Maneuver cards with the word 'reverse' in the text have blank text."/>
+		<property name="Card Text" value="During your opponent's turn, when they play a non-Superstar-specific card with 'reverse' in the text, they discard 1 card."/>
 		<alternate name="Rowdy Roddy Piper" type="alt">
-	</alternate>	
+		</alternate>	
 	</card>
 <card id="1c2b4f61-0297-8987-7aeb-95459eff9e16" name="Bagpipe Introduction" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1695,7 +1695,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="1+"/>
 		<property name="SSV" value="0+"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Theodore Long"/>
 		<property name="Traits" value="GM, Smackdown"/>
 		<property name="Stun" value=""/>
@@ -1739,7 +1739,7 @@
 		<property name="Traits" value="Smackdown"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Starting Hand Size: +7 Superstar Value: +5 Superstar Ability: + When you successfully play a Chain card, you may draw 1 card. ≥ Starting Hand Size: +9 Superstar Value: +4 Superstar Ability: + When you successfully play a maneuver from your hand, you may discard 1 card and then your opponent randomly discards 3 cards from his Backlash deck."/>
+		<property name="Card Text" value="Can only be revealed if your Superstar card says you can reveal an Enforcer card. ≥ Hand Size: +7 Superstar Value: +5 Superstar Ability: +When you successfully play a Chain card, you may draw 1 card. ≥ Hand Size: +9 Superstar Value: +4 Superstar Ability: +When you successfully play a maneuver from your hand, you may discard 1 card and then your opponent randomly discards 3 cards from his Backlash deck."/>
 	</card>
 <card id="365b67c4-0a7e-4e59-5fd2-7798d6646358" name="Thuggin' and Buggin'">
 		<property name="Format" value="Classic"/>
@@ -1773,7 +1773,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Heidenreich"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1851,7 +1851,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Gene Snitsky"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1929,7 +1929,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="10"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="MNM"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -2007,7 +2007,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="3"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The HurriFriends"/>
 		<property name="Traits" value="Tag Team"/>
 		<property name="Stun" value=""/>
@@ -2144,7 +2144,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You may pack up to 6 copies of this card. When this card is in your Ringside pile, during your turn you may remove 6 cards in your Ringside pile from the game and then put this card into your hand."/>
 		<alternate name="Another Big Freak'n Hellfire Boot" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="54477055-7f56-7b71-9b21-a474394e4747" name="World Tour '05">
 		<property name="Format" value="Classic"/>
@@ -2497,7 +2497,7 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Once during each of your turns you may draw 1 card or put 1 card from your Ringside pile on the bottom of your Arsenal. When your opponent is a Male Superstar, once during each of his turns he may draw 1 card. When your opponent is a Female Superstar, once during each of your turns he overturns 1 card."/>
 		<alternate name="Gentlemen's Establishment" type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="5667289f-9441-54ee-5614-72c23b0f586e" name="Hardcore Originator of ECW" size="Wide">
 		<property name="Format" value="Classic"/>

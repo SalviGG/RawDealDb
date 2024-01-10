@@ -8,7 +8,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="6"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="nWo Wolfpack"/>
 		<property name="Traits" value="nWo, Stable"/>
 		<property name="Stun" value=""/>
@@ -89,7 +89,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="The Rowdy One"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -167,7 +167,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="5"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Sting"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -185,7 +185,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Traits" value="WCW, Permanent, Throwback, Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Your Starting Hand Size is +3, and your opponent's Starting Hand Size is -2. His It's Showtime is blank. You may not play Unique maneuver cards until he has a maneuver card in his Ring. When he does, your Sting-specific maneuvers are -10F."/>
+		<property name="Card Text" value="Your Starting Hand Size is +3, and your opponent's Starting Hand Size is -2. His It's Showtime is blank. When he has a maneuver card in his Ring, your Sting-specific maneuvers are -10F; when he does not, your Ability is blank."/>
 	</card>
 <card id="9eccf2f2-9116-7ca6-4483-6d65e7c40dab" name="Sting's Black Baseball Bat">
 		<property name="Format" value="VirtualClassic"/>
@@ -245,7 +245,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Lex Luger"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -273,7 +273,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Lex Luger"/>
-		<property name="Traits" value="WCW, Throwback, Universally Unique, ACE"/>
+		<property name="Traits" value="WCW, Throwback, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Cannot be blanked. When you successfully play a maneuver with 'dynamic' in the title, you may search for 1 card with 'dynamic' in the title, reveal it, put it in your hand, and shuffle. ACE: When your opponent successfully plays a maneuver and damage is applied, you may frd into your Ringside and his turn ends."/>
@@ -323,7 +323,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="DDP"/>
 		<property name="Traits" value="WCW"/>
 		<property name="Stun" value=""/>
@@ -401,7 +401,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Saturn"/>
 		<property name="Traits" value="ECW, WCW"/>
 		<property name="Stun" value=""/>
@@ -479,7 +479,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Steiner Brothers"/>
 		<property name="Traits" value="WCW, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -557,7 +557,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Harlem Heat"/>
 		<property name="Traits" value="WCW, Tag Team"/>
 		<property name="Stun" value=""/>
@@ -572,7 +572,7 @@ Arsenal/Ringside Search Konnan's Rolling Clothesline; when that card is your nex
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Manager"/>
 		<property name="SS Logos" value="Harlem Heat"/>
-		<property name="Traits" value="WCW, Throwback, Universally Unique, ACE"/>
+		<property name="Traits" value="WCW, Throwback, Universally Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="When your opponent successfully plays a maneuver card, draw up to 1 card. ACE: During your turn, you may remove this card from the game and then shuffle 5 cards from your Ringside into your Arsenal and draw cards equal to the number of maneuvers in your Ring."/>

@@ -51,7 +51,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="High Risk / Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You may play this card if your Superstar card indicates you may not play any title belt except the Tag Team Title Belts. As a maneuver, can only be played after a 5D or greater maneuver or the card titled Throw Into the Corner Turnbuckle. As a reversal, can reverse the cards titled Superplex or From the Top Rope. When successfully played, opponent must choose 2 cards from his hand and place them on top of his Arsenal. This card is -7F if played by the Dudley Boyz or Edge and Christian."/>
@@ -220,7 +220,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value="1"/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="You may play this card if your Superstar card indicates you may not play any title belt except the Tag Team Title Belts. When successfully played, choose any 1 card in your Ringside pile and place it in your Arsenal. You may search your Arsenal for any 1 Action card, show it to opponent, place it into your hand and then shuffle your Arsenal."/>
@@ -428,7 +428,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only be played if you cannot play any Title Belt except the Tag Team Title Belts or if this is a Tag Team format match. Reversal cards to your next maneuver played this turn are +#F, where # is equal to your Fortitude Rating, or discard this card and draw up to 3 cards."/>
@@ -808,9 +808,9 @@
 		<property name="Traits" value="Permanent, Active"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Overturn 3 cards. This card is not affected by the card titled Hell in a Cell Match. Once during each player's turn, that player may discard 1 card and then put 1 Foreign Object from his Ringside pile into his hand. When the card titled Dem Damn Dudleyz! is in your Ring area, once during each of your turns, you may also discard 1 card and then put 1 Foreign Object from your Ring area into your hand."/>
-		<alternate name="Chicago Street Fight" type="alt">
-	</alternate>	
+		<property name="Card Text" value="Overturn 3 cards. This card is not affected by Hell in a Cell Match. ACE: Once during any player's turn, that player may discard 1 card and then Ringside Search 1 Foreign Object. ACE: Once during each of your turns when Dem Damn Dudleyz! is in your Ring, you may discard 1 card and then Ring Search 1 non-Superstar-specific Foreign Object."/>
+		<alternate name="Chicago Street Fight" type="alt" size="Wide">
+		</alternate>	
 	</card>
 <card id="318bd947-6a15-48be-7c4a-7b5af1d59822" name="Four Corners Match" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -898,14 +898,14 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Mid-match Reversal: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value=""/>
+		<property name="Traits" value="Permanent, RMS"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="Can only be played when your opponent is modifying your Reversal cards. When this card is in your Ring area, you may put this card into your Ringside pile and your Reversal cards are unaffected by Fortitude modification for the rest of the turn."/>
-		<alternate name="Fortitude Surge" type="alt">
-	</alternate>
-		<alternate name="Fortitude Surge" type="alt2">
-	</alternate>	
+		<property name="Card Text" value="Can only be played in response to a card or ACE modifying your reversal cards. ACE: You may either put this card from your Ring into your Ringside, or RFG from your Ringside, and then your reversal cards are unaffected by Fortitude modification for the rest of the turn."/>
+		<alternate name="Fortitude Surge" type="alt" size="Wide">
+		</alternate>
+		<alternate name="Fortitude Surge" type="alt2" size="Wide">
+		</alternate>	
 	</card>
 <card id="157ea398-7324-76e4-2d9c-4e2657e51408" name="Fan Appreciation Day!" size="Wide">
 		<property name="Format" value="Classic"/>
@@ -1098,7 +1098,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="9"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Big Show"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1176,7 +1176,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Lita"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1254,7 +1254,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rob Van Dam"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1332,7 +1332,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Booker T"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1412,7 +1412,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="12"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="APA"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1490,7 +1490,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0"/>
 		<property name="SSV" value="0"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Spike Dudley"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1568,7 +1568,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="William Regal"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1646,7 +1646,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Raven"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1896,7 +1896,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher / Action / Reversal: Special"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
@@ -1909,7 +1909,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Pre-match Event"/>
-		<property name="SS Logos" value="Dudley Boyz, Buh Buh Ray Dudley, D-Von Dudley"/>
+		<property name="SS Logos" value="Dudley Boyz, Buh-Buh Ray Dudley, D-Von Dudley"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>

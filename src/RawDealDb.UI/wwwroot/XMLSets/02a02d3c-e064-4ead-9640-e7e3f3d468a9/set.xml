@@ -233,7 +233,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Heel, RMS, Tag logo"/>
+		<property name="Traits" value="Heel, RMS, Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="May only be played against an 'inactive'opponent. That opponent may attempt to reverse the maneuver as usual but at +4F."/>
@@ -272,10 +272,10 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Strike"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
-		<property name="Card Text" value="When successfully played, a single 'inactive'tag team partner must discard 1 card. If that partner chooses he may declare to 'tag'in as the 'active'partner at the resolution of this card's damage."/>
+		<property name="Card Text" value="When successfully played, a single 'inactive' tag team partner must discard 1 card. If that partner chooses he may declare to 'tag' in as the 'active' partner at the resolution of this card's damage."/>
 	</card>
 <card id="74bf8b2c-3549-a1d8-71fa-0877d5f80cd6" name="Jaw Jammer">
 		<property name="Format" value="Classic"/>
@@ -701,7 +701,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Strike/High Risk: Special"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="Can only reverse a Strike or High Risk maneuver that does 8D or greater. End your opponent's turn. # = total D of maneuver being reversed. Damage is applied to the opponent who's maneuver is being reversed. Read as 0 when in your Ring area."/>
@@ -1130,7 +1130,7 @@
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
 		<property name="SS Logos" value=""/>
-		<property name="Traits" value="Tag logo"/>
+		<property name="Traits" value="Tag"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="All opponents must discard 1 card, and all opponents' reversals are +15F to your next maneuver this turn. If played by Edge and/or Christian this card can not be reversed."/>
@@ -1206,7 +1206,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="4"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Rikishi"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1284,7 +1284,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Kurt Angle"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1364,7 +1364,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="3"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Chyna"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1444,7 +1444,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Tazz"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1522,7 +1522,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="6"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Chris Benoit"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1600,7 +1600,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="7"/>
 		<property name="SSV" value="1"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Eddie Guerrero"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1665,7 +1665,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="8"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="Road Dogg"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1730,7 +1730,7 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="0"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
+		<property name="CardType" value="Superstar Card"/>
 		<property name="SS Logos" value="X-Pac"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
@@ -1783,7 +1783,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Trademark Finisher / Reversal: Special"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="3"/>
 		<property name="Target" value=""/>
@@ -1795,8 +1795,8 @@
 		<property name="Damage" value=""/>
 		<property name="Hand Size" value="5"/>
 		<property name="SSV" value="2"/>
-		<property name="CardType" value="Superstar"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="CardType" value="Superstar Card"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value=""/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1809,7 +1809,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1822,7 +1822,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Grapple"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value="2"/>
 		<property name="Target" value=""/>
@@ -1835,7 +1835,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
-		<property name="SS Logos" value="B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1848,13 +1848,13 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Action"/>
-		<property name="SS Logos" value="Triple H, Road Dogg, X-Pac, B.A.Billy Gunn, Shawn Michaels"/>
+		<property name="SS Logos" value="Triple H, Road Dogg, X-Pac, Billy Gunn, Shawn Michaels"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
 		<property name="Card Text" value="All players discard their hands or all players put all cards in their Ring area into their Ringside pile. Draw up to 2 cards."/>
 		<alternate name="I've Got Two Words For Ya ..." type="alt">
-	</alternate>
+		</alternate>
 	</card>
 <card id="7bffcd4a-036d-539f-3411-5d5b10a01201" name="Tori Enters the Fray!">
 		<property name="Format" value="Classic"/>
@@ -1863,7 +1863,7 @@
 		<property name="Hand Size" value=""/>
 		<property name="SSV" value=""/>
 		<property name="CardType" value="Reversal: Special"/>
-		<property name="SS Logos" value="Kane, Road Dogg, X-Pac, B.A.Billy Gunn"/>
+		<property name="SS Logos" value="Kane, Road Dogg, X-Pac, Billy Gunn"/>
 		<property name="Traits" value="Unique"/>
 		<property name="Stun" value=""/>
 		<property name="Target" value=""/>
@@ -1962,50 +1962,5 @@
 		<property name="Target" value=""/>
 		<property name="Card Text" value="As a maneuver, can only be played after the card titled Throw Opponent Out of the Ring. As a reversal, reverse the card titled Roll Out of the Ring and end your opponent's turn."/>
 	</card>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
    </cards>
 </set>

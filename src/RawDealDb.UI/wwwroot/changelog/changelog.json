@@ -1,5 +1,18 @@
 [
   {
+    "Version": "v0.2.5.2-beta",
+    "Date": "2023-01-10",
+    "Added": [
+      "Added new Virtual release \"Then, Now, Forever 5\""
+    ],
+    "Changed": [
+
+    ],
+    "Fixed": [
+
+    ]
+  },
+  {
     "Version": "v0.2.5.1-beta",
     "Date": "2023-07-27",
     "Added": [
